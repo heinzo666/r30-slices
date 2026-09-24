@@ -1,0 +1,999 @@
+https://raw.githubusercontent.com/sbarbonjr/440MI/a84441aa37a472fdd9332ee6bb7c00d0871169da/notebooks/Class6_Model_Training_.ipynb
+https://raw.githubusercontent.com/sbarbonjr/440MI/ae728e61910892254c2f891cc69e9f08b04c5751/notebooks/Class7_Model_Tuning_Neptune.ipynb
+https://raw.githubusercontent.com/sbarbonjr/440MI/be3ab61efc8d6be74c2f7f7f36a52f183762aad3/python_notebooks/.ipynb_checkpoints/08_exploratory_data_analysis_and_pca-checkpoint.ipynb
+https://raw.githubusercontent.com/sbarbonjr/440MI/c5b391248ef7918d9f0d142c5bec73926d0ba6bc/python_notebooks/09_machine_learning_with_scikit_learn.ipynb
+https://raw.githubusercontent.com/sbarbonjr/440MI/c62c2a3b21492eff544b9430bbf49a04b5582384/python_notebooks/02_python_control_flow_and_data_structures.ipynb
+https://raw.githubusercontent.com/sbarbonjr/440MI/cb5a390d834012c2e5a51ef9cb9ed073c83365de/python_notebooks/04_functions_and_good_practices.ipynb
+https://raw.githubusercontent.com/sbarbonjr/440MI/ea67997fea62709d59284497ce5663e5ee553af6/notebooks/Class8_Model_Incremental_learning.ipynb
+https://raw.githubusercontent.com/sbarbonjr/440MI/ec9c868d185aca5f2aeafd6d3b16343156317c08/notebooks/Class2_EDA.ipynb
+https://raw.githubusercontent.com/sbarbonjr/440MI/f53bef237210bbf03b3c7ca409bb060182b816d1/python_notebooks/03_files_and_plotting.ipynb
+https://raw.githubusercontent.com/sbarbonjr/440MI/f56d2d29284d68bfb4ed9fb4751bf67a6bfa4846/python_notebooks/.ipynb_checkpoints/03_streamlit_hands_on_demo-checkpoint.ipynb
+https://raw.githubusercontent.com/sdypy/sdypy-EMA/ccc262d29281bc3f39582997f34a2270a160693a/EMA Showcase.ipynb
+https://raw.githubusercontent.com/sebgur/SDev.Python/11ed4d6b043bde86d08eb27b3b801b8fa8cfc902/notebooks/llms/chat_gpt2.ipynb
+https://raw.githubusercontent.com/sebgur/SDev.Python/2fe7eb85449da1abe830ce6157d9a1eeb027d4a5/notebooks/llms/hugging_face_json.ipynb
+https://raw.githubusercontent.com/sebgur/SDev.Python/32c5a6d54e8eedc196a6a30d5b1a1c9555f2c8fb/notebooks/stovol/StoVol Training.ipynb
+https://raw.githubusercontent.com/sebgur/SDev.Python/3c639e9b5c177e47b23582e64f1b6214962b17f4/notebooks/algos/get_yahoo.ipynb
+https://raw.githubusercontent.com/sebgur/SDev.Python/433b1f1bb33a700b6f552246bb4bdb6d4cd24509/notebooks/stovol/Deep Learning SABR Calibration.ipynb
+https://raw.githubusercontent.com/sebgur/SDev.Python/4915cd9f660d63e7975145c01317f3301eed638d/notebooks/stovol/StoVol Training.keras.ipynb
+https://raw.githubusercontent.com/sebgur/SDev.Python/4f70c6ce024dc87b504bb585a5ff9c0a73df176d/notebooks/volatility/LocalVol-Section.ipynb
+https://raw.githubusercontent.com/sebgur/SDev.Python/60b7d6672b678a53aa5f7ffee08955443646204c/notebooks/llms/ollama_json.ipynb
+https://raw.githubusercontent.com/sebgur/SDev.Python/615705103fc82e4649edc26ff5dfd3036d188fc2/notebooks/stovol/StoVol Dataset Generation.ipynb
+https://raw.githubusercontent.com/sebgur/SDev.Python/7b04722a8cbb2f101b658df209b01c11b01c91e9/notebooks/algos/ndel_cointegration.ipynb
+https://raw.githubusercontent.com/sebgur/SDev.Python/8fdde6263912995b37b5c3acd101cafb7bf4f67e/notebooks/stovol/Deep Learning StoVol-Colab.ipynb
+https://raw.githubusercontent.com/sebgur/SDev.Python/a609f1a5fc7ae54a319466bafa17aaaa08d9bc4a/notebooks/volatility/LocalVol-Dupire.ipynb
+https://raw.githubusercontent.com/sebgur/SDev.Python/ba7844d9bf88c15dbfc06cd88a272b3a37fd1b7a/notebooks/aad/AAD MC Greeks.ipynb
+https://raw.githubusercontent.com/sebgur/SDev.Python/bb42cbaef5fd2f34ad774d7f23a1f66704b2dfa8/notebooks/pinns/Deep Learning a PDE for Call Options.ipynb
+https://raw.githubusercontent.com/sebgur/SDev.Python/e0ff8b31f63b6d100ddecb4a02ec0f2545e01624/notebooks/stovol/Deep Learning StoVol-MB.ipynb
+https://raw.githubusercontent.com/sebgur/SDev.Python/e34003d2bc0cdbe6393d2576026a1a4fab2ab5a9/notebooks/algos/get_data.ipynb
+https://raw.githubusercontent.com/sebgur/SDev.Python/e3f577c519327bbc4164b8e136db0a5c4fbaf4bf/notebooks/pinns/Deep Learning a PDE for Worst Of Options.ipynb
+https://raw.githubusercontent.com/sebgur/SDev.Python/f686868023b72f5f02732582fdf2c027ab86ed45/notebooks/mc/MC-Payoffs.ipynb
+https://raw.githubusercontent.com/sebgur/SDev.Python/f7a1b4e9e37ba772ba63399b1acb40c5aea4fb7c/notebooks/jansen/linear_regression.ipynb
+https://raw.githubusercontent.com/sebgur/SDev.Python/fb1e4f4510ac1a551067fa02eb499d8a9951f7a2/notebooks/volatility/ImpliedVol.ipynb
+https://raw.githubusercontent.com/sebov/scikit-rough/0084bb73cf1358bbbc54fb7ca69f7ea25128c09d/dev/toolbox/toolbox_1/reordered_evaluate_bireducts.ipynb
+https://raw.githubusercontent.com/sebov/scikit-rough/1d34e14b0855713a86bf991429d0124349acd4ed/presentation/presentation.ipynb
+https://raw.githubusercontent.com/sebov/scikit-rough/1eb4011fa40e6992ab695603c72adf75af8b6b51/examples/processing_multi_stage.ipynb
+https://raw.githubusercontent.com/sebov/scikit-rough/1f7e8c5aa9b75c73373c273c2c6d0b711f127bc8/dev/toolbox/toolbox_2/ranks-3-2.ipynb
+https://raw.githubusercontent.com/sebov/scikit-rough/20062d262b154b923f4d49f426d96d390ce4e0b0/dev/toolbox/toolbox_1/experiments-logging.ipynb
+https://raw.githubusercontent.com/sebov/scikit-rough/20062d262b154b923f4d49f426d96d390ce4e0b0/dev/toolbox/toolbox_4/experiments-logging.ipynb
+https://raw.githubusercontent.com/sebov/scikit-rough/260bd44df82bfd5c97e17f6a39a979c74030d774/dev/toolbox/toolbox_3/reordered_evaluate_bireducts.ipynb
+https://raw.githubusercontent.com/sebov/scikit-rough/2850f8b8a36e3e1f57655bc72dd3c6061090f269/tools/benchmarks/group_index/group_index_benchmark.ipynb
+https://raw.githubusercontent.com/sebov/scikit-rough/2963bed13c8160f70dc2203c4db565e376516d30/dev/toolbox/toolbox_2/show-2.ipynb
+https://raw.githubusercontent.com/sebov/scikit-rough/2a02bb6b78dbb16f7a8ba4729b3f8116fc15f81c/dev/toolbox/toolbox_1/evaluate_bireducts_simple.ipynb
+https://raw.githubusercontent.com/sebov/scikit-rough/2f26665a6342a30ac7c5705bc088b2d163058af2/dev/prezentacja.ipynb
+https://raw.githubusercontent.com/sebov/scikit-rough/31475a9c3cbbe203d09ea10f98e97614e61eb5c5/dev/toolbox/toolbox_1/evaluate_bireducts_delta.ipynb
+https://raw.githubusercontent.com/sebov/scikit-rough/3199a3cedb81955950ab673cca6dae2a171a15a4/dev/toolbox/toolbox_2/experiments-logging.ipynb
+https://raw.githubusercontent.com/sebov/scikit-rough/333f7b13ff1b30b869033bbab156a1c78c197921/dev/toolbox/toolbox_2/experiments-3.ipynb
+https://raw.githubusercontent.com/sebov/scikit-rough/3b385625ba1543f25aa355db2203d2eb93c10219/dev/toolbox/toolbox_1/view_evals.ipynb
+https://raw.githubusercontent.com/sebov/scikit-rough/3b385625ba1543f25aa355db2203d2eb93c10219/dev/toolbox/toolbox_4/view_evals.ipynb
+https://raw.githubusercontent.com/sebov/scikit-rough/413cc589e044cd35df8213eed1167cd35d15dbdf/dev/toolbox/toolbox_1/xgboost-native.ipynb
+https://raw.githubusercontent.com/sebov/scikit-rough/429573d3877906c058788179538b6ac9b1e237f9/dev/toolbox/toolbox_1/reordered_view_evals.ipynb
+https://raw.githubusercontent.com/sebov/scikit-rough/47da4a62cb660d4f44aad40182ba7c1bcc3aa9bf/dev/aim/bbb.ipynb
+https://raw.githubusercontent.com/sebov/scikit-rough/4961a0e33736e62a00f9b5a23434fdcf9dfec897/dev/toolbox/toolbox_4/compute_bireducts_daab.ipynb
+https://raw.githubusercontent.com/sebov/scikit-rough/4e92a035778f54b3b75bf797102dd200fc11103f/dev/toolbox/toolbox_3/evaluate_bireducts_simple_2.ipynb
+https://raw.githubusercontent.com/sebov/scikit-rough/501221d3ce0e662597d9422affc771cd4a30876b/dev/approx_reduct_greedy.ipynb
+https://raw.githubusercontent.com/sebov/scikit-rough/5360705d2c452bd3398ceb5bf737b2580182de03/dev/toolbox/toolbox_1/experiments.ipynb
+https://raw.githubusercontent.com/sebov/scikit-rough/5463cb0f660a54489262eb0dfd68637bd46a07c5/dev/toolbox/toolbox_3/evaluate_bireducts_delta.ipynb
+https://raw.githubusercontent.com/sebov/scikit-rough/5463cb0f660a54489262eb0dfd68637bd46a07c5/dev/toolbox/toolbox_4/evaluate_bireducts_delta.ipynb
+https://raw.githubusercontent.com/sebov/scikit-rough/5894986fac54aa0f0cd8c81e24bf302bb6ef08c7/dev/recursive.ipynb
+https://raw.githubusercontent.com/sebov/scikit-rough/5967f2c0fde857fec2f5f3c2fd05b6cc445a3dce/dev/toolbox/toolbox_2/ranks-3-1.ipynb
+https://raw.githubusercontent.com/sebov/scikit-rough/5cb9291f57255aec3403772f95960cef320fe549/dev/toolbox/toolbox_4/Untitled1.ipynb
+https://raw.githubusercontent.com/sebov/scikit-rough/6436262a8ef570cfac137abdacd096760ed03c81/dev/approx_reduct_daar.ipynb
+https://raw.githubusercontent.com/sebov/scikit-rough/67a4dfc6a91e3517dd6dfc886fdeedc80bceb6d3/tools/benchmarks/disorder_measures/disorder_measures_benchmark.ipynb
+https://raw.githubusercontent.com/sebov/scikit-rough/68db1fafe6abf83aac7e84acc503b7c8c119d160/dev/toolbox/toolbox_2/experiments-2.ipynb
+https://raw.githubusercontent.com/sebov/scikit-rough/771b319bb7c2d3fed3ec441f008d8322f4a73508/dev/toolbox/toolbox_3/compute_bireducts.ipynb
+https://raw.githubusercontent.com/sebov/scikit-rough/7c3b0d1706d32652979854abd386fc07383c79dc/dev/toolbox/toolbox_2/show-3.ipynb
+https://raw.githubusercontent.com/sebov/scikit-rough/9191a13b5f407fbd73139b6d9c20d1c9c8e3addc/dev/toolbox/toolbox_3/reordered_view_evals.ipynb
+https://raw.githubusercontent.com/sebov/scikit-rough/9492bda6420d03d6e3533d6ca92164b09b2670a0/dev/toolbox/toolbox_3/experiments.ipynb
+https://raw.githubusercontent.com/sebov/scikit-rough/96189bb62a9df99eabd4acb348f0007c3c05bfe3/dev/toolbox/toolbox_2/experiments-daab.ipynb
+https://raw.githubusercontent.com/sebov/scikit-rough/9e9cec4db393c56eb6057a7a40b15c91f364abb5/dev/toolbox/toolbox_1/xgboost-training.ipynb
+https://raw.githubusercontent.com/sebov/scikit-rough/aa9db2b02353703a163a54f2da972f5b5e5f4850/dev/aim/aaa.ipynb
+https://raw.githubusercontent.com/sebov/scikit-rough/b5597cac1e0c3f8150d7c70c77bdd161ed57e22a/examples/checks.ipynb
+https://raw.githubusercontent.com/sebov/scikit-rough/b85d37617f66a29c10609d0d1dca71e2bb974297/dev/toolbox/toolbox_1/evaluate_bireducts_simple_2.ipynb
+https://raw.githubusercontent.com/sebov/scikit-rough/bba3e3d36e29d30952d83c053a5abab3a7b5ed28/presentation/code/reduct_computation_golf.ipynb
+https://raw.githubusercontent.com/sebov/scikit-rough/bd3db3e8f5645c67b5e0055034c4f6562f85f75b/dev/toolbox/toolbox_2/experiments-xgboost.ipynb
+https://raw.githubusercontent.com/sebov/scikit-rough/be0618fc353c80f17f010f36f82e78bd35127be1/examples/feature_importance.ipynb
+https://raw.githubusercontent.com/sebov/scikit-rough/be8d44420abf48b56777cf210fb6acc0de486a3e/dev/toolbox/toolbox_3/compute_bireducts_daab.ipynb
+https://raw.githubusercontent.com/sebov/scikit-rough/c2e5061e864102521b7108af8fdc12b92dcd236a/dev/toolbox/toolbox_1/experiments-daab.ipynb
+https://raw.githubusercontent.com/sebov/scikit-rough/c2e5061e864102521b7108af8fdc12b92dcd236a/dev/toolbox/toolbox_4/experiments-daab.ipynb
+https://raw.githubusercontent.com/sebov/scikit-rough/c42d1413bfb2cf3bb4c20e21577336a50ec58553/tools/profiling/profile.ipynb
+https://raw.githubusercontent.com/sebov/scikit-rough/cc70346e840083de640c4a0e4edc1bc1cf05dc06/dev/toolbox/toolbox_3/show.ipynb
+https://raw.githubusercontent.com/sebov/scikit-rough/d67f5ace7f1590225e45d1c50c9ba94037b76e13/dev/toolbox/toolbox_1/show.ipynb
+https://raw.githubusercontent.com/sebov/scikit-rough/d95e81a9fdd6b312e41012685d360fcca0d12c00/dev/toolbox/toolbox_1/xgboost.ipynb
+https://raw.githubusercontent.com/sebov/scikit-rough/e03b3fa1a69dd1bdd76ec3cc5d60284c188864cb/dev/bbb.ipynb
+https://raw.githubusercontent.com/sebov/scikit-rough/e9282b7a6a6a7b981475cf4f326d9b8151ab21a0/dev/toolbox/toolbox_2/show.ipynb
+https://raw.githubusercontent.com/sebov/scikit-rough/efe46aa7d5024438e3009f3231ef8b94fc03957c/dev/toolbox/toolbox_3/evaluate_bireducts_simple.ipynb
+https://raw.githubusercontent.com/sebov/scikit-rough/f4aac2fad7b067a9b4365bb54aa818394a3e257f/presentation/gen_figures.ipynb
+https://raw.githubusercontent.com/sebov/scikit-rough/f6f5ff07dd45ccc83924faffb8a428cd4413eece/presentation/code/experiments.ipynb
+https://raw.githubusercontent.com/shiunyi71/PythonAI4Beginners/7300d50ff614fd825ae4e63119eab6827fcdad18/example/Week04_example.ipynb
+https://raw.githubusercontent.com/shiunyi71/PythonAI4Beginners/d12010b67ec29b4f98a0180e6daa9b4dadc34b36/example/Week03_example.ipynb
+https://raw.githubusercontent.com/shotakaha/kumaroot/0a1456a6fbdd7ad8fe47630527600ab5e3b820cd/notebooks/tomllib.ipynb
+https://raw.githubusercontent.com/shotakaha/kumaroot/162fd73b3b46f169e160cbc8ee992e3e0271e2d5/notebooks/pandas-gps.ipynb
+https://raw.githubusercontent.com/shotakaha/kumaroot/1e17f8a6fe0279d1b2b612d6fe8662125b7f5a66/notebooks/platformdirs.ipynb
+https://raw.githubusercontent.com/shotakaha/kumaroot/1fa55e8d53045d8065ce10180fc10046a384e2de/notebooks/urllib.ipynb
+https://raw.githubusercontent.com/shotakaha/kumaroot/3fa288110ea551ce5d58d2bcc85e9ff416590647/notebooks/scipy-special-erf.ipynb
+https://raw.githubusercontent.com/shotakaha/kumaroot/4a11a917336fb43423109b2bb2c854a421825288/notebooks/re.ipynb
+https://raw.githubusercontent.com/shotakaha/kumaroot/504b9d58ae697ea3220079a5b7eb98750f11a296/notebooks/pydantic.ipynb
+https://raw.githubusercontent.com/shotakaha/kumaroot/7675cb617f3db5cab0b525a4f62e7b385a31b4ab/notebooks/root-pyroot.ipynb
+https://raw.githubusercontent.com/shotakaha/kumaroot/76898b05cd50c32ac7bef6d134e1fd95f66e637a/notebooks/requests.ipynb
+https://raw.githubusercontent.com/shotakaha/kumaroot/77b229b75f16604e9fb4819130ead9d920c678ac/notebooks/pexpect.ipynb
+https://raw.githubusercontent.com/shotakaha/kumaroot/7a9f1a2ae0212a84bd17068e34545c2b141fc9de/notebooks/platform.ipynb
+https://raw.githubusercontent.com/shotakaha/kumaroot/7b53581d82b74371d81d9445c31c75d064df5e75/notebooks/gitlab.ipynb
+https://raw.githubusercontent.com/shotakaha/kumaroot/7e6136632ac3c2fd08af4616919806d3b16fbdf4/notebooks/index.ipynb
+https://raw.githubusercontent.com/shotakaha/kumaroot/8a88b96254a27ea3902bd8c3190cea9e1fda2173/notebooks/matplotlib.ipynb
+https://raw.githubusercontent.com/shotakaha/kumaroot/8d8c6817ff44e140c29b2a86bf71362861e8aba8/notebooks/python-histogram.ipynb
+https://raw.githubusercontent.com/shotakaha/kumaroot/8e1f6425c198853e2a1304fc531e2657ae39ad7b/notebooks/pendulum.ipynb
+https://raw.githubusercontent.com/shotakaha/kumaroot/934a6a6e653faef75d844ed18b73065e4dab3e82/notebooks/random.ipynb
+https://raw.githubusercontent.com/shotakaha/kumaroot/980f021f505b7d1a8c80b28c4d4d489d45529fcb/notebooks/pandas-histogram.ipynb
+https://raw.githubusercontent.com/shotakaha/kumaroot/beb590464a8af934d96fdefcf317cc87beab536b/notebooks/pandas-dataframe.ipynb
+https://raw.githubusercontent.com/shotakaha/kumaroot/d34352c0e78691e3ca5d68a5b75bb95c572395ba/notebooks/scipy-interpolate.ipynb
+https://raw.githubusercontent.com/shotakaha/kumaroot/e0ed6b96cc94a6f2558a6ab76dccf1a82c5848c6/notebooks/bs4.ipynb
+https://raw.githubusercontent.com/shotakaha/kumaroot/eb1d385fbff7d234baf2350e23925a96911e5b08/notebooks/tqdm.ipynb
+https://raw.githubusercontent.com/skimeur/QMF/7794f53c95d37c58f0d8f97740b2c888ba8e55ec/code/inflation_persistence/Inflation_data_AZaliz.ipynb
+https://raw.githubusercontent.com/slxuphys/tamu_phys_150/0597e7cf9473bb6e32e83f41ea81cc35a2cff60f/lecture/text_based_game.ipynb
+https://raw.githubusercontent.com/slxuphys/tamu_phys_150/0822be0cdadc745cb1e86792f3526c9a71320958/lecture/lecture 08 1D_motion.ipynb
+https://raw.githubusercontent.com/slxuphys/tamu_phys_150/0c40805715d4cd68d9e868a9a627c78306d09614/2026/lecture-01-introduction.ipynb
+https://raw.githubusercontent.com/slxuphys/tamu_phys_150/14da3c0e5cb958734ebab51bdb3410750207fe29/lecture/pool table.ipynb
+https://raw.githubusercontent.com/slxuphys/tamu_phys_150/1f6663cdc39ff2b3508c25f831738b27b2866928/lecture/lecture 04 scalar variable.ipynb
+https://raw.githubusercontent.com/slxuphys/tamu_phys_150/23caff3653e56e9d11eec06e8a1d6537c5789eae/lecture/lecture 03 markdown.ipynb
+https://raw.githubusercontent.com/slxuphys/tamu_phys_150/25fc993eff5a872e40ae4d3678d71e97729cc6f3/demos/branching_only_game.ipynb
+https://raw.githubusercontent.com/slxuphys/tamu_phys_150/265da11046df1f61f7f70c3d04c7c8560abb1321/lecture/lecture 05 branching.ipynb
+https://raw.githubusercontent.com/slxuphys/tamu_phys_150/335ea27cecb980251f594623dfacff6a84169743/2026/lecture-02-programming-for-physics.ipynb
+https://raw.githubusercontent.com/slxuphys/tamu_phys_150/3509cce19ffccf7c2cefdb8e91aa1d144aef16c8/demos/game of life.ipynb
+https://raw.githubusercontent.com/slxuphys/tamu_phys_150/3e22415a0d7376e697542c3a56617a528b74fbc6/2026/lecture-08-container.ipynb
+https://raw.githubusercontent.com/slxuphys/tamu_phys_150/42aefee094f0a7279cd222dfbd44d8dcfe0f096d/lecture/lecture 09 function.ipynb
+https://raw.githubusercontent.com/slxuphys/tamu_phys_150/440c86cb1106ee7269a428204e028bfdb40d16d0/2026/lecture-05-variable.ipynb
+https://raw.githubusercontent.com/slxuphys/tamu_phys_150/57527620d22f1b530a0862b81a8b963a04f4fad9/demos/interactive_newton_iteration.ipynb
+https://raw.githubusercontent.com/slxuphys/tamu_phys_150/62bdbb80204ff7eec235bf12bc4a849d65361dd9/2026/lecture-04-python.ipynb
+https://raw.githubusercontent.com/slxuphys/tamu_phys_150/6ab3d54424c381531f366c7bfb412186eb934aa4/2026/lecture-03-markdown.ipynb
+https://raw.githubusercontent.com/slxuphys/tamu_phys_150/6cc79c3faa8b2356a97248ecf8e86552f80a781b/lecture/lecture 13 data.ipynb
+https://raw.githubusercontent.com/slxuphys/tamu_phys_150/7dd273305b2e791bbbb05c634f537e4e77b7321e/2026/lecture-07-loop.ipynb
+https://raw.githubusercontent.com/slxuphys/tamu_phys_150/8b0d8ef876a11682074e404eaea47c9b2f6f3076/lecture/lecture 10 Class.ipynb
+https://raw.githubusercontent.com/slxuphys/tamu_phys_150/9327a4b1337ac55fad8c221005b736b491a8a5de/lecture/lecture 11 Module.ipynb
+https://raw.githubusercontent.com/slxuphys/tamu_phys_150/9852f8247b0d7ef43289b7291b2bbfabf6fdd3de/demos/efficient newton fractal generator.ipynb
+https://raw.githubusercontent.com/slxuphys/tamu_phys_150/a6c933e4c1b62bdd0c086935e31c8067f2c4322a/lecture/lecture 02 demo.ipynb
+https://raw.githubusercontent.com/slxuphys/tamu_phys_150/b4084f6457fcd5de316b66863c19759ccdcbe7ec/lecture/lecture 15 optimization.ipynb
+https://raw.githubusercontent.com/slxuphys/tamu_phys_150/df593a7c4076984000c1a7a170a0293843bd58d6/demos/pool table.ipynb
+https://raw.githubusercontent.com/slxuphys/tamu_phys_150/e0f3bed137d884f31ed3dd6bf85fcccb879048bc/lecture/lecture 07 container.ipynb
+https://raw.githubusercontent.com/slxuphys/tamu_phys_150/e55069b95bf371e1c8f64e6d244a4964d8b28641/2026/lecture-06-branching.ipynb
+https://raw.githubusercontent.com/slxuphys/tamu_phys_150/e739d1505c61ed63e7977f68da12d87b6a7f75cf/demos/logistic_map.ipynb
+https://raw.githubusercontent.com/slxuphys/tamu_phys_150/ebdcf219f65428c0bc52895a23da324a11cb095a/lecture/lecture 06 loop.ipynb
+https://raw.githubusercontent.com/soler-he/sep_tools/04b698d0fea1b2c38ae35972d4875eb3509b1be3/SEP_Spatial-Distribution.ipynb
+https://raw.githubusercontent.com/soler-he/sep_tools/0a01073bafb48c572d8d38647ab89640c4f2f23b/SEP_Multi-Instrument-Plot.ipynb
+https://raw.githubusercontent.com/soler-he/sep_tools/25472ecfc738501d10f33376775f7082b8010085/SEP_PADs-and-Anisotropy.ipynb
+https://raw.githubusercontent.com/soler-he/sep_tools/3b0e1c16ea04d59508f2c557dc871c9168aca1ff/SEP_PyOnset.ipynb
+https://raw.githubusercontent.com/soler-he/sep_tools/578a34dd7e1f9ebe84178516fbf4270e7b52d363/SEP_Multi-Spacecraft-Plot.ipynb
+https://raw.githubusercontent.com/soler-he/sep_tools/719e1218c78404a1680060db15382417cf7b2382/SEP_Spectra.ipynb
+https://raw.githubusercontent.com/soler-he/sep_tools/9f79acb91327e83317e686f225fa486334a9c752/SEP_Fluence-Spectra.ipynb
+https://raw.githubusercontent.com/soler-he/sep_tools/aa5a0758aab8d06dd18613f0612d87649037ed13/SEP_Fit-Spectra.ipynb
+https://raw.githubusercontent.com/soler-he/sep_tools/d2e62bedf6c4379b34e0083a4c3d9fec7309c1e8/JupyterHub_Help.ipynb
+https://raw.githubusercontent.com/soler-he/sep_tools/fcbf3061605b86216669920d41b145bf3054820a/SEP_Regression-Onset.ipynb
+https://raw.githubusercontent.com/sourangshupal/structured-llm-notebooks/0842ae42851eb54da68d3feffe0319b4aeedbc44/notebooks/06_dspy/06_finetuning.ipynb
+https://raw.githubusercontent.com/sourangshupal/structured-llm-notebooks/0b31497c05d51422972d1956a90a5cab06494da9/notebooks/02_outlines/01_token_constraints.ipynb
+https://raw.githubusercontent.com/sourangshupal/structured-llm-notebooks/148a6d60736de82246f137a4008200493fcac708/notebooks/01_instructor/02_validators.ipynb
+https://raw.githubusercontent.com/sourangshupal/structured-llm-notebooks/2cdc87e1a3f6994ee555d7769bc4bce0e67ba457/notebooks/06_dspy/04_react_agent.ipynb
+https://raw.githubusercontent.com/sourangshupal/structured-llm-notebooks/317bd11ca5eb689a993caa3b460ff0d886ddd27b/notebooks/06_dspy/12_gepa_deep_dive.ipynb
+https://raw.githubusercontent.com/sourangshupal/structured-llm-notebooks/44779ff8630593f78e93777fef73d5f636983376/notebooks/06_dspy/08_embeddings.ipynb
+https://raw.githubusercontent.com/sourangshupal/structured-llm-notebooks/44db777e95473b9efce88d5ec1d3e8edb1d103ce/notebooks/06_dspy/07_module_catalog.ipynb
+https://raw.githubusercontent.com/sourangshupal/structured-llm-notebooks/4e4da469df4a299a85efffdf80ab1fda27d744e7/notebooks/06_dspy/03_rag_pipeline.ipynb
+https://raw.githubusercontent.com/sourangshupal/structured-llm-notebooks/64bcdcf16237cf38619ec77184f9fa86e1154529/notebooks/01_instructor/03_streaming.ipynb
+https://raw.githubusercontent.com/sourangshupal/structured-llm-notebooks/6f63a9e980891f929a5156385757586c3b897414/notebooks/01_instructor/01_core_extraction.ipynb
+https://raw.githubusercontent.com/sourangshupal/structured-llm-notebooks/75cc2b38ab904dddb196d8e040f4e93c250d5e18/notebooks/02_outlines/04_vision_structure.ipynb
+https://raw.githubusercontent.com/sourangshupal/structured-llm-notebooks/826718ec98a29c133eceddfdd163203676814d6a/notebooks/01_instructor/04_local_pipeline.ipynb
+https://raw.githubusercontent.com/sourangshupal/structured-llm-notebooks/9f2313dca9dff04d989bb309ca97027c35cee67c/notebooks/06_dspy/01_signatures_modules.ipynb
+https://raw.githubusercontent.com/sourangshupal/structured-llm-notebooks/b0f5e5d7e1585122f578bd9f2472837fbf2d7628/notebooks/06_dspy/09_optimizer_catalog.ipynb
+https://raw.githubusercontent.com/sourangshupal/structured-llm-notebooks/c0d1f16575ca7bda8239c1188e4b76d9512b583c/notebooks/06_dspy/10_adapters_evaluation.ipynb
+https://raw.githubusercontent.com/sourangshupal/structured-llm-notebooks/c8b7017c23be447035832b051fc9ff45ae101b5d/notebooks/06_dspy/11_primitives_tools.ipynb
+https://raw.githubusercontent.com/sourangshupal/structured-llm-notebooks/d2e0e876774c5d7d47495caff3351abab02a4d63/notebooks/02_outlines/02_pydantic_pipeline.ipynb
+https://raw.githubusercontent.com/sourangshupal/structured-llm-notebooks/d37efdfe2d68e9b369d441ddb33a809399ccbdec/notebooks/02_outlines/03_cfg_codegen.ipynb
+https://raw.githubusercontent.com/sourangshupal/structured-llm-notebooks/e8735c610b460fef8691283a00cb14fb3338a9d1/notebooks/06_dspy/05_gepa_optimizer.ipynb
+https://raw.githubusercontent.com/sourangshupal/structured-llm-notebooks/f679ede088fc1bed0a9b7b5ae1045424dfd7a2a3/notebooks/06_dspy/02_optimizers.ipynb
+https://raw.githubusercontent.com/spsaswat/plantdis/0d197b889c8d9aef9eb30e4e01491f890ef6d471/ipynb/integrating_SAM/Copy_of_conver_sam.ipynb
+https://raw.githubusercontent.com/spsaswat/plantdis/1d70fdb3328928d346ed467ae0d340f72df9f0fd/ipynb/.ipynb_checkpoints/EfficientNet__PD_Detector_-checkpoint.ipynb
+https://raw.githubusercontent.com/spsaswat/plantdis/1d70fdb3328928d346ed467ae0d340f72df9f0fd/ipynb/transfer learning/EfficientNet__PD_Detector_.ipynb
+https://raw.githubusercontent.com/spsaswat/plantdis/26393ccb79798f2aec9908e4d3e0eb17a2c615b2/ipynb/.ipynb_checkpoints/ft_3_difflayers_Or_EfficientNet_PDS_Detector-checkpoint.ipynb
+https://raw.githubusercontent.com/spsaswat/plantdis/26393ccb79798f2aec9908e4d3e0eb17a2c615b2/ipynb/PDS_DL_ft_3_Or_EfficientNet.ipynb
+https://raw.githubusercontent.com/spsaswat/plantdis/300563ba66be980be157ad8e466242098df55416/ipynb/.ipynb_checkpoints/Copy_of_ft_B_EfficientNetB2_PD_Detector_ft-checkpoint.ipynb
+https://raw.githubusercontent.com/spsaswat/plantdis/300563ba66be980be157ad8e466242098df55416/ipynb/.ipynb_checkpoints/ED_24_ft_B_EfficientNetB2-checkpoint.ipynb
+https://raw.githubusercontent.com/spsaswat/plantdis/300563ba66be980be157ad8e466242098df55416/ipynb/ED_24_ft_B_EfficientNetB2.ipynb
+https://raw.githubusercontent.com/spsaswat/plantdis/35a7e71cb877a8ce263dda03c8689eea251d073f/ipynb/cassava_model/transfer_learning.ipynb
+https://raw.githubusercontent.com/spsaswat/plantdis/5cad3096fff94c56d77b05f4978c032c8ce9e624/ipynb/.ipynb_checkpoints/3Epoch_ft_Or_EfficientNetB2_PD_Detector-checkpoint.ipynb
+https://raw.githubusercontent.com/spsaswat/plantdis/5cad3096fff94c56d77b05f4978c032c8ce9e624/ipynb/ED_22_3E_ft_Or_EfficientNetB2.ipynb
+https://raw.githubusercontent.com/spsaswat/plantdis/9f0ea22b8a731c4a72bdca66b726722f5566a5c6/ipynb/.ipynb_checkpoints/DenseNet201_PD_Detector-checkpoint.ipynb
+https://raw.githubusercontent.com/spsaswat/plantdis/9f0ea22b8a731c4a72bdca66b726722f5566a5c6/ipynb/transfer learning/DenseNet201_PD_Detector.ipynb
+https://raw.githubusercontent.com/spsaswat/plantdis/a6fe4390fac56a3e3280c12b368b520383298dcd/ipynb/.ipynb_checkpoints/PDVS_fe_3_Or_EfficientNet-checkpoint.ipynb
+https://raw.githubusercontent.com/spsaswat/plantdis/a6fe4390fac56a3e3280c12b368b520383298dcd/ipynb/.ipynb_checkpoints/fe_W4all_3_Or_EfficientNet_PDS_Detector-checkpoint.ipynb
+https://raw.githubusercontent.com/spsaswat/plantdis/a6fe4390fac56a3e3280c12b368b520383298dcd/ipynb/PDVS_fe_3_Or_EfficientNet.ipynb
+https://raw.githubusercontent.com/spsaswat/plantdis/a8077274f62c9b46a42c5faa8d6345d217ebce99/ipynb/.ipynb_checkpoints/ModelFromScratch_(1)-checkpoint.ipynb
+https://raw.githubusercontent.com/spsaswat/plantdis/a8077274f62c9b46a42c5faa8d6345d217ebce99/ipynb/transfer learning/ModelFromScratch_(1).ipynb
+https://raw.githubusercontent.com/spsaswat/plantdis/b0991b7e9dc95ec1ef519ebb5173ae9898d9164c/ipynb/.ipynb_checkpoints/MobNet_PD_Detector-checkpoint.ipynb
+https://raw.githubusercontent.com/spsaswat/plantdis/b0991b7e9dc95ec1ef519ebb5173ae9898d9164c/ipynb/transfer learning/MobNet_PD_Detector.ipynb
+https://raw.githubusercontent.com/spsaswat/plantdis/ec19383f784af00f79da11e21a77d5cf4304c14b/ipynb/dev/Banana_Dataset_Images_png.ipynb
+https://raw.githubusercontent.com/spsaswat/plantdis/f254e4f7c0a380bd526d09a24d0fcdece43dffb3/test_pd_village_tflite.ipynb
+https://raw.githubusercontent.com/stackfuel/Python_Live_Sessions/03c6e685feef0d2500aa2a5bff1028a345c2e713/advanced/5_inheritance/inheritance.ipynb
+https://raw.githubusercontent.com/stackfuel/Python_Live_Sessions/03e5d933de1f03d50e7933822c27ad7677ec4001/basics/3_control_structures/control_structures.ipynb
+https://raw.githubusercontent.com/stackfuel/Python_Live_Sessions/05e49988575efe0edc0b410a256fcb26a20158f8/advanced/5_inheritance/custom_transformer.ipynb
+https://raw.githubusercontent.com/stackfuel/Python_Live_Sessions/08075e3b496505773a19983085971deaad4792ae/advanced/8_advanced_concepts/advanced_concepts.ipynb
+https://raw.githubusercontent.com/stackfuel/Python_Live_Sessions/0cd98a78d4dccad5186f49d9245b70ee1d6348f8/basics/5_file_handling/file_handling.ipynb
+https://raw.githubusercontent.com/stackfuel/Python_Live_Sessions/15c6ee00b71c7bb2bf04c1d771896fe5f72cb8c8/advanced/7_testing/vector_test.ipynb
+https://raw.githubusercontent.com/stackfuel/Python_Live_Sessions/16fd3f6643b8b08c42ade8446a53f50ffca5368d/basics/4_functions/functions.ipynb
+https://raw.githubusercontent.com/stackfuel/Python_Live_Sessions/23d97ff5c69fbc724e595b8d3bd7915202e41149/basics/2_data_structures/datastructures.ipynb
+https://raw.githubusercontent.com/stackfuel/Python_Live_Sessions/47fa2658c44860a086f84369c84d905bc94520fb/basics/6_error_handling/error_handling.ipynb
+https://raw.githubusercontent.com/stackfuel/Python_Live_Sessions/5cc984acc25cc57f04a3f82c54b08437f405028e/advanced/3_higher_order_functions/decorators_notebook.ipynb
+https://raw.githubusercontent.com/stackfuel/Python_Live_Sessions/5ecc77926b16f57ef5a1065417357d022f63e60e/basics/7_refactoring/sudoku_after.ipynb
+https://raw.githubusercontent.com/stackfuel/Python_Live_Sessions/62ce5fcb75099699df95ca2305cbfcfc284f4699/basics/7_refactoring/sudoku_before.ipynb
+https://raw.githubusercontent.com/stackfuel/Python_Live_Sessions/698ad85e94d76bf41489808881cc93e32807a3d8/basics/1_datatypes/data_types.ipynb
+https://raw.githubusercontent.com/stackfuel/Python_Live_Sessions/6992eee36b205defd138b42bad4e5b5edbd075d6/basics/5_generators/generators.ipynb
+https://raw.githubusercontent.com/stackfuel/Python_Live_Sessions/84c9509eb1930a400ad8d58aad50e0854b18baf1/advanced/6_exceptions/exeptions.ipynb
+https://raw.githubusercontent.com/stackfuel/Python_Live_Sessions/8e74203e6e463a2ab1f6c63b67288b5bb191e6f8/basics/8_advanced_syntax/advanced_syntax.ipynb
+https://raw.githubusercontent.com/stackfuel/Python_Live_Sessions/98510073349de3be74ebd1c9eec191941cdc1c75/advanced/2_oop_intro/oop_intro.ipynb
+https://raw.githubusercontent.com/stackfuel/Python_Live_Sessions/9fbbb306d12f088dc8b5bc312e9374bfeb1441c8/advanced/4_data_model/lesson.ipynb
+https://raw.githubusercontent.com/stackfuel/Python_Live_Sessions/b4b7fd9919f59e2706a64d3c91ccc80277e0917d/basics/6_algorithms/algorithmen.ipynb
+https://raw.githubusercontent.com/stackfuel/Python_Live_Sessions/bf111e82db486a0f4dbae47e93a6344fc85afad8/advanced/2_oop_intro/vector_grafic.ipynb
+https://raw.githubusercontent.com/sumeet1212khatri/Nano-Mind./6a13ef45b9d750fb26dd97a7e0a326edece55664/SLM_C++_inference.ipynb
+https://raw.githubusercontent.com/tetherless-world/ontology-engineering/0e0a49d8cc40329f3bef67a93421f68caa7481e3/oe2024/political-journalism/RSS_scripts/tag_generation.ipynb
+https://raw.githubusercontent.com/tetherless-world/ontology-engineering/395142247f91a393387661fc4b0ab5b28e79c79b/oe2024/political-journalism/RSS_scripts/NYT_scraper_testing.ipynb
+https://raw.githubusercontent.com/tetherless-world/ontology-engineering/7e9d0bf57b353c4e7b1e9b22a6858d18a3d43de3/oe2024/political-journalism/RSS_scripts/Wayback_rss_scraping.ipynb
+https://raw.githubusercontent.com/tetherless-world/ontology-engineering/9f7fac7e2e72bbca4eeeb82f2ee3beed38d407f9/oe2024/political-journalism/RSS_scripts/bulk_article_upload.ipynb
+https://raw.githubusercontent.com/tetherless-world/ontology-engineering/f7492765b7b7e7e7d03ecbfd0c610f14bb44b087/oe2024/when-to-go-where/experiments/DataScrapingWhenToGoWhere.ipynb
+https://raw.githubusercontent.com/thomasgibon/io-footprinting/053aa9a25175ecabb9bd5eee9d36dce83353816b/miniprojet_mines/empreinte/calculate_footprints.ipynb
+https://raw.githubusercontent.com/thomasgibon/io-footprinting/0715777a467392af28613553f90ef3b29fb8df2f/list/1_introduction_structure_IO.ipynb
+https://raw.githubusercontent.com/thomasgibon/io-footprinting/07f84a2671c28d10fc48365ebd53931eefa70ac4/miniprojet_mines/empreinte/education.ipynb
+https://raw.githubusercontent.com/thomasgibon/io-footprinting/22315ce9a39c7d24be35633e119fa27d2065a2bf/luxstrat/1_introduction_structure_IO.ipynb
+https://raw.githubusercontent.com/thomasgibon/io-footprinting/2eed1926ea1ce8a6056149b87831ef9a39c89a78/MECO_sector_emissions.ipynb
+https://raw.githubusercontent.com/thomasgibon/io-footprinting/3bb93b6ba2eabd32769805560d302b5eeca5d079/luxstrat/5_découplage.ipynb
+https://raw.githubusercontent.com/thomasgibon/io-footprinting/3e171aea01099d70ff3482e6e2b7cf481af31f9c/miniprojet_mines/aesa/notebooks/02_principes_de_partage.ipynb
+https://raw.githubusercontent.com/thomasgibon/io-footprinting/511fdc9abccf0561dc14b9a3bdff5571a0971381/gras.ipynb
+https://raw.githubusercontent.com/thomasgibon/io-footprinting/51759a40fe2083e88eacefec54faed99d17a20e3/exiobase39.ipynb
+https://raw.githubusercontent.com/thomasgibon/io-footprinting/54e0040d4f71b9aa8e0ba384137cba1115f87c21/list/2_empreinte_Luxembourg.ipynb
+https://raw.githubusercontent.com/thomasgibon/io-footprinting/583737081f2f571f17761462685dd668372e8ca4/miniprojet_mines/empreinte/04_cartographier_une_empreinte.ipynb
+https://raw.githubusercontent.com/thomasgibon/io-footprinting/5a38a4185930eea340b811d33c9d5b8d573279ed/solaire.ipynb
+https://raw.githubusercontent.com/thomasgibon/io-footprinting/5caf88a7a956e0da2da278471835eb6523d6caeb/exiobase_use.ipynb
+https://raw.githubusercontent.com/thomasgibon/io-footprinting/7da8e9fcf7f6c3aa79be6b07f5dd9ea8c4c415cf/luxstrat/.ipynb_checkpoints/3_agrégation-checkpoint.ipynb
+https://raw.githubusercontent.com/thomasgibon/io-footprinting/81e7d67cf27dcc63238783ff0add0ed0ecfdebde/luxstrat/4_décomposition.ipynb
+https://raw.githubusercontent.com/thomasgibon/io-footprinting/883a5f13a6fa37fdc4334011f9e3864470d41f6a/SPA_example.ipynb
+https://raw.githubusercontent.com/thomasgibon/io-footprinting/8c03596173a93e6abfbbe2cb238fa4038fd18acf/miniprojet_mines/empreinte/import_and_save_io_data.ipynb
+https://raw.githubusercontent.com/thomasgibon/io-footprinting/8e53ac122076d11fdd210989014dc7d7ce34151d/list/3_aggregation.ipynb
+https://raw.githubusercontent.com/thomasgibon/io-footprinting/acd2d8c7106b3f1aa6cdb9fb58bc48d5f73e85f8/luxstrat/2_empreinte_Luxembourg.ipynb
+https://raw.githubusercontent.com/thomasgibon/io-footprinting/bf470a75613dd445d66539d8e3e79fca022a7995/miniprojet_mines/aesa/notebooks/01_introduction_aesa.ipynb
+https://raw.githubusercontent.com/thomasgibon/io-footprinting/c9e273cfdeff596637c49e86ac05038d9d013dff/luxstrat/3_agrégation.ipynb
+https://raw.githubusercontent.com/thomasgibon/io-footprinting/d56f5cb4aa7007c887d89d35a0b9a8be8f9778fe/miniprojet_mines/empreinte/02_calculer_empreinte_nationale.ipynb
+https://raw.githubusercontent.com/thomasgibon/io-footprinting/db9f273f3ce72f319d0893df42a1f1e85663e2ef/.ipynb_checkpoints/exiobase_use-checkpoint.ipynb
+https://raw.githubusercontent.com/thomasgibon/io-footprinting/dea48354a154bf5af12b06cc71af56c61f415906/miniprojet_mines/empreinte/00_préparer_EXIOBASE.ipynb
+https://raw.githubusercontent.com/thomasgibon/io-footprinting/e2540b4789d6a0773e65bc54a82dfd2cbffb8987/miniprojet_mines/empreinte/03_agreger_et_lire_les_flux.ipynb
+https://raw.githubusercontent.com/thomasgibon/io-footprinting/e59e1b2c85d5f2f1891da4706a891e1466df9f05/parsing_FIGARO.ipynb
+https://raw.githubusercontent.com/thomasgibon/io-footprinting/e6d41425aacb6789fddae7bff0b2c43e117c915f/miniprojet_mines/empreinte/05a_precalculer_serie_temporelle.ipynb
+https://raw.githubusercontent.com/thomasgibon/io-footprinting/eb9bc0b908fb39b24498442f42d8969482ec90f3/miniprojet_mines/empreinte/05_analyser_le_decouplage.ipynb
+https://raw.githubusercontent.com/thomasgibon/io-footprinting/ebbe37ae0029daaffa06f04102d5dbb456c963af/miniprojet_mines/empreinte/01_comprendre_table_entrees_sorties.ipynb
+https://raw.githubusercontent.com/thomasgibon/io-footprinting/ee37f240a8c8cfb25c6150b04da455056c9e9b74/luxstrat/.ipynb_checkpoints/1_introduction_structure_IO-checkpoint.ipynb
+https://raw.githubusercontent.com/thomasgibon/io-footprinting/f0f39fa04f7d5015deb07712fe27db060279ff2f/luxstrat/.ipynb_checkpoints/2_exercice_empreinte_Luxembourg-checkpoint.ipynb
+https://raw.githubusercontent.com/thomasleplus/code-quantum/2da701ddc119d47d91cc4dbcb5f71e264386ab10/quantum_8ball.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/006c5df11d27ffb59d1cdc1e98e8687e30d22799/fenics-notebook/tests/notebooks/dolfin.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/057b4b41d03def51a385d1df0fb5ad46f5ce2cd1/datascience-notebook/tests/notebooks/bayesian_optimization.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/061ef137a08c986269722cb5a10f1708801abffd/datascience-notebook/tests/notebooks/jax.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/061ef137a08c986269722cb5a10f1708801abffd/hpc-notebook/tests/notebooks/jax.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/061ef137a08c986269722cb5a10f1708801abffd/hpc-ocean-notebook/tests/notebooks/jax.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/061ef137a08c986269722cb5a10f1708801abffd/jwst-notebook/tests/notebooks/jax.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/07ba46fece94c414291579213d021249c3a18ea5/datascience-notebook/tests/notebooks/scipy.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/07ba46fece94c414291579213d021249c3a18ea5/jwst-notebook/tests/notebooks/scipy.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/07ba46fece94c414291579213d021249c3a18ea5/tomography-notebook/tests/notebooks/scipy.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/08fa7965e5670b7c443295128cf365e69ed67bc0/tomography-notebook/tests/notebooks/torch.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/09a5e1960dd8a84327c34fe6dc94ab13f7617662/hpc-ocean-notebook/tests/notebooks/veros.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/09a5e1960dd8a84327c34fe6dc94ab13f7617662/ocean-notebook/tests/notebooks/veros.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/0d3fa09753d445dfce02a05d1e433a5cf291b81f/datascience-notebook/tests/notebooks/uproot.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/0d7cf2969d3a0115667ce998ad6550df29c7915a/datascience-notebook/tests/notebooks/numdifftools.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/0d7cf2969d3a0115667ce998ad6550df29c7915a/jwst-notebook/tests/notebooks/numdifftools.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/0e7715a899d0623390c160914cb12de5fa9b15be/cmis-notebook/tests/notebooks/wm.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/1088742d7ab6de71273f1e62755904a178daef58/datascience-notebook/tests/notebooks/brownlee_python_machine_learning.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/1088742d7ab6de71273f1e62755904a178daef58/jwst-notebook/tests/notebooks/brownlee_python_machine_learning.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/14bf8c11e351d9c3b3aa9486a2f86b46c29a442e/fenics-notebook/tests/notebooks/gmsh.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/15069baff8450a0c738dd534e61609a1368a3c31/datascience-notebook/tests/notebooks/ImportTest.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/15069baff8450a0c738dd534e61609a1368a3c31/jwst-notebook/tests/notebooks/ImportTest.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/194b160196704bd3dd19dbcfd3fbd7793799bdc6/gpu-notebook/tests/notebooks/pandas.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/194b160196704bd3dd19dbcfd3fbd7793799bdc6/statistics-notebook/tests/notebooks/pandas.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/1aa19aa7e115423a846f90b77b0aa07d9da03fed/sme-notebook/tests/notebooks/csharp.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/1aa19aa7e115423a846f90b77b0aa07d9da03fed/sme-notebook/tests/notebooks/r.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/1ac788ba9295f00e94337807025e2258a50c2e23/datascience-notebook/tests/notebooks/seaborn.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/1ac788ba9295f00e94337807025e2258a50c2e23/jwst-notebook/tests/notebooks/seaborn.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/1ac788ba9295f00e94337807025e2258a50c2e23/statistics-notebook/tests/notebooks/seaborn.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/1ac788ba9295f00e94337807025e2258a50c2e23/tomography-notebook/tests/notebooks/seaborn.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/1d6de1c73eabace3f94579f2110293529efd9821/python-cuda-notebook/tests/gpu_notebooks/tensorflow_advanced.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/1fb1a12f7a0d377109b11461a37d843810291d05/gpu-notebook/tests/notebooks/joblib.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/24325a11cd616391382b28179a827e102745afc0/tomography-notebook/tests/notebooks/astra-toolbox.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/269507eeec1304cfdb09f3d8b901c8c66720387f/python-notebook/tests/notebooks/pip_install.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/2730bf237ce985929048fc7da239ea28aa2c83ee/datascience-notebook/tests/notebooks/xgboost.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/2730bf237ce985929048fc7da239ea28aa2c83ee/gpu-notebook/tests/notebooks/xgboost.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/2730bf237ce985929048fc7da239ea28aa2c83ee/jwst-notebook/tests/notebooks/xgboost.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/2a78f606dd68a96da88c19c77efa8eae9a4caac5/geo-notebook/tests/notebooks/geophysics.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/2bc8fc69d1f5b7c3695304a1c374bf24fa94bc0a/fenics-notebook/tests/notebooks/xarray.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/315153867961f882d89324443d10356b36323c55/gpu-notebook/tests/notebooks/brownlee_python_machine_learning.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/35ab4c041de359a282277c413afc8ba0eb797ecb/tropical-crop-notebook/tests/notebooks/r/PE2_germination_code.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/38cc444be9e9bacd4ca39617739c1393b2477f3c/julia-notebook/tests/notebooks/julia-path.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/3a9bd4d94bdfcc3656015f1ede1f3889f791f7db/python-cuda-notebook/tests/notebooks/pytorch_tensor.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/3c8a52f6e8f21643f69e24bddfa95546b6a3c59a/hpc-gpu-notebook/tests/gpu_notebooks/tensorflow_beginner.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/3c8a52f6e8f21643f69e24bddfa95546b6a3c59a/python-cuda-notebook/tests/gpu_notebooks/tensorflow_beginner.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/3e302437ce41fc26cec11e1c98bb03eb3c6371bc/python-cuda-notebook/tests/notebooks/pytorch_nn.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/3e8f6adaf8bb4ac9e5e20c539b402a3bf94290f5/datascience-notebook/tests/notebooks/numpy.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/3e8f6adaf8bb4ac9e5e20c539b402a3bf94290f5/geo-notebook/tests/notebooks/numpy.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/3e8f6adaf8bb4ac9e5e20c539b402a3bf94290f5/jwst-notebook/tests/notebooks/numpy.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/3e8f6adaf8bb4ac9e5e20c539b402a3bf94290f5/tomography-notebook/tests/notebooks/numpy.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/40b7a5ac3ece981e6346918253e1a3777ea15676/gpu-notebook/tests/notebooks/numpy.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/40d55fc90b787124b1315735eeefd2a2d25205cd/qsharp-notebook/tests/notebooks/test_quantum.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/413c18d5f1ac99f9409a264a516e4321cd73d04f/r-notebook/tests/notebooks/v8.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/44acf41180b32caa5f023c433f85d64eafd66fca/datascience-notebook/tests/notebooks/pillow.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/44acf41180b32caa5f023c433f85d64eafd66fca/jwst-notebook/tests/notebooks/pillow.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/44acf41180b32caa5f023c433f85d64eafd66fca/tomography-notebook/tests/notebooks/pillow.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/462b1af5ceb9f5e512f9fb4d2acafd0093041edd/bio-bigdata-notebook/tests/notebooks/pcpr2.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/4ba762563d8862d94ebda5c4619689723a3cf2d3/gpu-notebook/tests/notebooks/hdbscan.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/4be08b3c5fb1b28acda1d04f63c4fad7bc540a45/fenics-notebook/tests/notebooks/fenics.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/4d7849dfa7f5bd4ab6fd7df184743d204ceac045/statistics-notebook/tests/notebooks/uproot.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/4f6bf53c829e2c22729ccc675ddd33755f14f090/bio-notebook/tests/notebooks/r.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/4f82b105b5ef62e7274988adaea9249ab2398af8/bio-bigdata-notebook/tests/notebooks/xcms.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/5215aec3f7bdfaf41d5efc014829ca3d009227a9/slurm-notebook/tests/notebooks/mpirun.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/5412040fbefa6413493b24d74304434291b24cb7/hpc-gpu-notebook/tests/gpu_notebooks/tensorflow_advanced.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/587191d2db670343944caa597f49b7d2ad486205/gpu-notebook/tests/notebooks/graphviz.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/587191d2db670343944caa597f49b7d2ad486205/statistics-notebook/tests/notebooks/graphviz.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/58a89f06629bf611625af2c8c177649b8bce38bd/datascience-notebook/tests/notebooks/opencv.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/58a89f06629bf611625af2c8c177649b8bce38bd/gpu-notebook/tests/notebooks/opencv.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/58a89f06629bf611625af2c8c177649b8bce38bd/jwst-notebook/tests/notebooks/opencv.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/5a34d97d0c1dbe20f770026a5cd0a98413b350d9/r-notebook/tests/notebooks/leaps.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/5b39c0777a800c042cd4ea2fbcc4d060d7658815/julia-notebook/tests/notebooks/oscar.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/5b6a6cafa444ab05ba982b540262b145fa4e9531/r-notebook/tests/gpu_notebooks/keras_r.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/5b6a6cafa444ab05ba982b540262b145fa4e9531/r-notebook/tests/notebooks/keras_r.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/5d0df6105095d5f77425a03c258947da7cecc7e4/datascience-notebook/tests/notebooks/recordclass.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/5d0df6105095d5f77425a03c258947da7cecc7e4/jwst-notebook/tests/notebooks/recordclass.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/5e24bdd5dcac2778bb669526c4a473a1f0ae96f8/hpc-gpu-notebook/tests/notebooks/tensorflow_import.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/5e24bdd5dcac2778bb669526c4a473a1f0ae96f8/hpc-ocean-notebook/tests/notebooks/tensorflow_import.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/5e24bdd5dcac2778bb669526c4a473a1f0ae96f8/python-cuda-notebook/tests/notebooks/tensorflow_import.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/5e89671be3a65e61c632500a8621f171252c62b7/datascience-notebook/tests/notebooks/h5py.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/5e89671be3a65e61c632500a8621f171252c62b7/hpc-notebook/tests/notebooks/h5py.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/5e89671be3a65e61c632500a8621f171252c62b7/jwst-notebook/tests/notebooks/h5py.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/5e89671be3a65e61c632500a8621f171252c62b7/tomography-notebook/tests/notebooks/h5py.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/62237232e2aa0fd06db5aca904774a82ff184881/bio-bsa-notebook/tests/notebooks/python/which_tests.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/62800fff996793e19c89df8e4748b742032639df/datascience-notebook/tests/notebooks/pims.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/62800fff996793e19c89df8e4748b742032639df/jwst-notebook/tests/notebooks/pims.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/62bd0146c3bfec35c53e6f10fb907ee576a77ceb/datascience-notebook/tests/notebooks/scikit-learn.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/62bd0146c3bfec35c53e6f10fb907ee576a77ceb/jwst-notebook/tests/notebooks/scikit-learn.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/62bd0146c3bfec35c53e6f10fb907ee576a77ceb/statistics-notebook/tests/notebooks/scikit-learn.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/62bd0146c3bfec35c53e6f10fb907ee576a77ceb/tomography-notebook/tests/notebooks/scikit-learn.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/686463c68dc4063a250773b800b1ce13dcec7e71/julia-notebook/tests/notebooks/homotopycontinuation.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/6ad61be7d93f36775fcab14d77e9b6bee5208d1a/r-notebook/tests/notebooks/rtsne.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/75e8a00e189b8f394211a49ee246f4517aba15c1/gpu-notebook/tests/notebooks/matplotlib.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/7779c4a34700adceab4c5cc752f79d848bcb4312/slurm-notebook/tests/notebooks/apptainer.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/78e04c6e311efcf0567018a45d4d09eabb0b639f/datascience-notebook/tests/notebooks/pydot.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/78e04c6e311efcf0567018a45d4d09eabb0b639f/gpu-notebook/tests/notebooks/pydot.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/7a108bc707dd75dfd483e4ca0c660bfb7dc5fae9/slurm-notebook/tests/notebooks/g++.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/7bfe6ceefe58bc154ec0717f29be1ec26573416d/datascience-notebook/tests/notebooks/tqdm.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/7bfe6ceefe58bc154ec0717f29be1ec26573416d/gpu-notebook/tests/notebooks/tqdm.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/7bfe6ceefe58bc154ec0717f29be1ec26573416d/jwst-notebook/tests/notebooks/tqdm.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/7bfe6ceefe58bc154ec0717f29be1ec26573416d/tomography-notebook/tests/notebooks/tqdm.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/81b4255541cc3961c03ba7f2d067daee84deebb6/base-notebook/tests/notebooks/base_notebook.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/831130a5aaf595fd56bb1e34377b6f9bc2e433dc/slurm-notebook/tests/notebooks/mpi4py.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/8cad6dae76bd31f65866c776b8eb1cecf39a2b18/r-notebook/tests/notebooks/tensorflow_r.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/928ccda1e00703a119b81c6dd265dfe2ff73a56b/cmis-notebook/tests/notebooks/igl.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/9541db3249bebf3b553ac82125a230025da13315/datascience-notebook/tests/notebooks/sympy.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/9541db3249bebf3b553ac82125a230025da13315/jwst-notebook/tests/notebooks/sympy.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/95673719722308da440f3c058484f803d5320498/datascience-notebook/tests/notebooks/WMSLayer.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/95673719722308da440f3c058484f803d5320498/jwst-notebook/tests/notebooks/WMSLayer.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/95673719722308da440f3c058484f803d5320498/python-notebook/tests/notebooks/WMSLayer.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/95673719722308da440f3c058484f803d5320498/statistics-notebook/tests/notebooks/WMSLayer.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/959782aebaf3ff5dcef4858c614ef86241780186/jwst-notebook/tests/notebooks/bayesian_optimization.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/95e9d1f1ec47f8a8a766064e171c19f90be5a7bf/geo-notebook/tests/notebooks/rasterio.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/986a4d9f290f52b5781da3d7a5313af204743804/fenics-notebook/tests/notebooks/firedrake_basic.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/9c502ddfab32eccac8eeb49e9c191c8e71d8dedc/datascience-notebook/tests/notebooks/mlxtend.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/9c502ddfab32eccac8eeb49e9c191c8e71d8dedc/jwst-notebook/tests/notebooks/mlxtend.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/9ede2295058b820f4b5484ff9423edea6925506b/cern-notebook/tests/notebooks/root.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/a740a476679ea02308dc1034470e108c5e0d5413/slurm-notebook/tests/notebooks/slurm.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/a8949dc0f89e39ca181caf3bf065ca828914f72e/datascience-notebook/tests/notebooks/matplotlib.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/a8949dc0f89e39ca181caf3bf065ca828914f72e/jwst-notebook/tests/notebooks/matplotlib.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/a8949dc0f89e39ca181caf3bf065ca828914f72e/tomography-notebook/tests/notebooks/matplotlib.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/a9bc0a4332c86d7b659d9b82d19634469ccac1ec/datascience-notebook/tests/notebooks/ipympl.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/a9bc0a4332c86d7b659d9b82d19634469ccac1ec/jwst-notebook/tests/notebooks/ipympl.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/a9bc0a4332c86d7b659d9b82d19634469ccac1ec/python-notebook/tests/notebooks/ipympl.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/a9bc0a4332c86d7b659d9b82d19634469ccac1ec/statistics-notebook/tests/notebooks/ipympl.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/a9bc0a4332c86d7b659d9b82d19634469ccac1ec/tomography-notebook/tests/notebooks/ipympl.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/acd2f66cb72f98bde2c72aa75bf087f03874d053/gpu-notebook/tests/notebooks/numba.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/ad4c097ebd75d0db0704d3c6985c3fb800904ea0/r-notebook/tests/gpu_notebooks/tensorflow_r.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/b074be933dab4358196f3e970eeda8a1cb0620c2/datascience-notebook/tests/notebooks/cartopy.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/b074be933dab4358196f3e970eeda8a1cb0620c2/jwst-notebook/tests/notebooks/cartopy.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/b0cec122ab2b428e31a3fd01b171bcd2e3a79888/cmis-notebook/tests/notebooks/mp.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/b4693e6706b7331221985c34ebb31e8a7738b95b/hpc-gpu-notebook/tests/notebooks/tensorflow.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/b4693e6706b7331221985c34ebb31e8a7738b95b/hpc-ocean-notebook/tests/notebooks/tensorflow.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/b4693e6706b7331221985c34ebb31e8a7738b95b/python-cuda-notebook/tests/notebooks/tensorflow.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/b4fe65b95e28a71e94342b42b232aa014dac94ad/datascience-notebook/tests/notebooks/uncertainties.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/b4fe65b95e28a71e94342b42b232aa014dac94ad/jwst-notebook/tests/notebooks/uncertainties.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/b5bef3fefff75e4d1f02959145cdc68d108e4027/slurm-notebook/tests/notebooks/mpi.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/b768eb18c009c7fff861998edcce84e59f1429b3/datascience-notebook/tests/notebooks/astropy.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/b768eb18c009c7fff861998edcce84e59f1429b3/jwst-notebook/tests/notebooks/astropy.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/b9d75db22f5d167739759bfd6f4984077a14ae6a/gpu-notebook/tests/notebooks/lightgbm.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/bb97d4a5eec85714b429c461c5f2f0f6781dff4a/bio-bigdata-notebook/tests/notebooks/bio_informatics_course.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/bbd250f2b9c04102de83c1ba7ae613a97ba6b174/r-notebook/tests/notebooks/r.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/bedf1e147a2f0369604818313572510583cc0dfa/hpc-gpu-notebook/tests/notebooks/torch.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/c10a3b97159a27d73cb897075f908c1ce89ba95c/python-notebook/tests/notebooks/python.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/c4dead7680bfbebe909c8496b24c4d0f9063b6af/datascience-notebook/tests/notebooks/pomegrante.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/c4dead7680bfbebe909c8496b24c4d0f9063b6af/jwst-notebook/tests/notebooks/pomegrante.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/c51403113e064ca948a3ca1058a788469167b4b3/python-cuda-notebook/tests/notebooks/pytorch_autograd.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/c518888a960bcb23c829fa176ab7f275664362bd/geo-notebook/tests/notebooks/rioxarray.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/c5dd702d34590b4255d7167aaa5f901769566edb/slurm-notebook/tests/notebooks/gcc.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/ccb65d4c542f8cee20df07904c9f8c41b51144c6/datascience-notebook/tests/notebooks/iminuit.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/ccb65d4c542f8cee20df07904c9f8c41b51144c6/statistics-notebook/tests/notebooks/iminuit.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/ccffab037fb2cdfc103a2e5bcd2ca7abdc05df80/datascience-notebook/tests/notebooks/sklean.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/ccffab037fb2cdfc103a2e5bcd2ca7abdc05df80/jwst-notebook/tests/notebooks/sklean.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/ccffab037fb2cdfc103a2e5bcd2ca7abdc05df80/statistics-notebook/tests/notebooks/sklean.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/ccffab037fb2cdfc103a2e5bcd2ca7abdc05df80/tomography-notebook/tests/notebooks/sklean.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/cdee87fb2a819613181be79a3943c385b8c4b8b4/hpc-gpu-notebook/tests/gpu_notebooks/keras_classification.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/cdee87fb2a819613181be79a3943c385b8c4b8b4/python-cuda-notebook/tests/gpu_notebooks/keras_classification.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/d5a2a5eba36672595df84eff088d7dcc254ddcd1/julia-notebook/tests/notebooks/julia.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/d5ebc2ebe9c2935489a57b7c50a958f06449224d/r-notebook/tests/notebooks/boot.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/e00717059554d81538d78027d689a7f1b4769562/hpc-gpu-notebook/tests/notebooks/keras_import.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/e00717059554d81538d78027d689a7f1b4769562/python-cuda-notebook/tests/notebooks/keras_import.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/e56f101698820066ba30ba6314a86a35fa86c689/bio-bsa-notebook/tests/notebooks/r/r.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/f2f6a5459ac60e806aab4989a115a6ccf6085f93/datascience-notebook/tests/notebooks/maxiv_foam_notebook_test.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/f2f6a5459ac60e806aab4989a115a6ccf6085f93/jwst-notebook/tests/notebooks/maxiv_foam_notebook_test.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/f36b34dda6a7350da21b643c3c14f1b4bbfafae0/geo-notebook/tests/notebooks/car_detection.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/f6510a3ce747f28023a94eca6e5c2d9df98da5ad/gpu-notebook/tests/notebooks/scipy-optimize.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/f8da558be29981d094b7e46117df26d8328b2542/datascience-notebook/tests/notebooks/six.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/f8da558be29981d094b7e46117df26d8328b2542/jwst-notebook/tests/notebooks/six.ipynb
+https://raw.githubusercontent.com/ucphhpc/nbi-jupyter-docker-stacks/fc24ed864255a9e92acf5c1d03348d86797e7eda/bio-bigdata-notebook/tests/notebooks/r.ipynb
+https://raw.githubusercontent.com/ucsd-ccbb/NetColoc/3b5f7ffb4443df08460a090e36b6cf03d487b455/example_notebooks/ASD_NetColoc_analysis.ipynb
+https://raw.githubusercontent.com/ucsd-ccbb/NetColoc/5f7fe60b798818be24f517c000c2a1c4d2cd7dce/example_notebooks/Evalute_scored_input_gene_lists.ipynb
+https://raw.githubusercontent.com/ucsd-ccbb/NetColoc/6a9b8e021f5160f3bc4a888a02d8f519a9cfb4c4/example_notebooks/Quantitative_NetColoc_QNetColoc_example.ipynb
+https://raw.githubusercontent.com/ucsd-ccbb/NetColoc/8d9f8261ac0ac089e88ff1f2d55621d1c8f2442c/example_notebooks/ASD_CHD_NetColoc_analysis.ipynb
+https://raw.githubusercontent.com/ucsd-ccbb/NetColoc/f4e7aeaec29ff76ee58b70ab83b67729d7ff356c/tests/create_example_data.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/0048a19c52ce7c79e4c37aa2fd064a1e9c13418d/917. Reverse Only Letters.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/01b6903ef2c85b7a0b3c727e7fc23f7abab094c1/1796_Second_largest_digit_in_a_string.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/0345102f37168c360667cfdf299a97b7259567ba/1544. Make The String Great.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/038ba7f7106929930f0bd6b1c9f8a26897f444b1/2833_Furthest_point_from_origin.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/0407e2e392723a1acb69ec92e7b2216fafa23fb4/1051_Height_checker.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/062b24b14307c3d3b9c99b5f21bf7e977d968a85/74_Search_a_2D_matrix.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/063ea6fd45f0eab15c45a79d93af8af5ded87e38/1752_Check_if_array_is_sorted_and_rotated.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/0742ac030169135d7a383abc85e358e7b6e533f5/2404_Most_frequent_event_element.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/076aeb569ef0a505a7061533041c3fe6fe884290/2716_Minimize_string_length.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/08f5504c115c235109b25ae2d0e61744af159094/practice.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/0ce305157fe96d005af0c00889c7b72c843086cd/1281_Substract_the_product_and_Sum_of_digits_of_an_integer.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/0e6e2335f4897b2aa3bea221837143ae3759db44/2154_Keep_Multiplying_Found_Values_by_Two.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/0e723c86753da520f7017f3876773e71f9912c76/3731. Find Missing Elements.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/10d83e8316c06913b3a943bf7ad7bc50a83ea84c/34_Find_first_and_last_position_of_element_in_sorted_array.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/1191fb72b4462abc6999e71403fa3aee09fea89b/3516_Find_closest_person.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/1206ef7a4a8ec84751559247a0038b801c8d346a/434_Number_of_segments_in_a_string.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/12dcc60b5dd818c445305abe673af15cc987eb5a/2529_Maximum_count_of_Positive_intiger_and_negative_integer.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/1327d02471d6618be3aa44cea485b194cd4471ca/2882_Drop_duplicate_Rows.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/1373ecfac560334b31261a82b8429c38be5fc4e0/2022_Convert_1D_array_into_2D_array.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/142777052854246fa520eb1bd6874fdad0350fb5/645_Set_mismatch.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/14b0d27681cdeb767a6abc90b7eed634c19b9b96/151_Reverse_words_in_a_string.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/155aa08371f2662ba844d45324f8da1c5e206500/2900_Longest_unequal_adjacent_groups_subsequence_I.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/15dbc569100b76eb4db9d3da848f45b9a212ab14/1598_Crawler_log_folder.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/167cf20ec1c8a6d40c0ae593d90ab59c563c1bc7/164_Maximum_gap.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/16d5899f44e1683f4ed1bf794a6294e0ea5aa6f9/3033_Modify_the_matrix.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/187ce92b42944b2d89cfaa655a6572e37f01650d/1394_Find_lucky_integer_in_an_array.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/1901078f1f7f1e54f99999abe3dd79e28fdfa279/2652_Sum_multiples.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/190a630cf173cec1ab08b5f7a44a612493a1106a/Self Dividing Numbers.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/19f5631fd2ae7d3fb58959de7636f7f937c8b357/566_Reshape_the_matrix.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/1b881bd3bae2e06aa3c027f7e363216d08dd10ef/2956_Find_common_elements_between_two_arrays.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/1e9a0c0ce6ea7e1e04cc7541af2408acaef40a44/1869. Longer Contiguous Segments of Ones than Zeros.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/1f3418743cca21978a4c11b64b0ad85b9237f832/2656_Maximum_sum_with_exactly_K_elements.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/209a106e602dbc64c1558ec8d947bf9cc25d7d63/344_Reverse_String.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/2140b6cb5c8e3cdcc7018b0c77f5057668736bc2/2085_Count_common_words_with_one_occurrence.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/217441e102f4ad47bf41e8fd9bc3e7c5279f5d82/876. Middle of the Linked List.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/220217f76223066507bc580fff1b7b1359dd77eb/3110_Score_of_a_string.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/22472daf316512fe7569430d53ab9e67fa83c626/231_Power_of_Two.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/2283278bb979599ef557f8a19fa8e3c30e0d95d1/1704_Determine_if_string_halves_are_alike.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/245f602300281634ff9a615cf35ae7e269cc2d15/584_Find_customer_referee.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/24ecbf193c6844b2370e0dec35f142c1762c2f0b/1137_N_tribonacci_number.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/2535341a74ba9d0a791cfb4bae1205bb92db4534/2889_Reshape_data_pivot.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/25c236f424a58268546ef553c9f5d96794f690cd/3069_Distribute_elements_into_two_arrays.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/263a6005146b307a82c9756d4e9aa413922ce22e/961_N_Repeated_element_in_size_2N_array.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/27653db2e3486a59d201424f799aa1295914a64d/2806_Account_balance_after_rounded_purchase.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/2967a207660cd462639b56cf180fd07404b91672/2006_Count_number_of_pairs_with_absolute_difference_K.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/29b3e7603eb8bc7dd25e9ab29b8c90e7f60b1920/2582_Pass_the_pillow.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/2a74b025d649f2a7e9bd4603c507e9bc1c13f40a/2558_Take_gifts_from_the_richest_pile.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/2ad2b97b81bbf73f561f92d182e1fe0a347a3556/3512_minimum_operation_to_make_array_sum_divisible_by_k.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/2bbc3e16c669c9e7e982c18fb7cff3aa11ef7e78/2824_Count_pairs_whose_sum_is_less_than_target.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/2c2bee2bcfdac01582654314458f0b5263628b6a/2843_Count_symmetric_integers.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/2cb5e65aed0d875cb7053a86ac4c1428c21e34e1/2883_Drop_missing_data.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/2d2cd8e2b542a48c875465b5be191063e7e0273a/1979_Find_Greatest_Common_Divisor_of_Array.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/2e1e78cfb24a3bd47b370249df37d8cedacbbb85/1823_Find_the_winner_of_the_circular_game.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/2e39f443df1778467ecb788444410907fbb2622d/1701_Average_waiting_time.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/2ec594126ff0a4238e5bed58e43a7c2fd597f5a9/771_Jewels_and_stones.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/2ef8db83851673584a780860497824318bcdd350/3622. Check Divisibility by Digit Sum and Product.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/2f7744e2d3220458e85bc1b4a5ec0e686e076739/1342_Number_of_Steps_to_reduce_a_number_to_zero.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/3041879c3967e96bfa9ddae5cf6472221d1a89bd/2200_Find_all_k-distant_indices_in_an_array.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/30f3a16252fb89d9490eda49cd5ec3cfa570abfe/136_Single_number.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/323eb1339996b61df50656364e9183c9f4d86a35/88_Merge_Sorted_Array.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/32515d3ef7ee9bcfef893d8e02e3eb339d2af3bf/414_Third_maximum_number.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/330d6904b8880a734974bbc573406890232ed546/2879_Display_the_first_three_rows.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/3519c73ae742aca416d68032d30fb5b64e6d187c/3194_Minimum_average_of_smallest_and_largest_elements.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/364a300fb139f79aba6761c57a13acaa50405134/1_Minimum_element_after_replacement_with_digit_sum.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/36d92dc6137a0659f7741d9a5ba716df23f3d282/1460_Make_two_arrays_equal_by_reversing_subarrays.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/3710e564f6f540bb3563cd81a65afb99af1e4186/58_Length_of_Last_Word.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/37c841c436bb9295500aefcdef44063e9f251b46/1148_Article_views_I.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/383a415e32b08eadfa15984aafabe1cca0772e02/2278_Percentage_of_Letter_in_string.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/393f9d35f95936770a11de970e4ecda12f6f1021/263_Ugly_number.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/39c6166874c9860592bd349a0fa8c2fea15f185c/2042_Check_if_numbers_are_ascending_in_a_sentence.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/39d8088e69b16c0710a6ad420d7f49ca6acf1c09/2089_Find_Target_Indices_After_Sorting_Array.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/3a68dec678e4a65cc33a8e77e6a13922e0cf1da8/191_Number_of_1_bit.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/3b3e871c3a24be2c99d30cceb863a0e3a7c3c073/1757_Recyclable_and_low_fat_products.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/3f02a3d02d1c3d4cb392001e18fa0e24b009fa20/3330_find_the_original_typed_string.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/3f3b89496aff1b5a29f975e872ed8833aaee48da/693_Binary_number_with_alternating_bits.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/3fd36addc31d909d8bec7015b8dea4a91e93588b/3396_Minimum_number_of_operation_to_make_elements_in_array_distinct.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/4065423ae312e5f71b8c69ed7211d22e6e2368f1/1518_Water_Bottles.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/4070d9f8a567545e7073e27f8e616e2db7d53491/2108_Find_First_Palindromic_String_in_the_Array.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/416b1e21bf0eb168e9c43cc61094f6c07e927378/2880_Select_data.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/42c5fd95515dd0956be61d058ba57b68965a7701/2442_Count_number_of_destinct_integers_after_revese_operations.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/435ac9d180c972f7928c59bd30972868beb8e2b7/2490. Circular Sentence.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/437595312e70bd6f383785881348f7dc973257e9/3019_Number_of_changing_keys.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/43b6c8b0bcfe080d7abd1f2a73f550c7a5f56ce8/1346_Check_if_N_and_its_double_exist.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/44162eff14effb02dd067c7af44eba2fe34acefb/345. Reverse Vowels of a String.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/4417d402b05d98e5df847a4d0c8dbf4d6c412c1b/2185_Counting_words_with_a_given_prefix.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/44a0de16b32c8c0b651cd1256730c0747541cd85/3280_Convert_date_to_binary.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/450b51099cd9dcd9e9f09027790598102da8c00a/762_Prime_number_of_set_bits_in_binary_representation.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/45306c44333e5e01e720a416feb7d2b658206965/2367_Number_of_arithmetic_triplets.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/454b1a2499b4f03cd8f5c2b9b49c684303284990/1800_Maximum_ascending_subarray_sum.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/46f121ed533cedf198912fd036b44869f8d8b9f8/1832_Check_if_the_sentence_is_panagram.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/47f6be1e00f44e361fa499f7d05430d0de81cd8e/2890_Reshape_data_melt.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/4a4c0ae77e8b05cc5141506ca52463aab1f09c6f/83_Remove_duplicates_from_sorted_list.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/4b7b834ebd6b41dfbb27e3f0a5fe16e98c0ad31e/1550_Three_consecutive_odds.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/4c80973cb5c0bc7e25872a402f03972cb6bd9ec0/338_Counting_bits.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/4daf5d57e8643028c4ae6095d3d3b4a3fa1693f7/2886_Change_Data_type.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/4df675ce04655a4c609bc9183d530870a09adf16/3718. Smallest Missing Multiple of K.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/4ed00ba77c97c638695f805fc5634412d6b01e7d/2535_Difference_between_element_sum_and_digit_sum_of_an_array.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/503c8a69bf26e1dccbd369653d5fc16bebd0b9ad/747_Largest_number_at_least_twice_of_others.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/50874ae0fa21cb710b063ac0b88d85656b5dc96e/387_First_unique_character_in_a_string.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/508e026d349915b073cbda169d0d500f7f79536f/2873_Maximum_value_of_an_ordered_triplet_I.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/521d29739b876fc824b1edc676a78a1d39299587/2011_Final_Value_of_Variable_After_Performing_Operations.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/536874e4d7f77bbe9f99be95361ffd183c6e83e7/3158_Find_the_XOR_of_number_which_appear_twice.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/55c42ab5dc84fecd78c2eb926a147bd633a80620/28_Find_the_Index_of_the_First_Occurrence_in_a_String.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/55e73cbac9d84a2f3c9cbb8718552c49cec3fdfc/2881_Create_a_New_Column.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/561b10b8c7f727c1e4f681e918401201da348577/1816_Truncate_sentence.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/568d44da7841885ca7d42bca62d94f8b4374b1a4/884_Uncommon_words_from_two_sentences.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/56946aafe117c36d8710be8a7f55695952cdef5d/2169_Count_Operations_to_obtain_zero.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/56e6e4cd49570d3c4a87ee3b514ef5744b144f49/168_Excel_sheet_column_title.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/5a011fde8733540cb4f38845b6f6af12765aca26/1684_Count_the_numbers_of_consistent_strings.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/5a319cf2d2bcf84c7ea2ef5592789e1198b0a585/1945_Sum_of_digits_of_string_after_convert.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/5a3e8d17ee45012b9ae0aef9accf742040fe87e1/3005_Count_Elements_with_maximum_frequency.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/5a56704d90d3a7a993b0bed42392a45d25ad008f/2810_Faulty_Keyboard.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/5aa1e49b894bb58cfd043a9a7f0408fd67412a54/1200 Minimum Absolute Difference.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/5b5723d89671fe2b182737f81f6ff089a4303cd5/1380_Lucky_numbers_in_matrix.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/5ba412ee763afd8a9d0fd41ad21467d3506d8f48/75_Sort_color.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/5cccc0edc66144d07b05ee3e23a3fdf22e18209e/326_Power_of_Three.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/5ce6e0f74c46a1f47c4e7e5a5dd5aac097bec047/2884_Modify_Columns.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/5cfb01873f10aa39bfeb1cbb36b4d58a80a94cd2/2923_Find_champion_I.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/5da08502e5617f15ee25901dbf253420a6bbb4c7/372_Super_power.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/5de42710c8abc30658bb7ababa9f0070ea1b9afb/2099_Find_subsequence_of_length_K_with_the_largest_sum.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/5e8001a2762e4aaa0d62d481937e749cacc3c381/21_Merge_two_sorted_lists.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/603fe76648fccc3d20df1cdfb5eb981e024c3c87/389_Find_the_Difference.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/60d1e4e8cfd71fc476ae4c31c1fc56703c8dd44c/2164_Sort_even_and_odd_indices_independently.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/60dbe92260c937d415ea23d0102c74429e092a9f/2206_Divide_array_into_equal_pairs.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/60e40f8bbf45e3bbb643f351ea5ca9c66f8b1ef1/3046_Split_the_array.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/613073224273edb504049b77c093d879a3baec16/2418_Sort_the_People.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/6370f71d52cfa8dc1c04f0e97853bdd961df1a4c/3000_Maximum_area_of_longest_diagonal_reactangle.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/6404ba1c92817a2c4390bcc2520f839d7aa9d06d/350_Intersection_of_two_arrays_II.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/641520543b236d1ba49f6b782f24f48e4c1bb11d/3794 Reverse string prefix.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/643e720595dfde9785ea001383bccadc1606238a/1089_Duplicate_zeros.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/6597e506e4a8a6f6e6c3088fcdb8268bc1199450/2180_Count_integers_with_even_digit_sum.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/66e1b9a19969719f3d59663b9799b51cef3263c6/2138_Divide_a_string_into_groups_of_size_k.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/67a7d22bc35b1651b4879c37a0972af8472d2df6/3270_Find_the_key_of_the_numbers.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/67b5d867645c8d9c1faec21880dd19d8ab9887f1/2016_Maximum_difference_Between_Increasing_Element.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/67d7541c26ec104e5a3b85bbede89fe9ff62d48c/2248_Intersection_of_multiple_arrays.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/69b8213b71786fed3733edd734f2a235fd71a563/Find The pivot integer.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/6a058c71359ad4f689e4be9b10403e644e7c0fc1/415_Add_string.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/6a4a88ffc748343b249f4bd4f47f430e4be18dec/2798_Number_of_employees_who_met_the_target.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/6aadcfd9f187fa4a92e95c69d0e9d45d8593d346/2541_Find_most_frequent_vowel_and_consonant.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/6d6eb9d325d4e0977393cb812ae3f2c63d86a160/342_Power_of_Four.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/71a61b93180724cd788c96a11490c1f04246260e/1331_Rank_transform_of_an_array.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/72bc4272144cd1818d3be9e80964b05731d1a0a3/2942_Find_words_containing_character.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/73aefa50a04431f2724e78d4e3ce52141a03fbae/3151_Special_array_I.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/7468bb62fce0c0dd85de27b2ec016f957ff02fe7/2119_A_number_after_a_double_reversal.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/762cf5c81fdeef39ba089d2faf45a0d439969723/2481_Minimun_cuts_to_divide_a_circle.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/76908b7b6db9b4af07b10126995bae07196a1dfc/2965_Find_missing_ans_repeated_values.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/76fed81c97015d3dd8c7e6bb565926af7134ef35/2455_Average_value_of_even_number_that_are_divisible_by_three.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/771ae04a91f3df8ec41e94d00f4f3a136c9e7270/1475_Final_price_with_Discount_in_a_shop.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/7984e7130d09c02f2ae28340608460ea5819abd7/1295_Find_numbers_with_even_number_of_digits.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/7ba70430dfe1487b0b5f45144bbf5dfc6670ee56/2951_Find_the_peaks.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/7cfa0c9770dde61a0455d228f5256dc43a760118/922_Sort_array_by_parity_II.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/7d9b0297cb3ca7569c39dbe62400931e38360de7/2903_Find_indices_with_index_and_value_difference_I.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/7da035a58b46a5ed220b0f5627bb7dd9ef1f25e1/1683_Invalid_Tweets.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/7efacf34ab7e35d5d6e50bcaa642a36f1da9d05e/1422_Maximum_score_after_splitting_a_string.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/80ac9cc65cd0e760b700ea3e1c6b9b845443e444/3392_Count_subarrays_of_length_three_with a condition.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/82aaf723ac2328ee3e90ee51d00f15454ee7db71/2176_Count_equal_and_devisible_pairs_in_an_array.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/82f0da1c19c0fea7241d5f68f69c0f793a121cf7/1572_Matrix_diagonal_sum.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/83dbeace3705df5b33e377adfc405d90def1324d/3131_Find_the_integer_added_to_array.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/842f3749036b9bfd952e6982bacd2bf051f75eed/2094_Finding_3-digit_even_numbers.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/84a50146d908f7ad2fee47da73c988600d848b71/283_Move_zeroes.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/84fc82a2b0bee5a35284cf28ab12119112d37373/2887_fill_missing_data.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/853d26381679f2366c12a7283abb1a1d351d527d/1920_Build_array_from_permutation.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/85a2b557ea775c27f21cf3d024de55fe15fbe81e/1688_Count_of_matches_in_Tournament.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/89e61d2f84fd70aa536ffbb8987d51b321d1e5f8/66_Plus_One.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/8a0367e41641042e888b76246f104323e88cf600/118_Pascal's_Triangle.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/8a09380391e738a5733b5109f24b27031656c499/2769_Find_the_maximum_achievable_number.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/8a2acea53adfe98901808f73e2bbac6338758477/3024_Type_of_triangle.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/8a4b4cf6881b74d472595794b1eb592ba4f171c4/2974_Minimum_number_game.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/8a9effb49e62aff04c610f1692db1cbcfdeb8a13/2574. Left and Right Sum Differences.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/8aa6656c629f7e2343d240174850ebe2451987b3/121_Best_time_to_Buy_and_Sell_Stock.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/8aa90619ab38a2dba5b815473c4211b1feb891df/1662_Check_if_two_string_arrays_are_equivalent.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/8d95bdfc184293c8ebf0bc041f20b25f03a9aba6/1732_Find_the_highest_altitude.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/8df5cbffe6a4c021477bfc93e89d3d0b8b09d772/2859_Sum_of_values_at_indices_with_K_set_bits.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/9032a6f143e771a548c950f169a2bdbf4bd186f4/3432 Count partitions with even sun difference.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/90d6d6ba8a76454621f75f642337d12d51af5381/3823. Reverse Letters Then Special Characters in a String.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/9170dd1ff8cefff2e8be887c895bd87a076d8f7c/1108_Defanging_an_ip_address.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/918195afe5540217ddafb166f0bec87ac97b50fa/175_Combine_tow_tables.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/91babb7dfb526da15488f3cdbb557a5d27eafe94/744_Find_smallest_letter_greater_than_target.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/922e584637b627cb07d40b149fcea311e3d525b6/643_Maximum_averate_subarray_I.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/9238bb602585f1a9b4e4ae263cba2e77388eb4ad/171_Excel_sheet_column_number.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/927316f581906731d6a18e3545ff10abbf5af762/1502_Can_make_arithmatic_progression_from_sequence.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/96a3d439b9a111d3f0af3a7732cbd94d68d4f006/507_Perfect_number.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/97fe1b7d03f40fd5730a5662b1e642c55a003812/3658. GCD of Odd and Even Sums.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/993fb489ec553449fe19f230ad55cfa80dd219a7/162_Find_peak_element.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/9fa01c0f0f7870707662d6a7c97d07e0dd92450b/43_Multiply_Strings.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/a0af7f230485666cab1e8b74db4fb679a917ca86/3754. Concatenate Non-Zero Digits and Multiply by Sum I.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/a0f6b192e04adbd9923d9acd630fa936e8d0287e/349_Intersection_of_two_arrays.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/a0fb4126d0fb698767aa0db0f9fe92d7a5761ac9/1805_Number_of_different_integers_in_a_string.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/a49f71484419a75ee10bcee7d523d5c46cd90e9b/2544_Alternating_digit_sum.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/a770ecc24f879ce6021e507e631e0e48abf18852/268_Missing_number.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/a81280b6de6a1038fb73963fd6cb5701fdb48217/1995_Count_special_quadruplets.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/ad51f3e669f9f042cd713422720d9626ce4d6c53/2562_Find_the_array_concatenation_value.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/af408db598c87b5e2f2743c5cc4b364bdf1decdc/1952_Three_Divisor.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/b0bc916c858048dc131c2741741afca9c6195f6b/2643_Row_with_maximum_ones.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/b2d4d18994910148a351813c59802b7430a3b68e/2220_Minimum_bit_flips_to_convert_number.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/b32b413afb2de1f2014b247b5cbb08e42730d900/2678_Number_of_senior_citizens.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/b3301db087308e78689f2e1b1a31c029895f68f8/383_Ransom_note.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/b579ac706db0091b2fb92ef420ff2b5ed4780471/485_Max_consecutive_ones.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/b5d128e7381e0e49e17fed6e6f231b9c8b561b34/2427_Number_of_common_factors.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/b62e1c7e63a6540733552beb0914c26a29b09fd0/1128_Number_of_equivalent_domino_pairs.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/b6b08902187966daee0a7ecd01446444840c16c2/2129_Capitalize_the_title.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/b73b6943ac8e161dbe6d428b2872aff007338c0d/3232_Find_if_digit_game_can_be_won.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/b89b10de5b7eb0d17b4806d874e83a4a65f8ca21/476_Number_complement.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/b8e4a1f9e32b15ea6f310dbbba515160b44e2cbf/219_Contains_duplicate_II.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/b95236265dbcb09530f8d2a9cf80066aea9d63c8/1876. Substrings of Size Three with Distinct Characters.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/b95434af1ac029014ae53e2cc5c78bf00a78c462/1935_Maximum_number_of_words_you_can_type.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/ba3229f69567056ef823334e987bdb914deb83dd/1957_Delete_characters_to_make_fancy_string.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/bc7254fcc8381f34de2cfbffb4dddf287f2646c7/2908_Minimum_sum_of_mountain_triplets_I.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/bc76d8d5235c83d03612ca3829dd515820e7b7d8/1437_Check if all 1's are at least length k places awaay.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/bc87093fc78c1d650ce36b7523a655678f4e848c/724. Find Pivot Index.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/bd3e64d18a893959cb3a8277c9eef06de4a3ba61/2614_Prime_In_Diagonal.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/bdaccded83c64485c8924de5222146b6cb5804e0/258_Add_Digits.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/be17a0c1831d07ff4e9ae94cfe3558d1189dd960/2057_Smallest_Index_With_Equal_Value.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/bf7fb6b72629024ac93c41e5fabdcc6dfb9fdcc1/3471. Find the Largest Almost Missing Integer.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/bf8741d7fbbfffb851e51b61766174220c32dab0/2877_Create_a_DataFrame_from_list.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/c0588024d552132647f866cde4344801a12f3178/595_Big_countries.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/c2968b37271f3beecbbe7ce3dd9db1fbc67e26fa/1190_Reverse_substrings_between_each_pair_of_parentheses.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/c2f99a3982800b4ecdd8f75b98b69604c2f1e2a4/2520_Count_the_digits_that_divide_a_number.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/c3f2bde14e50a4da5680612298becad0d37c1af5/14 Longest Common Prefix.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/c5a68d5e0ede88e4a76f97484911dfbb7afb1523/3174_Clear_Digits.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/c8a15a5fa5aedc1627335102804d99b051c4c822/2351. First Letter to Appear Twice.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/c8c34091852fbd33b7d7e912af3affb87f178603/240_Search_a_2D_matrix II.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/c96bf2d580274dc658eb5c960ab6749275f10caf/2053_Kth_distinct_string_in_an_array.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/cad6ab243546b9e9e21ffdffe85a9c363dcfbd31/35_Search_insert_position.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/cb1b6878354cb61c00468ffd91ad89b675bd093c/2885_Rename_Columns.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/cb2d813bddfef24b91241035fb97857910d93aa4/2460_Apply_operation_to_an_array.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/cc4e34c818b996e66a3606ae00264db58c5833e7/242_Valid_anagram.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/d19be108f16f992f46de221d006d9b88261d2436/3099_Harshad_Number.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/d1e2399a6114b1cdff5d4e9b7b1911e96418ff4e/557_Reverse_word_in_a_string_III.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/d43e95e9391727efce9134e16f5055e804b6413a/367_Valid_perfect_squre.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/d52e72a228a104b939c8513040e32116b92c93c2/1929_Concatenation_of_array.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/d5454709c3e06d2b66bce4bf304596fb897854ed/3442_Maximum_difference_between_even_and_odd_frequency_I.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/d6631753b6825c40080a309eff9418554dfe5588/2506. Count Pairs Of Similar Strings.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/d75667555c9da93a806fb06898b77c337aa54c0e/3065_Minimum_operations_to_exceed_threshold_value_I.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/d78022812fb2da01dbbe7f5bbe78a101f3305d95/392_Is_subsequence.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/d8179fb03e6f01fd703486a1bc2aad806c676027/2888_Reshape_data_concatenate.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/d96ccc5a98767a7f263dc3f021fb39e11ad7fae7/657_Robot_return_to_origin.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/d9927e7778e7261fef8e1765debea7b5401a03fe/2264_Largest_3_same_digit_number_in_string.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/d9ab5bf9cb2cea7038937778ddec28dbb53b836e/2553_Separate_the_Digits_in_an_Array.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/db65f2d7cb2399109e6929d363f400b2a1805248/2413_Smallest_even_multiple.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/db98dc4cf50a028c882db38d715e01c134501278/1002 Find Common Characters.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/dbc55aa1f314e245e8422f0f5b3d8649e281e096/2744_Find_maximum_numbers_of_string_pairs.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/dc46953d621acc8cef86ed349a4636521d505d23/1207_Unique_number_of_occurrences.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/dd297cde0bc3dabb539f41338c1dd4be0bb43a74/3483. Unique 3-Digit Even Numbers.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/de25841d888a41d47c57b4d778c7bbe56078326d/1534_Count_good_triplets.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/de85a7dca6fae42e43c93c85523f4912055efe3b/3014. Minimum Number of Pushes to Type Word I.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/e04ade96ac2b5f4e19575a6989354d789063861d/2475_Number_of_unequal_triplets_in_array.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/e063833b71c13b7a1392ca636cccd37b1903942c/202_Happy_number.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/e1b27eacc50f2a75425a19bb65b5bbbd7844efea/412_Fizz_Buzz.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/e28c141575a5913bdfb4adfa572b67382f0eb330/605_Can_place_flowers.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/e29596f97e978e0bd60fbd233a6c3e043f3282ad/796_Rotate_String.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/e3c39e0c64e1034ee142523797a04e4561d7d711/2124_Check_if_all_A's_Appears_before_all B's.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/e5de4a0147c28114cf7233d627434052283f7225/844. Backspace String Compare.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/e7839412ae8630ded88aa2f8f77b9d9aedea1343/119_Pascal's_Traingle_II.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/e92f7df336b876fb71b8eb5b537fb1bfe2c16d1b/2828_Check_if_a_string_is_an_acronym_of_words.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/e9ae615d3801d58d6b0bf732579253abfbd97b1d/2215_Find_the_difference_of_two_arrays.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/ef0615217f4cdbfad8d2899744ec0bb3c0c3f07a/2469_Convert_the_temperature.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/ef44afb1e6edadb72dc87db28c578b7ac1861679/905_Sort_array_by_parity.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/f364bc3ef8138568b2a43629736e1b5fbffd5264/852_Peak_index_in_a_mountain_array.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/f4aade573eb00b15ee59e0e62d36d699da630e88/3423_Maximum_difference_between_adjacent_elements_in_a_circular_array.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/f4c9c89d0720f49c29f8af30172a9d0f1b17ddd9/50_Pow(x, n).ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/f4df8b4492557fffc82a25f079d4a469ed17e0b8/2878_Get_the_size_of_a_DataFrame.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/f50bcbe4fa1b147f680f035dade1355a83cc5681/125_Valid_Polindrome.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/f7cbb0742f566002a69df44d0f90aeac1a83971e/1047. Remove All Adjacent Duplicates In String.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/f7e6711ec0cfc19337941a208390c9b2b4d0745c/169_Majority_element.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/f7ef84665f3b04ca17f38267180772b42ae84658/3010 Divide an array into subarrays with minimum cost I.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/f85ff069b7458fdbd071f03860f2387065ae2881/1009_Complement_of_Base_10_Integer.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/f90e8fcf8be558706fe4d0a3561d71fcb7a771d6/9_Palindrome_Numbers.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/fc16574e95772e9e8126d596cc18c378d60050b5/2891_Method_Chaining.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/fc41ca6cc63a1d922ddea78f618c515c5343164f/1822_Sign_of_the_product_of_an_array.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/fc82e8f718664ad4772240aee5889840df985e72/2894_Divisible_and_Non_divisible_sums_Difference.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/fd8455d25fdf35f1d89703e7d8d8e59ea2308faf/2696_Minimum_string_length_after_removing_substring.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/fe009061c91182a3d9ab5e8a436932e52d88dfa7/1455_Check_if_a_word_occurs_as_a_prefix_of_any_word_in_a_sentence.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/ff36813a95520b37ad7c987a7bd4fe515f478d16/2733_Neither_minimum_nor_maximum.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Easy-Problem-Solutions-in-Python/ffd581c03a1eb55c627ac3d6f4031755295ebe38/2540_Minimum_common_value.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/05d6abefe59ce663035f195df0602b41c74e49d2/2856_Minimum_array_length_after_pair_removals.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/083eb35b83f0829ec188801a9351cfcd074b4e99/46_Permutaions.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/0b1f34c8acd4a5065116615706a5b429985b4b5e/198_House_robber.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/0e6577c1e3f2c8c87db2d669026eba0deb21c51a/725_Split_linked_list_in_parts.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/0edb23fc3da9608f08fdb822aa3c58e028fcbdeb/1813_Sentence_Similarity_III.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/10bca6f70f719c6363a5722ba4fff23e2664f123/233_Rectangle_area.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/12206b47a9fe83918fb93ced9efb112a0b3f0ed8/1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/13b294e0af761156af9473de92c93fb8b1513604/33_Search_in_rotated_sorted_array.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/156c4fd1eeb260440aea6f1571b859cac5ba5ee5/532_K-diff_pairs_in_an_array.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/15b13579883305edade3210aee79bb1bf0934f1d/2415_Reverse_odd_levels_of_binary_tree.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/1664e9ac39bf0370d01f319fef6c9c25d9583bc6/3_Longest_substring_without_repeating_characters.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/19b056a915113398360d44f7d8ad3f3553578bbf/152_Maximum_product_subarray.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/1b7084d6dc01f3eff7b845736826468ac6eaf12a/287_Find_the_duplicate_number.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/1c72251753f2fb014e756463813ca5494dfdafd7/47_Permutations_II.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/1c7b717fe5a5d71c0ea5525005283cd6b049c123/77_Combinations.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/1f5236e82e6fe06a910882fed7186969137d7247/2825_Make_string_a_subsequence_using_cyclic_increments.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/20a01543ca570484a8960109c9ae876e80bf2609/1310_XOR_queries_of_a_subarray.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/2103da6b140d45ea1f0a994042aa8438efba121e/260_Single_Number_III.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/231a7bae68c1d52bdaadd6d39a955e252e9bdfaf/1367_Linked_list_in_binary_tree.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/26cf0128dc7b351c0f4f3c20c516bd4536524696/2905_Find_indices_with_index_and_value_difference_II.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/276d855ba23f959a5867568b364d9e3e8ba79712/3179. Find the N-th Value After K Seconds.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/2b1703d9dbf9b332ec09b4139976560b78623741/2938_Separate_black_and_white_balls.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/2f7f71684fc7949b19f8a9fe8e72010582e95f14/2195_Append_K_integers_with_minimal_sum.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/3061350251dfe47fb05bcd14c8c87e8aed114c8b/172_Factorial_trailing_zeroes.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/3116d4139d8608598c0361edab5845da6c8b575b/78. Subsets.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/321d385279a6e1cdd537103ffa9286608ea64d67/2_Add_two_numbers_linkedlist.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/33e485c6ae0b285a3f74c2d06965b59823e42651/386_Lexicographical_Numbers.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/36fde158f665d8c133206ecaf6115edf636b7ad6/647_Palindromic_substring.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/37f070c25a4a6324c6e433b21443cd3bf0a1f6ec/540_Single_element_in_a_sorted_array.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/3803967f3e3c458dce05e6588371bb4115c528c8/2554_Maximum_number_of_integers_to_choose_from_a_range_I.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/398a88f9a18bb99b34c613a28183566430b8774a/3100_Water_bottles_II.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/3b541f69da21ba1b179dcf1771f57a6015296951/2221. Find Triangular Sum of an Array.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/3fb08786418a805a91810ce4a71d48d872debde0/2779_Maximum_beauty_of_an_array_after_applying_operation.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/4179b6b70a274149f6f429345eb90169eca3b039/2940_Find_building_where_alice_and_bob_can_meet.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/41db5f8cbc6175c8773b5eb54625a995eba8b429/2390_Removeing_stars_from_a_string.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/435dacb228cccaaa05db8bdd084bca9487d7f834/378_Kth_smallest_element_in_a_sorted_matrix.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/43ed4882b6a5dae8b2a572b86f4a8b46e56c3962/1760_Minimum_limit_of_balls_in_a_bag.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/444af2d52ed7560b0ce961d3f42facd99f827111/334_Increasing_triplet_subsequence.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/45e0f2774072561cc54e3184b7c6787d53a34f4f/2028_Find_missing_observations.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/4851c987fee51624930ff86e30924476587e8f53/80_Remove_duplicates_from_sorted_arry_II.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/48c218bf586aa4fb314346571b2c10742e6809b9/237. Delete Node in a Linked List.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/4bb22141a57024d15c9c16a02bb7835d8844c093/237_Delete_node_in_a_linked_list.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/4bcb7d7fa00c1a2a1ad6512dbbc778837689c8e8/3804 Number of centered subarrays.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/4e22ec9a162dbd818a78aadee5541ee6d13bebe5/1963_Minimum_number_of_swaps_to_make_the_string_balanced.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/4e904ca9dcd76b96255730a9ab48a7410c3f0a96/179_Largest_number.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/586df54a8a0fff3edc8eac0a6eed6962b556883b/41_HARD_type_question_first_missing_positive.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/588adae9064ca7113acf16f78b05c1ce7ef2a068/3301_Maximize_the_total_height_of_unique_towers.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/5bc06324a617420344cba3ad69d96d9cd5f0ae3c/523_Continuous_subarray_sum.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/5d2bf92e6c2b1752a5cdc6b01855f48d88707d62/137_Single_number_II.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/5da537352d2b47176bc22ac45bf9e720febbea76/567_Permutation in string.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/5f49d867cfd66f4dd2032562994e7182900f7240/2872_Maximum_number_of_K_divisible_component.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/610ff29bf8ad789e663f39b3eb92e9614a9726c6/19. Remove Nth Node From End of List.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/6969df581e17e9f97d7ef9709a27a07d34f1d2ad/215_Kth_largest_element_in_an_array.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/69b9aaf505ba504d83f62272a84bac91d181df81/176_Second_highest_salary.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/6c97bb59a3d28f9d8830cf10df36f10f6018e255/451. Sort Characters By Frequency.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/6db7242a72cf364597e46fd39652b5433730cbe2/189_Rotate_array.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/6e5e686c2169a16c546ed2b5330cbf7111804b30/274_H-index.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/6e775d49f235c523a1eb40dd76122dce8460fc08/539_Minimum_time_difference.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/6fe303d7b16b8fe9dae40a0dabfd4a595e22a94d/2295_Replace_elements_in_an_array.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/721d3e387910e70199f2158bebf3c44e1cbcb33c/1007_Minimum_domino_rotations_for_equal_row.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/72f921444574782be1e05f2cd62ca5cf4a8e6064/769_Max_chunks_to_make_sorted.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/73fafc95081c4809fe32e0cf76ccffa2f476d3bd/5_Longest_palindromic_substring.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/768f759c1c790d267fdd4498d75c0f7896a54ded/2425_Bitwise_XOR_of_all_pairing.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/770ab1ddf9d13ffc69f7e9c450da1676ad1bf139/2182_Construct_string_with_repeat_limit.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/773db80dac0997af31ef3f63c410ac4b994127b1/2091. Removing Minimum and Maximum From Array.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/788cac88ef86b1e55bf7144a30c5119dc839c766/515_Find_largest_value_in_each_tree_row.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/7cd4b106bbde886ef187f45a5f02b49153feeb06/474_Ones_and_Zeroes.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/7cea801082a6c1aeafafb6fc71a08e718d0c7b21/1456. Maximum Number of Vowels in a Substring of Given Length.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/7fefabaad9067db4118dc3d537de4969d7846084/2337_Move_pieces_to_obtain_a_string.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/8099a7c9289f2198bcdd5568fe023b7ed864f6ad/2563_Count_the_number_of_fair_pairs.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/81ced23a78c787e2bafe7abd81272b3417c2c030/153_find_minimum_in_rotated_sorted_array.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/8292c85ff151572f04884fe3d222867e66533c39/2149_Rearrange_array_elements_by_sign.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/837308adb45f2599eb05a2b7fd3fe33ca29adb17/468_Validate_ip_address.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/85dd894ea5b4eb34b4ecfb07beedb5d1438f7844/2044_Count_numbers_of_maximum_bitwise_OR_subset.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/8664ff8051999af59aea78b7b7573acd670ace89/916_word_subsets.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/8738005dc8a77768b8210808e01fa5aafd64bbda/443. String Compression.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/89a15f2feec3ec92688f37b9ccef624822bef5cc/1590_Make_sum_divisible_by_P.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/8a3df88e80a8332e808ce67055f6ad29826eb427/2799_count_complete_subarray_in_an_array.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/8b3b4df848f2d8650c76f7d85022d127b29650ad/1497_Check_if_array_pairs_are_divisible_by_k.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/8b6117115a36b447cbb212b795850b8b0b367b41/962_Mximum_width_ramp.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/8ee22197bbec89c3e6e29dd94d73b9828d94faa4/1492_The_Kth_factor_of_n.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/8f1941f1d111ad16188bbff69ef2e257f028deff/556_Next_greater_element_III.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/90a592496e4eaad57dc20ba2d5acd1ec0c661a62/3941. Password Strength.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/91600e341ab4648c1bd1a6e29c7232510a61e8e3/2161_Partition_array_according_to_given_pivot.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/91d6d7a6398d67be7555ee5c41ef8e285cc997ec/4_Median_of_two_sorted_arrays(Hard).ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/9865414daf01803f63585bb63340965213e73d37/2762_Continuous_subarrays.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/987183a6e4dab3ad83d630bab912c7fd6d7f09e6/1894_Find_the_student_that_will_replace_the_chalk.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/9dde6810b9f77b1f7d34584df011ec93b8643142/1792_Maximum_average_pass_ration.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/a11e58269f720fb16a5af0f50c7ada55f80d3177/1726_Tuple_with_same_product.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/a4e5b1d6a3a068d4940cca43005553177b1b3b9a/3217_Delete_nodes_from_linked_list_present_in_array.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/a84a7374a5d0e079168e17c66f608a412d4a52c5/1404_Number_of_steps_to_reduce_a_number_in_binary_representation_to_One.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/aa0fa355c9593a8e324a3fffedb8134b09c4bb98/869_Reorder_power_of_2.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/aa27f34c76b50da4672c8f7fe229e9ced21951bc/1291 Sequential Digits.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/aa3144acd004d172d7e136b222676e6ac3204fc2/3066_Minimum_operations_to_exceed_threshold_value_II.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/af02997147a2b4c272356e398dbc1e2275ae363a/1721. Swapping Nodes in a Linked List.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/b07a0f88fa57ab09d28941600a80103f241169f6/2501_Longest_Square_Streak_in_an_array.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/b28be9c881c664dd214ff2b85fb38028942c9552/15_3Sum.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/b4cc018135e7392ad40da5ee0002b13822004295/Practice.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/b6070618d3bc12a5aeb5f8d1f4bfe453f6111c12/494_Target_sum.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/b7d6476f41f05be312a178a60ec50cfdf37e4a6c/396_rotate_funciton.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/ba0318c4b50cd3ca842d1a4cfa5f0fcd2d7b224d/16_3Sum_closest.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/babfa2873f36a68adfaf266e8fb97c72901f6911/3133_Minimum_array_end.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/bc8a6c6853541cbbf6acc0d528b72caea78a5745/2471_Minimum_number_of_operations_to_sort_a_binary_tree_by_level.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/bcff5003999339188fb1921f1f58485e52ff3df8/2981_Find_longest_special_substring_that_occurs_thrice_I.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/bdc1a08e15181fc34e084a34afe013b2800430e4/128_Longest_consecutive_sequence.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/c2841539019ffe9a67572205c8ce0f5aaf1d74f0/2785. Sort Vowels in a String.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/c3b6b8985977b2480510b575c9d1ecc0f1bca3b4/43_Multiply_Strings.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/c3e7bf4c5198709209064af8ab49bb4ce94217ba/874_Walking_robot_simulation.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/c429eab8053bfd60aa530b3e6c5258231049346d/81_Search_in_rotated_sorted_array_II.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/c97801de57ee90591ce6f59948cb4da72fcf376c/921_Minimum_add_to_make_parentheses_valid.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/cace79d1404e4f655c9247144c026a82f9a9267e/2419_Longest_subarray_with_maximum_bitwise_and.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/cdf1eb189e221fa8071205116e2415d32bfb508d/2962_Count_subarrays_where_max_element_appears_at_least_K_times.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/cfacd793fe3238477667ca341a0317aa8c0ae50c/2342_Max_sum_of_a_pair_with_equal_sum_of_digit.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/d3b6f22c1c487ae46aaf1fde87c61344c46a2f58/1695_Maximum_Erasure_Value.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/d5ff2353c0da395a9beef7de8ddc3e6211fc562b/49_Group_anagram.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/d6ea8355d6f1de799f868dda31808d4ab76ed494/970_Powerful_integers.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/d713dd9b070d95e98cfcecd2d9d96708b576f109/2109_Adding_spaces_of_a_string.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/d9022952641fad65771281a2b524dad5fec54e5d/689_Maximum_sum_of_3_non_overlaping_subarrays.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/daa3e517b13b441a7c1e52f42f25ea7370297ab7/148. Sort List.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/dd2126fca7e5326a9083d431a65171b8e67adb4e/7_Reverse_integer.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/e077c4ac1e17f9b7d1f36875fe773bfe4364ab5c/2274_Maximum_consecutive_floors_without_special_floors.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/e0c5ed7197f084449d5c411ec602fae878e52413/2461_Maximum_sum_of_distinct_subarray_with_length_K.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/e0e901accde4b2e95a902c32c7454897ca627e10/3152_Special_array_II.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/e2f652b8efd5f405794e582ddca630d23ea6fab0/238_Product_of_array_except_self.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/e4be9c838e2db0352c429d8af35174b169fdba87/167_Two_sum_II-Input_array_is_sorted.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/e638d7d0c7e5d6578d2d9f8aeaa30efc422a80f7/11. Container With Most Water.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/e66815f5ffc8bda807ed57f7f0c4d80673693388/74_Search_a_2D_matrix.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/e7bf1ea50df1e9e840bf47198bdcf9fc3da25f79/2095. Delete the Middle Node of a Linked List.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/e8704c14e645ab735b0562319e88a2df4eaa8bd6/347_Top_K_frequent_elements.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/e8a226ec8adbf00daf7185089bb2a00d76e7970c/3016. Minimum Number of Pushes to Type Word II.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/ea9c276d61225a45a2ee93e603a74bfecfc336f7/229_Majority_element_II.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/ee8d3b806291b74785f24c603537b6238426eaf8/2150 Find All Lonely Numbers in the Array.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/ee9bc445e1d28b8e6844e5184a9d56a58c7b414c/2491_Divide_players_into_teams_of_equal_skill.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/f2623d096a3fef285a1900abdec7cc89b1f89c3b/2054_Two_best_non_overlaping_events.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/f4c9c89d0720f49c29f8af30172a9d0f1b17ddd9/50_Pow(x, n).ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/f5ed8c6b609216747a48183b41ea2ee2310dd158/2165_Smallest_value_of_the_rearranged_number.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/fb9a44e918840dc1182c01eb4276728f66503a43/204_Count_prime.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/ff28aea34c138a771a665e97fe7019716b28cc8b/633_Sum_of_squre_numbers.ipynb
+https://raw.githubusercontent.com/udityamerit/LeetCode-Medium-Problem-Solutions-in-Python/ffcadd6855244552bc38241be737248b0352eaf7/2874_Maximum_value_of_an_orderd_triplet_II.ipynb
+https://raw.githubusercontent.com/un-fao/gaezv5/713e9c8ea15b0b185d3a39fee49e5fef0a05904e/GAEZ-v5-Platform/Data-Access-Notebooks/gaez_res05_downloader_selection_notebook.ipynb
+https://raw.githubusercontent.com/un-fao/gaezv5/8092007d277457e2c2b9e03d57e306b7928177d8/GAEZ-v5-Platform/Data-Access-Notebooks/gaez_res02_downloader_selection_notebook.ipynb
+https://raw.githubusercontent.com/uob-COMS30035/lab_sheets_public/174ed143bbfe13df4c585c14644fc293045a67da/lab4/lab4-Bayesian_Networks_MCMC_PyMC3.ipynb
+https://raw.githubusercontent.com/uob-COMS30035/lab_sheets_public/31e8dd88eea409e78ad9503cf6b5ae665811e176/lab3/lab3-trees_SVM.ipynb
+https://raw.githubusercontent.com/uob-COMS30035/lab_sheets_public/51c571337e16a366b998d3f812a28fb0fbc41f6d/lab1/lab1-intro_to_numpy_scikitlearn.ipynb
+https://raw.githubusercontent.com/uob-COMS30035/lab_sheets_public/85f8cc6c73a7720a6aba2f1c49f41d1141752ce4/activity_recognition.ipynb
+https://raw.githubusercontent.com/uob-COMS30035/lab_sheets_public/907642b097239d9510415fd88223cf0e3c0a091f/lab2/lab2-neural_nets.ipynb
+https://raw.githubusercontent.com/uob-COMS30035/lab_sheets_public/96a9d709b969fa032a06b331815abd83c59240a1/lab5/lab5-MixtureModels_K-means_Expectation-Maximisation.ipynb
+https://raw.githubusercontent.com/uob-COMS30035/lab_sheets_public/bda6fdda1a8772cc960fdd975aa4e56de1820666/lab6/Lab_6_HMM.ipynb
+https://raw.githubusercontent.com/uob-COMS30035/lab_sheets_public/c838ce264746c54cf3e3c4fc3b45c5d28d786aee/lab7/lab7-trees_and_ensembles.ipynb
+https://raw.githubusercontent.com/utk2103/Python-for-beginners/020cba2ff1e25d5b0ae66522bb0cc861def6ff58/notebooks/Seaborn 4.ipynb
+https://raw.githubusercontent.com/utk2103/Python-for-beginners/079d8250f7d5e642e0347e06d94e87eb37062eb6/notebooks/Python basics.ipynb
+https://raw.githubusercontent.com/utk2103/Python-for-beginners/0d98b3e558ba498432e631fa0aab74d2d470c169/Decorators & Namespaces/Decorators & Namespaces.ipynb
+https://raw.githubusercontent.com/utk2103/Python-for-beginners/1b0be1f7387cd33198d3a58558fb39391de5b6fc/notebooks/Lambda function.ipynb
+https://raw.githubusercontent.com/utk2103/Python-for-beginners/1f44f15235253b2e1965a892b94170b91e61a592/notebooks/Exception handling .ipynb
+https://raw.githubusercontent.com/utk2103/Python-for-beginners/24ba219057e270afe292fe5940c683227e46c153/notebooks/Seaborn 3.ipynb
+https://raw.githubusercontent.com/utk2103/Python-for-beginners/3c6d437182823d7fc882a7f61a53ce60a2e8c970/notebooks/Seaborn 2.ipynb
+https://raw.githubusercontent.com/utk2103/Python-for-beginners/3e810171e0fadb59a16b5bb9e868f593575934d3/notebooks/Loops and iterators.ipynb
+https://raw.githubusercontent.com/utk2103/Python-for-beginners/527f6d4c80ac1a8f13e67d4f81bf8845cd2b9446/notebooks/Matplotlib.ipynb
+https://raw.githubusercontent.com/utk2103/Python-for-beginners/64ac17890489f5bea834644a9e4b2d7d49479f10/notebooks/Untitled.ipynb
+https://raw.githubusercontent.com/utk2103/Python-for-beginners/7558d50e55b2489db74e8b76d38cd6b6a0a7d2ec/notebooks/Function.ipynb
+https://raw.githubusercontent.com/utk2103/Python-for-beginners/75e5a262f204dcc304c01db5c777a36948204164/notebooks/File Handling + Serialization & Deserialization-2.ipynb
+https://raw.githubusercontent.com/utk2103/Python-for-beginners/8b208d56dff10bb29c492a8750675ec25b17a657/notebooks/Numpy_Notes.ipynb
+https://raw.githubusercontent.com/utk2103/Python-for-beginners/9a3e6271e29658261a248d5d54dde878b6cf1460/notebooks/Seaborn 1.ipynb
+https://raw.githubusercontent.com/utk2103/Python-for-beginners/a24738c0c7f57aa457d46aa07a432e3a554465d6/notebooks/Dictionaries.ipynb
+https://raw.githubusercontent.com/utk2103/Python-for-beginners/ad5c63ed70f97c1d51bd75089492ac8d2004f0b0/notebooks/File Handling + Serialization & Deserialization-1.ipynb
+https://raw.githubusercontent.com/utk2103/Python-for-beginners/bd8cf94daf7911f843b3e75bac5b472637992552/notebooks/Pandas_Notes.ipynb
+https://raw.githubusercontent.com/utk2103/Python-for-beginners/c424eaf5a6beb92f3f9ee5ac16d8b04adafd513d/notebooks/Conditionals and booleans.ipynb
+https://raw.githubusercontent.com/utk2103/Python-for-beginners/d95c7bd27e0813f5fc5ccd9a69b66448f535096f/notebooks/pc_list.ipynb
+https://raw.githubusercontent.com/uw-cryo/asp_plot/507b9d1080e5b27d9c4317005edaf5e3f8354118/notebooks/WorldView/worldview_spacenet_atlanta_stereo_scene_selection.ipynb
+https://raw.githubusercontent.com/uw-cryo/asp_plot/516211dc4c9470fc66d2305e8df771756e371a66/notebooks/WorldView/worldview_uyuni_jitter_plots.ipynb
+https://raw.githubusercontent.com/uw-cryo/asp_plot/64dd6a0c056531ae8d365d37982b058fb4f83e60/notebooks/Mars_MGS/mars_mgs_orbital_camera.ipynb
+https://raw.githubusercontent.com/uw-cryo/asp_plot/6c4c9b1c058f2a2847386cba2d5d984b3cf1ce54/notebooks/WorldView/worldview_spacenet_ucsd_stereo_scene_selection.ipynb
+https://raw.githubusercontent.com/uw-cryo/asp_plot/8275514dcc52daea053365f2f728a6aeb22a50d2/notebooks/WorldView/worldview_utqiagvik_stereo.ipynb
+https://raw.githubusercontent.com/uw-cryo/asp_plot/ac25a8bebd86729c67eca7a6b0b36feb8ff60e59/notebooks/Mars_MRO/mars_mro_ctx.ipynb
+https://raw.githubusercontent.com/uw-cryo/asp_plot/aeffbe9da5d897a5588298653be17a9db825cd99/notebooks/Mars_MRO/mars_mro_hirise.ipynb
+https://raw.githubusercontent.com/uw-cryo/asp_plot/f9f350885a1360dad8fdd252eea3ea5b103704d0/notebooks/LRO_NAC/lunar_recon_orbiter.ipynb
+https://raw.githubusercontent.com/vishchopra227/House-Price-Prediction/ea3ab59f7d359eb0423f3932c3b8ad9021104e36/House_prediction_model.ipynb
+https://raw.githubusercontent.com/waysnyder/DX703-Assignments/4a856ab21fa46b8a3af3cb129482d50a3f39fa62/Homework_04.with.throttle.ipynb
+https://raw.githubusercontent.com/waysnyder/DX703-Assignments/6a6fdbe1f55f156b0348cf982ce408e74f9b9a88/Homework_02.ipynb
+https://raw.githubusercontent.com/waysnyder/DX703-Assignments/73f560418017b90dcad62dd115ccad9cb862189a/Homework_01.ipynb
+https://raw.githubusercontent.com/waysnyder/DX703-Assignments/b6d02bbd159c509445f298757032bfed2baacd40/Homework_03.ipynb
+https://raw.githubusercontent.com/waysnyder/DX703-Assignments/cb3bb99e85b05893d72d0d5f7677b4ab2e0c06df/Homework_04.ipynb
+https://raw.githubusercontent.com/yajiken0609/topology-optimization-book/2edda16598f33a67dfc6be312ad2a3bdeef3b559/ch08.ipynb
+https://raw.githubusercontent.com/yajiken0609/topology-optimization-book/4a5d5096231515fc41a112c5617fcdba3da9527f/ch05.ipynb
+https://raw.githubusercontent.com/yajiken0609/topology-optimization-book/795e184663575defd94ef6ce2ef0d55e4a408bed/ch02.ipynb
+https://raw.githubusercontent.com/yajiken0609/topology-optimization-book/7ee9652ea55a0b73c51c5990a893487f2d848b7e/ch09.ipynb
+https://raw.githubusercontent.com/yajiken0609/topology-optimization-book/96bd7786d6ce83b1ee4ea7a956a5e33507d7947b/ch06.ipynb
+https://raw.githubusercontent.com/yajiken0609/topology-optimization-book/9b963e28a2d7db4bafe12129f9a05b6245579fea/ch07.ipynb
+https://raw.githubusercontent.com/yajiken0609/topology-optimization-book/ce6befffb719adcd9d7fbc2e994336cb60f07fe8/ch03.ipynb
+https://raw.githubusercontent.com/yajiken0609/topology-optimization-book/d92b27d331a093daf7ac1384a9aa3b093a45a505/ch04.ipynb
+https://raw.githubusercontent.com/yaranbarzi/aigolden-dubbing/00ee6f3a8015486fc3512aa1801e13f6760950ac/Sonitranslate_openai.ipynb
+https://raw.githubusercontent.com/yaranbarzi/aigolden-dubbing/19eb85d7380f4c498b7e0eea34a65f51ba7bd48b/aigolden2025_03_31Dubbing.ipynb
+https://raw.githubusercontent.com/yaranbarzi/aigolden-dubbing/2050f8d04e95c42f4cf19285ed1e50062f414f49/aigolden_2025_07Dub_NOUI.ipynb
+https://raw.githubusercontent.com/yaranbarzi/aigolden-dubbing/445bfd87b1f848ecf9a918a8e2b225384e00c3ac/SoniTranslate_2025_08_26EN.ipynb
+https://raw.githubusercontent.com/yaranbarzi/aigolden-dubbing/7c32a9335589788e26cca2688717703037547b50/aigolden_Short_Dub.ipynb
+https://raw.githubusercontent.com/yaranbarzi/aigolden-dubbing/9d47f81362b018c1a7c8ab2e40f4cdb934eb1485/aigolden_2026_YT_Dub.ipynb
+https://raw.githubusercontent.com/yaranbarzi/aigolden-dubbing/ca9243f039604ecdcc08d9e7481cd5d6ad962759/ai_studio_dub_UI.ipynb
+https://raw.githubusercontent.com/yaranbarzi/aigolden-dubbing/e13870920ab3daeb9765f0845bd5347ed7b14ac2/SoniTranslate_2025_08_26FA.ipynb
+https://raw.githubusercontent.com/yaranbarzi/aigolden-dubbing/ea38ee5e608f40bd1dc466e7bceba83a920b41b9/Sonitranslate_12_03_2025FA.ipynb
+https://raw.githubusercontent.com/yaranbarzi/aigolden-dubbing/f161e38ac600b21640fd8acc0a57c91214250f2b/aigolden_2025_08Dub_NOUI.ipynb
+https://raw.githubusercontent.com/yaranbarzi/aigolden-dubbing/f28f7e1f8910b9682edbf55598d6e99cdaef5888/Dub_New.ipynb
+https://raw.githubusercontent.com/yaranbarzi/aigolden-dubbing/f5547e0f8cf7f6847f8c7f64812cf320e07aa068/Sonitranslate_12_03_2025EN.ipynb
+https://raw.githubusercontent.com/yashjainio/python-youtube/0b00ba7296688d316958cb3d2a4357d02dac47de/12_list_comprehension.ipynb
+https://raw.githubusercontent.com/yashjainio/python-youtube/18b2fbada68f5d91ced36a8c9ab73f284a7e6436/5_operators.ipynb
+https://raw.githubusercontent.com/yashjainio/python-youtube/1de391c8c77cd53c84cf1ef4726cf933127596c4/17_oops.ipynb
+https://raw.githubusercontent.com/yashjainio/python-youtube/258617a2e8d85ed5f8244f5a546f0214dd832e0d/18_dunder_methods.ipynb
+https://raw.githubusercontent.com/yashjainio/python-youtube/3aa2c1303a15942a0afc77c0faed644df6689ac9/20_generators.ipynb
+https://raw.githubusercontent.com/yashjainio/python-youtube/45b7162adbf45287d6099c111ed31b2a1082c5b3/31_new_.ipynb
+https://raw.githubusercontent.com/yashjainio/python-youtube/4629dc912281ccd5832bb493a2265c15b7361025/9_loops.ipynb
+https://raw.githubusercontent.com/yashjainio/python-youtube/5e57eb05840923a29cd3985ccb9a41c4b1b0dbfc/27_abstract_class.ipynb
+https://raw.githubusercontent.com/yashjainio/python-youtube/65b809f7189b40f7cf1a4d20a83a5bdf4cdcf5e6/3_indentation.ipynb
+https://raw.githubusercontent.com/yashjainio/python-youtube/79fd828602c47f0d5cfc70fe27d879f33d4c35b5/30_api.ipynb
+https://raw.githubusercontent.com/yashjainio/python-youtube/820534b29530a95e67a1f3df183bcb774012cc46/22_error_handling.ipynb
+https://raw.githubusercontent.com/yashjainio/python-youtube/88518034eb9fb5d23997aeb8d28536779ca40984/7_lists.ipynb
+https://raw.githubusercontent.com/yashjainio/python-youtube/89e43f03dec9e7511f838bc7e22d5870b5fb10d0/14_loop_problems.ipynb
+https://raw.githubusercontent.com/yashjainio/python-youtube/aa3f383c59bb76ea69d3021a43e5b336984019b3/28_collections.ipynb
+https://raw.githubusercontent.com/yashjainio/python-youtube/b56c9fa90c29011bb25395c3026e433f9867d1f2/16_decorators.ipynb
+https://raw.githubusercontent.com/yashjainio/python-youtube/b7633d990149370a8d703cea845dcd0e3324601b/26_iterators.ipynb
+https://raw.githubusercontent.com/yashjainio/python-youtube/b88a4f932547e34a182874e56c30b1d1de0bdb02/2_mutable_immutable.ipynb
+https://raw.githubusercontent.com/yashjainio/python-youtube/d7ace4a48e746a5f23276cca4ec5bd772b775f3a/29_enum.ipynb
+https://raw.githubusercontent.com/yashjainio/python-youtube/d81dc66a0ad3a713ab8a2cfe20df44c6fd1517ad/25_type_hinting.ipynb
+https://raw.githubusercontent.com/yashjainio/python-youtube/db603fe247f0851e6460287297de32f0c996f994/15_functions.ipynb
+https://raw.githubusercontent.com/yashjainio/python-youtube/e34ceef49c0eec2753cfb0db32683f2b2f800d90/1_basics_of_python.ipynb
+https://raw.githubusercontent.com/yashjainio/python-youtube/e50818a82717a7de8c63ee1c79822aef701c0dbf/10_tuples_and_sets.ipynb
+https://raw.githubusercontent.com/yashjainio/python-youtube/e874c1e7461b98507cbaf29a8b65736478b00e1d/6_strings.ipynb
+https://raw.githubusercontent.com/yashjainio/python-youtube/ecd54143f54c3c305f1688c807815a4a3521b21b/23_multithreading.ipynb
+https://raw.githubusercontent.com/yashjainio/python-youtube/edae6ce327562f78d31adbec0c16f810025559c3/4_variable_and_data_types.ipynb
+https://raw.githubusercontent.com/yashjainio/python-youtube/f7d822899d46098cd99cf2a8a31ec9ced3a755f6/8_dictionary.ipynb
+https://raw.githubusercontent.com/yashjainio/python-youtube/f850f8d97aacb010302a9664e3cf585f0686ddb3/11_string_format.ipynb
+https://raw.githubusercontent.com/yashjainio/python-youtube/f948fc9b33c4730925b3489235543b31e789614f/21_map_filter_reduce.ipynb
+https://raw.githubusercontent.com/yashjainio/python-youtube/fa72e05cda571dc43ae7a21a0305d59a3527415f/13_conditional_statement_problems.ipynb
+https://raw.githubusercontent.com/yoshihito-saito/PreprocessPipeline/1d530c9327d87ce6943763c14eb922fb3804a4f6/sorter/Kilosort4/docs/tutorials/basic_example.ipynb
+https://raw.githubusercontent.com/yoshihito-saito/PreprocessPipeline/2a03cf9b88972b558063df16e8f59cc0952fa76a/sorter/Kilosort4/docs/tutorials/plotting_example.ipynb
+https://raw.githubusercontent.com/yoshihito-saito/PreprocessPipeline/3a4944492acbef48115b7ead0aac3c5947449ad5/sorter/Kilosort4/docs/tutorials/good_unit_criteria.ipynb
+https://raw.githubusercontent.com/yoshihito-saito/PreprocessPipeline/472f7055fd9a6791dd0fdeae5bbb44cdf19c91f6/Run_preprocessSession.ipynb
+https://raw.githubusercontent.com/yoshihito-saito/PreprocessPipeline/4f6f4bcf549179170adb54ed4c9f79d0b15ba020/Neurocode_xmp_edit.ipynb
+https://raw.githubusercontent.com/yoshihito-saito/PreprocessPipeline/768dd7d64cd1ddd2c136f8c34a911a30da0ef423/sorter/Kilosort4/docs/tutorials/load_data.ipynb
+https://raw.githubusercontent.com/yoshihito-saito/PreprocessPipeline/ab23faeb57c09219a581d781d417c9e6add00a3c/sorter/Kilosort4/docs/tutorials/make_probe.ipynb
+https://raw.githubusercontent.com/yoshihito-saito/PreprocessPipeline/b07ea9204a2d9182b1c9a12a6255552ab98c8be7/external/CellExplorer/toolboxes/npy-matlb/npy.ipynb
+https://raw.githubusercontent.com/yoshihito-saito/PreprocessPipeline/c3d448595cf2349e9e5024048ea9ffff4d29902b/sorter/Kilosort4/docs/tutorials/benchmark.ipynb
+https://raw.githubusercontent.com/yoshihito-saito/PreprocessPipeline/c6b9ce0b279aa6ff92c090b7732a729f255593aa/sorter/Kilosort4/docs/tutorials/kilosort4.ipynb
+https://raw.githubusercontent.com/yoshihito-saito/PreprocessPipeline/cb48eebaf3101fd4dd70e719540008149e5ac733/preProcess_raw.ipynb
+https://raw.githubusercontent.com/yoshihito-saito/PreprocessPipeline/f6b710a91766a5912d3eace64887ed626e81c9ef/sorter/Kilosort4/docs/tutorials/improve_sorting.ipynb
+https://raw.githubusercontent.com/yuchaotaigu/yuchaotaigu.github.io/16c1e253a0b6ba83b9bbb84eeadc8fe3dcd82f78/translation/Animation_VI_PI_LQR.ipynb
+https://raw.githubusercontent.com/yuchaotaigu/yuchaotaigu.github.io/1f4b17c774436d9a84169389fb5373e53baefd00/translation/Rollout_TSP_Animation.ipynb
+https://raw.githubusercontent.com/yuchaotaigu/yuchaotaigu.github.io/2466ac20aaf256fe943f41b46c11bc981c144b0b/research/CDC23.ipynb
+https://raw.githubusercontent.com/yuchaotaigu/yuchaotaigu.github.io/e41470c922f56b631da02b23fa1c786c6eaa2eff/research/MPC_MC_1step.ipynb
+https://raw.githubusercontent.com/yutianwuldeo/GR6901/01e0b650922c0839d4436dc8cecda2de685a9875/assignment3.ipynb
+https://raw.githubusercontent.com/yutianwuldeo/GR6901/0b099eb720e76693f71471b0c0eb585d0ae55531/cmip.ipynb
+https://raw.githubusercontent.com/yutianwuldeo/GR6901/187e4500dddf79f6035b91ae38d9b18be3982d85/week13_cmip.ipynb
+https://raw.githubusercontent.com/yutianwuldeo/GR6901/209b4aaae26f9e3a03f6ff72efa832bf4b95ef38/assignment8.ipynb
+https://raw.githubusercontent.com/yutianwuldeo/GR6901/32bd8162726a52ac9f9a71b5921209a2e3d86f94/week11_xeof_sst.ipynb
+https://raw.githubusercontent.com/yutianwuldeo/GR6901/35ccc3e5d769d8190b5db482f259230c83e0d9c2/week5_numpy_and_matplotlib.ipynb
+https://raw.githubusercontent.com/yutianwuldeo/GR6901/420d6ae7c62e471f0396c078b9ad5ed2111e3057/week4_functions_classes.ipynb
+https://raw.githubusercontent.com/yutianwuldeo/GR6901/449151e2c9adedfa82f2f37309cbf4197dd00933/week6_cartopy.ipynb
+https://raw.githubusercontent.com/yutianwuldeo/GR6901/467b81bf22f97338138fb14d9d21b6ed57285b0d/week7_basic_pandas.ipynb
+https://raw.githubusercontent.com/yutianwuldeo/GR6901/521f6cfa1f563312d878680b5d5eba2f94f3a6c0/week5_numpy_examples.ipynb
+https://raw.githubusercontent.com/yutianwuldeo/GR6901/69578e68cf662ff6023b473d00c2bcb36741ad31/week5_data.ipynb
+https://raw.githubusercontent.com/yutianwuldeo/GR6901/74b1d6144c37e8f3d87e5afcca11b52ad353d68f/week11_eof_sst.ipynb
+https://raw.githubusercontent.com/yutianwuldeo/GR6901/867c5726af2bbd076180b7eed7c066424d9e81dc/week10_xarray_part2.ipynb
+https://raw.githubusercontent.com/yutianwuldeo/GR6901/8755eb62710d7ec17db8f96786098947340331e0/week4_python_fundamentals.ipynb
+https://raw.githubusercontent.com/yutianwuldeo/GR6901/89f2a39044880d1f5e80f03c0070cace42685945/md2html.ipynb
+https://raw.githubusercontent.com/yutianwuldeo/GR6901/93515ded097487ce4b0e7cfc829ae7cae9c87cae/week12_kmeans_applicationWeather.ipynb
+https://raw.githubusercontent.com/yutianwuldeo/GR6901/a65d18c0f7a7f9fda8cea542577f952ae5b8a3e8/assignment2.ipynb
+https://raw.githubusercontent.com/yutianwuldeo/GR6901/b0beb6752a68bbc388d40baf514c2c5921c084aa/week9_xarray.ipynb
+https://raw.githubusercontent.com/yutianwuldeo/GR6901/c3e11887ad5f17ab525d01d9af96fb5d75ce5e29/assignment6.ipynb
+https://raw.githubusercontent.com/yutianwuldeo/GR6901/cc1e5ed9b63fd5dc7d37b4d6f2a32189cc1fa370/week12_kmeans_geyser.ipynb
+https://raw.githubusercontent.com/yutianwuldeo/GR6901/cd194d45426c0eb3bbdb845bda6e9ffcf74574a4/week11_linear_trend.ipynb
+https://raw.githubusercontent.com/yutianwuldeo/GR6901/d840c4c8b09ba5bbb653e3fc62331126e4c6b9ba/week8_pandas_groupby.ipynb
+https://raw.githubusercontent.com/yutianwuldeo/GR6901/e12d14661834c2e85fe2ec792db3a573de63c212/assignment7.ipynb
+https://raw.githubusercontent.com/yutianwuldeo/GR6901/e9a57f844918ac60f0af3f8c21540039ace29659/assignment5.ipynb
+https://raw.githubusercontent.com/yutianwuldeo/GR6901/f0cdea732b5f763fb55d4f71f4e9957495030e01/week6_more_matplotlib.ipynb
+https://raw.githubusercontent.com/yutianwuldeo/GR6901/f187bee9490209fb11b18033710e061e2fe1ef62/week13_cmip_regridding.ipynb
+https://raw.githubusercontent.com/yutianwuldeo/GR6901/f1edbff6ce330b9c6eb6a93f18881d6a6c61eaef/week12_kmeans_algorithm.ipynb
+https://raw.githubusercontent.com/yutianwuldeo/GR6901/f5deaa6d4065e7f8b3c750d2f17ebc298cb6b2e4/assignment4.ipynb
+https://raw.githubusercontent.com/zoonek/2026-sharpe-ratio/44bdbfedcb484a1ef4f135742a4d02c6da484d12/unused/Descriptive_Statistics_yfinance.ipynb
+https://raw.githubusercontent.com/zoonek/2026-sharpe-ratio/5a588db9f73ce12de402d01bf85537f19febc550/Resampling_Frequency.ipynb
+https://raw.githubusercontent.com/zoonek/2026-sharpe-ratio/73465e38f52ff929e00dbc9ee1daadc266ae9903/Simulation_misspecification.ipynb
+https://raw.githubusercontent.com/zoonek/2026-sharpe-ratio/75888d6bdd06247b397ddb0eae21ef837adfb836/Simulation_with_skewness.ipynb
+https://raw.githubusercontent.com/zoonek/2026-sharpe-ratio/ac56057d6d906bbc892c9a006f225dd999f9a9e1/unused/Simulation_with_zero_skewness.ipynb
+https://raw.githubusercontent.com/zoonek/2026-sharpe-ratio/d2f57dfda9807df45eaa02cb3132305eb79ea113/Descriptive_Statistics.ipynb
+https://raw.githubusercontent.com/zoonek/2026-sharpe-ratio/e1ec945b05294ce377dd7b79af51414acdda1e5f/unused/Descriptive_Statistics_Stocks.ipynb
+https://raw.githubusercontent.com/zoonek/2026-sharpe-ratio/f72e9a5c0ba95b838ce7ae4433b1dd22f2b185cc/unused/Stochastic_Volatility.ipynb
+https://raw.githubusercontent.com/zz4fap/c24_inteligencia_artificial/00cefbc0cfef8fe2a1cd3ca5549f66ee0a7f1a9f/lab/C24_2026_2_L1_Atividade_01_Enunciado.ipynb
+https://raw.githubusercontent.com/zz4fap/c24_inteligencia_artificial/0241ea0ebd315c28cc418a45e8ce2a9cc01693e5/notebooks/knn.ipynb
+https://raw.githubusercontent.com/zz4fap/c24_inteligencia_artificial/07c162dc47107812c41003a20c03204b03a5c7e3/notebooks/q_learning.ipynb
+https://raw.githubusercontent.com/zz4fap/c24_inteligencia_artificial/1498870eeb145edfcac34c8bc6837f76c5bfa92c/notebooks/regressão_logística.ipynb
+https://raw.githubusercontent.com/zz4fap/c24_inteligencia_artificial/1498bbc5c0014079b83825d85d560239fea23766/notebooks/rnn.ipynb
+https://raw.githubusercontent.com/zz4fap/c24_inteligencia_artificial/1622de434a26c50202f26bd6b12749424398a7a0/lab/C24_2026_2_L1_Atividade_02_Enunciado.ipynb
+https://raw.githubusercontent.com/zz4fap/c24_inteligencia_artificial/267b1e1f412ea9dc8e9ec3cb5f74294ae95887d0/notebooks/pre_processingv0.ipynb
+https://raw.githubusercontent.com/zz4fap/c24_inteligencia_artificial/2866094e5bbee0f3e56ea305a7185a804b13385b/notebooks/métricas_de_classificação.ipynb
+https://raw.githubusercontent.com/zz4fap/c24_inteligencia_artificial/2d188d7f71366ab081a6df948c54f5557274e9fd/notebooks/q_learning_grid_2x2.ipynb
+https://raw.githubusercontent.com/zz4fap/c24_inteligencia_artificial/4756a51e7433d68331365477bf1f292ebbcdd3e6/notebooks/mlp.ipynb
+https://raw.githubusercontent.com/zz4fap/c24_inteligencia_artificial/4b566b85017920cfdf1a1c1b206195f612c5b61f/lab/C24_2026_2_L1_Atividade_03_Enunciado.ipynb
+https://raw.githubusercontent.com/zz4fap/c24_inteligencia_artificial/4c7e8e16a7d090c6379a39eb083292429d0c8c2f/notebooks/kmeans.ipynb
+https://raw.githubusercontent.com/zz4fap/c24_inteligencia_artificial/53723afd0ffd254d626e59b38c22805acaa0de54/notebooks/árvores_de_decisão.ipynb
+https://raw.githubusercontent.com/zz4fap/c24_inteligencia_artificial/622395533a0d6e47e3e223ad03ac9e5d2fa46f0a/notebooks/intro_eda_completo.ipynb
+https://raw.githubusercontent.com/zz4fap/c24_inteligencia_artificial/a87a594bc8b9858bb5a19d5f7417385e72ed5103/notebooks/intro_eda.ipynb
+https://raw.githubusercontent.com/zz4fap/c24_inteligencia_artificial/b0d09627b8e396374aaebb242ea524a6ad3ad02b/notebooks/pre_processing.ipynb
+https://raw.githubusercontent.com/zz4fap/c24_inteligencia_artificial/b20b61c2892f504992dcc7fb60b0bf4487c95109/notebooks/cnn.ipynb
+https://raw.githubusercontent.com/zz4fap/c24_inteligencia_artificial/b2af8e2dccb34d485b1431a4d300e7d9b4b6f888/notebooks/regressão.ipynb
+https://raw.githubusercontent.com/zz4fap/c24_inteligencia_artificial/d2e547cf88a38ce802e3b5010e46ed53a0aa05a0/notebooks/regressor_softmax.ipynb
+https://raw.githubusercontent.com/zz4fap/c24_inteligencia_artificial/ef2d6774f298cc27c50379eb09d45891845e145b/notebooks/Exercicio_sobre_redes_neurais_convolucionais.ipynb
