@@ -1,0 +1,15 @@
+https://gitlab.com/octopus-code/postopus/-/raw/main/dev/dev-docs-xarray-selection-returns-view.ipynb
+https://gitlab.com/octopus-code/postopus/-/raw/main/dev/reduce_methods_holoviews.ipynb
+https://gitlab.com/octopus-code/postopus/-/raw/main/dev/rfft-xrft-basics.ipynb
+https://gitlab.com/octopus-code/postopus/-/raw/main/dev/test_cross_plot.ipynb
+https://gitlab.com/octopus-code/postopus/-/raw/main/dev/xarray-data-saving-with-netcdf.ipynb
+https://gitlab.com/octopus-code/postopus/-/raw/main/docs/notebooks/Detailed_Overview.ipynb
+https://gitlab.com/octopus-code/postopus/-/raw/main/docs/notebooks/Quick_Start.ipynb
+https://gitlab.com/octopus-code/postopus/-/raw/main/docs/notebooks/README.ipynb
+https://gitlab.com/octopus-code/postopus/-/raw/main/docs/notebooks/holoviews_with_postopus.ipynb
+https://gitlab.com/octopus-code/postopus/-/raw/main/docs/notebooks/inputs.ipynb
+https://gitlab.com/octopus-code/postopus/-/raw/main/docs/notebooks/nested_Runs.ipynb
+https://gitlab.com/octopus-code/postopus/-/raw/main/docs/notebooks/non_orthogonal_data.ipynb
+https://gitlab.com/octopus-code/postopus/-/raw/main/docs/notebooks/units.ipynb
+https://gitlab.com/octopus-code/postopus/-/raw/main/docs/notebooks/xarray-plots1.ipynb
+https://gitlab.com/octopus-code/postopus/-/raw/main/docs/notebooks/xrft.ipynb
