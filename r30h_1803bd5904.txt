@@ -1,0 +1,309 @@
+https://raw.githubusercontent.com/24wh1a0591/bvrith-de-c1-team15-propiq-real-estate-market-analytics/28e75db9e00a128c11ab20090dbe6fff1a379009/notebooks/06_powerbi_export.ipynb
+https://raw.githubusercontent.com/24wh1a0591/bvrith-de-c1-team15-propiq-real-estate-market-analytics/642ab7857c5e17112a7f3fb31882ad1ade1da6be/notebooks/07_streaming_simulation.ipynb
+https://raw.githubusercontent.com/24wh1a0591/bvrith-de-c1-team15-propiq-real-estate-market-analytics/6fb84ac5d08120ff6e6f7817b6c5cfc1b0c5c55c/notebooks/03_silver_transformations.ipynb
+https://raw.githubusercontent.com/24wh1a0591/bvrith-de-c1-team15-propiq-real-estate-market-analytics/762557efb28002272c0b02a402e78efe47e79b49/notebooks/01_data_exploration.ipynb
+https://raw.githubusercontent.com/24wh1a0591/bvrith-de-c1-team15-propiq-real-estate-market-analytics/9120f257f7996f84e04f6316c0c9cfdaaf26f51c/notebooks/05_gold_aggregations.ipynb
+https://raw.githubusercontent.com/24wh1a0591/bvrith-de-c1-team15-propiq-real-estate-market-analytics/d736bbcff4e7d8a996317d4a2461532b63bd3167/notebooks/04_data_quality_checks.ipynb
+https://raw.githubusercontent.com/24wh1a0591/bvrith-de-c1-team15-propiq-real-estate-market-analytics/f35ea58bbc2c56b81873886e0d328326c1408029/notebooks/02_bronze_ingestion.ipynb
+https://raw.githubusercontent.com/Babeyeonyi/CineSense-AI-Movie-Recommendation-Engine/ade836eb7f1cdfb93873384d5d5b3ff6682370d2/CineSense-AI-Recommendation-System.ipynb
+https://raw.githubusercontent.com/Bofnech/practice/784ee0c3c93e42d405d00faf76bb53529bbfd5bb/function testing and note.ipynb
+https://raw.githubusercontent.com/Bofnech/practice/9ee395b60c837cdc7f78d30f2f79860f423bd441/my_practice2 scarping.ipynb
+https://raw.githubusercontent.com/Bofnech/practice/e6f04685a79102b3707608789d05523a18305895/my_practice 1.ipynb
+https://raw.githubusercontent.com/EliBtgnn/Credit_Card_Fraud_Detection/f8bd0d52a769f6d24e27a7a30f553697a4bda4ff/notebook.ipynb
+https://raw.githubusercontent.com/Ferysanjaya04/ICM/245a3f775d78b6b24c4eddb6d47267f4e4022bb4/data/experiments/Feature2_AI_fixed_POC.ipynb
+https://raw.githubusercontent.com/Ferysanjaya04/ICM/84fcf963225f5144c54404b20541f86444b56fbe/data/experiments/Feature1_AI_POC.ipynb
+https://raw.githubusercontent.com/JuanAndresHS/pitchiq/2d19053fc325c213246e00b773759ed3402316bf/notebooks/01_exploratory_analysis.ipynb
+https://raw.githubusercontent.com/JuanAndresHS/pitchiq/f1087aad91d2606263210afbfe9c0b84fa3f7fc9/notebooks/02_outcome_model.ipynb
+https://raw.githubusercontent.com/KarthikeyanC95/mslearn-mlops/2df9d55497553a5fd50bddaa117441ce5c5cf476/experimentation/Train classification model.ipynb
+https://raw.githubusercontent.com/KarthikeyanC95/mslearn-mlops/323a669373a019bc4b2d8497537c3d1bcf688fd2/experimentation/Hyperparameter tuning.ipynb
+https://raw.githubusercontent.com/KarthikeyanC95/mslearn-mlops/463d9017d2082d66af35d0a2a7de05d89aaaa20d/experimentation/Run a pipeline job.ipynb
+https://raw.githubusercontent.com/KarthikeyanC95/mslearn-mlops/5c979b7bcb8d97a517ab13413af2db66de9526b2/experimentation/Run script as a command job.ipynb
+https://raw.githubusercontent.com/KarthikeyanC95/mslearn-mlops/6687732c06ac8937cdac49baf8068dbd67540cd5/experimentation/Track model training with MLflow.ipynb
+https://raw.githubusercontent.com/KarthikeyanC95/mslearn-mlops/98896ca6b9325a7692b97b274f2bdeda5a8bb617/experimentation/Create Responsible AI dashboard.ipynb
+https://raw.githubusercontent.com/KarthikeyanC95/mslearn-mlops/ae5e5acd6a77fbbebb13711f68861bfc9616b6a2/experimentation/Classification with Automated Machine Learning.ipynb
+https://raw.githubusercontent.com/KarthikeyanC95/mslearn-mlops/b092b9f617c513cf0f0f9953a012945be868be17/archive/train-classification-model.ipynb
+https://raw.githubusercontent.com/KarthikeyanC95/mslearn-mlops/ca707e4998bfb58181394c1551c5a189bea878d5/archive/Deploy to online endpoint.ipynb
+https://raw.githubusercontent.com/Kenzyken-gsm/book-sales-forecasting-timeseries/a19e57ebca165eb924ea252b7c057403b89f613f/notebooks/01_book_sales_forecasting.ipynb
+https://raw.githubusercontent.com/KzRaihan/Interview-Question-Creator/17f8b92e95f299caed8482ce860d677a7d865e02/Notebook/research.ipynb
+https://raw.githubusercontent.com/LinhVuHoang/Personal_projects/0052f8ff2a61432a25802272fbe51fe2ac01fbeb/Airbnb-Price-Prediction/Notebook_Experiments/Exploratory_Data_Analysis.ipynb
+https://raw.githubusercontent.com/LinhVuHoang/Personal_projects/044899d7b5f3b047dc47e4058831231cb694a353/Diamond-Price-Prediction/Model_training.ipynb
+https://raw.githubusercontent.com/LinhVuHoang/Personal_projects/72e2bfe5ce7d09ef02ad5a79bfed23aa7f6bbedc/Airbnb-Price-Prediction/Notebook_Experiments/Airbnb_Price_Prediction.ipynb
+https://raw.githubusercontent.com/LinhVuHoang/Personal_projects/7ce66be059cf16d139b936e28bd3c614c963c13b/House-Price_Prediction/California_House_Price_Prediction.ipynb
+https://raw.githubusercontent.com/LinhVuHoang/Personal_projects/93ab71dae8b96f7f0c0c89e587346a3cad9121cc/Flight-Fare-Prediction/Notebook_Experiments/Exploration.ipynb
+https://raw.githubusercontent.com/LinhVuHoang/Personal_projects/ca3651b3702a9dd1679cbf1baa881d295f8c9b0e/Gold-Price-Prediction/notebook/Gold_price_usdinr_prediction.ipynb
+https://raw.githubusercontent.com/LinhVuHoang/Personal_projects/de560ccf3351322d0a2c6216b80cd934a29dd053/Diamond-Price-Prediction/Exploratory_data_analysis.ipynb
+https://raw.githubusercontent.com/LinhVuHoang/Personal_projects/f88f24036316657dd1b70873c62f2bc0b944f8c9/Flight-Fare-Prediction/Notebook_Experiments/Model_training.ipynb
+https://raw.githubusercontent.com/Lougedo/cnn_samples_colab/34e32e938d7637a018a660875b04012aefbf9fee/notebooks/02_conteo_personas_cafeteria.ipynb
+https://raw.githubusercontent.com/Lougedo/cnn_samples_colab/9207e9e8bebdba99bb06361a681399aa5fdaa93b/notebooks/01_laboratorio_cnn_radiografias.ipynb
+https://raw.githubusercontent.com/Nilsexe/google-stock-price-forecasting-lstm/60283cb1d38fc586ed6d75e9b074a9b07584f664/google_stock_price_forecast_lstm.ipynb
+https://raw.githubusercontent.com/RinaldiHamzah/arunika-sales-pepeline-end-to-end/12d141ec018a14191775d1424cfa32a440a4e654/analisis/shopee.ipynb
+https://raw.githubusercontent.com/RinaldiHamzah/arunika-sales-pepeline-end-to-end/388b8c96e6ef330551cb4b54456d257b0d00b300/analisis/product.ipynb
+https://raw.githubusercontent.com/RinaldiHamzah/arunika-sales-pepeline-end-to-end/65a38f295ff42cad7def4e5a1b8f5e984f7b74f4/analisis/tokopedia.ipynb
+https://raw.githubusercontent.com/RinaldiHamzah/arunika-sales-pepeline-end-to-end/bdfb932998e47e91983750b61d84bb93dc63bcf7/analisis/offline.ipynb
+https://raw.githubusercontent.com/RinaldiHamzah/arunika-sales-pepeline-end-to-end/c73cad19b28150219bed4469e08a13c750d43f56/analisis/analisa.ipynb
+https://raw.githubusercontent.com/RinaldiHamzah/arunika-sales-pepeline-end-to-end/fe1147a670875fc6dde19be617184c4f7928b6e2/analisis/website.ipynb
+https://raw.githubusercontent.com/Roni11402/Flight-Price-Prediction/3f03a5f22e4b0d3df55dab73640b60e882c4a2f5/OneDrive/מסמכים/Personal Projects/Flight-Price-Prediction/analysis.ipynb
+https://raw.githubusercontent.com/SanguraKoded/data-engineering-75/a00dc28d0372095649f4b88c81a7099124f26505/day06/pandas_basics.ipynb
+https://raw.githubusercontent.com/aadhavr/campus-point-waves/b967f8d03a872a3932b8a3c44287a202c574fad1/campus_point.ipynb
+https://raw.githubusercontent.com/aadhavr/campus-point-waves/d3a1aefb904c96e5c4aef7409852e2288c3941ed/validation_initial_scalefactors.ipynb
+https://raw.githubusercontent.com/aadhavr/campus-point-waves/d58292ed9ac4813d7559ab0cd7cb2680f1ead707/bias_correction.ipynb
+https://raw.githubusercontent.com/aadhavr/campus-point-waves/da2124a34447edbc0a68ed2abce2cfbedbe129ef/cdip_visualizer.ipynb
+https://raw.githubusercontent.com/adrian1906/AIStockTrader2026/314039b4a025a81a6dcb41434f374b6c383237bc/2_lab2.ipynb
+https://raw.githubusercontent.com/adrian1906/AIStockTrader2026/a5a194be7f90e3503d678f9ae86d12eb44f1bd34/3_lab3.ipynb
+https://raw.githubusercontent.com/adrian1906/AIStockTrader2026/b930a4ea04eb8b200085c9f22ecf242b00290bbc/1_lab1.ipynb
+https://raw.githubusercontent.com/adrian1906/AIStockTrader2026/c31be014c1e6fe41b3b951d0f5b15a90e57361fa/4_lab4.ipynb
+https://raw.githubusercontent.com/adrian1906/AIStockTrader2026/f08c079a14867b48c6fe953e2f03275f99ed7bbb/5_lab5.ipynb
+https://raw.githubusercontent.com/ahsan520/crypto-ai-bot/fc0e55419b43bc2df8fec46b5183dcbf27b1f82c/crypto_ai_backtest_multi.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/03c29f86f35dcbe59473e11154378301a2608e05/1. Making sense of Big Data/Data_Fundamentals_Workshop.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/0746dd1c7eebbd425676a0e484ecf5f8aebfc729/0. Working with venvs/Working_with_Virtual_Environments.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/0bed3668cbe4a15ef4a73dac0e32461c9cf29baf/src/pandas-exercises.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/29b947262062e1b0189f0dc69c487e678c942cda/src/matplotlib-exercises-solutions.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/2c2af135f1fb4d5273d8bc37a2f86eeb524be4a7/1. Making sense of Big Data/Data_Fundamentals_Workshop_Alternative_Original.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/2f0cac40ddf789713dea91d06ff3ebe335c5d533/1. Making sense of Big Data/1.2 Pandas .ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/301d50faab06a38299cea95e24b043d38cfef000/2. machine learning/machine_learning.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/383567398c0238ce37f2babf4d3dbe60453b878e/src/scikit-learn-workflow-example.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/4a2370f812e491b0e341d444171608261e979eed/1. Making sense of Big Data/Data_Fundamentals_Workshop_Alternative_Housing_Exercise.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/4e1fdee5b62e47ed1426143f2c68b5fc2f6da177/src/introduction-to-scikit-learn-video.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/57e3ade08bf27db04fb945e33cdc3d7ec326d676/src/numpy-exercises.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/5bb814172c6c0a3227bd4bca9d199e1072b95677/4. Computer Vision/computer_vision.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/5be2d6bbbac662200bc2050cbce8507d617a9f05/src/scikit-learn-what-were-covering.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/72448bc452921c5924fb9870dd6877505e360fa9/src/introduction-to-scikit-learn.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/7584c6a48246e305b5bb8d59d239331e50f98f48/src/matplotlib-exercises.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/81ec97245b94bd9ba91ae6d7450c9d3091c30cf3/src/introduction-to-scikit-learn-video-OLD.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/8a979249d49b9205b7c2f89ea9e144aecc4c82f6/src/introduction-to-numpy-video.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/8b6199b061be142996feac2f4c0ba15d5e25f341/src/introduction-to-matplotlib-video.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/940a2c8f79671627eacbe21fa6566126d2c61d37/src/introduction-to-matplotlib.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/9e133cb09e31db14df7dbc760fe529295e3e6c3f/1. Making sense of Big Data/1.4 Final quiz.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/a7e049bc02c65b9b34c2296a99133d766ca3a113/src/introduction-to-pandas-video.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/afaaafcc232d8327f0b2c2f7ea7f4183a6c6dfb7/src/numpy-exercises-solutions.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/b270c8147cb33c511a0aff6e0bc12c37d6e4e047/1. Making sense of Big Data/1.1 NumPy.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/b49435717dd0e9264ed55a3f3098699b59b21303/src/example-notebook.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/b5f48f06f041921ebf78fa803982af880d7e415e/src/introduction-to-pandas.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/b67c19aba011c6f4b4efe766c42b442c4a3fa1fe/src/scikit-learn-metric-comparison.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/bcdf7cfa2b1d151eb0e0e8ef577f75ad39667358/src/scikit-learn-exercises.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/c69ee74e92a5d8a7d21fbcb1fd35eff8684b49e7/3. Deep Learning Fundementals/pytorch_tensors_and_numpy.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/c97e862911ca63bd7e04722c693eb467eca1d148/src/introduction-to-scikit-learn-OLD.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/cd0144fad39e581a9e15bd541511a6d0e7e3bff6/src/scikit-learn-exercises-solutions.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/cfcdaa82533f81d6232cef1efe581b64dc836117/1. Making sense of Big Data/Data_Fundamentals_Workshop_Alternative_Housing_Full.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/d88366b3fe76fe16d2d2b4700045497f5d13954e/5. Transformer/transformer.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/dc5f763cc50e3a01e33ad4fea58da75de28df8e9/src/car-sales-data-manufacture.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/e4d6fc72ec89f362ca6d979c133fcb35f45f85ff/src/pandas-exercises-solutions.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/e73c6069ca4cf4b6d0576627cedea4df9e2977b7/1. Making sense of Big Data/solutions.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/e87f1c16bd9aed3907f301f7ff7ec565aabec00c/src/introduction-to-numpy.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/f12d1bebb534f71906e19e93605065c283c56fdd/1. Making sense of Big Data/1.3 Data Visualization.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/ff3e4e6e32c74e42df05583b281568b74347177e/5. Transformer/vision_transformer.ipynb
+https://raw.githubusercontent.com/alicjakalwat/alicjakalwat-Projects/82a8583734f7538b39422b79af9553d1d9da9e83/Sieci neuronowe/NN_hate_speech.ipynb
+https://raw.githubusercontent.com/ananthchavancs24-prog/AI/f1e15b1607a8dbdbd932bf4ada3580a0e75ef720/Lab1.ipynb
+https://raw.githubusercontent.com/arpit-nandanwar/Telco-Customer-Churn-prediction/5d1f70ea3766a8ebd263c4e743a6087105d3924d/telco_churn_prediction.ipynb
+https://raw.githubusercontent.com/babershahzad/Exoplanet-Detection-using-Deep-Learning/673d48ba9afaaea0a26471fbccb84ec1a6857ae8/Exoplanet_Detection_using_Deep_Learning.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/009773475e61fb95f2673770a0d96b24a9f50dfd/Markdown/.ipynb_checkpoints/04_Ejercicios_Markdown_II_Resuelto Beatriz Granda-checkpoint.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/009773475e61fb95f2673770a0d96b24a9f50dfd/Markdown/04_Ejercicios_Markdown_II_Resuelto Beatriz Granda.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/03c2c46354124fccc4825401588c9cf8e95a3e1f/Python/Parte_5_Ejercicio_práctico_DS_Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/11ee8484a07285ea3cf64a5e74a35761bde467ca/POO/.ipynb_checkpoints/P6_Píldora_4_Junyper_DS_Beatriz Granda_Resuelto-checkpoint.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/11ee8484a07285ea3cf64a5e74a35761bde467ca/POO/P6_Píldora_4_Junyper_DS_Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/171a1c18ce049a74ed15c2d09cf3ba53cb4c9e84/Python/P1_Píldora_5_Jupyter_Tipos_de_Datos_DS_Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/20947c95d464d05c5b3e5d963d1f0091e0b9bd5d/Python/Parte_4_10_Ejercicios_Python_Basisc_I_Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/264fe3fe4aac465dc79d67a3aef18686cca9ae21/Python/P5_Píldora_3_Jupyter_DS_Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/26c1fef6bb8d26012539f1382ed3ebccf441980b/Modulo-0/.ipynb_checkpoints/Ejercicios_Pyhton_Parte4_12-checkpoint.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/26c1fef6bb8d26012539f1382ed3ebccf441980b/Modulo-0/Ejercicios_Pyhton_Parte4_12.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/289f424f76a1dd6cfe7fa5685df2740f463eb66c/Python/P5_Píldora_1_Jupyter_DS__Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/37beeb0e94043c064ac54af54455c808974645c9/Python/P2_Píldora_4_Jupyter_Listas_DS_Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/3b7c677699ebd92abc10edd90e40e9cef57bb663/Python/P5_Píldora_9_Jupyter_DS_Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/3e4f0da1950aa55997dabb6feb5bbba71d702d93/Python/P2_Píldora_2_Junyper_DS_Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/42c4818c81ab02891fd7ec84583199a5a1419725/POO/.ipynb_checkpoints/Ejercicio 1 POO-checkpoint.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/42c4818c81ab02891fd7ec84583199a5a1419725/POO/Ejercicio 1 POO.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/47407fd3b97376a2718992be781fb412da28c54b/Markdown/.ipynb_checkpoints/Píldora_7_Beatriz_Granda_Markdown_Resuelto-checkpoint.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/47407fd3b97376a2718992be781fb412da28c54b/Markdown/Píldora_7_Beatriz_Granda_Markdown_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/474cbdc6e2e14925ff738f75ec79971d0ae0bb36/POO/.ipynb_checkpoints/P6_Píldora_5_DS_Beatriz Granda_Resuelto-checkpoint.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/55e3acd97f843f2be9754131c3eb8c296c951cbb/Python/P1_Píldora_9_Jupyter_DS_Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/5eb9a13e41c83e9f4e999534e98c37fa0ec3a2ca/POO/P6_Píldora_5_DS_Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/60a719ce075543720569019a25f54aebafab8b48/POO/.ipynb_checkpoints/P6_Píldora_6_Junyper_DS_Beatriz Granda_Resuelto-checkpoint.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/626464dae9d0f5e6e8bdd9346f139b8ab83fdaf9/Python/P5_Píldora_6_Junyper_DS_Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/63ae0a07483965c9a32866d1d9261c11e54c43ce/Python/P2_Píldora_1_Jupyter_DS_Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/63badb1016613873a48ac5d2cd0c2ed67f8832dc/Python/P2_Píldora_5_Jupyter_Flujos_Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/6681e8b3bf6e6e53f92e060f3da8646ec406a401/POO/P6_Píldora_3_Junyper_DS_Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/67afadb336790408b56199a6ad4e81f0f0eacac9/POO/Ejercicio 2 POO.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/7129e3a945b87417650eb85ae154855929c4093e/POO/Parte_6_Ejercicio_POO_DS_Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/72df67463bfb42e2d48e5a4daf91a1fde806d00a/Python/Parte_4_11_Ejercicios_Python_Basisc_I_Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/769b11293d680a7bec147faa2e17f04fb606191f/Python/P1_Píldora_7_Jupyter_DS_Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/7c60000fc3656be23edf34598248803df976a9a8/Modulo-0/Ejercicios_Python_Parte4_11.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/837da620cb4a7cf2df53cfb727f1182c161729b7/POO/P6_Píldora_6_Junyper_DS_Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/88093a483878529a5d13b6ff221ad6fe9882e8d9/Markdown/.ipynb_checkpoints/03_Ejercicios_Markdown_Ill_Beatriz Granda_Resuelto-checkpoint.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/88093a483878529a5d13b6ff221ad6fe9882e8d9/Markdown/03_Ejercicios_Markdown_Ill_Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/8fba2db4ab89ce7136c8de3974f26241b61f78d7/Python/Ejercicios Python_1.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/96dfd155f2e80f32a5a32e2716b3add768ae7fcd/Python/P1_Píldora_4_Jupyter_Notebook_DS_Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/991857883ea178593eea7f1b5979c3353e8a0a2e/Markdown/Parte_2_Píldora_8_Beatriz_Granda_Markdown_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/a3e732ef0427cd9556ca2fde19349548772b213f/Python/P5_Píldora_10_Junyper_DS_Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/b791b012cb0dcf3e9e494730a04b7e6f2c0b40b1/Python/P5_Píldora_7_Junyper_DS_Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/bf1fe12b6ef9d9d1182dfd018f4b69c7f0350b52/Python/Parte_4_12_Ejercicios_Python_Basisc_I_Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/bfbd7f13fadb4e9e347e376ca19bc02cdd446c43/Python/P1_Píldora_2_Jupyter_Variables_I_DS_Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/c74c14d7362ffd6d927fd50506cadc2f9efe276a/POO/P6_Píldora_2_Jupyter_DS_Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/c9c40639a0317d4af7238269e6d46bcc7f311f1b/POO/.ipynb_checkpoints/Ejercicio 2 POO-checkpoint.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/cea46e71484cda55efca3605065f2c5dd2589f3b/Python/P5_Píldora_8_Junyper_DS_Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/d0b262cc15a941e659bdb99b1a315ded89ef3c5a/Modulo-0/.ipynb_checkpoints/Ejercicios_Python_Parte4_10-checkpoint.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/d0b262cc15a941e659bdb99b1a315ded89ef3c5a/Modulo-0/Ejercicios_Python_Parte4_10.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/d1bb5f3848b9b73fc7b7c7e801ea658801357188/Python/P5_Píldora_5_Junyper_DS_Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/d63fe1999880150c5cc19ea642ef0efdd9eb2a35/Python/P5_Píldora_4_DS_Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/d820f213349a4f30c14d1ccc2a13fb96767ef09d/Python/Parte_4_13_Practica_Obligatoria_Python_Basics_I_Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/f109491897a5d626144cda792a1f795f0faa5790/Modulo-0/Ejercicios_Python_Parte4_13.ipynb
+https://raw.githubusercontent.com/bigtom000/linear-regression-from-scratch-univariate/be352c3552454df088fe90c9660fa3bc1d51ac65/linear-regression-from-scratch-univariate.ipynb
+https://raw.githubusercontent.com/elyselow/Teiko_Technical_Project/8af5097852f22347d8447a594849a441fa6888ad/Teiko_Technical_Assessment.ipynb
+https://raw.githubusercontent.com/fahadiqbal1175/ml-learning/0668618df64b4fa5d0346cd2f55df642fe60bef5/C2_W2_ReLU_ShippingCost.ipynb
+https://raw.githubusercontent.com/fahadiqbal1175/ml-learning/1e88f57398c4f36f39f416154aafc94f46543523/C2W3_Lab_01_Model_Evaluation_and_Selection_CUSTOM.ipynb
+https://raw.githubusercontent.com/fahadiqbal1175/ml-learning/2524ca787c132c136a274613464035a9045be7a2/Salary_Linear_Regression.ipynb
+https://raw.githubusercontent.com/fahadiqbal1175/ml-learning/29b0686205b3f37dd0c24c29f6dcc075892a4a11/Logistic_Regression_New_Data.ipynb
+https://raw.githubusercontent.com/fahadiqbal1175/ml-learning/380ceb7130fb1914ef9e35dffedb2cfb94b2c1ef/C2_W1_Assignment_Digits3v8.ipynb
+https://raw.githubusercontent.com/fahadiqbal1175/ml-learning/42a5790cf5db780f2fbfed3de6c4b2ec74135a12/C2_W1_Lab01_Neurons_and_Layers_reworked.ipynb
+https://raw.githubusercontent.com/fahadiqbal1175/ml-learning/5aad61461754d69ebc897908e4707d0b9e32c70d/anomaly_detection_predictive_maintenance.ipynb
+https://raw.githubusercontent.com/fahadiqbal1175/ml-learning/5d33858a67bf770efcc2cb2e80bd871869d5e7c2/collaborative_filtering_recommender_book_edition.ipynb
+https://raw.githubusercontent.com/fahadiqbal1175/ml-learning/66e4803c2ff8139a8f3bddb6f924438d907ce0e3/Backprop_Computation_Graph.ipynb
+https://raw.githubusercontent.com/fahadiqbal1175/ml-learning/71ab2f9c5c4281cf0e1cac56b4e65ae3743f922e/Decision_Tree_Job_Applicant_Shortlisting.ipynb
+https://raw.githubusercontent.com/fahadiqbal1175/ml-learning/9af0adafba1d660ef8a589246978d5388ae28851/C2_W1_Lab02_CoffeeRoasting_reworked.ipynb
+https://raw.githubusercontent.com/fahadiqbal1175/ml-learning/c81d7a001841e0032a610ccb319ab398fcae8394/Multiclass_Classification_Fruit_TF.ipynb
+https://raw.githubusercontent.com/fahadiqbal1175/ml-learning/cbeabb1e2dfb2c2fc99d4a945fc402fc20769843/Decision_Trees_Mushroom_Practice_Lab.ipynb
+https://raw.githubusercontent.com/fahadiqbal1175/ml-learning/d28391df3fda9c5167d052aaacb0c0442e85d9f6/Exam_Prediction_NN_Numpy.ipynb
+https://raw.githubusercontent.com/fahadiqbal1175/ml-learning/e21db4cbc22f4d6b45fb312d798dcec6f23e389d/Derivatives_Practice_Lab.ipynb
+https://raw.githubusercontent.com/fahadiqbal1175/ml-learning/e6a19e4211afefc23aa1dd15e1065ee69fd6c4f4/KMeans_Clustering_CustomerSegmentation_ImageCompression.ipynb
+https://raw.githubusercontent.com/fahadiqbal1175/ml-learning/e74ecda11c82c5cbf58334a781e105c80e96531f/Tree_Ensemble_Employee_Attrition.ipynb
+https://raw.githubusercontent.com/fahadiqbal1175/ml-learning/eed8f9a01775441f363cf5dce9cd1e96528bd8b2/C2_W3_Assignment_CropYield_SoilType.ipynb
+https://raw.githubusercontent.com/fahadiqbal1175/ml-learning/f6125656c44b020232fc142c24ad5331f7279ed3/Softmax_Custom_Practice_Lab.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/00d875f5b994c094dea91ee1c8d4c241af18be92/machine_learning/데이터_분리9.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/01e04d148cc0f6749fd55c5277f3a01e698d9e82/machine_learning/어간_추출_표제어_추출.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/0629b069e220a940474267e20055d8bb2b6a2d3a/deep_learning/matplotlib/ex1.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/0b9ebca400b0c847a8885ad250758e830d9d48fe/machine_learning/bag_of_words4.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/1741c8c05543912c9b5aabf537b491145e432457/machine_learning/불필요한_단어_제거.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/22feb3acc4092acdc2f06deefff15556db178b8b/tensorflow/Tensorflow 2로 해보는 간단한 Linear Regression 선형회귀 예측.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/256842a59b3707a5ed01f13a54824b648cced10d/deep_learning/matplotlib/73쪽꺼분석.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/2912bf52bed02dfc756cce653911c5319f5790b4/machine_learning/keras_패딩.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/2c2d511287847e1f98de70da4387accb8a39e52e/machine_learning/one_hot_encoding.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/31ffaf266389aefddeec87ef000711c5d39cd759/deep_learning/matplotlib/ex2.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/35bbdce36b3f12f6d8c60347198cd331aef0035e/deep_learning/numpy/ex1.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/366ad2e22a0badff730f89b8b6abbeb8078e09ae/machine_learning/enumerate.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/38495f82775b64a2c107dc059ee7c424a5104b49/deep_learning/NAND_OR_sample.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/38c7f81e352ae4c61bea55cc09092afbd8042a62/machine_learning/데이터_분리6.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/3c34c431ba05786b7659df081d814fd6441b687f/선택정렬/선택정렬.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/459032dd289593319d204884460f98a80e38b030/machine_learning/bag_of_words5.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/49276fd9c1a3e8d339e123e8efd262050eda9825/machine_learning/데이터_분리4.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/4d485df1da1ff3a9e7888f1901fbcb07e9b64c00/machine_learning/데이터_분리7.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/4f3dd94b20a08353a5f8d57a3ab3d3c6a080418b/machine_learning/데이터_분리1.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/50579d0a77cb9215b692ff87f64870ba582c18f9/deep_learning/89쪽꺼.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/61ac67982f4185199737d9a4509d5ecc553e3538/machine_learning/keras_텍스트_전처리.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/637f29681715d406f5bda4a386dabaef9d610b86/machine_learning/keras_텍스트_전처리2.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/67747afa7881cdd446cdbec1fb9ee13be72aab19/deep_learning/softmax_function/ex1.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/6c7eef164012e8f5b56e61a7b11d0e6dc5a94ed9/deep_learning/matplotlib/77쪽꺼분석.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/6dceaaa5caa3eef5211216fb802b87ec59b2adb5/deep_learning/matplotlib/1차함수_2차함수_3차함수.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/70796f1cfde6c85731502b29df84899e31246c8c/machine_learning/4-4TF-IDF.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/73f2aa80389f8bc06f2185fd7cc6f5bb163a3654/machine_learning/데이터_분리8.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/756809f8ebc5ee04bb0711fa90adb62bc969ebde/tensorflow/constant_variable.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/7c7efd02ba53c6387cc9d55cd3f7ee0980b141ef/machine_learning/4-4TF-IDF2.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/7d5f9cf0523e9b71b5e6b899d62b1a3c205fa849/machine_learning/불용어.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/8041d5521dab9ab80453275c2be263e75d8fb8c0/groomi_dataframe_project/groomi_dataframe.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/815a08bb266d4445277611b701e3ea63b9bc5a3f/machine_learning/bag_of_words.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/91040506afa10d1a85ab893d7a3f96c0ea089eeb/deep_learning/numpy/ex5.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/938fdb0973b60fa831ab2245d0ae786987187a18/deep_learning/numpy/ex2.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/99bc1ef25372f8813be8050a0783b43e877dab55/deep_learning/numpy/AND_gate_ex1.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/9d3d7d5d0c586e2efa5ec5561d31f18bd43e745c/groomi_dataframe_project/random_create.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/a68a30b6a8dbbc3501f963ad9ea7b2fdc857aeab/순차_탐색.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/b1f240cdfc593cb53e0f6ca3b0166c11de2fde23/machine_learning/video_경사하강.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/b2a000c86f5adcdcae5c180ce7ee13b252d60084/machine_learning/데이터_분리2.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/be3872e31104684576d6e682ad8ac3ab3ad7c19f/deep_learning/matplotlib/ex3.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/c0a02a4b9412c938878dc2c7ad4221100821bbbe/deep_learning/AND_sample.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/c4acb595cc08af83c86e117a8c5f3cea8f7a58f4/machine_learning/데이터_분리3.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/d618a1aeaa6517b1ba0dfd6e71c2029fe4e5b59e/machine_learning/토큰화.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/d86875c861aaad96cd1136e9b3e087bebdb0ab0b/machine_learning/keras_텍스트_전처리3.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/e0eb83e90785f4c5235b1fed9487c7ca57435827/deep_learning/numpy/ex7.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/e1833eff93b49b9da2a91a9325d612f8b354b180/machine_learning/데이터_분리5.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/e18ac2198cd0320a5ac8894f20d84220c5560d0e/machine_learning/numpy_패딩하기.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/e4186396e14e952cfce0970871d447b1eaf1d716/machine_learning/bag_of_words3.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/e4d61fac2ff195ad341a0a49c0db02015fddcf8a/machine_learning/bag_of_words2.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/e9a3d2c79f8e2e60f9e3c8b2ffab9783bd7fc249/deep_learning/numpy/ex4.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/edc1c915c9c7ab1b54adb828b306f0f517be4876/machine_learning/정규표현식.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/ee9d3256df0e09d52cbce6eb98c42205960cb189/tensorflow/tensorflow_starr.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/f006f774e8be242acea85dfc025b2051a904ea82/deep_learning/matplotlib/sigmoid_function.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/f52a21f34e8e531b555345d87b4956f198871178/deep_learning/numpy/ex6.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/f62d076cce2d4431da37bb752e53c79f01df8f34/machine_learning_2.ipynb
+https://raw.githubusercontent.com/harshitha12112006/AI_LAB/c718ab2cdee13a112da43b5d8b41b10301a0bdd6/WEEK1_1BM25CS453_TIC_TAC_TOE.ipynb
+https://raw.githubusercontent.com/harshitha12112006/AI_LAB/df46a919595a561bf156c9522dc4dd00fbbffe9d/WEEK1_1BM25CS453_VACCUM_CLEANER.ipynb
+https://raw.githubusercontent.com/hmshdev/customer-shopping-behavior-analysis/8b37c4ac5bbdfd1d190e02d60f1f765541bb5a01/customer-shopping-behavior-analysis.ipynb
+https://raw.githubusercontent.com/imabhinav0709/Natural-language-processing/7a0ae31fea76e0a2076caa325ebeea6e78d3f46b/GoT_Word2Vec_Analysis.ipynb
+https://raw.githubusercontent.com/javieroon/Multi-Backend-Chatbot-with-Gradio/db4462c2d38f532d7e01e8960881668ed3d9da3a/Chatbot.ipynb
+https://raw.githubusercontent.com/kostasr500/airbnb-listing-optimization/61401312908da8723ec252e85b779819df65cf85/notebooks/01_data_exploration.ipynb
+https://raw.githubusercontent.com/laxitajain/incremental-nids-advancedCIL-SHAP/31860a0b9a5f1629cf2d5a72c358480ebcd04537/src/xai/shap.ipynb
+https://raw.githubusercontent.com/laxitajain/incremental-nids-advancedCIL-SHAP/9169611567404d143424a5a0a8fdec1bd4572454/src/xai/umap_attacks.ipynb
+https://raw.githubusercontent.com/laxitajain/incremental-nids-advancedCIL-SHAP/a7cbe9d83f46b4defb32c593e82188fb92e95a1a/src/xai/sample_explanations.ipynb
+https://raw.githubusercontent.com/mblijian/TTA-L3/1071b883fbf9d68a846700e2983d3c16a427b406/L4210T4_Wed_4pm.ipynb
+https://raw.githubusercontent.com/mblijian/TTA-L3/5dc6e7bb9cba7b7e6435efb486fcb105c7572e86/L0313T4_Sun_1pm.ipynb
+https://raw.githubusercontent.com/mblijian/TTA-L3/7bd1e72447c75f4cb36e237fb90add7538f27b9b/lucky_21.ipynb
+https://raw.githubusercontent.com/mblijian/TTA-L3/93f1e842a9672e26cb4815606ae054ba40476770/ L0313_final_presentation.ipynb
+https://raw.githubusercontent.com/mblijian/TTA-L3/a5570e4009123e84cba2ed11a9f044ed7500e620/L3213T4_Wed_6pm.ipynb
+https://raw.githubusercontent.com/mblijian/TTA-L3/baf84ba890bdcd421f335bd362f966a9d7a9b3af/Python_T3_T4.ipynb
+https://raw.githubusercontent.com/mblijian/TTA-L3/e3e99795bd1764637ea309d60b5808ff0e6010f1/L4215T1.ipynb
+https://raw.githubusercontent.com/meggieraaphorst/AI4G-Portfolio_Meggie/87c3d740a71314a1ddac90f8afef6c68f95cd436/Term 1/Week 1/homework/Week1_Workshop_Student_Copy.ipynb
+https://raw.githubusercontent.com/mirdbg/Entrega_RAG/26d7f53d298e31d17401c1262b22ec55987cd70a/notebooks_editados/S1_Herramientas_y_Bucle_Alumno.ipynb
+https://raw.githubusercontent.com/mirdbg/Entrega_RAG/3a697b5b82e65963d882bdb59f5e326873b84d35/notebooks_editados/Entrega_RAG_v5.ipynb
+https://raw.githubusercontent.com/mirdbg/Entrega_RAG/5dacbe343ccf80ca7e2a47e5898f525f56b7b6c0/notebooks_editados/Entrega_RAG_v6.ipynb
+https://raw.githubusercontent.com/mirdbg/Entrega_RAG/ab11dc4daeff8566ddc7667312f29f0ce88f1dee/notebooks_editados/Entrega_RAG_v1.ipynb
+https://raw.githubusercontent.com/mirdbg/Entrega_RAG/c68a71c707ac9f5ddcd57db5c2679c25d1970653/notebook_entrega/Entrega_RAG_final.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/0f6fd19f8f7560884d59a8eb159bd53fe0ea0867/CWs/week13/week12_classwork_attention3.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/203dfa1d650f33afe7131cd5683a4cf42bab90c6/CWs/week12/week12_classwork_transfer_learning .ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/244dd05a6706b02dc514cf1056ddddd033176899/CWs/week13/week-13-cw-02-tokenization-layernorm-encoder-decoder.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/25131927d8592d1d8ca0a9a7a3e26d94f46db1d6/HWs/week6/hw_w6.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/3f89b3d73ba005aeb578cfaf2752a8f2c5118534/CWs/week13/week13_classwork_transformer_block.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/486e78ae11d13a0959820c3240d8de1e081ec2cc/CWs/week7/more_classwork.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/53d052745df97c3260ec42f93fd22695ac087f13/CWs/week1/week1_2.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/57f3326f4a6662a22fe938c664d09399db786505/CWs/week4/week4_3.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/5ac3d0f7fd03be84cd6c460c0ff33d4a2ee71abf/CWs/week11/week11_classwork_extra (1).ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/6e0bfd462527649d1914935fd252492c565cec94/CWs/week4/week4_2.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/7444da85967da38a0139d729d8bde79deed78bb8/HWs/week7/hw_w7.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/746817bc90c206764c610635c052fc7fff1369ad/CWs/week13/cw13_normalization_tokenizer_encoder_decoder.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/7b8162042d46ed9ba20d3e235ed846c42ccdcf2e/CWs/week11/week11_classwork_resnet_pretrained.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/841a6b6bdd1e3d37ab71cd4c8cdafeb0ae01bf38/HWs/week13/week13_hw_projects.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/8487322f849212b69df9825af7571575a2adfee9/CWs/week5/week5_1.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/875a1b385a1c7278162574798723c546ff071d58/HWs/week11/week11_homework_finetuning_gradcam_mixup.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/87d3dcabc8a6144657e42f20a8f12f49da08a35f/CWs/week7/cw_w7.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/884b3754414fa3a6c866875b84ea6728d60a85ff/CWs/week7/cw_w7_2.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/8a01ad6cc749a6e8ba6f2552d23de83f45ef86a8/CWs/week3/week3.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/8d100fc8faccf173ddfdd01ad62a509ad2bb2b62/CWs/week11/week11_classwork_data_augmentation.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/9e9aa4be3b5564bfe8988b4c5b797749cef3f058/HWs/week12_2/week12_homework_attention.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/a314c4d537d4a98017cf3f5026d9dee2cecf93d3/CWs/week7/cw_w7_3.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/a47d0163a072d0a2367b7dfacafcd820d66a3f00/CWs/week9/cw_week9.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/a760cdf61640cb25a712820fc8d7f3d9531f4445/HWs/week3/hw_w3.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/a855f7863614a144692c3ad0831238b974fd9e8f/CWs/week12/week12_classwork_bow_to_attention.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/aaa5e0a96017a7710cf64892d8e536d9c3e74125/HWs/week1/HW_W1.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/af8b74b9f3065fbc1103c7fc0319bd95d70a0018/CWs/week4/week4.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/b32a0fde46b5afc6a16476365cee7ebc9d699da5/CWs/week3/week3_2.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/c62ecf887a8f522f3e0d1db69be49df10abe538f/CWs/week12/week12_overview/week11_cw.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/c77084782c5b704ab6147a507d5dc2c2c3d70fc2/CWs/week10/week_10_2.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/d4bc774cf8c87c83fb1cef71b9f1b28696843dde/CWs/week1/week1.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/da8546e7c8ffb99584919c618f7d07139021532b/CWs/week6/week6_1.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/db6cc44d3ea7e3712b6c507d6e39a61de340a9ff/CWs/week6/week6_2.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/e4841a66246a9e92156f9aa536f3a545a43da3ee/CWs/week8/cw_w8_session1.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/f50fd8c2891752f7fda329087773c4ca839d208a/CWs/week5/week5_2.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/fd1ffce0fb6d8f4371d4ea64faf55f226598c376/CWs/week8/CW8_Day2_Classwork_Student.ipynb
+https://raw.githubusercontent.com/ncreshnc717/projects/af08870923d70d49b9bfae71bc4487ee1850281e/Untitled5.ipynb
+https://raw.githubusercontent.com/ncreshnc717/projects/eca55aabcb4b5cf849cd84058f7f3ccaf95162ec/24random.ipynb
+https://raw.githubusercontent.com/nmashokkumar/quick_commerce_last_mile_analysis/316216d95c7a172afd3ae5bc78426a7e00321fa1/notebook/Predictive_analyitcs.ipynb
+https://raw.githubusercontent.com/nmashokkumar/quick_commerce_last_mile_analysis/8f5241aed5a5ab6ad81edd651f231e53607ca990/notebook/Statistical_Analysis.ipynb
+https://raw.githubusercontent.com/nmashokkumar/quick_commerce_last_mile_analysis/9d0e7932cc26a68b328c9bbf793f3a1b5f74a871/notebook/EDA.ipynb
+https://raw.githubusercontent.com/noirdevv/fp-lbe-kcv/24b2d83a289f0adc8a46ea23f0149c5cabcd2743/FP_LBE_KCV.ipynb
+https://raw.githubusercontent.com/omosb1-sys/epl-data-pipeline/4f11c1625170d0b1779b67e606a374c7ebda683e/notebooks/리그데이터분석_update.ipynb
+https://raw.githubusercontent.com/omosb1-sys/epl-data-pipeline/6efff5a9c5087aba580d4bba9886c98fd1ed5d54/notebooks/리그데이터분석.ipynb
+https://raw.githubusercontent.com/omosb1-sys/epl-data-pipeline/76132f661cb551d2da13c05c5f61f7d8e02f072d/defense_analysis/hanwha/hanwha_defense_analysis.ipynb
+https://raw.githubusercontent.com/physicsru/Composition_in_Transformer/1efb3f1090faad7bdd688f253d00611f863e74e7/pretrained_llm/notebooks/pca_visualization.ipynb
+https://raw.githubusercontent.com/physicsru/Composition_in_Transformer/ca223208713fbf6a4cd9f1b4078e26a7b40e417f/pretrained_llm/notebooks/analysis.ipynb
+https://raw.githubusercontent.com/physicsru/Composition_in_Transformer/e87df8782480411e69c68fe0b7c3e28c284e2d1a/toy_model/notebooks/dirichlet_energy_analysis.ipynb
+https://raw.githubusercontent.com/physicsru/Composition_in_Transformer/f619c88154bca92e10105987ad299846c66b93ff/toy_model/notebooks/training_dynamics.ipynb
+https://raw.githubusercontent.com/pr4t1kdas-cell/Krishi-Patra-Dynamic-Crop-Finance-Platform/168485d7963a8e8857cb9f792e3d0f7dbcb9b0cb/Krishi_Patra_Dynamic_Crop_Finance_Platform[1].ipynb
+https://raw.githubusercontent.com/pratyushadhikary2004-ship-it/LOAN_APPROVAL_MODEL/1b2e255640040c3ade61bdd29380dab33a871099/LOAN_PREDICTION_MODEL.ipynb
+https://raw.githubusercontent.com/rajabaleee18/pythonforai/06d8af4d5cb5479734b68d796023cea2f18f1768/introducationofpython1stlecture.ipynb
+https://raw.githubusercontent.com/sendaslimenss/Sales-Performance-Dashboard-/0eb3f51ac87f28f019480544ca77e68e2183eeac/week1/notebooks/sales.ipynb
+https://raw.githubusercontent.com/sendaslimenss/Sales-Performance-Dashboard-/b1ad250af61a6ffdcc7a0b27c9afa242cd714169/week4/notebooks/sales.ipynb
+https://raw.githubusercontent.com/sonu-2027/Medical-Deepfake-Detector/48c9420d5f0183feba9a4c00c8400ab43b875ff6/cnn_training.ipynb
+https://raw.githubusercontent.com/sonu-2027/Medical-Deepfake-Detector/64ae0ac5a10c2c46de6b4ed784b5578183bdfcbe/y1.ipynb
+https://raw.githubusercontent.com/sugam-bhattarai/drug-response-prediction/f5d29b49e472861a04e5bde8f81619505ed633be/notebooks/01_Drug_Response_Visualization.ipynb
+https://raw.githubusercontent.com/toolboxlap-ve/TOOLBOXLAP-Colab-Ollama/680c55080fdcfbeaea8787ec741923eb4619491d/colab/TOOLBOXLAP-Colab-Ollama-Network.ipynb
+https://raw.githubusercontent.com/toolboxlap-ve/TOOLBOXLAP-Colab-Ollama/b8b1206c4c1c2be0e13fb19cfcb84b02f0eb18ed/colab/TOOLBOXLAP-Colab-Ollama.ipynb
+https://raw.githubusercontent.com/vdcmhaodl/Telco-customer-churn-prediction/3cdfa1fb90a32bd4e7a993d717f0ab91afe6e279/notebooks/02_business_eda.ipynb
+https://raw.githubusercontent.com/vdcmhaodl/Telco-customer-churn-prediction/4f6c88d1923fceca8cb89b223ce0c0e89f48751b/notebooks/01_data_audit.ipynb
+https://raw.githubusercontent.com/vgonzf04/pontia-machine-learning-evaluacion/23807030fc573e76f647ac28b3f386641801597e/notebooks/exploracion/neuronal_network.ipynb
+https://raw.githubusercontent.com/vgonzf04/pontia-machine-learning-evaluacion/8f760fffa8271f9b4cb8f2d79f62c82b9514f669/notebooks/exploracion/eda_inicial.ipynb
