@@ -1,0 +1,526 @@
+https://raw.githubusercontent.com/mirelesadan/4Denoise/79e731285b3f47dfbb7afa5ef7db32c137deb8fd/DEMO_exp_4dstem_ripple_processing.ipynb
+https://raw.githubusercontent.com/mirelesadan/4Denoise/f45eb017a967ffacc7db78e6f1e82739424ad6da/generateSimulatedRipple_4Ddata.ipynb
+https://raw.githubusercontent.com/mjianpour/detecting-disk-galaxies-in-JWST-images/0156c2695747228e4a28098a9827dbdb6788d078/src/full_test.ipynb
+https://raw.githubusercontent.com/mjianpour/detecting-disk-galaxies-in-JWST-images/3e5d856f6e95764e31c851bdaf236a6016a4b7ce/src/test.ipynb
+https://raw.githubusercontent.com/mjianpour/detecting-disk-galaxies-in-JWST-images/5fd2da748d5cd3bd580b95840e28277107e6fab2/src/background_subtraction-Copy1.ipynb
+https://raw.githubusercontent.com/mjianpour/detecting-disk-galaxies-in-JWST-images/64031aeb13e4e48993ebef7a974d7092136636f9/src/cutouts.ipynb
+https://raw.githubusercontent.com/mjianpour/detecting-disk-galaxies-in-JWST-images/97d46f073d5f112e1759781b7e3792a3cddbadcc/src/pipeline_test.ipynb
+https://raw.githubusercontent.com/mjianpour/detecting-disk-galaxies-in-JWST-images/9aa276b213b21cc81fa4c2371b6a668573baf100/src/better displaying.ipynb
+https://raw.githubusercontent.com/mjianpour/detecting-disk-galaxies-in-JWST-images/a7404a00acb75310db81e6e66b509f163a8ab2b1/src/Untitled.ipynb
+https://raw.githubusercontent.com/mukeshsingh05/genai_finance_news_stock_insights_ibm/c4ecc3b229b17b2716691601a4521cc4ab02a32e/genai_finance_usecase_IBM.ipynb
+https://raw.githubusercontent.com/nbayongboi/Computational-Aerodynamics/8e5cafdc8bf6a00cf49c1dced30a2a652a91dffb/notebooks/ncrit_and_transition.ipynb
+https://raw.githubusercontent.com/netra-khot/mouse-vocalization-2026/9054bc38d2d0b0d38baaf71f5aca71db61643697/data_prep/audio_preprocess_01.ipynb
+https://raw.githubusercontent.com/netra-khot/mouse-vocalization-2026/e353121649d3db399188e23ea84fea2c2202d771/data_prep/pca.ipynb
+https://raw.githubusercontent.com/netra-khot/mouse-vocalization-2026/edcbf7e985b71d4c02ebd987bc6922c082f06bb0/model/model.ipynb
+https://raw.githubusercontent.com/nitishsjsucs/DL_assignment_Nitish/7d2bd9ca8ffa17e2271393c94f2397ba06043c15/final_cnn_fundamentals_tutorial.ipynb
+https://raw.githubusercontent.com/nitishsjsucs/DL_assignment_Nitish/8f2ae3d341c9eaf00f49c89878c8b73e5dc68376/final_activation_functions_tutorial.ipynb
+https://raw.githubusercontent.com/nitishsjsucs/DL_assignment_Nitish/ac2604fb1916e98c8b0e24c862cc9b2440d7f946/final_hyperparameter_tuning_tutorial.ipynb
+https://raw.githubusercontent.com/nitishsjsucs/DL_assignment_Nitish/b0fe491e87d91af28c31756c825d3bcf46384cf8/final_important_classification_metrics_tutorial.ipynb
+https://raw.githubusercontent.com/nitishsjsucs/DL_assignment_Nitish/e63d0b78004a602202237bb769d85ab3ffe8485b/final_modern_cnn_architectures_tutorial.ipynb
+https://raw.githubusercontent.com/nreddi2/data-science-portfolio/8c363299c11eff64504835ce4d856a12842d726b/analysis/gender_wage_gap_analysis.ipynb
+https://raw.githubusercontent.com/o-inha/MidiTurmoil/795e8bf6b0f0db44f98151bb3ed4a7d2ea97e20e/MIDI_Scraper.ipynb
+https://raw.githubusercontent.com/o-inha/MidiTurmoil/87cc8a6ea519bc4ac03bfdedd7a0f1da41920d8b/SequencePatternGenerator.ipynb
+https://raw.githubusercontent.com/o-inha/MidiTurmoil/8ec3d6e772cee579ab316c79c63b7fd5fbd7e1c5/Transcriber.ipynb
+https://raw.githubusercontent.com/o-inha/NeuralAudioStemSeparation/488bbf6c922fa7964dddde101c7ab76aec3706e3/NeuralAudioStemSeparation.ipynb
+https://raw.githubusercontent.com/o-inha/NeuralDialogueAudiolizer/e3f77dc031c8cd56962ce46286c98de34b4e2c9d/NeuralDialogueAudiolizer.ipynb
+https://raw.githubusercontent.com/o-inha/NeuralImageColorization/96c91b617dd3352e8abf02b54d4ee34e167ca9a3/DeOldify_ImageColorization.ipynb
+https://raw.githubusercontent.com/o-inha/NeuralStyleTransfer/7658cef618a267da660f1e5818af020374a7b9c2/NeuralStyleTransfer_titu1994.ipynb
+https://raw.githubusercontent.com/o-inha/NeuralStyleTransfer/8f3398fb540f54c7d03d7c27c9285505c6359541/NeuralStyleTransfer_crowsonkb.ipynb
+https://raw.githubusercontent.com/o-inha/SloppyButchery/098cfc7475de0b57e073f4f645b600ae7fb40e5d/legacy/sloppyButcher_v1_0.ipynb
+https://raw.githubusercontent.com/o-inha/SloppyButchery/23556abbde56a6e8314c0c8e34e24aba12380173/SeniorButcher.ipynb
+https://raw.githubusercontent.com/o-inha/SloppyButchery/2ed4f4fa2b415c85b0c344640947f17df658c3e7/StutteringButcher.ipynb
+https://raw.githubusercontent.com/o-inha/SloppyButchery/2f44bcf7b1209bb2b51dc4455c99036ef1f4dd33/Autotune.ipynb
+https://raw.githubusercontent.com/o-inha/SloppyButchery/44bcc034ae3228d21c81d32733a5ec6aab66a40f/util_librosa_functions.ipynb
+https://raw.githubusercontent.com/o-inha/SloppyButchery/4caabb3b7180f5d4c222101083c103579ffab5ec/legacy/sloppyButcher_v0_06.ipynb
+https://raw.githubusercontent.com/o-inha/SloppyButchery/62f056f10e72aa339a15749085a931b95312ba4b/SloppyButcher.ipynb
+https://raw.githubusercontent.com/o-inha/SloppyButchery/6f4216f7a9c0f4a3db98cec3592031bb45b0e178/util_AudioConcat.ipynb
+https://raw.githubusercontent.com/o-inha/SloppyButchery/898e3cfc1b65d94d261c5aca63c2b6483bc4cbe2/PoeticButcher.ipynb
+https://raw.githubusercontent.com/o-inha/SloppyButchery/ac00bac6a75967157b6cc542f754e0173387adc1/legacy/amen_beat_reverser.ipynb
+https://raw.githubusercontent.com/o-inha/SloppyButchery/bb90099d2e2298e32e0fa7296cb3e4ccb7a9fb66/legacy/sloppyButcher_v0_07.ipynb
+https://raw.githubusercontent.com/o-inha/SloppyButchery/dd1d208094601fd8f8a75ff82636620cb1afa520/SloppyUpsampler.ipynb
+https://raw.githubusercontent.com/o-inha/SloppyButchery/f2e3615a67acffeaaf979132d752ce79976c844c/legacy/chopper_core_early_poc.ipynb
+https://raw.githubusercontent.com/o-inha/SloppyNoto/51a71d4615539832cf0af9ca809b3fbe8eb92d9d/crawlers.ipynb
+https://raw.githubusercontent.com/o-inha/SloppyNoto/edf6011a52d8bca5ea0a3c9bb50b73b56429747f/sloppyNoto.ipynb
+https://raw.githubusercontent.com/o-inha/inhagcutils/ac1114eede3de168fbf08772b4755ed76bcc7316/inhagcutils.ipynb
+https://raw.githubusercontent.com/omarbazooka/transformer-encoder-sentiment-from-scratch/85bc84e0f579fcd2e0e1bf2899d1aadef84adcdb/Transformer_Encoder_IMDB_From_Scratch.ipynb
+https://raw.githubusercontent.com/pawelkwaczynski/electrolab-cv/250462da51a01b1193cfb0b589dbad2d6478605e/PeakWise_CV_Analyzer.ipynb
+https://raw.githubusercontent.com/pawelkwaczynski/ities-detect/cb9b6236b5333da34fd2bc994fc4d71676615059/ITIES_Detect.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/025acb4477dd9a2bb7f2357431ef2cdadacf87bf/public/courses/python_1_mag/ipynb/mag_python_4.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/0299ecd49b59c08ff19512d0e62dae3385dc666a/public/courses/python_2_mag/ipynb/audio_2.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/06e0c008ccd987a1207e06980825dc175f9b65c1/public/courses/dsp/ipynb/pitch_segmentation.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/0a507b5c7a4354ff9cfbf94af7876af8629dfcd4/public/courses/linear_models/ipynb/lm_sonogram.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/0a53c180bfde417994d6dc01a5e447728af7d4d9/public/courses/linear_models/ipynb/window_func_parameters.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/0d3330eb9f6013a105c67f5b02b97c721a02a519/public/courses/python_ai_mag/ipynb/string_methods_and_files.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/0d33e363ff0730c79807e3bbeba45eb939fd2032/public/courses/python_genling_bac/ipynb/list_comprehension_ans.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/10060737ac81f7f1d2c17c303e0fbdb91912d426/public/courses/python_1_mag/ipynb/mag_python_6.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/10066916ffc1355eacc9b864e25e9a95f3bb77aa/public/courses/linear_models/ipynb/lm_pause_detection.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/11771700b54607a3b08dc3e0dad6318ddb0e7841/public/courses/python_ai_mag/ipynb/tuples_and_counters.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/138db167d1301dda9458f1109ffc238007a386b9/public/courses/python_ai_mag/ipynb/csv_reading_ans.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/1b8baf207e2c3a730a48ea0aa8e895ab4d999571/public/courses/python_genling_bac/ipynb/list_comprehension.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/1bd76c5c522a383a708004e4e65aabcf2a147a45/public/courses/ling_programming/ipynb/tf_idf.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/1c33a9e295309a14cbbaba77f5d3b863832c8221/public/courses/python_genling_bac/ipynb/stats2.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/1c3cd2f74d54a79cf6213fe59d536a77ea5763d5/public/courses/linear_models/ipynb/stops_and_palatalization.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/1d336c8ca52a6f58a86a8508efc3b72c25f88967/public/courses/python_genling_bac/ipynb/opencorpora.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/1f9bb273275f5e7560878ba4c1c8b634623d79b5/public/courses/python_textbook/ipynb/wav_reading.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/1fe7fef93b0b0a47d58fad7574f06de58ed9283e/public/courses/dsp/ipynb/phases.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/2127b92b0a4811bb276ff25368382c4ccf70385d/public/courses/python_genling_bac/ipynb/string_methods_and_files.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/270aa4b8ac39f5591ddbb839c8ca347ad5771239/public/courses/python_genling_bac/ipynb/stats1.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/273220eb39fa200542459ec060ba2d375c48cfa4/public/courses/python_genling_bac/ipynb/variables.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/2752ec3385e239ebee0d53f151a633aa1a767345/public/courses/linear_models/ipynb/spectral_leakage_and_window_functions.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/279a09962934b159d198b1f49ecad99de6748cf4/public/courses/python_1_mag/ipynb/mag_python_8.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/2828847ef9a7c3b23d99392f6266fcd5fec7acbc/public/courses/python_2_mag/ipynb/json_csv.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/2847a8a1203c78758b975e7ec14c5fadee9cfb79/public/courses/python_genling_bac/ipynb/sequence_processing.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/2ae23951467e06a99db66da30b0fde3a94125b84/public/courses/dsp/ipynb/formants.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/2e5c9858ab370bc3b4302c4570f3b76fa85d33ac/public/courses/python_1_mag/ipynb/mag_python_7.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/2f31ed31f4c73955d56958f4fa82c38c90169ccd/public/courses/linear_models/ipynb/lm_tgt.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/356d590bf6355dde27a335d318874e991b680a05/public/courses/linear_models/ipynb/lm_parselmouth.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/37a4703e412dc7724bbed9882b15c1161df9b0a7/public/courses/dsp/ipynb/griffin_lim.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/39a6e154456e618f3ccbf9fefd1900d34f96c5ca/public/courses/linear_models/ipynb/moving_average.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/3ab3f5f9e009a670827496941682363951804932/public/courses/dsp/ipynb/k_means.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/3b8530d89ac275b639ed20c3dc403e30645323b3/public/courses/python_genling_bac/ipynb/sem2_practice.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/3dca5021b60db67968743341d9d6cd2041f8ce56/public/courses/python_genling_bac/ipynb/folium_demo.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/3f4628f897c342533caf66ee9fb5f098c9244af4/public/courses/signal_proc_mag/ipynb/loudness.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/4080b95bc350ec698defbd4062d0869d0f3690f7/public/courses/python_textbook/ipynb/pitchmarks.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/427363d02bc8cf2f90ca928c6d23b5ea7214234d/public/courses/linear_models/ipynb/noise.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/460973e07a0dd702608b6058b1d3d895cd33bddf/public/courses/python_genling_bac/ipynb/loops.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/46fe0fc15fd0da3755f49755417df4279302831e/public/courses/python_2_mag/ipynb/pymorphy.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/4b648e50d48cea96822d5a8e41c5f7a81ae322f6/public/courses/python_1_mag/ipynb/mag_python_8_extra.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/4d862f59080e0db14718dd95eef650e36eaef893/public/courses/python_genling_bac/ipynb/dicts_and_sets.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/54cc1769f00ae0b74dde97a106ec663c3c7d9646/public/courses/dsp/ipynb/ML_linear_regression.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/550c40ccfed6d34c834006e15b5050a5b8dda275/public/courses/python_ai_mag/ipynb/csv_reading.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/5625d03218cb44073ef1313b6d81c354e846d149/public/courses/dsp/ipynb/time_domain_pitch_estimation.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/573be9e60452ab37902fbd14344a320cb1994a90/public/courses/python_genling_bac/ipynb/transcription.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/5758bd266627aa255a5695a9382f12488ffe2203/public/courses/linear_models/ipynb/ex.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/575b9c55fd3bf4b49f10a4698b23b291659670de/public/courses/python_genling_bac/ipynb/sequence_processing_ans.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/59a2f07cc6783a58f27660c17dba9c45d44d5290/public/courses/dsp/ipynb/spectral_metrics.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/5b357c09c30fe9464a55b8c61b9d38b7765ab1a8/public/courses/ling_programming/ipynb/regex.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/5b357c09c30fe9464a55b8c61b9d38b7765ab1a8/public/courses/python_genling_bac/ipynb/regex.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/5b75dccc93554a0ab7a7592aaae8aca9e11bf0b3/public/courses/python_genling_bac/ipynb/functions.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/5cae10057f48f0263b596d580f200a4b7b9a132f/public/courses/python_1_mag/ipynb/mag_python_2.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/61e2eb1ae58d84774ee21e799f7e6af3243abafc/public/courses/python_genling_bac/ipynb/tuples_and_counters.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/66958270cd08c693bc9910c5932ef68b3d709a8d/public/courses/python_genling_bac/ipynb/csv_reading_ans.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/6801fdbe666a4f4b61b437c37cd5d26000c66607/public/courses/dsp/ipynb/ps_ac_scales.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/6e385be848bbb05471d5c061be634104fc0b8ffb/public/courses/dsp/ipynb/MFCC_tasks.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/701e31a934bc3c7360c78af9e9159fc2c4f86d39/public/courses/python_genling_bac/ipynb/sem1_practice.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/7471efd50d733870ee8dc19f9fff337aca594940/public/courses/ling_programming/ipynb/nltk_pymorphy.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/7757732e857757d67f103743d25dbe03e4ec06f3/public/courses/python_genling_bac/ipynb/matplotlib_ans.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/78652130fd722ab8842e6da3f169cb395e4381cb/public/courses/ling_programming/ipynb/intonation_task.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/79540a79ac329a4d77b881d3c4d2b0ca2dd30cb9/public/courses/python_1_mag/ipynb/mag_python_3.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/7bc14ad2adc73263c1c0296cfb85e1ad602a2fdb/public/courses/python_genling_bac/ipynb/csv_reading.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/80002e34c8a524b8cae2989eb7d5566529356c43/public/courses/linear_models/ipynb/gunshot_imp_response.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/842a6581e3b95e051c500231b627f230c26f5d06/public/courses/python_1_mag/ipynb/mag_python_6_extra.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/85a6120a5e421cbd457c1fe304c6b4a61525af5c/public/courses/python_genling_bac/ipynb/matplotlib.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/86bd5c0f16b70e7e736a794a5b6c78a229fd0aaf/public/courses/dsp/ipynb/LPC.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/89848d7a7b2a852dc98ef9318ba08fd4c28d3604/public/courses/python_genling_bac/ipynb/lists_and_conditions.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/89a0043aece5144a19f506daf78c74835d0a1a3a/public/courses/python_genling_bac/ipynb/sem1_test.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/89ef04ed6b7b3c08a2d0be7c783002134fda1ffe/public/courses/python_1_mag/ipynb/mag_python_1.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/8fd51858ca684f2f8b3d87e37813d71cd031634d/public/courses/python_genling_bac/ipynb/loops_ans.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/90c125a582a20c99329fdcc43328c85b88a9cb05/public/courses/python_genling_bac/ipynb/audio.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/9377e0a43dac5c48f85180d18c9638856e49a9c7/public/courses/tts/ipynb/concat_synthesis.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/93d71dc8a598c40b45dbbc5ba29e5e2f2f331413/public/courses/dsp/ipynb/MFCC.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/9758eea3e952ea640aa3b93e29a929e0ff29576e/public/courses/signal_proc_mag/ipynb/autocorr.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/976a5687f3e9bd9126aa9579c6c4821d76484ef7/public/courses/ling_programming/ipynb/bayes.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/9c3403bc209352790d7f36fabed551d4b2035b87/public/courses/python_1_mag/ipynb/mag_python_4_extra.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/9f55d22611d27e821c9798b0497734b6c3a2109f/public/courses/python_2_mag/ipynb/audio.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/a1b129c7c9981742197c551083502f40fd5ec5cf/public/courses/linear_models/ipynb/fricatives.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/a94c1ef37b705a79d5fc189113b8eb0374618bb3/public/courses/python_2_mag/ipynb/classes.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/aacf1d9a4d327fe6b43aae553eb8afc71a9b27db/public/courses/python_genling_bac/ipynb/midterm.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/aadd0f13ee7e244991956c5f11c5b8aca94d331f/public/courses/ling_programming/ipynb/autocorrelation.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/b186d37601f86a3642fa9d941a254f3c5e130c97/public/courses/python_genling_bac/ipynb/pymorphy.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/b21af6b0a249b3709c0a3879bd5e19762ddb641a/public/courses/python_1_mag/ipynb/mag_python_5.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/b4cbda491ecac5d86d4ae2f16a74deb79c05c2dd/public/courses/dsp/ipynb/fft_window_size.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/b6cd5d1d57df92314a1950e9f8f0b1f83a78f5f5/public/courses/linear_models/ipynb/nasalization.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/b87945d2342495368e0cd5839bd1cf06a01942a5/public/courses/linear_models/ipynb/signal_modulation.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/b9ca6066ca06db79d07450d1c0bca2864aa6b299/public/courses/text_proc/ipynb/levenshtein.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/bda4355c1e96037a855df39a047961304413b477/public/courses/dsp/ipynb/dct.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/be454b9478a66e0a5bbcdd50139881536a0f0f9e/public/courses/python_2_mag/ipynb/pymorphy_inflection.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/bf35be00aed016e0c2f0c1e36d55f419f1d6780f/public/courses/python_textbook/ipynb/seg_reading.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/c0851176dbb9dc25817fd0f2b2487bfaaaf7264c/public/courses/python_2_mag/ipynb/stat_Python.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/c148a2d4c112e81d41dc87b13fc01bca9e04ae7f/public/courses/linear_models/ipynb/moving_average_filter_char.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/c212270f56b354453e97218362ffb5f337b989f8/public/courses/python_2_mag/ipynb/1sem_review.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/c2423610c212f235bb1583696ad0fddd3729f297/public/courses/python_1_mag/ipynb/yt_dlp_whisper.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/c55c5ce1a08a0ee3f9fc98022a417e2b59f06cad/public/courses/python_textbook/ipynb/multi_seg.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/c5c069c0658376b6f1d3e0b6e967de7deafcc85b/public/courses/python_ai_mag/ipynb/tuples_and_counters_ans.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/c5c069c0658376b6f1d3e0b6e967de7deafcc85b/public/courses/python_genling_bac/ipynb/tuples_and_counters_ans.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/c64d2260387fc4121e17d738d1133002c64526a3/public/courses/python_ai_mag/ipynb/string_methods_and_files_ans.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/c64d2260387fc4121e17d738d1133002c64526a3/public/courses/python_genling_bac/ipynb/string_methods_and_files_ans.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/ceded0e1e0c2031499380e0e2e71d54233c4fec8/public/courses/python_genling_bac/ipynb/debugging.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/cfeffa1e68211b3bd769b44f44763db71c8f3630/public/courses/linear_models/ipynb/formant_synthesis_final.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/d32009badf5138b75496791524756e2c4dd51be2/public/courses/linear_models/ipynb/numpy.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/dac7ac27dfeefe0ce679e9e8df71a0b5ef091f9e/public/courses/python_genling_bac/ipynb/ruscorpora.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/dcbe8cee3ab86800c07a67efa800906d417a64bc/public/courses/dsp/ipynb/TD_PSOLA.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/e3c3b1f196f0712387c39bec89c687409ca4fe2f/public/courses/python_genling_bac/ipynb/dicts_and_sets_ans.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/e70f641f33bcb7e73155b9662d43cf0233e73d6a/public/courses/python_genling_bac/ipynb/functions_2.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/ea1023c918806b6a738bb280e75d69dca49463ea/public/courses/linear_models/ipynb/autocorrelation.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/ea38eac1a1420e81e3d1533d90638d00c3995304/public/courses/linear_models/ipynb/DFT.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/ea3fe5f94ac8cc7c446c327e573c14f8b63b912b/public/courses/dsp/ipynb/cepstrum.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/eb7302834f3121d1834090d2903e51a8815b815a/public/courses/dsp/ipynb/enrate.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/ec228e5d992b9977e005716761b0fe3bac5c173b/public/courses/linear_models/ipynb/filters_scipy.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/ec2903c73c38f3f392c19a8d420de4ff6a3e1451/public/courses/ling_programming/ipynb/w2v.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/edde08deb144ddf87a052c28009bf4af231e2da5/public/courses/python_genling_bac/ipynb/lists_and_conditions_ans.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/f056c27a1fd1184ec90f080eaba66ca666e41d4f/public/courses/ling_programming/ipynb/ngrams.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/f1bbb88c3bb50957c8434d4caf4828d79cbd5950/public/courses/linear_models/ipynb/lm_classes.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/f4ea92457c1301abacc6bbf91f6445dfbce8d1d9/public/courses/python_1_mag/ipynb/mag_python_10.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/fda1d231fd14f46d5f083d704a4ecb5d0c3735aa/public/courses/dsp/ipynb/ML_log_regression.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/fda48708bf619387b74f526c806965d25c1f5e5e/public/courses/linear_models/ipynb/source_modeling.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/fe197bf088c099f095bed2fd1cf846d54d16d96e/public/courses/dsp/ipynb/frequency_domain_pitch_estimation.ipynb
+https://raw.githubusercontent.com/phonetics-spbu/phonetics-spbu.github.io/ff13199487722261da782080a9421932163e7772/public/courses/ling_programming/ipynb/levenshtein.ipynb
+https://raw.githubusercontent.com/pizofreude/data-career-navigator/39076e1f409a56a4202327ecf0aff359c2fdea40/notebooks/02-eda-enriched-jobs.ipynb
+https://raw.githubusercontent.com/pizofreude/data-career-navigator/a47ff2ee935b5653ff67cae668009a2a04f0c4f5/notebooks/01-data-cleaning.ipynb
+https://raw.githubusercontent.com/pocketgull-app/pocketgull/f0da0d417a4e23bd8f8fe906d88e38ec340a61fc/contests/physionet/2026/pocketgull_physionet_2026_challenge_entry.ipynb
+https://raw.githubusercontent.com/prabhuomkar/pytorch-cpp/09f835d967fd707728f451ae89297a9c4d512cbe/notebooks/tensor_slicing.ipynb
+https://raw.githubusercontent.com/prabhuomkar/pytorch-cpp/817e92e34fd1b2d42edbe15007825abec253d198/notebooks/pytorch_cpp_colab_notebook.ipynb
+https://raw.githubusercontent.com/quantumlib/OpenFermion/0bd2c99a84f959f328f9b88673c8c48f7f4632b7/docs/tutorials/circuits_2_diagonal_coulomb_trotter.ipynb
+https://raw.githubusercontent.com/quantumlib/OpenFermion/0cb2bb35289dbb935f71f818aeb3040e314931af/docs/tutorials/jordan_wigner_and_bravyi_kitaev_transforms.ipynb
+https://raw.githubusercontent.com/quantumlib/OpenFermion/11a4acb37b94a0ed0184891d3c9ca30d0bca23f5/docs/fqe/tutorials/diagonal_coulomb_evolution.ipynb
+https://raw.githubusercontent.com/quantumlib/OpenFermion/266c4280e351ba8e6817caaaa47738511fdff1db/docs/fqe/guide/introduction.ipynb
+https://raw.githubusercontent.com/quantumlib/OpenFermion/32f33ee87082deadef93498fbcd182f69e4e323e/docs/fqe/tutorials/fermi_hubbard.ipynb
+https://raw.githubusercontent.com/quantumlib/OpenFermion/564c3ffeed01ead557c0dda050d92dc8c81a34e5/src/openfermion/resource_estimates/pbc/notebooks/isdf.ipynb
+https://raw.githubusercontent.com/quantumlib/OpenFermion/6bf2a3fd9597a2139565f841150e1dc9ad2d81b2/src/openfermion/resource_estimates/pbc/notebooks/resource_estimates.ipynb
+https://raw.githubusercontent.com/quantumlib/OpenFermion/7a0f317b83ceef4b8b459f9a6589c0998bfda9ab/docs/fqe/tutorials/fqe_vs_openfermion_quadratic_hamiltonians.ipynb
+https://raw.githubusercontent.com/quantumlib/OpenFermion/84e4301ffdb3256c5443ef16adfe7c81198d4b64/docs/tutorials/bosonic_operators.ipynb
+https://raw.githubusercontent.com/quantumlib/OpenFermion/964248d8632343ce836f3c64dc4511b3dd09d1e1/docs/fqe/tutorials/hamiltonian_time_evolution_and_expectation_estimation.ipynb
+https://raw.githubusercontent.com/quantumlib/OpenFermion/a1e9f26117e1c34ecfb00725445c5d629e6bc22c/docs/tutorials/circuits_3_arbitrary_basis_trotter.ipynb
+https://raw.githubusercontent.com/quantumlib/OpenFermion/a799fcbf49597b88b2083fdbcfd28f51c9fff1c2/docs/tutorials/binary_code_transforms.ipynb
+https://raw.githubusercontent.com/quantumlib/OpenFermion/af9c8f6de733628caa920f3620547b893facc604/docs/tutorials/intro_to_openfermion.ipynb
+https://raw.githubusercontent.com/quantumlib/OpenFermion/c4be74a095f113c007cf04256d56f2c110716829/docs/tutorials/intro_workshop_exercises.ipynb
+https://raw.githubusercontent.com/quantumlib/OpenFermion/d03dd8468d82a9d0b7644d5ec84690287ee2a2cd/docs/tutorials/circuits_1_basis_change.ipynb
+https://raw.githubusercontent.com/rheopy/rheolite/35c811311b9f377cbfb14dc2d27c4b357f838ef0/content/flow_curves_fit/TC_model_jupyterlite.ipynb
+https://raw.githubusercontent.com/rheopy/rheolite/3bb270875d4e27392a6175d4d7b76e71ba8cee33/content/mastercurves/SoR2022_chi_AM12.ipynb
+https://raw.githubusercontent.com/rheopy/rheolite/407a68358bb76198e3ca328396a7b5141dbe4b6e/content/Particle_stability_in_yield_stress_fluids.ipynb
+https://raw.githubusercontent.com/rheopy/rheolite/6cf1422b9cf1c78bf31732f933a0c4770fe6d06d/content/rheofit/rheofit_intro.ipynb
+https://raw.githubusercontent.com/rheopy/rheolite/8638e5c4821177c9f196e0991c6fad0494822d40/content/video/video_input.ipynb
+https://raw.githubusercontent.com/rheopy/rheolite/87da6b5f00cac3db115f4d8a1dfa9a2e7591d68d/content/rheomodel_lite.ipynb
+https://raw.githubusercontent.com/rheopy/rheolite/9202b001f2ce2dccd81395a98a462ba12a0d963e/content/flow_curves_fit/TC_iter_fit.ipynb
+https://raw.githubusercontent.com/rheopy/rheolite/989a69546a65760826213033ffd2f0867588e271/content/flow_curves_fit/TCC_model_jupyterlite.ipynb
+https://raw.githubusercontent.com/rheopy/rheolite/df258edd4cd20ba978b30b004973f28d0d58d7a4/content/flow_curves_fit/carreau_yasuda/carreau_yasuda_fit.ipynb
+https://raw.githubusercontent.com/rheopy/rheolite/ebc6d06cfbfa564a1e33c138befa9f5fb968a54a/content/mastercurves/SoR2022_AM12.ipynb
+https://raw.githubusercontent.com/rheopy/rheolite/f34fa6fb8eaa64993621758b0c8c4114eed78ce3/content/capyllarybreakup/cabervideo_quickstart.ipynb
+https://raw.githubusercontent.com/ronish645/bay-area-data-projects/2d26917c3d54df3b3e6f900f1fce1cb58f1092c0/Bay_Area_Health_and_Pollution_Analysis/Cal_Bay_Area_PollutionAndHealth_analysis.ipynb
+https://raw.githubusercontent.com/rustfuture/rlt-rsi-experiment/83ce65a642d54ad047e76f1bdb95aefed353f0a2/notebooks/rlt_rsi_colab.ipynb
+https://raw.githubusercontent.com/rustfuture/rsi-experimental-framework/2a9ce01df7077bff16342c30a808af1ca5997a1a/notebooks/rsi_open_weight_colab.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/0198c57facab8f0f0d7e69e641a9a73dbceab975/_build/html/_sources/preparation/cloud.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/0198c57facab8f0f0d7e69e641a9a73dbceab975/preparation/.ipynb_checkpoints/cloud-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/0198c57facab8f0f0d7e69e641a9a73dbceab975/preparation/cloud.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/01b352a7fe1dfe6a5e7e02ffcce412167417c6a5/q1gates/.ipynb_checkpoints/classifier-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/01b352a7fe1dfe6a5e7e02ffcce412167417c6a5/q1gates/classifier.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/0495458e60d27d6244b3b19b4f9eee11ee264ce9/_build/html/_sources/q1gates/tomography.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/0495458e60d27d6244b3b19b4f9eee11ee264ce9/q1gates/.ipynb_checkpoints/tomography-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/0495458e60d27d6244b3b19b4f9eee11ee264ce9/q1gates/tomography.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/04a3eb77aa245279860117c2ab9339bf507e1e73/_build/html/_sources/algorithms/deutsch.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/04a3eb77aa245279860117c2ab9339bf507e1e73/algorithms/.ipynb_checkpoints/deutsch-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/04a3eb77aa245279860117c2ab9339bf507e1e73/algorithms/deutsch.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/04c53ac23a67b825b6e4ac09a96459784bcc93fa/_build/html/_sources/computation/qinfo.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/04c53ac23a67b825b6e4ac09a96459784bcc93fa/computation/.ipynb_checkpoints/qinfo-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/04c53ac23a67b825b6e4ac09a96459784bcc93fa/computation/qinfo.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/058f1109c8fc712ccbb9bc689383621606b11124/_build/html/_sources/computation/qcomp.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/058f1109c8fc712ccbb9bc689383621606b11124/computation/.ipynb_checkpoints/qcomp-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/058f1109c8fc712ccbb9bc689383621606b11124/computation/qcomp.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/06730e59435d9dbab51997080d8ff4cad9032f70/_build/jupyter_execute/computation/intro.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/0f7788926cd821b059944cd63d6495be9058e16d/_build/jupyter_execute/q1gates/tomography.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/0fccce425ec38baecb92abd40050512b0bf0d2a7/_build/jupyter_execute/composites/2qubit.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/11db0d0927d97aa52cec8c21c59f0f51610a439f/_build/html/_sources/q1gates/intro.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/11db0d0927d97aa52cec8c21c59f0f51610a439f/q1gates/.ipynb_checkpoints/intro-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/11db0d0927d97aa52cec8c21c59f0f51610a439f/q1gates/intro.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/175102fe40f0aa81483345a39ea7a1c39f224354/preparation/.ipynb_checkpoints/quantum-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/1797738c4344d04f65e14cb45eb90a3897e0d583/_build/jupyter_execute/q2gates/cx.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/17df884e8aaf768e1cde7a135a7e1267858e5da7/preparation/.ipynb_checkpoints/operators-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/1a3bcf7c73dce7ff993618e86082d4205c43dc8f/qubit/.ipynb_checkpoints/statevectors-in-qiskit-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/1c58b84ac571644d83bf6a377bc27cd92adadaaf/_build/jupyter_execute/q2gates/cz.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/1dd4381a68ccb61df811bec5e0c108acb604a7eb/cover.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/1e746652c5b03c8fe06174008f8c93562ba8851d/_build/jupyter_execute/algorithms/entanglement-swap.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/21fc24d5cc19307b1c01ebcf8646a82b5e9d3252/_build/jupyter_execute/algorithms/qparallel.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/254c17b991bde38f653f86f238c05979dbc2a2ff/_build/jupyter_execute/preparation/qiskit.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/26076235a5eea31caa09a2d17d502cceba1c387b/_build/jupyter_execute/q1gates/u.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/27f81182b2d6fa2ebffc1bf2fa955b214d5b14ff/_build/html/_sources/algorithms/walshhadamard.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/27f81182b2d6fa2ebffc1bf2fa955b214d5b14ff/algorithms/.ipynb_checkpoints/walshhadamard-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/27f81182b2d6fa2ebffc1bf2fa955b214d5b14ff/algorithms/walshhadamard.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/284f880d06580dc2f454d96a96c444efe2b7528a/_build/jupyter_execute/preparation/intro.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/2d2679bc29ea3162fd86fee7e1b96dae03fecd65/_build/html/_sources/composites/intro.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/2d2679bc29ea3162fd86fee7e1b96dae03fecd65/composites/.ipynb_checkpoints/intro-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/2d2679bc29ea3162fd86fee7e1b96dae03fecd65/composites/intro.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/348b315ede91f4df4ebc972dcc06d096fafff8e5/computation/.ipynb_checkpoints/cqomp-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/353f503ea47cef868b86676dcb4e18c7b6793426/_build/html/_sources/q2gates/cx.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/353f503ea47cef868b86676dcb4e18c7b6793426/q2gates/.ipynb_checkpoints/cx-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/353f503ea47cef868b86676dcb4e18c7b6793426/q2gates/cx.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/3b435129617ab11a0cbaf3b25289ee7ead6ae249/_build/jupyter_execute/q1gates/p.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/3df498714a99f15e374e2f92ec8c437914c89543/_build/html/_sources/q1gates/z.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/3df498714a99f15e374e2f92ec8c437914c89543/q1gates/.ipynb_checkpoints/z-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/3df498714a99f15e374e2f92ec8c437914c89543/q1gates/z.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/3e46db5fdbb348d73e2507d6feaa639cd49949f4/_build/html/_sources/preparation/thisbook.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/3e46db5fdbb348d73e2507d6feaa639cd49949f4/preparation/.ipynb_checkpoints/thisbook-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/3e46db5fdbb348d73e2507d6feaa639cd49949f4/preparation/thisbook.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/3f1b2572ea364d05ccbb4fcecaec318c8b148192/_build/html/_sources/preparation/python.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/3f1b2572ea364d05ccbb4fcecaec318c8b148192/preparation/.ipynb_checkpoints/python-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/3f1b2572ea364d05ccbb4fcecaec318c8b148192/preparation/python.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/400eade12b031562c0678f6caf77177adbb9d11e/_build/jupyter_execute/preparation/thisbook.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/4245e72d9801851cb339decc49c8cf89a09c385d/_build/jupyter_execute/q1gates/x.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/48e0cc0b3e9489f308a480e0dcfc8a10930754c3/_build/jupyter_execute/q2gates/cp.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/49d14e9390bebd9bfe4d7f27f3f9f8e20899f5d8/_build/jupyter_execute/composites/numbers.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/4ab70c673239f0f6bfac591be37421a8b2427d5f/_build/jupyter_execute/composites/intro.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/4bf72482ae85ddd9278f81108a4c1cf16e0a3f0a/_build/jupyter_execute/q1gates/sx.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/4dd955415da060167ff1e56935244a3472086580/_build/html/_sources/preparation/jupyter.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/4dd955415da060167ff1e56935244a3472086580/preparation/.ipynb_checkpoints/jupyter-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/4dd955415da060167ff1e56935244a3472086580/preparation/jupyter.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/4f799649eb1990caa36bd941fe888bf270c78745/qubit/.ipynb_checkpoints/single-qubit-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/4fb9274a47997a1339da6d4c20036ad5ce5788bc/_build/html/_sources/composites/2qubit.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/4fb9274a47997a1339da6d4c20036ad5ce5788bc/composites/.ipynb_checkpoints/2qubit-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/4fb9274a47997a1339da6d4c20036ad5ce5788bc/composites/2qubit.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/515a4c5aa522a9e9ec13772f7310b22453183b55/_build/html/_sources/q1gates/change-basis.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/515a4c5aa522a9e9ec13772f7310b22453183b55/q1gates/.ipynb_checkpoints/change-basis-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/515a4c5aa522a9e9ec13772f7310b22453183b55/q1gates/change-basis.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/559f1c4c70d88075e4460703cc9479c842bab910/_build/html/_sources/algorithms/qparallel.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/559f1c4c70d88075e4460703cc9479c842bab910/algorithms/.ipynb_checkpoints/qparallel-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/559f1c4c70d88075e4460703cc9479c842bab910/algorithms/qparallel.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/5b8385fd22fa918ec882e77631ab2936d0cda196/_build/jupyter_execute/preparation/jupyter.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/5bf0466590b9a5fef38bc8e331979a96ae909579/_build/html/_sources/q2gates/intro.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/5bf0466590b9a5fef38bc8e331979a96ae909579/q2gates/.ipynb_checkpoints/intro-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/5bf0466590b9a5fef38bc8e331979a96ae909579/q2gates/intro.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/65870929bc4fdfdefd02f286b7e0ba83e6c782e3/_build/jupyter_execute/q2gates/swap.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/65c4cfa95f8e4b3b5d5e6e9f3e730f131525bf2a/_build/html/_sources/algorithms/qpe.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/65c4cfa95f8e4b3b5d5e6e9f3e730f131525bf2a/algorithms/.ipynb_checkpoints/qpe-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/65c4cfa95f8e4b3b5d5e6e9f3e730f131525bf2a/algorithms/qpe.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/683a7c5b4fe12a0c4658522e8563f9b226c5caea/_build/html/_sources/algorithms/qft.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/683a7c5b4fe12a0c4658522e8563f9b226c5caea/algorithms/.ipynb_checkpoints/qft-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/683a7c5b4fe12a0c4658522e8563f9b226c5caea/algorithms/qft.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/69329e0359933455553469145b9581f94f63ec37/_build/html/_sources/algorithms/densecoding.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/69329e0359933455553469145b9581f94f63ec37/algorithms/.ipynb_checkpoints/densecoding-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/69329e0359933455553469145b9581f94f63ec37/algorithms/densecoding.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/69fb20e5528b9f3c346734707bdf56624c26a8a5/_build/html/_sources/q1gates/p.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/69fb20e5528b9f3c346734707bdf56624c26a8a5/q1gates/.ipynb_checkpoints/p-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/69fb20e5528b9f3c346734707bdf56624c26a8a5/q1gates/p.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/6f7574780a5bea116757b70280fde1d69d29b971/_build/html/_sources/preparation/qiskit.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/6f7574780a5bea116757b70280fde1d69d29b971/preparation/.ipynb_checkpoints/qiskit-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/6f7574780a5bea116757b70280fde1d69d29b971/preparation/qiskit.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/76b83185f197a2bc24c2988f8be26c679b84c8c2/_build/html/_sources/qmsummary/measurement.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/76b83185f197a2bc24c2988f8be26c679b84c8c2/qmsummary/.ipynb_checkpoints/measurement-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/76b83185f197a2bc24c2988f8be26c679b84c8c2/qmsummary/measurement.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/776b7a99c66ac7beddc6387b54969b67efb758c4/_build/jupyter_execute/composites/morequbits.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/7784078e174cad15ea7d1e2a1c708286bcf4ddb8/_build/jupyter_execute/algorithms/walshhadamard.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/78da25bb6ce7ec383144b5f2d151ddb5b8c87c32/q1gates/.ipynb_checkpoints/t-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/78da25bb6ce7ec383144b5f2d151ddb5b8c87c32/q1gates/t.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/792ecd9edf6523d444b1b49b860153d92b66da58/_build/jupyter_execute/computation/qcomp.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/7bf159b2ed282fcedd2c007350f7ba9021063266/_build/jupyter_execute/q1gates/z.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/809b47eb7019c5836237ec710bcd400fe275dcd2/_build/jupyter_execute/computation/ccomp.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/82fe722c07df84dcf78c06dac28541c4ab8b1a81/_build/jupyter_execute/q2gates/intro.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/84203b3586c265f545b8bf5aa8f8622fb65e3614/_build/html/_sources/q1gates/y.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/84203b3586c265f545b8bf5aa8f8622fb65e3614/q1gates/.ipynb_checkpoints/y-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/84203b3586c265f545b8bf5aa8f8622fb65e3614/q1gates/y.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/84ff6f79a9fa6449cbdb7295876579d4f327366a/_build/jupyter_execute/preparation/cloud.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/88053299628082895436ebce19d973d56e473371/preparation/.ipynb_checkpoints/matrix-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/88053299628082895436ebce19d973d56e473371/preparation/matrix.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/882dede8ad640f2be27474fa35fc7fc7431ff9d5/algorithms/.ipynb_checkpoints/denscoding-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/886a71fcf862aa327ca0c4413046d48e75bdaaae/_build/html/_sources/algorithms/entanglement-swap.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/886a71fcf862aa327ca0c4413046d48e75bdaaae/algorithms/.ipynb_checkpoints/entanglement-swap-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/886a71fcf862aa327ca0c4413046d48e75bdaaae/algorithms/entanglement-swap.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/89af4b51351da184ce9988ae4abcda1c144bb8a0/_build/html/_sources/qubit/measurement.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/89af4b51351da184ce9988ae4abcda1c144bb8a0/qubit/.ipynb_checkpoints/measurement-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/89af4b51351da184ce9988ae4abcda1c144bb8a0/qubit/measurement.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/8bad75822a63ed6b59055154af5351ce40fa3a09/_build/html/_sources/algorithms/intro.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/8bad75822a63ed6b59055154af5351ce40fa3a09/algorithms/.ipynb_checkpoints/intro-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/8bad75822a63ed6b59055154af5351ce40fa3a09/algorithms/intro.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/8df1abff6f4958db43b928dbab4a57ddf51ef43d/_build/jupyter_execute/qmsummary/operators.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/8e9f48d4bc372f4dfcf51565fbe1078e5589c9a7/_build/html/_sources/computation/ccomp.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/8e9f48d4bc372f4dfcf51565fbe1078e5589c9a7/computation/.ipynb_checkpoints/ccomp-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/8e9f48d4bc372f4dfcf51565fbe1078e5589c9a7/computation/ccomp.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/90ee102cab33e0d72e87025c2331bf2b9714d175/_build/jupyter_execute/qmsummary/vectors.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/914b3c3280619accb6bf895e483a855ab7655484/_build/html/_sources/q1gates/x.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/914b3c3280619accb6bf895e483a855ab7655484/q1gates/.ipynb_checkpoints/x-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/914b3c3280619accb6bf895e483a855ab7655484/q1gates/x.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/93126be54648adf1db66275e3b99a57382813b0d/_build/jupyter_execute/q1gates/intro.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/954eb44267934e656eacbb3112b52faf1f1cc3b5/_build/html/_sources/qmsummary/intro.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/954eb44267934e656eacbb3112b52faf1f1cc3b5/qmsummary/.ipynb_checkpoints/intro-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/954eb44267934e656eacbb3112b52faf1f1cc3b5/qmsummary/intro.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/95e83929166922b614778e3314fd25c28e385885/_build/html/_sources/q2gates/cp.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/95e83929166922b614778e3314fd25c28e385885/q2gates/.ipynb_checkpoints/cp-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/95e83929166922b614778e3314fd25c28e385885/q2gates/cp.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/9af5cc8f20f271a46faafaf515348e648afaf311/_build/jupyter_execute/computation/qinfo.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/9dce5ea7b0b3bba4514b7001a63400284fe8ad23/_build/html/_sources/composites/numbers.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/9dce5ea7b0b3bba4514b7001a63400284fe8ad23/composites/.ipynb_checkpoints/numbers-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/9dce5ea7b0b3bba4514b7001a63400284fe8ad23/composites/numbers.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/a11b3d9bd28ac8559e827542ee71f44d634fbd7e/qubit/.ipynb_checkpoints/purestate-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/a3311d00bf85a6aae13dae0cbd24d6d0eae75fa9/_build/html/_sources/qubit/mixedstates.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/a3311d00bf85a6aae13dae0cbd24d6d0eae75fa9/qubit/.ipynb_checkpoints/mixedstates-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/a3311d00bf85a6aae13dae0cbd24d6d0eae75fa9/qubit/mixedstates.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/a4f29c1e79c9e1a20c3bbdf7aee3ea77a7cb1503/_build/html/_sources/q1gates/u.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/a4f29c1e79c9e1a20c3bbdf7aee3ea77a7cb1503/q1gates/.ipynb_checkpoints/u-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/a4f29c1e79c9e1a20c3bbdf7aee3ea77a7cb1503/q1gates/u.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/adb4cffee70f132063bd4a60f11b4c678e5f7732/_build/jupyter_execute/q1gates/y.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/aeff12719cc036b02558482dfb287b019f1621c4/_build/jupyter_execute/qubit/measurement.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/b0030d6c602274941ef085a54e89ce5d0cc60c9b/_build/jupyter_execute/q1gates/change-basis.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/b65865b723da730c2a758be9df99528a098ca0c5/_build/html/_sources/qubit/purestates.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/b65865b723da730c2a758be9df99528a098ca0c5/qubit/.ipynb_checkpoints/purestates-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/b65865b723da730c2a758be9df99528a098ca0c5/qubit/purestates.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/b67df19ecb0565e771b5febafc3bbd1fcf897f34/_build/html/_sources/qmsummary/vectors.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/b67df19ecb0565e771b5febafc3bbd1fcf897f34/qmsummary/.ipynb_checkpoints/vectors-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/b67df19ecb0565e771b5febafc3bbd1fcf897f34/qmsummary/vectors.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/b881ae83cc09121e37ba2a18e0b044bb638831e6/_build/html/_sources/composites/morequbits.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/b881ae83cc09121e37ba2a18e0b044bb638831e6/composites/.ipynb_checkpoints/morequbits-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/b881ae83cc09121e37ba2a18e0b044bb638831e6/composites/morequbits.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/b8cdbe8911bab270668a118362b9e9ea0e0a2715/_build/jupyter_execute/qmsummary/evolution.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/bbd219debb43faf35acb2fc6cbc890b52f186008/_build/jupyter_execute/algorithms/qpe.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/be08fa818eed0a7ba27f4b14cfd8e7ecb320ec53/_build/jupyter_execute/qubit/intro.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/bf1b6142e23d387866d2d20590c0a2b1859c9fd7/_build/html/_sources/q2gates/cz.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/bf1b6142e23d387866d2d20590c0a2b1859c9fd7/q2gates/.ipynb_checkpoints/cz-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/bf1b6142e23d387866d2d20590c0a2b1859c9fd7/q2gates/cz.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/c1401999ee3145715eb7597a9e7ba9b7ad84c0f1/_build/html/_sources/qubit/intro.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/c1401999ee3145715eb7597a9e7ba9b7ad84c0f1/qubit/.ipynb_checkpoints/intro-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/c1401999ee3145715eb7597a9e7ba9b7ad84c0f1/qubit/intro.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/c427fd1a592deec111bbb162fa65ce0c3701a1c4/_build/jupyter_execute/qubit/purestates.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/cf33c7c3b16459a929df538a48966ef5fe6d4141/_build/html/_sources/algorithms/teleportation.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/cf33c7c3b16459a929df538a48966ef5fe6d4141/algorithms/.ipynb_checkpoints/teleportation-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/cf33c7c3b16459a929df538a48966ef5fe6d4141/algorithms/teleportation.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/db2afd6c66978efe84c6d72d16eb7071771e9892/_build/html/_sources/qmsummary/operators.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/db2afd6c66978efe84c6d72d16eb7071771e9892/qmsummary/.ipynb_checkpoints/operators-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/db2afd6c66978efe84c6d72d16eb7071771e9892/qmsummary/operators.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/dce4496cd70ac62769699db16b8eb0d81b5367df/_build/html/_sources/qmsummary/evolution.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/dce4496cd70ac62769699db16b8eb0d81b5367df/qmsummary/.ipynb_checkpoints/evolution-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/dce4496cd70ac62769699db16b8eb0d81b5367df/qmsummary/evolution.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/df9995ec028e606f3752aa1e0b27c8be5b1a5c15/_build/html/_sources/q2gates/swap.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/df9995ec028e606f3752aa1e0b27c8be5b1a5c15/q2gates/.ipynb_checkpoints/swap-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/df9995ec028e606f3752aa1e0b27c8be5b1a5c15/q2gates/swap.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/e6b46379decf131d56f2ebaed3f6bc5e09f6e055/_build/html/_sources/computation/intro.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/e6b46379decf131d56f2ebaed3f6bc5e09f6e055/computation/.ipynb_checkpoints/intro-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/e6b46379decf131d56f2ebaed3f6bc5e09f6e055/computation/intro.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/e7527f34ba703822460f7b7cfc263a6b84067bf3/_build/jupyter_execute/qmsummary/intro.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/e99323af6a2e1a6f1270f02f619a3201a16220cf/q2gates/.ipynb_checkpoints/cp-old-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/e99323af6a2e1a6f1270f02f619a3201a16220cf/q2gates/cp-old.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/ea589ae3e71c6dabf2519bf8541e8aad9850ce65/_build/html/_sources/preparation/intro.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/ea589ae3e71c6dabf2519bf8541e8aad9850ce65/preparation/.ipynb_checkpoints/intro-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/ea589ae3e71c6dabf2519bf8541e8aad9850ce65/preparation/intro.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/ec4fd9b57fb6c744ec4e62a9eb773fabdb19d27f/_build/jupyter_execute/qmsummary/measurement.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/ee5f96906ec31fb75985f4a66f3b319f93e1ea8a/_build/jupyter_execute/algorithms/qft.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/f035024e63d06cdccad3979c1858c53e0954a882/_build/jupyter_execute/qubit/mixedstates.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/f420ae5de6a2aabb2924e0a1ff5c4163b6fb7b9f/_build/jupyter_execute/algorithms/teleportation.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/f5efd558c049379f0f26befe45fcc3de87b3f766/_build/jupyter_execute/algorithms/intro.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/f715f3a0b65e81d9ebbd3148243e48ef51c01816/computation/.ipynb_checkpoints/whatisinformation-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/f715f3a0b65e81d9ebbd3148243e48ef51c01816/computation/whatisinformation.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/f731103aa1e51ac314734fb981e396be48e3daf3/_build/jupyter_execute/algorithms/densecoding.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/f9800b7101e3710eb192879d9163e857543aec6c/preparation/.ipynb_checkpoints/vectors-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/fc99d24d3dda72b69e2b23d0d12ff11aec7e143f/_build/jupyter_execute/preparation/python.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/fca7bdc7c1899153e5a1b91c964e55155a6fe856/_build/html/_sources/q1gates/sx.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/fca7bdc7c1899153e5a1b91c964e55155a6fe856/q1gates/.ipynb_checkpoints/sx-checkpoint.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/fca7bdc7c1899153e5a1b91c964e55155a6fe856/q1gates/sx.ipynb
+https://raw.githubusercontent.com/ryoichikawai/qcomp-short/ff05d824f2ac3afa7d4da88e87b65d4c12579f96/_build/jupyter_execute/algorithms/deutsch.ipynb
+https://raw.githubusercontent.com/sajalsangal/EDA_AmazonPrime/4b4b1361f563b0ff1bafb318e62494d5294e6c4a/EDA_AmazonPrime.ipynb
+https://raw.githubusercontent.com/seukod/AcusPy/600dc005038c7f9f138f5dfe28a2c31f6d589225/06_benchmark_dsp.ipynb
+https://raw.githubusercontent.com/seukod/AcusPy/8c05f3a85d0cfb72fda3914c57d9d64b706c6273/01_auditoria_datos.ipynb
+https://raw.githubusercontent.com/shaikhakramshakil/Finsheild/0944226a3415ee5c24a6fefa1a73a13c0b691e09/notebooks/02_eda.ipynb
+https://raw.githubusercontent.com/shaikhakramshakil/Finsheild/1086c6285c704eef4949388dd11b932cef947a64/notebooks/colab/02_hard_overlap_synthetic.ipynb
+https://raw.githubusercontent.com/shaikhakramshakil/Finsheild/7fca751166d62eabd26a0b877b97967407dfcb1b/notebooks/colab/01_dataset.ipynb
+https://raw.githubusercontent.com/shaikhakramshakil/Finsheild/8f0282771d0822d729d381c84abebc922fb63262/notebooks/Finsheild_Training.ipynb
+https://raw.githubusercontent.com/shantanu-Rohile/Daily/120ae3b0672c3a46766448d9a678ade871f7a391/Daily Problems/Day_17/Data Trasnformation/DataTransformation.ipynb
+https://raw.githubusercontent.com/shantanu-Rohile/Daily/4a8a0efc7acf3d3869435867eeb694c33973f2cf/Daily Tasks/Python/Day_13.ipynb
+https://raw.githubusercontent.com/shantanu-Rohile/Daily/589679271c8f1556bfcc245145054cde7b13b501/Daily Problems/Day_17/Data Cleaning/DataCleaning.ipynb
+https://raw.githubusercontent.com/shantanu-Rohile/Daily/899dae201fcff40efab758fd457990722e037b35/Daily Problems/Day_14/revesion.ipynb
+https://raw.githubusercontent.com/shantanu-Rohile/Daily/952fdca3e50996a71216a55d06be4fa79565e27d/Daily Tasks/Python/day_16.ipynb
+https://raw.githubusercontent.com/shantanu-Rohile/Daily/b506c3dc20522cf5beef3cf930f0d0b415f8ccfe/Daily Tasks/Python/Day_14.ipynb
+https://raw.githubusercontent.com/shantanu-Rohile/Daily/b7e9191670a99836903bf010cac6f3b9f580475d/Daily Tasks/Python/Day_8.ipynb
+https://raw.githubusercontent.com/shantanu-Rohile/Daily/c40d0ccc54b89e22ca081f904b1c273db1c73b94/Daily Problems/Day_18/Pandas/Day_18.ipynb
+https://raw.githubusercontent.com/shantanu-Rohile/Daily/d193b795e58b072f9a52cde31e1eca42b88e58cb/Daily Problems/Day_17/Data Loading/DataLoading.ipynb
+https://raw.githubusercontent.com/shantanu-Rohile/Daily/ec4391d0208f70c9d1a647a169a9aefb174cade2/Daily Tasks/Python/Day_9.ipynb
+https://raw.githubusercontent.com/shantanu-Rohile/Daily/fab11e93098f4b9f59f3cd4fa4d8d8823b9b99ae/Daily Tasks/Python/day_15.ipynb
+https://raw.githubusercontent.com/shantanu-Rohile/Daily/fc5a6c3087188b46b8680af0b103613e52428ebd/Daily Problems/Day_14/new.ipynb
+https://raw.githubusercontent.com/simaailab-lakhya/Hey_Sima_WakeWord/612097bbb75034a44a2d3afcdce191fb3ca6a207/colab/Hey_Sima_Training.ipynb
+https://raw.githubusercontent.com/stelioszach03/colab-speculative-decoding-speed-lab/29221ca3a739ce1253dd14566dcc82471c5b46f1/Colab_Scale_Study_of_Speculative_Decoding.ipynb
+https://raw.githubusercontent.com/subhasish20/Deep_Learning_with_PyTorch/b33da846a137456fba1757b204d9b8531c9f8784/Ch-1-Tensor/tensors_in_pytorch.ipynb
+https://raw.githubusercontent.com/tadzo-morel/tadzo-morel/533b88f4bd5049016286eb49b30fb630bf070f8a/app_choix_cv_IA/choix_cv.ipynb
+https://raw.githubusercontent.com/tamnd/jvm-internals/0d1185a44c673b60d12b33e5d3f0678185b09294/probes/capability/colab.ipynb
+https://raw.githubusercontent.com/tamnd/jvm-internals/19d9afc61db21cf393bfbf02539934c009e7e4c4/notebooks/playgrounds/classfile.ipynb
+https://raw.githubusercontent.com/tamnd/jvm-internals/1a53f39e5c44acec1ffe69b580605f4203575c19/probes/widgets/colab.ipynb
+https://raw.githubusercontent.com/tamnd/jvm-internals/5e43f3174787426df2b7964e2b62d194f16805fe/notebooks/O01/lesson.ipynb
+https://raw.githubusercontent.com/tamnd/jvm-internals/b1655ca184a80942376dd9826604c00a456b5225/probes/bootstrap/colab.ipynb
+https://raw.githubusercontent.com/tamnd/jvm-internals/dee670601fb4d73d114818486a7a753d053f379e/probes/colabbuild/colab.ipynb
+https://raw.githubusercontent.com/tamnd/llvm-internals/02ed34af8160f46fef262bb25f683b117d1aaaf3/notebooks/t02_first_look_at_the_ir/lesson.ipynb
+https://raw.githubusercontent.com/tamnd/llvm-internals/16629e7ddd77c44cbc7f2a4dee43250f702154c0/notebooks/t09_the_machine_in_the_ir/lesson.ipynb
+https://raw.githubusercontent.com/tamnd/llvm-internals/26cf55a0716ad997fc67eec7178a99a1d6bb4863/notebooks/t08_o2_twice/lesson.ipynb
+https://raw.githubusercontent.com/tamnd/llvm-internals/5f9250274121905bba5c60779ac7050e44d82614/notebooks/t12_five_questions/lesson.ipynb
+https://raw.githubusercontent.com/tamnd/llvm-internals/603d30b4e414b780504661e7bc97bade9f5c8820/notebooks/t01_one_line_of_c/lesson.ipynb
+https://raw.githubusercontent.com/tamnd/llvm-internals/61f5148b094c1a082c21739d246a9c468bbdc02b/notebooks/t03_reading_ll/lesson.ipynb
+https://raw.githubusercontent.com/tamnd/llvm-internals/63eb50db988d3eb522f23cec45eba928a05c33db/notebooks/t05_the_pipeline_string/lesson.ipynb
+https://raw.githubusercontent.com/tamnd/llvm-internals/6a7ea19fa007c618747aa0de355deab165d39364/notebooks/t10_the_names/lesson.ipynb
+https://raw.githubusercontent.com/tamnd/llvm-internals/775efdaaccf3b351b209eb812dfd11d8dc4b231b/notebooks/z01_two_lines_at_the_top/lesson.ipynb
+https://raw.githubusercontent.com/tamnd/llvm-internals/7fdecc1ce355958bbadc4c2cca99669bfc08fe1b/notebooks/z03_going_and_looking/lesson.ipynb
+https://raw.githubusercontent.com/tamnd/llvm-internals/a182b755084c52e33fe376363d8c87fe2651d4ac/notebooks/x03_your_first_fold/lesson.ipynb
+https://raw.githubusercontent.com/tamnd/llvm-internals/a520b1d2fa1904ee3ba17d8559f1524cd7c95bcd/notebooks/z02_chapter_minus_one/lesson.ipynb
+https://raw.githubusercontent.com/tamnd/llvm-internals/b660aba7a2a5a9c796ab091ee6200ae7a73988d3/notebooks/t06_who_says_it_is_stale/lesson.ipynb
+https://raw.githubusercontent.com/tamnd/llvm-internals/d00df1e853264929310debbae6d23feff43adfe2/notebooks/z04_what_the_book_may_say/lesson.ipynb
+https://raw.githubusercontent.com/tamnd/llvm-internals/d67734ec21cd9f2714adde4c0d23e63cfa2b11e0/notebooks/t04_the_pass_tape/lesson.ipynb
+https://raw.githubusercontent.com/tamnd/llvm-internals/e487390d305a5a51d22b8b4b5aab42e81e596cdd/notebooks/t11_not_what_clang_optimised/lesson.ipynb
+https://raw.githubusercontent.com/tamnd/llvm-internals/f4b17b5dba1dde4e37eb469b81133f1331f40fd1/notebooks/t07_which_one_did_it/lesson.ipynb
+https://raw.githubusercontent.com/tsyqax/RVC-Fast-Cover-NoUI/b9715a73735141582ea6a9301d5017ce92e46bb6/RVC_FAST_COVER_NOUI_EN.ipynb
+https://raw.githubusercontent.com/tsyqax/RVC-Fast-Cover-NoUI/bd0c53d1abbd74572f2c36e6dbde080ce0072576/RVC_FAST_COVER_NOUI_KO.ipynb
+https://raw.githubusercontent.com/viethung21IT/OCR_Studio/41b964f1fb5e16aa1e471ba081ab05986f8df5d0/orc-demo.ipynb
+https://raw.githubusercontent.com/virtualramblas/Domain-Specific-Small-Language-Models/1b2297b07d2b880b4f7a03e5379061a6d67934e5/Chapter 9/CH09_NB02_Iozzia.ipynb
+https://raw.githubusercontent.com/virtualramblas/Domain-Specific-Small-Language-Models/1ecdc0322a7912d039b6395fbf29f02458bd2362/Chapter 9/CH09_NB01_Iozzia.ipynb
+https://raw.githubusercontent.com/virtualramblas/Domain-Specific-Small-Language-Models/2572cac2be514e25faef5ff1e39903a95976e730/Chapter 2/CH02_NB02_Iozzia.ipynb
+https://raw.githubusercontent.com/virtualramblas/Domain-Specific-Small-Language-Models/3010076d79ae046fc9467fbbcea870724385fa51/Chapter 4/CH04_NB02_Iozzia.ipynb
+https://raw.githubusercontent.com/virtualramblas/Domain-Specific-Small-Language-Models/3443c9de20bbb985c0c5e7793e2e4b7187e7986d/Chapter 8/CH08_NB01_Iozzia.ipynb
+https://raw.githubusercontent.com/virtualramblas/Domain-Specific-Small-Language-Models/3d69b3cb9c26aad29e5349b6dc4ece958c9936d0/Chapter 4/CH04_NB01_Iozzia.ipynb
+https://raw.githubusercontent.com/virtualramblas/Domain-Specific-Small-Language-Models/5924172ffc7c51b500ebffccc91459103761e1ae/Chapter 7/CH07_NB01_Iozzia.ipynb
+https://raw.githubusercontent.com/virtualramblas/Domain-Specific-Small-Language-Models/665d1a4c2e8cf37dda4f0d92e192b458033be5bc/Chapter 7/CH07_NB03_Iozzia.ipynb
+https://raw.githubusercontent.com/virtualramblas/Domain-Specific-Small-Language-Models/796141cf5f11115fe56f9932c1284d12f587d1dd/Chapter 3/CH03_NB01_Iozzia.ipynb
+https://raw.githubusercontent.com/virtualramblas/Domain-Specific-Small-Language-Models/7c465c7bd3fdf8cafa538ecff231fcc1c839c57e/Chapter 13/CH13_NB02_Iozzia.ipynb
+https://raw.githubusercontent.com/virtualramblas/Domain-Specific-Small-Language-Models/8553af8e0b94c5d5407043231c577f4f2e3c3559/Chapter 6/CH06_NB03_Iozzia.ipynb
+https://raw.githubusercontent.com/virtualramblas/Domain-Specific-Small-Language-Models/88583fae04f982aff6c6b886135a92098add6bce/Chapter 6/CH06_NB04_Iozzia.ipynb
+https://raw.githubusercontent.com/virtualramblas/Domain-Specific-Small-Language-Models/90323d45c36a374f0620eccc1ec27e591ccca6e1/Chapter 11/CH11_NB01_Iozzia.ipynb
+https://raw.githubusercontent.com/virtualramblas/Domain-Specific-Small-Language-Models/9b6fac03c0c23a3d41a8d8ae3d51d55c3238d1fa/Chapter 14/CH14_NB01_Iozzia.ipynb
+https://raw.githubusercontent.com/virtualramblas/Domain-Specific-Small-Language-Models/a98dc4004be55fea1bc400d51ea329144934804f/Chapter 10/CH10_NB01_Iozzia.ipynb
+https://raw.githubusercontent.com/virtualramblas/Domain-Specific-Small-Language-Models/acbf64f90f25491486e761a59514348d79fcb727/Chapter 7/CH07_NB02_Iozzia.ipynb
+https://raw.githubusercontent.com/virtualramblas/Domain-Specific-Small-Language-Models/b656650b576aba52f0b25ded45ff8eaf7f07b488/Chapter 11/CH11_NB03_Iozzia.ipynb
+https://raw.githubusercontent.com/virtualramblas/Domain-Specific-Small-Language-Models/bc119d730c70e4cae85aec2e8e448be92e1f414b/Chapter 11/CH11_NB02_Iozzia.ipynb
+https://raw.githubusercontent.com/virtualramblas/Domain-Specific-Small-Language-Models/bc8149a34c743bb5d5db68589ef3d77fe255355e/Chapter 13/CH13_NB01_Iozzia.ipynb
+https://raw.githubusercontent.com/virtualramblas/Domain-Specific-Small-Language-Models/be979cf131d3dd6c497843edbb825d06c7af0e15/Chapter 5/CH05_NB01_Iozzia.ipynb
+https://raw.githubusercontent.com/virtualramblas/Domain-Specific-Small-Language-Models/cd15997ae02a5d36d5ef5954665faf7e02f55286/Chapter 15/CH15_NB02_Iozzia.ipynb
+https://raw.githubusercontent.com/virtualramblas/Domain-Specific-Small-Language-Models/d51a2e3f1ad434a183fc92864f832bd1f651d873/Chapter 2/CH02_NB03_Iozzia.ipynb
+https://raw.githubusercontent.com/virtualramblas/Domain-Specific-Small-Language-Models/dc6b62e0f86eeb92116cd472c6df2325dcd5ae79/Chapter 8/CH08_NB03_Iozzia.ipynb
+https://raw.githubusercontent.com/virtualramblas/Domain-Specific-Small-Language-Models/dd1e88190df9c1a87a83bb237b7f54eb53449bc0/Chapter 8/CH08_NB02_Iozzia.ipynb
+https://raw.githubusercontent.com/virtualramblas/Domain-Specific-Small-Language-Models/e791134b54c1434521f6a3905560e442f384695a/Chapter 2/CH02_NB01_Iozzia.ipynb
+https://raw.githubusercontent.com/virtualramblas/Domain-Specific-Small-Language-Models/ee32d789fd226cc144d54d4f42f8783d738efd77/Chapter 14/CH14_NB02_Iozzia.ipynb
+https://raw.githubusercontent.com/virtualramblas/Domain-Specific-Small-Language-Models/f0a8dafba221604222febefa06e91a4382e5a6e5/Chapter 5/CH05_NB02_Iozzia.ipynb
+https://raw.githubusercontent.com/virtualramblas/Domain-Specific-Small-Language-Models/f9d2b95c3c74238f98318e2c1093be0b13533649/Chapter 15/CH15_NB01_Iozzia.ipynb
+https://raw.githubusercontent.com/virtualramblas/Domain-Specific-Small-Language-Models/fd333ea45865bdc74d9cbb4e5452321abb0c7c1b/Chapter 6/CH06_NB01_Iozzia.ipynb
+https://raw.githubusercontent.com/virtualramblas/Domain-Specific-Small-Language-Models/fff227cee0a16a95fc259d6de40ab0d954a03566/Chapter 6/CH06_NB02_Iozzia.ipynb
+https://raw.githubusercontent.com/vishwakarmaaman3885/Python/0b2869de4e2bd62c6ceaeccccad62164b508d111/class 15 (OOPs-Decorator).ipynb
+https://raw.githubusercontent.com/vishwakarmaaman3885/Python/1619a9398dba1b52196fe5863f25030db96a39f0/Python second class.ipynb
+https://raw.githubusercontent.com/vishwakarmaaman3885/Python/1954f452f263359c33b1f4191234d7e8a6d20cb8/Python Class 1.ipynb
+https://raw.githubusercontent.com/vishwakarmaaman3885/Python/223b0febe86b1a1d359813df9f608b8f98008f16/Python class 4.ipynb
+https://raw.githubusercontent.com/vishwakarmaaman3885/Python/5a061c78ef21f4569f9bc7dad304b51a7412efb5/Python class 4 tuple.ipynb
+https://raw.githubusercontent.com/vishwakarmaaman3885/Python/5dcffc4755590c00b4f2afbddde3d14c84545bf8/Python class 6 Dict.ipynb
+https://raw.githubusercontent.com/vishwakarmaaman3885/Python/6562d39bd084619fc24f664ef13cf7b77c8e4fda/Python class 5 (sets).ipynb
+https://raw.githubusercontent.com/vishwakarmaaman3885/Python/666d67fd4b3bef0c1caa21c33156d329c4b2daeb/Class13(oops inheritance).ipynb
+https://raw.githubusercontent.com/vishwakarmaaman3885/Python/773c05c8e14a053061902928366f8416d1153c99/class 16(OOPs class external).ipynb
+https://raw.githubusercontent.com/vishwakarmaaman3885/Python/877cb8b7031be5032a6f155c3f8f62a993d28533/Class 11(oops polymorphism).ipynb
+https://raw.githubusercontent.com/vishwakarmaaman3885/Python/8d6e61d0f8c4d737497ea98efe8f7c96d87273fc/class 19 (OOPs property decorators).ipynb
+https://raw.githubusercontent.com/vishwakarmaaman3885/Python/8e585168b120ea8cf680789067834d5fba6342e0/Class-10 (OOPS-Class).ipynb
+https://raw.githubusercontent.com/vishwakarmaaman3885/Python/9d50d6a8e0977bba6d5c0023a3cba96b892beb70/Class 14(oops abstraction).ipynb
+https://raw.githubusercontent.com/vishwakarmaaman3885/Python/a9e9d168b6477f0e7d88bdc70f71c64b43e715e5/class 18 (OOPs special magic method).ipynb
+https://raw.githubusercontent.com/vishwakarmaaman3885/Python/be9366a8e46d3b40a7485d98ce1b488852eb786e/Python class 3.ipynb
+https://raw.githubusercontent.com/vishwakarmaaman3885/Python/be9bce16f38dfa77ac09e830333311440d4f78ae/Class 11 (OOPS-Polymorphism).ipynb
+https://raw.githubusercontent.com/vishwakarmaaman3885/Python/cf177f9ab2fd5049df5f3b548ece9b06f3a86058/Class 12(OOPs encapsulation).ipynb
+https://raw.githubusercontent.com/vishwakarmaaman3885/Python/cf3b77e834075ee4915ef42c3b5a68f38cf0e1d7/Python class 7(functions).ipynb
+https://raw.githubusercontent.com/vishwakarmaaman3885/Python/d0e0bce4c2344699d290747b254d784be13d5ac8/class 9(lambda function,map,reduce,filter).ipynb
+https://raw.githubusercontent.com/waittim/graph-fraud-detection/594490f303522fb6a82428917e0a37a289008fc9/30_visual.ipynb
+https://raw.githubusercontent.com/waittim/graph-fraud-detection/8d5ecb0b574e7790f436c0fb224821dc049f8e47/20_modeling.ipynb
+https://raw.githubusercontent.com/watanabe3tipapa/quarto-plus/1d618893b70f57fe8e34f361675d2453d848f90d/colab/quarto-colab.ipynb
+https://raw.githubusercontent.com/wukongdegen/Wu-OmniVoice-Colab/14f563d7f474730828e1b5d51f3e808011a84105/Wu_OmniVoice_Colab.ipynb
+https://raw.githubusercontent.com/xavierforge/colab-rust/037276209a6ee2961a84c9c58b75e1d61f418093/examples/04_cuda_oxide.ipynb
+https://raw.githubusercontent.com/xavierforge/colab-rust/3e1774cc3a4b61a51da579400f7a418ae4347d14/examples/01_hello.ipynb
+https://raw.githubusercontent.com/xavierforge/colab-rust/4d1086c7e2549e55c18edb021e70818a948422a4/examples/02_rich_output.ipynb
+https://raw.githubusercontent.com/xavierforge/colab-rust/9901845d9b396e9bddde364597b567d277255527/examples/03_cudarc_gpu.ipynb
+https://raw.githubusercontent.com/y-song/alian/3012bb58021b282eb8f53859e7a75157576031ff/alian/sandbox/jse/dead_cone_lund_notebook.ipynb
+https://raw.githubusercontent.com/y-song/alian/473d689ecbaa1e1ca4cfa926795b1529df7218b1/alian/sandbox/jse/show_lund.ipynb
+https://raw.githubusercontent.com/y-song/alian/4c6c6d280bf4a11c8bc7370f4cced041e7f04bdd/alian/sandbox/jse/show_trajectory_current.ipynb
+https://raw.githubusercontent.com/y-song/alian/78f5d1fbb63d23b0788221ba18d8de14b65a6649/alian/sandbox/pythia_fj_jupyter.ipynb
+https://raw.githubusercontent.com/y-song/alian/9611d11dcae27c1c60526afd439baf1705b08411/alian/sandbox/jse/read_jewel.ipynb
+https://raw.githubusercontent.com/y-song/alian/b128ea40f3b29c5fb690d5c39b4fdb7b6f8ccfd6/alian/sandbox/pythia2parquet/bayesian_energy_loss_fit.ipynb
+https://raw.githubusercontent.com/y-song/alian/b59b01f15d4ee037955a7415e133b04763f6898d/alian/sandbox/jse/show_lund_eec.ipynb
+https://raw.githubusercontent.com/y-song/alian/b8ad5e5939a4b5b78f158664e810acbec50a1470/alian/sandbox/pythia2parquet/jet_pt_analysis.ipynb
+https://raw.githubusercontent.com/y-song/alian/ca8e4305912e32c623dd4b66fb2bf0aac6a171a5/alian/sandbox/jse/lunds_from_jewel.ipynb
+https://raw.githubusercontent.com/yargerlab/Data/187ba86814696701fcab6afb63c4b8cf7535f077/DFT/Orca_Nif_Fel_NMR/Nifedipine_Felodipine_NMR_Plots.ipynb
+https://raw.githubusercontent.com/yargerlab/Data/a03b0ada91a86ad639b174cfb809cb0c10ef7a83/DFT/Orca_Nif_Fel_Raman/Nifedipine_RamanIR_Plots.ipynb
+https://raw.githubusercontent.com/yargerlab/Data/c51ff87f8366716bf0f55e96a81dd05254efa1db/Raman/Notebooks/Raman_Data_Processing_Analysis_YargerLab_ASU_2025.ipynb
+https://raw.githubusercontent.com/yargerlab/Data/de3da7a0e6f8e252fc5855554922a02386e5b384/FTIR/Silk_ATR_IR_Data_Processing.ipynb
+https://raw.githubusercontent.com/yasiamah/chicago-homelessness-resource-allocation/25511243def9875ebb8c575b51d40e60ccbca095/notebooks/02_affordable_housing_download.ipynb
+https://raw.githubusercontent.com/yasiamah/chicago-homelessness-resource-allocation/2aba7448f05eff22901c15173f02a4cb53cd22fb/notebooks/01_data_source_inventory.ipynb
+https://raw.githubusercontent.com/yasiamah/chicago-homelessness-resource-allocation/a4d34bdf2a6de56499c76259ba0d79ff1a2e1c57/notebooks/00_project_setup.ipynb
