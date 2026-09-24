@@ -1,0 +1,944 @@
+https://raw.githubusercontent.com/selvaje/SE_docs/06cc8aee0f57a5d96e27c9e2917fd887c713f9a1/source/CASESTUDY/SDM1_MWood_GRASSmodel.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/06cc8aee0f57a5d96e27c9e2917fd887c713f9a1/source/GRASS/SDM1_MWood_GRASSmodel.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/1022ff0425f0abd3ed1ed5ad6c7559f50c7e5b7e/build/html/CASESTUDY/Classification_pyjeo_sklearn_2023.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/13f49d851e22ab509754c27e978b3d50941e9b31/build/html/STUDENTSPROJECTS/Proj_2021_SW/Tatiana_Klisho_project.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/13f49d851e22ab509754c27e978b3d50941e9b31/source/STUDENTSPROJECTS/Proj_2021_SW/Tatiana_Klisho_project.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/149871a1f6e737507da4adf9aba4127bb82d8955/build/html/CASESTUDY/Tree_Height_05Perceptron_pred_2022.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/149871a1f6e737507da4adf9aba4127bb82d8955/source/CASESTUDY/Tree_Height_05Perceptron_pred_2022.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/1796ac0c4ae34e99a9833118f94013e4bbd1c2dd/build/html/CASESTUDY/NN-day1.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/1796ac0c4ae34e99a9833118f94013e4bbd1c2dd/source/CASESTUDY/NN-day1.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/1d19332327d8de02111cdc3f332bfdb79c0774b3/build/html/PKTOOLS/pktools_colab.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/221428edae542e3d51555fec761522b480344d9e/build/html/CASESTUDY/CNN_satelite_with_GPT_code_2023.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/221428edae542e3d51555fec761522b480344d9e/source/CASESTUDY/CNN_satelite_with_GPT_code_2023.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/2739f005a839ba77792802c18b7be521366bfffc/build/html/PYTHON/Python_data_analysis_SM.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/2739f005a839ba77792802c18b7be521366bfffc/source/PYTHON/Python_data_analysis_SM.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/275014f75f7d488fbda10e8498a5dac9ef293b9b/build/html/.doctrees/nbsphinx/CASESTUDY/CNN_satelite_2023.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/275014f75f7d488fbda10e8498a5dac9ef293b9b/build/html/CASESTUDY/CNN_satelite_2023.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/275014f75f7d488fbda10e8498a5dac9ef293b9b/source/CASESTUDY/CNN_satelite_2023.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/294a99c5291b7d2a5c713308147d1f984b5a3d8e/source/PKTOOLS/pyjeo_introduction1.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/29e47bc211bd2d202aaf9c05247576b51f9eeb5e/build/html/STUDENTSPROJECTS/Proj_2022_Matera/Classification_of_different_tree_species_plantations_using_deep_learning_Hemalatha_Velappan.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/29e47bc211bd2d202aaf9c05247576b51f9eeb5e/source/STUDENTSPROJECTS/Proj_2022_Matera/Classification_of_different_tree_species_plantations_using_deep_learning_Hemalatha_Velappan.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/2b56b4a303144f13fed82246a5f04b889b3c7df1/build/html/PYTHON/Python_Intro.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/2b56b4a303144f13fed82246a5f04b889b3c7df1/source/PYTHON/Python_Intro.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/2cc16093c3e51ea3226ce5cef269e9b64328d272/build/html/STUDENTSPROJECTS/Proj_2021_SW/Jacopo_Cantoni_SeasonAnalisis.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/2cc16093c3e51ea3226ce5cef269e9b64328d272/source/STUDENTSPROJECTS/Proj_2021_SW/Jacopo_Cantoni_SeasonAnalisis.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/2d4eef31b151ee80e339cb7cd4f29101c63d2259/build/html/CASESTUDY/Tree_Height_03RF_pred_SM.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/2d4eef31b151ee80e339cb7cd4f29101c63d2259/source/CASESTUDY/Tree_Height_03RF_pred_SM.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/320dfa32a81c90ec9d9aa49f5bd897f46326314d/build/html/STUDENTSPROJECTS/Proj_2021_SW/Alexandra_Pongrácz_project_idea.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/320dfa32a81c90ec9d9aa49f5bd897f46326314d/source/STUDENTSPROJECTS/Proj_2021_SW/Alexandra_Pongrácz_project_idea.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/372500061eaa7c6be61c94c785f15169414d9f0a/build/html/STUDENTSPROJECTS/Proj_2021_SW/SaeidAminjafariProject.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/372500061eaa7c6be61c94c785f15169414d9f0a/source/STUDENTSPROJECTS/Proj_2021_SW/SaeidAminjafariProject.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/381daf585b1c6a340aebdb4a771d3b82ca8b0546/source/STUDENTSPROJECTS/Proj_2021_SW/Jacopo_Cantoni_Season_Analisis_of_dischargesR.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/384036bd54278ffb598d28c7ee41a20a8adeb35f/build/html/CASESTUDY/SDM1_MWood_Rmodel.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/384036bd54278ffb598d28c7ee41a20a8adeb35f/source/CASESTUDY/SDM1_MWood_Rmodel.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/38660b730120c70fa3c8130524e182287fd4cfc8/build/html/GDAL/gdal_colab.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/3988ad1fa6e84d0aff7b6ebf103115d306feeeca/build/html/STUDENTSPROJECTS/Proj_2022_Matera/Clustering_Electric_Vehicle_Charging_Pattern_with_DTW_and_EV_Charging_energy_demand_Prediction_with_LSTM_Hyeyoung_Sim.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/3988ad1fa6e84d0aff7b6ebf103115d306feeeca/source/STUDENTSPROJECTS/Proj_2022_Matera/Clustering_Electric_Vehicle_Charging_Pattern_with_DTW_and_EV_Charging_energy_demand_Prediction_with_LSTM_Hyeyoung_Sim.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/3c2576a82c4ab7b8aff3193e78a553d0f1758b2c/build/html/STUDENTSPROJECTS/Proj_2021_SW/Jacopo_Cantoni_Season_Analisis_of_dischargesR.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/3e611b51152cb56ada918763883abdbca1aae33a/build/html/CASESTUDY/Tree_Height_04SVM_pred_2025.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/3e611b51152cb56ada918763883abdbca1aae33a/source/CASESTUDY/Tree_Height_04SVM_pred_2025.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/3e7520dad78300fcec5711d5029c625053ac4086/build/html/CASESTUDY/Perceptron_Intro.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/3e7520dad78300fcec5711d5029c625053ac4086/source/CASESTUDY/Perceptron_Intro.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/3eb9cdb24ddb3021977a56f95c276f48ca381d5f/build/html/CASESTUDY/Data_type_GTiff.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/3eb9cdb24ddb3021977a56f95c276f48ca381d5f/source/CASESTUDY/Data_type_GTiff.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/4699f2b16acef35f313d5f2b68b9a767c7a21e3e/build/html/CASESTUDY/Tree_Height_03RF_pred.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/4699f2b16acef35f313d5f2b68b9a767c7a21e3e/source/CASESTUDY/Tree_Height_03RF_pred.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/4714d6b2440406eb6715b0a326fce164a774a814/build/html/.doctrees/nbsphinx/BASH/bashxargs_osgeo.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/4714d6b2440406eb6715b0a326fce164a774a814/build/html/BASH/bashxargs_osgeo.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/4714d6b2440406eb6715b0a326fce164a774a814/source/BASH/bashxargs_osgeo.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/473dac199173d8d6b59410ad81a4b4bbda2f60f9/build/html/VIRTUALMACHINE/Setting_Colab_for_Spatial_Ecology_course.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/48370bc950b82a6ac1677925c371915ca49ce207/build/html/PKTOOLS/pyjeo_introduction2.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/48370bc950b82a6ac1677925c371915ca49ce207/source/PKTOOLS/pyjeo_introduction2.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/49d999a80991fe89cd5e9cd4d8fa1ad4d2de455d/build/html/CASESTUDY/GEEviaPython_2022.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/5167b2d1a1bc196859f462986b93fdafbd9e816c/build/html/CASESTUDY/Tree_Height_06Perceptron_pred_2023.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/5167b2d1a1bc196859f462986b93fdafbd9e816c/source/CASESTUDY/Tree_Height_06Perceptron_pred_2023.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/578ae39f9ba52169ab82e05e8a9688942bb90296/build/html/STUDENTSPROJECTS/Proj_2022_Matera/Ships_and_economic_activity_a_starter_Myriam_Marending.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/578ae39f9ba52169ab82e05e8a9688942bb90296/source/STUDENTSPROJECTS/Proj_2022_Matera/Ships_and_economic_activity_a_starter_Myriam_Marending.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/588a52d1bf1675d0f96212d57a2bca36e4cca571/build/html/CASESTUDY/NNs_pt3_SHAP.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/588a52d1bf1675d0f96212d57a2bca36e4cca571/source/CASESTUDY/NNs_pt3_SHAP.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/58da745e8bb1a4be57781bafb57bcd1051b50dac/build/html/CASESTUDY/Tree_Height_06NeuralNets_pred.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/58da745e8bb1a4be57781bafb57bcd1051b50dac/source/CASESTUDY/Tree_Height_06NeuralNets_pred.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/5a96f202fc160e8bdb066e275f176e8417b9a789/source/CASESTUDY/GEEviaPython_2022.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/5aaffd1da67f9e97eead5a7dfb9b2a57ba38664f/build/html/.doctrees/nbsphinx/ASSIGNMENTS/assignment_fall2022_solutions.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/5d5665ebe58fcf9a077d5f62c6edf2baf2bacd26/build/html/PYTHON/PythonEnvs.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/5d5665ebe58fcf9a077d5f62c6edf2baf2bacd26/source/PYTHON/PythonEnvs.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/605d1ba27b42871d43d5a7eaf9be91534fd28faa/build/html/.doctrees/nbsphinx/AWK/awk.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/64849f8eb96890cb27a240c90bb64d8f808b1bdd/build/html/.doctrees/nbsphinx/CASESTUDY/CNN_satelite_2022.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/64849f8eb96890cb27a240c90bb64d8f808b1bdd/build/html/CASESTUDY/CNN_satelite_2022.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/64849f8eb96890cb27a240c90bb64d8f808b1bdd/source/CASESTUDY/CNN_satelite_2022.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/66392f9678bd609f5142c830e8b5673dab0d1af9/build/html/GRASS/grass_newproject.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/66392f9678bd609f5142c830e8b5673dab0d1af9/source/GRASS/grass_newproject.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/6c9a0860fb5c6744db4d59e29865222e5d6b9014/build/html/STUDENTSPROJECTS/Proj_2021_SW/Julia_Wagner_Geocomputation.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/6c9a0860fb5c6744db4d59e29865222e5d6b9014/source/STUDENTSPROJECTS/Proj_2021_SW/Julia_Wagner_Geocomputation.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/6cb9776a65b30cafd6cf6f38e2bd7d703c85e709/build/html/STUDENTSPROJECTS/Proj_2022_Matera/Stream_Network_Abstraction_Alonso_Gonzalez.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/6cb9776a65b30cafd6cf6f38e2bd7d703c85e709/source/STUDENTSPROJECTS/Proj_2022_Matera/Stream_Network_Abstraction_Alonso_Gonzalez.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/6dc06adbfbb689c1d66711f5b89fb013c7d83253/build/html/CASESTUDY/LSTMs_tutorial.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/6dc06adbfbb689c1d66711f5b89fb013c7d83253/source/CASESTUDY/LSTMs_tutorial.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/6ee2702d9b78810cfeef53547a8cea54dc3ae499/source/GDAL/gdal_colab.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/6fcd72a2936b98c4909e51788ee4e276bbd33f0d/build/html/CASESTUDY/SDM2_Vath_Rmodel.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/6fcd72a2936b98c4909e51788ee4e276bbd33f0d/source/CASESTUDY/SDM2_Vath_Rmodel.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/718f552e946d4ea465b1e1d21e8d797323d872bb/build/html/STUDENTSPROJECTS/Proj_2022_Matera/Using_a_LSTM_network_and_SHAP_to_determine_the_impact_of_drought_Florian_Ellsäßer.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/718f552e946d4ea465b1e1d21e8d797323d872bb/source/STUDENTSPROJECTS/Proj_2022_Matera/Using_a_LSTM_network_and_SHAP_to_determine_the_impact_of_drought_Florian_Ellsäßer.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/7bfec3fe9d048d77064da783b4efc56d041bb72f/build/html/.doctrees/nbsphinx/CASESTUDY/CNN_satelite_2024.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/7bfec3fe9d048d77064da783b4efc56d041bb72f/build/html/CASESTUDY/CNN_satelite_2024.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/7bfec3fe9d048d77064da783b4efc56d041bb72f/source/CASESTUDY/CNN_satelite_2024.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/7d794146ac78734aa9c99fdb52a968a1d39ef6e9/build/html/CASESTUDY/Tree_Height_05Perceptron_intro_2023.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/7d794146ac78734aa9c99fdb52a968a1d39ef6e9/source/CASESTUDY/Tree_Height_05Perceptron_intro_2023.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/80ea451b47c5003ce64398cd45498541069b1953/build/html/CASESTUDY/SDM1_MWood_gecomp4GRASS.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/80ea451b47c5003ce64398cd45498541069b1953/build/html/GRASS/SDM1_MWood_gecomp4GRASS.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/80ea451b47c5003ce64398cd45498541069b1953/source/CASESTUDY/SDM1_MWood_gecomp4GRASS.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/80ea451b47c5003ce64398cd45498541069b1953/source/GRASS/SDM1_MWood_gecomp4GRASS.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/85563e77f9a7f9b3f8fb5d0bcd125ffc2bfaa33d/build/html/CASESTUDY/Tree_Height_05Perceptron_intro_2025.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/85563e77f9a7f9b3f8fb5d0bcd125ffc2bfaa33d/source/CASESTUDY/Tree_Height_05Perceptron_intro_2025.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/85ac4a7c5a527d10a5371a32bfd5b4d81ebda509/build/html/CASESTUDY/NN_Unsupervised_2024.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/86553859b2143f098e00f5da040812daed6770aa/build/html/CASESTUDY/foundation_model_IIASA2024.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/86553859b2143f098e00f5da040812daed6770aa/source/CASESTUDY/foundation_model_IIASA2024.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/8979531ffcd596746786f001a9c791c3676fd461/source/CASESTUDY/Classification_pyjeo_sklearn_2023.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/8bd4919ad37a996ab7646a859edaa6885e605710/build/html/CASESTUDY/Tree_Height_04SVM_pred_2024.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/8bd4919ad37a996ab7646a859edaa6885e605710/source/CASESTUDY/Tree_Height_04SVM_pred_2024.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/912d7b6f84f4f36f5a1336a1b8a0ce6b413cdceb/build/html/PYTHON/Geo_Python.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/912d7b6f84f4f36f5a1336a1b8a0ce6b413cdceb/source/PYTHON/Geo_Python.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/91b8d046c83c1799f2bc2343882f3862cb03a8f4/build/html/AWK/awk.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/91b8d046c83c1799f2bc2343882f3862cb03a8f4/source/AWK/awk.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/94d3af524e92ab298c5b0cc562dd685468e27340/build/html/STUDENTSPROJECTS/Proj_2021_SW/Hamm_Alexandra_final_project.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/94d3af524e92ab298c5b0cc562dd685468e27340/source/STUDENTSPROJECTS/Proj_2021_SW/Hamm_Alexandra_final_project.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/95a794eff1d137aaea7fa77e30d9b866e5035b6f/source/PKTOOLS/pyjeo_upscaling_surf.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/96124dcc407edce6998f3234534a9660b188c4e9/build/html/GDAL/gdal_osgeo.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/96124dcc407edce6998f3234534a9660b188c4e9/source/GDAL/gdal_osgeo.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/964d6443f2a5a320035133bbc315369c86dbda7d/build/html/PKTOOLS/pktools_osgeo.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/964d6443f2a5a320035133bbc315369c86dbda7d/source/PKTOOLS/pktools_osgeo.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/97607aa2edce77b207b75018a58728798348616b/build/html/CASESTUDY/DTW.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/97607aa2edce77b207b75018a58728798348616b/source/CASESTUDY/DTW.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/9860789afd8d10f5ade749c81caa867db681c7cd/source/PKTOOLS/pktools_colab.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/a0345a8fa65820b2d18f1969ace0624f42d3896d/source/PKTOOLS/pyjeo_pktools.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/a1796565c027e51d4a153cc7a4dc4652d2beb4dc/build/html/CASESTUDY/NN-day3.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/a1796565c027e51d4a153cc7a4dc4652d2beb4dc/source/CASESTUDY/NN-day3.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/a23d0812c555bd95bc04d46e674b9f455451262a/build/html/STUDENTSPROJECTS/Proj_2022_Matera/Prediction_of_AGB_using_RFR_SVR_FFNN_Ritwika_Mukhopadhyay.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/a23d0812c555bd95bc04d46e674b9f455451262a/source/STUDENTSPROJECTS/Proj_2022_Matera/Prediction_of_AGB_using_RFR_SVR_FFNN_Ritwika_Mukhopadhyay.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/abd46d7c169dfe873c3d4e935f625a85752a8e4a/source/ADMIN/00_pktools_gdrive_install.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/b095797eea66eb9ccf0794fd3638fd73b6720486/build/html/CASESTUDY/Tree_Height_06Perceptron_complete_2024.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/b095797eea66eb9ccf0794fd3638fd73b6720486/source/CASESTUDY/Tree_Height_06Perceptron_complete_2024.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/b0e8b66fc35f018d917c7212051bfa58a22aad78/build/html/CASESTUDY/Tree_Height_07FeedForward_Networks_2024.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/b0e8b66fc35f018d917c7212051bfa58a22aad78/source/CASESTUDY/Tree_Height_07FeedForward_Networks_2024.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/b1d7553799a798c56baaf9b00ac750bb0f694ad2/build/html/STUDENTSPROJECTS/Proj_2021_SW/Felicity_Alice_Holmes_Geocomp_project.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/b1d7553799a798c56baaf9b00ac750bb0f694ad2/source/STUDENTSPROJECTS/Proj_2021_SW/Felicity_Alice_Holmes_Geocomp_project.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/b3b26bc26165cbb65f2a7288a297fa928ba40d73/build/html/CASESTUDY/NN-day2.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/b3b26bc26165cbb65f2a7288a297fa928ba40d73/source/CASESTUDY/NN-day2.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/b50eb3ec31454f4c6a168c9567fda49a9f7cb9f0/build/html/STUDENTSPROJECTS/Proj_2021_SW/Alejandro_Uribe_Geo_comp_pro_AU.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/b50eb3ec31454f4c6a168c9567fda49a9f7cb9f0/source/STUDENTSPROJECTS/Proj_2021_SW/Alejandro_Uribe_Geo_comp_pro_AU.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/b5365bb9617fed43630e8ac488233da2ea545603/build/html/PYTHON/OGCSQL.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/b5365bb9617fed43630e8ac488233da2ea545603/source/PYTHON/OGCSQL.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/b65cfaf50064c6041e3e74665fa4c47d8c12f336/build/html/CASESTUDY/Tree_Height_05Perceptron_pred_clean_2022.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/b65cfaf50064c6041e3e74665fa4c47d8c12f336/source/CASESTUDY/Tree_Height_05Perceptron_pred_clean_2022.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/b78d00c023307e92c4511e46a567c5a2b293343f/build/html/.doctrees/nbsphinx/CASESTUDY/CNN_satelite_Class5_2025.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/b78d00c023307e92c4511e46a567c5a2b293343f/build/html/CASESTUDY/CNN_satelite_Class5_2025.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/b78d00c023307e92c4511e46a567c5a2b293343f/source/CASESTUDY/CNN_satelite_Class5_2025.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/b7a5b04742f45fa1b4855740a404d676cf4210b3/build/html/PKTOOLS/pyjeo_introduction1.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/c0ff828f35bf6adaaaa60c750657d7448c0821bd/build/html/ASSIGNMENTS/assignment_fall2022_solutions.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/c19ea83de7429c04914973d2f09f72259cbcc21f/build/html/GRASS/grass_hydro_colab.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/c19ea83de7429c04914973d2f09f72259cbcc21f/source/GRASS/grass_hydro_colab.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/ca299fbfc9f870ccfc129515a625eeb10e5dfe89/build/html/PKTOOLS/pyjeo_upscaling_surf.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/d3039b87256a6b86ef75320d3325e7c83c673273/build/html/STUDENTSPROJECTS/Proj_2022_Matera/Damaged_trees_classification_RF_Janusz_Godziek.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/d3039b87256a6b86ef75320d3325e7c83c673273/source/STUDENTSPROJECTS/Proj_2022_Matera/Damaged_trees_classification_RF_Janusz_Godziek.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/d81bd8e49590ecb5ef69f763b22cf79e4cc8b142/build/html/GRASS/grass_osgeo.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/d81bd8e49590ecb5ef69f763b22cf79e4cc8b142/source/GRASS/grass_osgeo.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/d845c9cf4363bf07e3ed9472befc94d25c3f5ba0/build/html/.doctrees/nbsphinx/ADMIN/00_pktools_gdrive_install.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/d845c9cf4363bf07e3ed9472befc94d25c3f5ba0/build/html/ADMIN/00_pktools_gdrive_install.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/d9d4a1ca5b87cf7497b814a6aedfc28037f258d9/build/html/CASESTUDY/SDM1_MWood_gecomp.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/d9d4a1ca5b87cf7497b814a6aedfc28037f258d9/source/CASESTUDY/SDM1_MWood_gecomp.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/dd499ad3cdc1f746efd6baa216b96268cb1684ea/build/html/CASESTUDY/pred_NP.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/dd499ad3cdc1f746efd6baa216b96268cb1684ea/source/CASESTUDY/pred_NP.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/dd64bd63c3d83ed9188c632f51366ec35f473c2c/build/html/R/R_Intro.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/dd64bd63c3d83ed9188c632f51366ec35f473c2c/source/R/R_Intro.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/e1b431f10e673efb131284d009ea2a3821f0483d/build/html/CASESTUDY/GEEviaPython_2023.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/e1b431f10e673efb131284d009ea2a3821f0483d/source/CASESTUDY/GEEviaPython_2023.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/e3525b39c07bd3bb022c55999d687e4fbcf2248a/build/html/STUDENTSPROJECTS/Proj_2022_Matera/Images_shadow_removal_Sebastian_Walter.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/e3525b39c07bd3bb022c55999d687e4fbcf2248a/source/STUDENTSPROJECTS/Proj_2022_Matera/Images_shadow_removal_Sebastian_Walter.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/e6f839efdb83248f463d99dd3eb704b37dd4b538/build/html/CASESTUDY/Tree_Height_04SVM_pred_2022.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/e6f839efdb83248f463d99dd3eb704b37dd4b538/source/CASESTUDY/Tree_Height_04SVM_pred_2022.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/e8fa5c359cb04f5ad526505644dcdb45abad56ab/build/html/CASESTUDY/Tree_Height_06Perceptron_complete_2025.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/e8fa5c359cb04f5ad526505644dcdb45abad56ab/source/CASESTUDY/Tree_Height_06Perceptron_complete_2025.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/e97c256420edc950daddd5545cc4cef2390ac553/build/html/.doctrees/nbsphinx/BASH/bashinter_osgeo.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/e97c256420edc950daddd5545cc4cef2390ac553/build/html/BASH/bashinter_osgeo.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/e97c256420edc950daddd5545cc4cef2390ac553/source/BASH/bashinter_osgeo.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/f1091172337010fb36031468bdda7d79d587bbe8/build/html/CASESTUDY/Tree_Height_05Perceptron_intro_2024.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/f1091172337010fb36031468bdda7d79d587bbe8/source/CASESTUDY/Tree_Height_05Perceptron_intro_2024.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/f12798d391f07f240f194167e3601dc70a65df70/source/VIRTUALMACHINE/Setting_Colab_for_Spatial_Ecology_course.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/f3c815a19780ee940faa17f05f52ecf34f7fcb48/build/html/PYTHON/RasterIO_Intro.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/f3c815a19780ee940faa17f05f52ecf34f7fcb48/source/PYTHON/RasterIO_Intro.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/f3f56590a83f5b2039559591b88c26dd3ddfe10f/source/ASSIGNMENTS/assignment_fall2022_solutions.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/f48b1b7947c199386dfa99aea7ae080b40c1cc9c/build/html/STUDENTSPROJECTS/Proj_2021_SW/Farzad_VahidiMayamey_sw2021_a.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/f48b1b7947c199386dfa99aea7ae080b40c1cc9c/source/STUDENTSPROJECTS/Proj_2021_SW/Farzad_VahidiMayamey_sw2021_a.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/f54975796596469ff404834cf6bbff68fbcbc31c/build/html/CASESTUDY/Tree_Height_02Predictors_extraction.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/f54975796596469ff404834cf6bbff68fbcbc31c/source/CASESTUDY/Tree_Height_02Predictors_extraction.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/fc08ee91eaba0c5486e0797b80d672c1857f9ed8/build/html/.doctrees/nbsphinx/BASH/bashintro_osgeo.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/fc08ee91eaba0c5486e0797b80d672c1857f9ed8/build/html/BASH/bashintro_osgeo.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/fc08ee91eaba0c5486e0797b80d672c1857f9ed8/source/BASH/bashintro_osgeo.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/ff73672934d0e2281a9fcf3455b6f6cdd23977e8/build/html/CASESTUDY/temporal_interpolation.ipynb
+https://raw.githubusercontent.com/selvaje/SE_docs/ff73672934d0e2281a9fcf3455b6f6cdd23977e8/source/CASESTUDY/temporal_interpolation.ipynb
+https://raw.githubusercontent.com/semiversus/aestatic/46747449b93878dedd35cc8d2392ad2ff239b658/content/wdic/maschinelles_lernen/MNIST in Keras.ipynb
+https://raw.githubusercontent.com/semiversus/aestatic/b5cf4901dda0f6416ada4fb9cf26ba68338f2ff4/content/wdic/maschinelles_lernen/lineare_regression.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/008efa42ebe93b4fbab06b2b5e2c5de892afff91/dive into deep learning/05-Optimization/mxnet/adagrad.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/010d5bb471b084a32f9239c6cc7d944d2bdcfc9a/PyTorch/SOL_DL_PyTorch_Transfer_Learning.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/03bbf2620b90e0be4acd515b3af071d5f5929905/dive into deep learning/02-Preliminaries/tensorflow/linear-algebra.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/040e11d647d26c1a28d6417ce9d13b78eab1e5ca/dive into deep learning/09-ModernRNN/tensorflow/index.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/057f5583a87d9ed8589acee0b65f50b43c29231b/dive into deep learning/02-Preliminaries/numerical_errors.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/058850737155d3e10eee52576a1ca12a20e5842c/dive into deep learning/03-Linear-Networks/tensorflow/linear-regression.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/0669925350423ec7673b3668ac18ab0872cd98b0/dive into deep learning/04-Multilayer-Perceptrons/mxnet/dropout.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/079657a9f81e3609d28231f26fd2d9e78ebd17a8/dive into deep learning/07-ModernConvNN/mxnet/vgg.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/07f0abd2d65d2f56e76b6f7c84a77e10d341a39b/h3_fashion_mnist_classification.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/082e3ef70c893abdab1164eef3f3e6d23131aa8d/dive into deep learning/06-ConvNN/tensorflow/index.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/098a2caa16c65dfe7f7e5f0c7537756b23dd19e4/Keras/Tensorflow_Transfer_learning.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/0d14e17dfa9a619f447e8ba8f093804aec238494/dive into deep learning/04-Multilayer-Perceptrons/mxnet/backprop.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/0d39fd18135e5d4aa4ad99e8fe1c35d9a65b3fde/dive into deep learning/07-ModernConvNN/mxnet/resnet.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/0e32f01c9bcc610d1515d55047bf8e1dae49a054/Keras/13_loading_and_preprocessing_data.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/0ef8008f2400f937273193da24e59c7612eec6b5/Optuna/optuna.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/100323e702b6a43a1c82e2ed547e034973ce725a/dive into deep learning/09-ModernRNN/mxnet/encoder-decoder.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/1155fa17b5c02ea6323541fef64f432f40c71bd9/dive into deep learning/08-RNN/mxnet/rnn.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/11bf821469133951b3389938dacea1952e75630b/dive into deep learning/04-Multilayer-Perceptrons/tensorflow/weight-decay.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/12aa1e100d14032d96309dec237a793eb0040d62/homeworks/H4_PyTorch_FMNIST.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/13246a85a308208df7a97a84a7135f5637edf9d4/dive into deep learning/04-Multilayer-Perceptrons/mxnet/mlp-concise.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/14613d667b188ce11ec02bb5b5f0d6ef178e7d85/homeworks/H4_H5_PyTorch_FMNIST.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/156f1e0291c628c1547d646c103933a1c5848309/dive into deep learning/07-ModernConvNN/tensorflow/alexnet.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/15f915eb63ffd93aa975cf4c3555a4b02830fb63/homeworks/H8_YOLOv5_exercise.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/173793bde8abd673cf38a01c66991c62dd11fed9/dive into deep learning/06-ConvNN/tensorflow/padding-and-strides.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/18905358f574fa47630cad4b0842b777beaee5f0/dive into deep learning/06-ConvNN/tensorflow/channels.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/1931f68748057dc4eab544cfe142f8159484b66c/Keras/PyTorch_FMNIST.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/216aa869e4943945b0b0bbc40b0a323be4206bcb/PyTorch/14_nlp_with_rnns_and_attention.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/22041aa738c5afab444217021ac2570e7847b70d/dive into deep learning/08-RNN/mxnet/rnn-concise.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/22e6eedd6078657a937b91667747dd41018a4cea/dive into deep learning/09-ModernRNN/tensorflow/gru.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/2357d3b6c344c230715eda53444be88ddf3ccb22/dive into deep learning/02-Preliminaries/mxnet/linear-algebra.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/23882574d2b4581b7c593ca25f3ef6438fd3c990/dive into deep learning/05-Optimization/tensorflow/convexity.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/2423cb6c0f6b4615d94e26b777ceacd6f1297996/dive into deep learning/02-Preliminaries/mxnet/autograd.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/2436813653f489148f9ace289922d4256b32f863/ComputationalPerformance/tensorflow/saved_model.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/25178fa925d966389bacdbd486ccaa03c0a6b753/ComputationalPerformance/mxnet/async-computation.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/252c250cba5e01f990fe668494a8ba224b064212/ComputationalPerformance/tensorflow/TensorFlow_with_GPU.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/2568f70c808ca357331654082d2b720a30d780e5/dive into deep learning/09-ModernRNN/tensorflow/beam-search.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/25bfc907106a23bdbbf5a1fea1f9b2ed8d526e91/dive into deep learning/09-ModernRNN/mxnet/bi-rnn.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/26df439a9cbe5e538b7b145c9f4adfb903cb42a2/dive into deep learning/06-ConvNN/mxnet/channels.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/2744bd76165f63bf4d9e4877831256b28a90d3d4/Keras/11_KerasModelReuse.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/2cc92985338f8c4b3149abb6728c3f64e94b7b15/dive into deep learning/09-ModernRNN/mxnet/machine-translation-and-dataset.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/2e9fbd2b468f065ff68cbc1092d94994665e3188/dive into deep learning/02-Preliminaries/pytorch/ndarray.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/2fe7a1d1af8b08279ad3376dd3e574fb28fecf91/dive into deep learning/02-Preliminaries/mxnet/calculus.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/3034ecd58b303323ee20ed6ddeb2d586ab119a7f/dive into deep learning/04-Multilayer-Perceptrons/tensorflow/underfit-overfit.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/30ce50a6db53ecba518212d641081ee4f2577899/dive into deep learning/02-Preliminaries/mxnet/ndarray.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/3133a714b1f41885452c422fa1d769a8c1836077/PyTorch/10_neural_nets_with_pytorch.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/31fbc017395423616bc6efa58c5434b8c78825ee/dive into deep learning/08-RNN/tensorflow/rnn-concise.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/31ffd3adab562cec321831c206e654af7e3a0c5a/Keras/16_nlp_with_rnns_and_attention.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/325564100cc99b1a631760e0ce3b03dd0bee534b/PyTorch/11_training_deep_neural_networks.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/332068e28d607c97dbb6f5fefa4341be5c47dfa5/dive into deep learning/09-ModernRNN/mxnet/beam-search.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/33dd0696ac8f1155b0995aa94ebc0dd11cb89b0b/ComputationalPerformance/mxnet/multiple-gpus.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/35ad870d6b1df1e86f1862f2ed1d6cb97d30e20c/dive into deep learning/04-Multilayer-Perceptrons/tensorflow/kaggle-house-price.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/364c8bc8e266cdc4e16099add855bcb20154d3dc/dive into deep learning/02-Preliminaries/pytorch/pandas.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/37655875a0a16d841c4c680d1fe134a1cb769b75/dive into deep learning/07-ModernConvNN/mxnet/index.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/38c3e86323fefb9915523acd8f5a9b165197657d/dive into deep learning/02-Preliminaries/pytorch/probability.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/390c48361f9a3bf491551bf0b1152dd671a6c5d7/dive into deep learning/07-ModernConvNN/tensorflow/batch-norm.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/3c42d0c2db70a2c74d2e26d50f501aa7ada322d1/dive into deep learning/03-Linear-Networks/mxnet/softmax-regression-scratch.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/3d927b49cf102f2759c7956f3822139112f3660a/dive into deep learning/02-Preliminaries/mxnet/probability.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/41b65141b54bcd11428fe16952af442ace4782fa/dive into deep learning/04-Multilayer-Perceptrons/tensorflow/mlp-scratch.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/41fb85a8029c1d83d45b808cbac1c9855e21ad70/dive into deep learning/05-Optimization/tensorflow/rmsprop.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/42977e35c0171fad51ce71a7a1a3c55ccfa84dbe/homeworks/H7_cnn_transfer_learning.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/44c1d8e7f836c42079df813b8c8a0f5c741ce9d3/dive into deep learning/05-Optimization/tensorflow/momentum.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/45309faebc9cfbf5ac8ad794d566f0d4d102d65f/Lessons/03_mlp_ch10_live_skeleton.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/45c1f1a2f36d1947a1e90d219086577cefaf60ff/dive into deep learning/03-Linear-Networks/mxnet/linear-regression.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/4686baf568d95e441a1283bbd4d5b2a6b299a8fc/01-Python/X1-Python-intro.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/497bf39d77a3abd7a49ebf9beaa1607ee5b4d8c0/01-Python/X2-Print-statement.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/4bdf109a735e88c0252995dcf154cdbf7eb90b8f/PyTorch/12_deep_computer_vision_with_cnns.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/4c102c744ce8513c0661581fb1c964816d659b3d/dive into deep learning/05-Optimization/tensorflow/adam.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/4c6185d16fcbe55574773eac1c8865ec3bf47813/dive into deep learning/02-Preliminaries/mxnet/pandas.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/4fb9c7cfaae346c4516294942553bad3e4f34d51/homeworks/H6_Fashion_MNIST_with_cnns.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/502e7d9b18c399d892955fa1de9b10cc355bdbd6/dive into deep learning/03-Linear-Networks/mxnet/index.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/50e49408d8f265b78b26fb69ceea7e38bd970669/dive into deep learning/06-ConvNN/tensorflow/pooling.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/50f4a803580ecc696f78a4f9837f7870e3781cf7/dive into deep learning/04-Multilayer-Perceptrons/tensorflow/numerical-stability-and-init.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/51bcb0cd972d916089cdeb1b41decc8815c1d962/dive into deep learning/09-ModernRNN/mxnet/seq2seq.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/5237514eb1f90b70c9a8ac3f479dd7619782d4d1/Keras/11_training_deep_neural_networks.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/523be43e54adc38ab8e55890cab3df33956af3d1/dive into deep learning/08-RNN/mxnet/index.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/52523c89dd707ff9bc8f2b9dcc3097a3d2d2160b/dive into deep learning/07-ModernConvNN/mxnet/batch-norm.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/529331827c7cfa19c4dabf6560df89de07a35cd8/dive into deep learning/05-Optimization/mxnet/optimization-intro.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/5460a9f5f42485f6c1ba2ce069265fa9c82ae680/01-Python/03-tools_matplotlib.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/54745e55e0b52829c24a5530cad13dfba99a81cc/homeworks/H9_LSTM_Sentiment_Analysis.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/5600ef906672170f528f5105a2c5e336eddaf85f/dive into deep learning/02-Preliminaries/tensorflow/pandas.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/587714dcf0b0eb058a5fb6f9974bf2d1cfadaa76/homeworks/H9_BERT_Sentiment_Analysis.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/5898a1d452dc1fab53f3cb1b09747ab6032500ed/dive into deep learning/08-RNN/pytorch/PyTorch_Attention_Encoder_Decoder.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/59f846d4b46323f3aa00bd36e0bd0f22d65f0a00/PyTorch/DL_PyTorch_Transfer_Learning.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/5b0748314b5b0a251b20f40e93054c406662751a/dive into deep learning/04-Multilayer-Perceptrons/mxnet/environment.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/5b6329a1911530d74eea498095e3086873f01532/dive into deep learning/02-Preliminaries/tensorflow/probability.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/5bd42f9974c003830cfa112cd89d7ef5fb0a563d/dive into deep learning/07-ModernConvNN/mxnet/densenet.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/5ca8fc35125d59c0a7e75e2895c9ed4dcdc6c947/PyTorch/13_processing_sequences_using_rnns_and_cnns.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/645c08d0d54d6169f898637e13abc723038aa57a/dive into deep learning/03-Linear-Networks/mxnet/image-classification-dataset.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/6523f55f9808a00a9eff8ead85ad351c12442272/dive into deep learning/06-ConvNN/mxnet/pooling.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/67902a52f61e7fa876ebfdf874e549e01957ca0a/01-Python/01-Introduction-to-Python.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/67cb89fbc8b5d19c2e519bc3a1709192b7b44e27/dive into deep learning/03-Linear-Networks/tensorflow/softmax-regression.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/686574286297ca6e7944b00a3a69676a1a9eb009/dive into deep learning/02-Preliminaries/tensorflow/calculus.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/6b3df18349768182afaca0cc163306e287bf2826/ComputationalPerformance/mxnet/multiple-gpus-concise.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/6b60894e391ad173aab772640b6afe0633944ea0/01-Python/02-tools_numpy.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/6c3218d0bb6c665c981f166e0926c1ddee8b4b50/dive into deep learning/05-Optimization/tensorflow/minibatch-sgd.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/6c51f6c21ed3e73f32288a1d53fe85b67ac2396f/ ComputationalPerformance/tensorflow/TensorFlow_with_GPU.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/6df5140dabb4c953f17681ac9d290e76b0e32825/Lessons/03_mlp_ch10_live_complete.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/6fa1a81c04f7d9caf1efec957bc7fdb19d57bbaf/dive into deep learning/04-Multilayer-Perceptrons/tensorflow/mlp.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/710b9b2388e6a78a1b4c296b420ae76f8605d455/Keras/15_processing_sequences_using_rnns_and_cnns.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/71f200609895da40fc1e7b7ad46d3de47553444c/dive into deep learning/02-Preliminaries/tensorflow/lookup-api.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/7242694ffa2e8c5e7bdc20098dbefb518dfa6d7c/dive into deep learning/02-Preliminaries/pytorch/linear-algebra.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/73c7cd93e748c22491f0d7b906f04017be3cb288/dive into deep learning/08-RNN/tensorflow/rnn-scratch.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/7412da557197db84397b879e55bd710d1f028548/dive into deep learning/04-Multilayer-Perceptrons/tensorflow/dropout.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/74131483348b2650ea71e61ec1374c64a8a73532/PyTorch/PyTorch_FMinist-orig.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/746168ab6f5ff7078603e82df8b72131457829e9/Keras/11_training_deep_neural_networks_activations_regularization.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/75749b079d3852306def550b34f5117da2a69ff4/ComputationalPerformance/tensorflow/gpu.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/759c7cd592f5c227216df0f97ef3b59f9e5ec7f3/dive into deep learning/09-ModernRNN/mxnet/deep-rnn.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/76b1f0610c8f398aca3dd2617b68ec7e8b088dad/dive into deep learning/05-Optimization/tensorflow/lr-scheduler.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/781edb776b60b8c652f1b8afc5942b19707e65a5/dive into deep learning/04-Multilayer-Perceptrons/mxnet/numerical-stability-and-init.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/785a249cf90573caa4e44795416c1a8b89d81a4e/ComputationalPerformance/mxnet/parameterserver.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/79aa292ec852942c788f52af66f6afb5cab43f16/Tensorboard/hyperparameter_tuning_with_hparams.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/7a7dcff2630d4cb95b88fcbd27f62037e9f4e468/dive into deep learning/05-Optimization/mxnet/sgd.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/7bc6d28f170465c055c6aeebe810c4ecc34fc3b3/dive into deep learning/04-Multilayer-Perceptrons/mxnet/mlp-scratch.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/7cd5f70ed5139c0b0d54f5d1645988de960302e5/dive into deep learning/09-ModernRNN/tensorflow/lstm.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/7de8e69769ba2672ee1c4891f29c63ae43287ec5/dive into deep learning/10-AttentionMechanisms/pytorch/LSTM_IMDB_Sentiment_Analysis.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/7e4d50b2717edbdc314bceece2b99fd52b9345ea/dive into deep learning/03-Linear-Networks/tensorflow/image-classification-dataset.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/7edc90906472018ea2d6b38ca5d8adae6d70fb24/Keras/keras-01-cnn.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/8194aab73704b1d8da1766d64f242992ae590255/dive into deep learning/08-RNN/tensorflow/sequence.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/82942c062f2643492c0c9076b1470fd7ab155f0c/dive into deep learning/05-Optimization/tensorflow/sgd.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/82ed60d4bea5d4896c3dbe23271f572c3a09c42f/dive into deep learning/08-RNN/mxnet/language-models-and-dataset.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/82f107791c90ad952d47471e5a2c3012566b1bab/dive into deep learning/04-Multilayer-Perceptrons/mxnet/underfit-overfit.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/8510be8b321fe3f1898254f8550736367d1fb0af/dive into deep learning/02-Preliminaries/mxnet/index.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/8533d0b6d6f36fa267f7588ad035257cc3002612/dive into deep learning/03-Linear-Networks/tensorflow/linear-regression-concise.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/86edfb3b8c5f58d37fe1d631fc6d1da7849bed29/homeworks/H9_BERT_Entailment.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/87f36461037a87416a080b52d6181fb4c7298733/Keras/15_processing_sequences_using_rnns_and_cnns_Torch.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/88040212facb82973e66f9dc8cc48b40bd958eea/ComputationalPerformance/mxnet/auto-parallelism.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/893918cd91b3abc8b9e4a919f510cbfcf713d0fb/dive into deep learning/02-Preliminaries/pytorch/lookup-api.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/8a9f6202779e5256c03f1886714457ed3113d43c/Keras/keras-02-classification-FashionMINIST.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/8aac4228242e325c646fc1a132500286c8466649/dive into deep learning/08-RNN/mxnet/bptt.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/8b4e85ffab93e1cc89be98c3eccc86c9f5a3c2df/dive into deep learning/07-ModernConvNN/tensorflow/cnn-design.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/8c6da46af0204ee1fbd84b8ec9ca630c86bd8882/dive into deep learning/02-Preliminaries/mxnet/lookup-api.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/8d03626516e89b98c08bde73578eb994c4f3ca5b/dive into deep learning/08-RNN/mxnet/text-preprocessing.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/8d26d0fd79ee98f0e0fca74fead8607fda10f496/dive into deep learning/06-ConvNN/mxnet/lenet.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/8e6804ee901ee8b25010e21d4d44fa38b59b2505/dive into deep learning/08-RNN/tensorflow/rnn.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/90c82bef03b55913ce10408ffb438c90560ac802/dive into deep learning/03-Linear-Networks/mxnet/softmax-regression-concise.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/911cd7bbcbaa8aa17d1a6eff7fbe4da8d4e5c7ed/dive into deep learning/09-ModernRNN/tensorflow/machine-translation-and-dataset.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/917b58cf3b4aaa57fb8ee6f7fe87debc1dc44e6e/dive into deep learning/04-Multilayer-Perceptrons/mxnet/weight-decay.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/93be9660523789107783dc7d8195abe37acf3a78/homeworks/H5_Fashion_MNIST_classification.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/93e8e19bbf2d4b9d544b457ffa71d6ae0165fc99/dive into deep learning/08-RNN/tensorflow/text-preprocessing.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/93f11db9ab67c61e190b73bea0da76cc2d059fc8/dive into deep learning/07-ModernConvNN/tensorflow/nin.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/948756489a3e9b42b008e36f9e4f128f6a7f0b76/dive into deep learning/04-Multilayer-Perceptrons/mxnet/mlp.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/94dcc1963380b8b1f55a5ed26ea4c0805a70ec76/PyTorch/DL_PyTorch_Intro.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/95abc5ac4caab9eab0eefdaa25fb67bdd6b13db4/01-Python/04-tools_pandas.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/960c9f6cccaacc127f384e6b95f7a3f21f3bc83e/dive into deep learning/03-Linear-Networks/mxnet/linear-regression-concise.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/96cd7104dd926547cbff3823e2abe44df32cccd1/dive into deep learning/02-Preliminaries/pytorch/calculus.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/96dff8e52f6907373475ef4c89548ad0e49bffef/Keras/keras-06-using-convnets.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/9753df26dfc4b56e86ceabb47d5b88c5881917fd/dive into deep learning/05-Optimization/tensorflow/gd.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/9834001b5964e74e9bc2c502c190996f7634cec2/dive into deep learning/08-RNN/mxnet/sequence.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/992c4fb42c5abe8f3e241a0c9877f04c86364de9/dive into deep learning/06-ConvNN/tensorflow/why-conv.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/99463be48beda92ef87edf1bc1b0274268f4bab8/dive into deep learning/05-Optimization/mxnet/convexity.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/9b9cd4c0543d82ebed7bceff7335f0019302b0c8/Optuna/NN adult.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/9d6fddd986c3062126c56d6962cb74ba979732a7/Keras/11_KerasModelReuseFull.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/9d8cdfe72011570870f71f88a6d608e69437bd3c/dive into deep learning/09-ModernRNN/tensorflow/seq2seq.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/9f8dee9680e124e57cbf3309f9e9a5bc7ba7b531/ComputationalPerformance/tensorflow/attention_example.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/a0623d79db67416369ae03fb0fdc391174f8a2ff/Keras/keras-04-transfer_learning.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/a29b628189818eea7363ef25dac433d6807bda5f/Keras/keras-07-visualizing-what-convnets-learn.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/a2aa6e65c99aa82e47537f2c9dc9e5e93fb2cb81/dive into deep learning/04-Multilayer-Perceptrons/tensorflow/mlp-concise.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/a2b27e722d6511dd2a09adea9da3434a2fc0aaa7/ComputationalPerformance/tensorflow/distributed_training.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/a33a932c706a06d86e771ac7a06370db431f90ff/Keras/12_custom_models_and_training_with_tensorflow.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/a4d48820c82d4c9bcfed84e6602b4f953e340c7d/dive into deep learning/07-ModernConvNN/tensorflow/index.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/a61c276e96b2564480a7268a701dc300a48a8bf3/ComputationalPerformance/mxnet/hybridize.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/a7030ccf3603694487dbc9e2b826e3d4f56184bf/01-Python/.ipynb_checkpoints/01-Introduction-to-Python-checkpoint.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/a9956a6392ecef06bbe8747fefa6c5534e6975d6/dive into deep learning/07-ModernConvNN/mxnet/alexnet.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/aa0d911527c22d5521fd9d4028e0ba4705d7d283/dive into deep learning/07-ModernConvNN/mxnet/googlenet.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/abbf0901698ff3eb307e5362c5588627c08d6e18/ComputationalPerformance/mxnet/index.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/af1328377200d2f4ee0b5267f26bb0861b1c435e/PyTorch/PyTorch_FMinist.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/af9870b2e410e99ea9e4d12518b26baf540a7914/Keras/11_training_deep_neural_networks_optimization.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/b345239e20f83fc429fb5bb0c9a3b63a91c3c946/ComputationalPerformance/mxnet/hardware.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/b3852cc135fdd04621a7338b3e186de2674b6a0e/dive into deep learning/03-Linear-Networks/tensorflow/linear-regression-scratch.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/b6aea56402bee7379e97de175831e268dd107bd6/dive into deep learning/10-AttentionMechanisms/pytorch/Sentiment_Bert.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/b907cf1a168ae333f17206daf0a8ea57bf81b94a/dive into deep learning/07-ModernConvNN/tensorflow/googlenet.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/bc19c6bc7cf2df7d2efe5e5e26fea58e5a348eca/dive into deep learning/06-ConvNN/mxnet/why-conv.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/bf03f23b15a06cd7f713e3c6e5fe8b88907f4114/dive into deep learning/05-Optimization/mxnet/lr-scheduler.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/bfcb9434cabc4c271f6d974dc24abf0399ff124b/dive into deep learning/06-ConvNN/mxnet/index.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/c0d67129680549fe456bf8959fe1a1b5363d40c3/homeworks/H3_Fashion_MNIST_classification.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/c164c4d6d2a6998f238ca5475d03212eace12e2e/dive into deep learning/07-ModernConvNN/tensorflow/resnet.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/c241a8205abbf61b66d29242a4e84674fc4b1bc5/Keras/10_neural_nets_with_keras.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/c3dbd4d97718262c878f96d5c749e9e8aa869e90/dive into deep learning/02-Preliminaries/pytorch/index.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/c610cb31c88143796ce1f15b7cc485fd41f0cc47/ComputationalPerformance/tensorflow/tpu.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/c740c56ca82768599dcfb8aff392ee0c69852e2b/Optuna/Optuna adult.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/c9a76dadaf842fedd74530016cf99dad4316f158/dive into deep learning/02-Preliminaries/tensorflow/autograd.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/cb32a4741dc0d9a58f18e6d49eb3c0a3738707fb/dive into deep learning/03-Linear-Networks/tensorflow/index.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/cc558053cde99d99707ed9b0e9d203318814a33d/dive into deep learning/02-Preliminaries/pytorch/autograd.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/cd479adefc977310fd0c02b8862e0e3c9dd01c44/dive into deep learning/09-ModernRNN/tensorflow/encoder-decoder.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/cf340164dbd4ffe53887ffa9ab6367d24595a11b/dive into deep learning/04-Multilayer-Perceptrons/mxnet/index.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/d0dc4ea3359e4da514abd3e876a6003da9a43149/dive into deep learning/03-Linear-Networks/tensorflow/softmax-regression-scratch.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/d177e4c1026666d809254d64b2e5790866d38264/Tensorboard/Tutorial_TensorBoard.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/d1fdad193d857af146653ac33cb52101479648c8/dive into deep learning/09-ModernRNN/tensorflow/deep-rnn.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/d29cc9149027c09aed4951c415d93f9e684e5cd9/dive into deep learning/06-ConvNN/mxnet/conv-layer.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/d2ecc124644aa972b5e75be7ad1ce5a14a027f40/Keras/bertviz_example.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/d47976d0f6f231e7d8f5706cdb0ddea87fa94c19/01-Python/X4-Control-flow.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/d5655c509a4d537289f79adf3b163ed7ce7d8fba/dive into deep learning/03-Linear-Networks/tensorflow/softmax-regression-concise.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/d8218f044dcda37d17efa510ea9244ac540fa623/PyTorch/PyTorch_FMinist-Complete.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/d94423e5bf1ebd3482082b5521f7702b63db7d5d/dive into deep learning/05-Optimization/tensorflow/optimization-intro.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/d9f2ac25e13cb5c50f90cd729273afd2c19cccb2/dive into deep learning/04-Multilayer-Perceptrons/mxnet/kaggle-house-price.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/db3f922a1b160e267d5ad102a0ea175e20114e9b/dive into deep learning/02-Preliminaries/tensorflow/ndarray.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/db47b9b3a8c4510ad85415b4266f1818fc20026c/ComputationalPerformance/mxnet/key-value.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/db992d6ee126d256dd0c9bd1dfb3836885e63f72/dive into deep learning/05-Optimization/mxnet/gd.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/df51e7ed18ce4aa874ce73dabcc1e7fc9c293692/dive into deep learning/09-ModernRNN/mxnet/index.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/e056b729f69f224ee88e38912ec401725297968e/dive into deep learning/08-RNN/mxnet/rnn-scratch.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/e0a545afcd6538b427111f48a66910a48b60b548/dive into deep learning/03-Linear-Networks/mxnet/softmax-regression.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/e0b7ab4e55ad93244d0a83ccf6a7ad235b12fd8b/dive into deep learning/09-ModernRNN/mxnet/gru.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/e11d7998478decfa8aa70446a135b39561676f66/dive into deep learning/06-ConvNN/mxnet/padding-and-strides.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/e37529440c885f031f854e27f80cfb5b9183ceb6/dive into deep learning/02-Preliminaries/tensorflow/index.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/e44048bb9ef022dcacb63bc0367ee8ad7588a2f0/01-Python/X3-Data-structures-II.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/e4918f80b7abed615f92f5ce6a194da964a79158/dive into deep learning/06-ConvNN/tensorflow/conv-layer.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/e4b6e9d442ff5ca0fee349f7bd435aa63444e1ba/dive into deep learning/07-ModernConvNN/tensorflow/vgg.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/e4c831bbb744152f6cee92ce13c43eb4cb3cf0d9/dive into deep learning/05-Optimization/mxnet/rmsprop.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/e597a590bcea710f86a8117d71c0fd2a5d415ec4/ComputationalPerformance/tensorflow/Optuna_bayesian_hyperparameter_tuning.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/e66e741a1ccecf3dd4dab73427d6be23e7a09d3c/dive into deep learning/03-Linear-Networks/mxnet/linear-regression-scratch.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/e6a880d34a2fea94b5edce67c300020f7d4bf5a6/dive into deep learning/05-Optimization/mxnet/momentum.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/e8018648bf042c3eeaece88d3ccd995fb8f7116e/dive into deep learning/09-ModernRNN/mxnet/lstm.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/e8c078a53f2e788589cd7d25556608291ee59d6e/dive into deep learning/05-Optimization/tensorflow/adadelta.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/e9533e7f469044323ffe0de602d913a4cb54b967/dive into deep learning/07-ModernConvNN/mxnet/nin.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/ec344c558cfec096f83ca69a2625db35ce2697e0/Keras/keras-02-classification.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/ec9f54ce0abbe2e969948fd505e8937428366dfe/Keras/keras-05-segmentation.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/ecd072120a519b8be16de4f33be125341333915b/dive into deep learning/06-ConvNN/tensorflow/lenet.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/ef0eea4086d3f47ed4dd5ade8dba5f8a3db3b266/dive into deep learning/05-Optimization/mxnet/adam.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/f07be81bab878fa300866f4b421e5ea49c0df040/dive into deep learning/05-Optimization/tensorflow/adagrad.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/f4e9366841d3b74b37438a95bebfb523261e9a7a/dive into deep learning/07-ModernConvNN/tensorflow/densenet.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/f672aad5289b4bd4df9e029e77025178d7c2dd76/homeworks/H0_H1_H2_Fashion_MNIST_classification.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/f6b071eb9fd0ea85c8d7ca80c9dd2020f57469d8/dive into deep learning/05-Optimization/mxnet/adadelta.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/f9009f54690774aa24e5ad430382b79b4f04b594/dive into deep learning/05-Optimization/mxnet/index.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/faf444539955073cf6e4f7f0f6f6b29e335a4415/dive into deep learning/05-Optimization/mxnet/minibatch-sgd.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/fed2f894e0401335a5155f53ec97d1cc5dca5182/01-Python/X3-Data-structures-I.ipynb
+https://raw.githubusercontent.com/serivan/DeepLearning/ff8a3eb4ee2b1591ad410ead278a523228627e3b/dive into deep learning/08-RNN/tensorflow/language-models-and-dataset.ipynb
+https://raw.githubusercontent.com/shahidazam2020-oss/Diabetes-Data-Analysis-and-Classification/46287d0a58e89cc703dac7d4aaca64d65b1a3aaf/Diabetes Data Analysis.ipynb
+https://raw.githubusercontent.com/shahp7575/reddit_coffee_scraper/6a9aef050cab1dbd7ff8be121087e9a8697216f1/src/data_merger_kaggle.ipynb
+https://raw.githubusercontent.com/shardulg2002/android-sdk-installer/3595e485c49cff104a287e268bff043171400ab2/workspace/notebook.ipynb
+https://raw.githubusercontent.com/sharon-now/Chatbox-Development/93696d9790093085cad95de6e10d6709ded9ed44/week1/Uwineza_Sharon_Week1_Activity.ipynb
+https://raw.githubusercontent.com/sharon-now/Chatbox-Development/bb16baad425767b39a392d2cddac0e3da2777d6e/week-2/Sharon_UWINEZA_Week2_Activity.ipynb
+https://raw.githubusercontent.com/sharon-now/Chatbox-Development/e6dc8b1c0ec76b40c1698dc5fc4a36c35ee95422/week-3/Exercise_1_Python_Practice_Task_1_WEEK_3.ipynb
+https://raw.githubusercontent.com/shinhookang/course410/038d5da140c3ce9c42652207ba045c8ec6ea1d77/06-SatelliteData/ex2/Image/14_registering_images.ipynb
+https://raw.githubusercontent.com/shinhookang/course410/05547ddd24a356b7bd8bde48d1fd29d65ac40765/06-SatelliteData/ex2/Image/.ipynb_checkpoints/07_morphological_operations-checkpoint.ipynb
+https://raw.githubusercontent.com/shinhookang/course410/07b3234f4eb9afc75fd6bfc4b00a4c364846e97c/06-SatelliteData/ex2/ex3.ipynb
+https://raw.githubusercontent.com/shinhookang/course410/082a9dc4b43d66693831a48ff2621afde3e4fb2c/06-SatelliteData/ex2/FeatureCollection/.ipynb_checkpoints/us_census_data-checkpoint.ipynb
+https://raw.githubusercontent.com/shinhookang/course410/082a9dc4b43d66693831a48ff2621afde3e4fb2c/06-SatelliteData/ex2/FeatureCollection/us_census_data.ipynb
+https://raw.githubusercontent.com/shinhookang/course410/0a2609c45fb4aafa9278db868d590f176097b50c/06-SatelliteData/ex2/ImageCollection/02_image_collection_metadata.ipynb
+https://raw.githubusercontent.com/shinhookang/course410/0ee582ca00bcd056a5f87e3d81c290c3115d0d7b/22-Environment/week02_environment_en.ipynb
+https://raw.githubusercontent.com/shinhookang/course410/1286fd9282662dc8a27ffaef5fe6d1837434daac/06-SatelliteData/ex2/Image/11_texture.ipynb
+https://raw.githubusercontent.com/shinhookang/course410/2cd1349d631b1332762e1a68d754f7c2437174d4/06-SatelliteData/ex2/Image/.ipynb_checkpoints/06_convolutions-checkpoint.ipynb
+https://raw.githubusercontent.com/shinhookang/course410/377ae1010ed7a6801bea360dc30bc9b2c368c1d7/06-SatelliteData/ex2/Image/.ipynb_checkpoints/02_image_visualization-checkpoint.ipynb
+https://raw.githubusercontent.com/shinhookang/course410/4175763f96ffc79f2ac75ba7b993c44974e3e636/06-SatelliteData/ex2/Image/08_gradients.ipynb
+https://raw.githubusercontent.com/shinhookang/course410/4418c0cc321381efe4bff376e64e2df776c2927d/23-SparkBasics/week03_spark_basics_en.ipynb
+https://raw.githubusercontent.com/shinhookang/course410/521afa79c31e09e250db04ef22461737ace0a599/06-SatelliteData/ex2/Image/05_conditional_operations.ipynb
+https://raw.githubusercontent.com/shinhookang/course410/525326dac553f412802207b31c35cc501c832652/06-SatelliteData/ex2/Image/.ipynb_checkpoints/10_spectral_transformations-checkpoint.ipynb
+https://raw.githubusercontent.com/shinhookang/course410/5507d13cbe0e6ce556be4b96ad96f0fe4cf5b3c6/06-SatelliteData/ex2/ImageCollection/.ipynb_checkpoints/03_filtering_image_collection-checkpoint.ipynb
+https://raw.githubusercontent.com/shinhookang/course410/5e99484f2ffb04539907e607bd2881f0a664d38b/06-SatelliteData/ex2/Image/12_object_based_methods.ipynb
+https://raw.githubusercontent.com/shinhookang/course410/6579aee7d68554b1449e2378619d0fb3f5d432c0/06-SatelliteData/ex2/Image/03_image_metadata.ipynb
+https://raw.githubusercontent.com/shinhookang/course410/6a7abb4bb2f1522c56da75e10096d0d5968aa936/06-SatelliteData/ex2/Image/.ipynb_checkpoints/14_registering_images-checkpoint.ipynb
+https://raw.githubusercontent.com/shinhookang/course410/6bf6e1ec0cf3675e38e862b31c775895ea9c90e5/06-SatelliteData/ex2/Image/01_image_overview.ipynb
+https://raw.githubusercontent.com/shinhookang/course410/73158f32ab13a364298adf01b899fa6ae76218cb/06-SatelliteData/ex2/Image/07_morphological_operations.ipynb
+https://raw.githubusercontent.com/shinhookang/course410/74e81e9bd80431b3e6840dabe852ba99a72276dc/06-SatelliteData/ex2/Image/.ipynb_checkpoints/03_image_metadata-checkpoint.ipynb
+https://raw.githubusercontent.com/shinhookang/course410/763c3d8ba1c4895b95fed3cd8f072c747c54678a/06-SatelliteData/ex2/Image/.ipynb_checkpoints/09_edge_detection-checkpoint.ipynb
+https://raw.githubusercontent.com/shinhookang/course410/7b907bd28e517be5a3b02395584a16f2cd06c90b/06-SatelliteData/ex2/Image/.ipynb_checkpoints/08_gradients-checkpoint.ipynb
+https://raw.githubusercontent.com/shinhookang/course410/7cac5b5000893eea11a3806b8a754058cfc42a0c/06-SatelliteData/ex2/ImageCollection/.ipynb_checkpoints/02_image_collection_metadata-checkpoint.ipynb
+https://raw.githubusercontent.com/shinhookang/course410/82fd78696d1593d0b8a060d7ea2fc4da8463ec99/06-SatelliteData/ex2/Image/10_spectral_transformations.ipynb
+https://raw.githubusercontent.com/shinhookang/course410/845602264e0e1c9cb47b1c19ae8a95fac2079dab/06-SatelliteData/ex2/Image/09_edge_detection.ipynb
+https://raw.githubusercontent.com/shinhookang/course410/8857a68aaf3df5f5253486362a5561d16fe1d9bd/06-SatelliteData/ex2/Image/.ipynb_checkpoints/12_object_based_methods-checkpoint.ipynb
+https://raw.githubusercontent.com/shinhookang/course410/89562b077e917ead37e58631f53357ff8b5168b2/06-SatelliteData/ex2/Image/.ipynb_checkpoints/05_conditional_operations-checkpoint.ipynb
+https://raw.githubusercontent.com/shinhookang/course410/8a731101546e96cebeb7ec8e968dc9252fe588ca/06-SatelliteData/ex2/ImageCollection/.ipynb_checkpoints/04_mapping_over_image_collection-checkpoint.ipynb
+https://raw.githubusercontent.com/shinhookang/course410/90774e4d6c8ea902a5f627af1e5dd32e5e8d3da4/06-SatelliteData/ex2/Image/.ipynb_checkpoints/11_texture-checkpoint.ipynb
+https://raw.githubusercontent.com/shinhookang/course410/94763246c8934c8fefa438317182fc17a6459152/21-Overview/week01_overview_en.ipynb
+https://raw.githubusercontent.com/shinhookang/course410/ac2d4176921c349ba51c6249e71d2e69fd6efd0f/06-SatelliteData/ex2/Image/.ipynb_checkpoints/13_cumulative_cost_mapping-checkpoint.ipynb
+https://raw.githubusercontent.com/shinhookang/course410/b1b0e67e5a297706ff9cbf9a045779f641604a2d/06-SatelliteData/ex2/ImageCollection/.ipynb_checkpoints/01_image_collection_overview-checkpoint.ipynb
+https://raw.githubusercontent.com/shinhookang/course410/b5fba02e9e604c244d673dbabd159bf3732f5059/06-SatelliteData/ex2/Image/.ipynb_checkpoints/04_math_operations-checkpoint.ipynb
+https://raw.githubusercontent.com/shinhookang/course410/bb3cae446a9ed61d1b6e298ceda15f54abef68cd/06-SatelliteData/ex2/ImageCollection/04_mapping_over_image_collection.ipynb
+https://raw.githubusercontent.com/shinhookang/course410/bc6debf851edcd66934e8ecc990cf71fbf9bd81e/06-SatelliteData/ex2/ex.ipynb
+https://raw.githubusercontent.com/shinhookang/course410/c19114488a8d897c8491a5db37321e4ee2013ed4/06-SatelliteData/ex2/ImageCollection/03_filtering_image_collection.ipynb
+https://raw.githubusercontent.com/shinhookang/course410/c7d32e28bd40c63df2a6259da4892ab82a5165bd/06-SatelliteData/ex2/Image/06_convolutions.ipynb
+https://raw.githubusercontent.com/shinhookang/course410/e450a7354809a33faffda5d71bab71cbc9e2d796/06-SatelliteData/ex2/ImageCollection/01_image_collection_overview.ipynb
+https://raw.githubusercontent.com/shinhookang/course410/e86173d8e2b4008d2c6205e27d02fa2dee21858c/06-SatelliteData/ex2/Image/02_image_visualization.ipynb
+https://raw.githubusercontent.com/shinhookang/course410/edcab5fdb6c3e033af3d7ecbb7dacfee9a3aaac9/06-SatelliteData/ex2/Image/.ipynb_checkpoints/01_image_overview-checkpoint.ipynb
+https://raw.githubusercontent.com/shinhookang/course410/f2f9098555c3e40aa4f3697eb8592270dc952b0c/06-SatelliteData/ex2/Image/04_math_operations.ipynb
+https://raw.githubusercontent.com/shinhookang/course410/f4c8292ac016ea3b3dbb9daaafa794a5b9894963/06-SatelliteData/ex2/Image/13_cumulative_cost_mapping.ipynb
+https://raw.githubusercontent.com/shinhookang/course410/f87505eb1b5062fde48371606e57b0e8a4a6f0f8/06-SatelliteData/ex2/ex2.ipynb
+https://raw.githubusercontent.com/shivamnsingh/learning-journey-ml/0131f29be4bac888f723fc9080cf9408f92d71dd/ml_models/linear-regression/breast_cancer.ipynb
+https://raw.githubusercontent.com/shivamnsingh/learning-journey-ml/1bf90610849be08b141cbe0a22e81e28c9829e5e/mini-projects/teen_mental_health/analysis.ipynb
+https://raw.githubusercontent.com/shivamnsingh/learning-journey-ml/1bf90610849be08b141cbe0a22e81e28c9829e5e/ml_models/decision_tree/analysis.ipynb
+https://raw.githubusercontent.com/shivamnsingh/learning-journey-ml/248c2438b09414fcb5b4655e660483feaef2fb2a/notes/Basic_Plots/Line_plot.ipynb
+https://raw.githubusercontent.com/shivamnsingh/learning-journey-ml/2bf422c5eee0e9cba79df3d6a5f639c736deb6fb/mini-projects/teen_mental_health/code.ipynb
+https://raw.githubusercontent.com/shivamnsingh/learning-journey-ml/2bf422c5eee0e9cba79df3d6a5f639c736deb6fb/ml_models/decision_tree/code.ipynb
+https://raw.githubusercontent.com/shivamnsingh/learning-journey-ml/39c9a12afc137d6b7e85e40898b5096a5c94191a/notes/Basic_Plots/Step_plot.ipynb
+https://raw.githubusercontent.com/shivamnsingh/learning-journey-ml/43b832f229c934ad22132e94e5550ddb2576ebdd/notes/Basic_Plots/Stem_plot.ipynb
+https://raw.githubusercontent.com/shivamnsingh/learning-journey-ml/4d462104c3095118e59f4e3214d0816ad4528272/notes/Basic_Plots/Scatter_plots.ipynb
+https://raw.githubusercontent.com/shivamnsingh/learning-journey-ml/56ed4bff462d6ed9e45dc1088ac5158df554ec5a/notes/Basic_Plots/Error_bar_plot.ipynb
+https://raw.githubusercontent.com/shivamnsingh/learning-journey-ml/5a755abfb456ca1808f7bee9cfe132f8e354e8c2/ml_models/linear-regression/linear_regg.ipynb
+https://raw.githubusercontent.com/shivamnsingh/learning-journey-ml/5cc0fd325c281cd07de5e5803272b58a0750a554/mini-projects/titanic/code.ipynb
+https://raw.githubusercontent.com/shivamnsingh/learning-journey-ml/672ffd1c9c6ed76a979b94562f302c6265e8099f/mini-projects/netflix_analysis/movie_dataanalyisis.ipynb
+https://raw.githubusercontent.com/shivamnsingh/learning-journey-ml/6821d3629f4fc3f6c9fe5f0c435f398cb57bb749/mini-projects/Credit_Card_Fraud/code.ipynb
+https://raw.githubusercontent.com/shivamnsingh/learning-journey-ml/6f86eee0c853cd96a5d80500d82687238702a9ef/mini-projects/Day02-Product-Demand/product_demand_project.ipynb
+https://raw.githubusercontent.com/shivamnsingh/learning-journey-ml/9478385a9d6a4dee0e0bf0ba3af00eeefd8746a7/mini-projects/Customer_PCA/code.ipynb
+https://raw.githubusercontent.com/shivamnsingh/learning-journey-ml/9fe35f3bcd7ed39c88c0639729bc619a273357d4/notes/Basic_Plots/Bar_charts.ipynb
+https://raw.githubusercontent.com/shivamnsingh/learning-journey-ml/aba559f9849e54dcf80cb8db4e51fd10666eee4b/mini-projects/spam-detection/code.ipynb
+https://raw.githubusercontent.com/shivamnsingh/learning-journey-ml/b390b09164b08c950dc0792048879a6a82f0f136/ml_models/linear-regression/linearregg.ipynb
+https://raw.githubusercontent.com/shivamnsingh/learning-journey-ml/c32bc6fc3d63818fbc16c08e7d8c97034930297d/mini-projects/Day01-Divorce-Prediction/Divorce_Prediction_Data_Detective.ipynb
+https://raw.githubusercontent.com/shivamnsingh/learning-journey-ml/d3e25ef490b3a55180cf141cdf3f52b4ddeb9506/mini-projects/Abalone-Gender-Classification/code.ipynb
+https://raw.githubusercontent.com/shivamnsingh/learning-journey-ml/dba56415b7ca976730474de0bf7baf3ff4c88d5e/ml_models/linear-regression/logistic_regg.ipynb
+https://raw.githubusercontent.com/shreyanshxt/Mlunet-Brain-Tumor-Segmentation/f50bca14eea9ac3e8b3d8fe66551f4704f0eb58c/BRAIN_TUMOR3.ipynb
+https://raw.githubusercontent.com/shubham055555/AI-Based-Smart-Eco-Air-Pollution-Control-System/f11108ced4e0e9211aaf2dcadecffacec7627e91/src/Model_Training.ipynb
+https://raw.githubusercontent.com/skarma91/logicmojo-ai-ml-aug-2026/042d5aa7cdd7b5f25f6195e29651370d7fcbb1c4/Lecture_materials/Class-05-python_advanced_part-2/object_oriented_programming.ipynb
+https://raw.githubusercontent.com/skarma91/logicmojo-ai-ml-aug-2026/2dbe4e0f8be28f2bfc7405b036763834ec54ff8f/Lecture_materials/Class-06-python_advanced_part-3/python_regex.ipynb
+https://raw.githubusercontent.com/skarma91/logicmojo-ai-ml-aug-2026/3394faca7343a67c8f8b782d7731fc7b19ec5c3e/Assignments/Assignment-01_basic_python/Assignment-01-basic_python-Solution.ipynb
+https://raw.githubusercontent.com/skarma91/logicmojo-ai-ml-aug-2026/3b48bba392b1354251302e9ca02790ec95828fd2/Lecture_materials/Class-04-python_advanced_part-1/advanced_function_concepts_and_file_handling.ipynb
+https://raw.githubusercontent.com/skarma91/logicmojo-ai-ml-aug-2026/3d28f19e807058d073e8e9f2bbc20d8f18f22efb/Assignments/Assignment-02-NumPy/Assignment-02-NumPy-Solution.ipynb
+https://raw.githubusercontent.com/skarma91/logicmojo-ai-ml-aug-2026/41f5e700722b182c52e760371346699c9e8ff12d/Lecture_materials/Class-12-13-mathematics_for_ml_part-2/linear_algebra.ipynb
+https://raw.githubusercontent.com/skarma91/logicmojo-ai-ml-aug-2026/48f5ba100f676d1c5b2b3371f2b602da39e56f72/Assignments/Assignment-02-NumPy/Assignment-02-NumPy.ipynb
+https://raw.githubusercontent.com/skarma91/logicmojo-ai-ml-aug-2026/5399bbe0c82bcfc1727cb161792d5ed1212d3846/Lecture_materials/Class-07-python_for_data_science_part-1/numpy.ipynb
+https://raw.githubusercontent.com/skarma91/logicmojo-ai-ml-aug-2026/55372f4f9013948dbb8d5fc4427c41f435501174/Lecture_materials/Class-04-python_advanced_part-1/functions_in_python.ipynb
+https://raw.githubusercontent.com/skarma91/logicmojo-ai-ml-aug-2026/57c4dd8183eda2aa1c595e61f854ba1186e23189/Lecture_materials/Class-03-python_basics_part-3/python_in_built_data_structure.ipynb
+https://raw.githubusercontent.com/skarma91/logicmojo-ai-ml-aug-2026/57db397e3be051f1063ce505a8752e5087eae034/Lecture_materials/Class-09-python_for_data_science_part-3/data_visualization_in_python.ipynb
+https://raw.githubusercontent.com/skarma91/logicmojo-ai-ml-aug-2026/749c8e8b1acb02c2b62ec3c46571174e3f1cca36/Lecture_materials/Class-02-python_basics_part-2/looping_in_python.ipynb
+https://raw.githubusercontent.com/skarma91/logicmojo-ai-ml-aug-2026/79940fe599e935bb6974edf87bb732716da0bd3e/Lecture_materials/Class-03-python_basics_part-3/list_and_dictionary_comprehension.ipynb
+https://raw.githubusercontent.com/skarma91/logicmojo-ai-ml-aug-2026/8dcfb25e3366f232863c65c5cd89161ace4a7334/Lecture_materials/Class-06-python_advanced_part-3/modules_packages_libraries/Python_modules_packages_libraries.ipynb
+https://raw.githubusercontent.com/skarma91/logicmojo-ai-ml-aug-2026/946033d8127c673fabffeb855363372bddae2c95/Assignments/Assignment-03-Pandas/Assignment-03-Pandas.ipynb
+https://raw.githubusercontent.com/skarma91/logicmojo-ai-ml-aug-2026/9ff094132da8910e58924f93dbf8c0a9b08ba764/Lecture_materials/Class-04-python_advanced_part-1/error_handling.ipynb
+https://raw.githubusercontent.com/skarma91/logicmojo-ai-ml-aug-2026/ac1e5e41a95da89812f8f7363da705f6e9b4b3b5/Lecture_materials/Class-02-python_basics_part-2/intro_to_python.ipynb
+https://raw.githubusercontent.com/skarma91/logicmojo-ai-ml-aug-2026/c2141bf97d1b5c06fc204328986619b08ee9180e/Assignments/Assignment-01_basic_python/Assignment-01-basic_python.ipynb
+https://raw.githubusercontent.com/skarma91/logicmojo-ai-ml-aug-2026/c9aa647dfb7a454b508af559e1ab6b11ec90244f/Lecture_materials/Class-06-python_advanced_part-3/logging_in_python/logging_in_python.ipynb
+https://raw.githubusercontent.com/skarma91/logicmojo-ai-ml-aug-2026/dddcb8becf23e9512b3347f34447a6d87ea9984e/Lecture_materials/Class-10-11-mathematics_for_ml_part-1/scipy_examples.ipynb
+https://raw.githubusercontent.com/skarma91/logicmojo-ai-ml-aug-2026/eca54ad3bdfb0f2d7532274e4fe5aa77db76a068/Lecture_materials/Class-01-python_basics_part-1/introduction_to_notebook.ipynb
+https://raw.githubusercontent.com/skarma91/logicmojo-ai-ml-aug-2026/f12e5d96b10534d26f27464a4aedafcda85aedd7/Lecture_materials/Class-08-python_for_data_science_part-2/Pandas.ipynb
+https://raw.githubusercontent.com/skarma91/logicmojo-ai-ml-aug-2026/f55cc16d4c036bdadd18efbcf3c5f318279ade68/Assignments/Assignment-04-OOP/Assignment-04-Object_oriented_programming.ipynb
+https://raw.githubusercontent.com/sktime/pycaret/13222d45168a51d10092d6fbbe7cdaa49db57348/tutorials/Tutorial - Anomaly Detection.ipynb
+https://raw.githubusercontent.com/sktime/pycaret/1f312527958b94c990fab94dda34030bd9c2d73c/tutorials/translations/japanese/JA-Regression Tutorial Level Beginner - REG101.ipynb
+https://raw.githubusercontent.com/sktime/pycaret/257ca1e2be70b8fab4d79438b3eaa8dfd8b7112c/tutorials/translations/japanese/JA-Regression Tutorial Level Intermediate - REG102.ipynb
+https://raw.githubusercontent.com/sktime/pycaret/45ad73ce792f6ea4e699cb0608a081b8cb24e92a/tutorials/time_series/forecasting/univariate_without_exogeneous_part3.ipynb
+https://raw.githubusercontent.com/sktime/pycaret/4736186aa49f7ad3680b68a1b793f328ec2bf275/tutorials/Tutorial - Clustering.ipynb
+https://raw.githubusercontent.com/sktime/pycaret/49ad642bc85c98d7b70f304ad3e983af1afef716/tutorials/translations/portuguese/Tutorial de classificacao binaria (CLF101) - Nivel iniciante.ipynb
+https://raw.githubusercontent.com/sktime/pycaret/5251350afd00b7a1efe869bf5968747de70f31a7/tutorials/translations/greek/Binary Classification Tutorial Level Expert - CLF103.ipynb
+https://raw.githubusercontent.com/sktime/pycaret/5ff9130cd133d12103e048215a00147ced31c753/tutorials/Tutorial - Multiclass Classification.ipynb
+https://raw.githubusercontent.com/sktime/pycaret/693a5913886ead843c1ec83052d3e9607448909d/tutorials/time_series/forecasting/univariate_with_exogeneous_part1.ipynb
+https://raw.githubusercontent.com/sktime/pycaret/81dfeb62aab70931acbdcf5ab2e35eba3e2481db/tutorials/translations/chinese/Binary Classification Tutorial Level Beginner (中文) -  CLF101.ipynb
+https://raw.githubusercontent.com/sktime/pycaret/8a7aa5853deeff93483cabbc18ac6cd129e1d937/tutorials/Tutorial - Binary Classification.ipynb
+https://raw.githubusercontent.com/sktime/pycaret/ae8084530ee5f6e7e47199bae100b161fd9db2cf/tutorials/time_series/forecasting/univariate_without_exogeneous_part1.ipynb
+https://raw.githubusercontent.com/sktime/pycaret/b54cdd91f2557e59900d9a1d2197b147ae102a88/tutorials/time_series/forecasting/univariate_without_exogeneous_part2.ipynb
+https://raw.githubusercontent.com/sktime/pycaret/cc3e3a876684725df1f6de7580b2173dab63d086/tutorials/time_series/forecasting/customizing_experiments.ipynb
+https://raw.githubusercontent.com/sktime/pycaret/cf04008eedb4b7fbccbed258e610b9473b32207a/tutorials/translations/chinese/Anomaly Detection Tutorial Level Beginner (中文) - ANO101.ipynb
+https://raw.githubusercontent.com/sktime/pycaret/cf55f5a97c74e440e396e643cfd2f170c2bc5268/tutorials/translations/japanese/JA_Binary_Classification_Tutorial_Level_Beginner.ipynb
+https://raw.githubusercontent.com/sktime/pycaret/db8f64e6f9b16f56dd63b7ae34a4566047617d9d/tutorials/translations/greek/Binary Classification Tutorial Level Beginner -  CLF101.ipynb
+https://raw.githubusercontent.com/sktime/pycaret/dd9a8b127b6f48e70deb70df4f77d44caa86f264/tutorials/time_series/forecasting/univariate_with_exogeneous_part3.ipynb
+https://raw.githubusercontent.com/sktime/pycaret/e43cea22ef780d76f7cecc608893b06d93990260/tutorials/time_series/forecasting/univariate_with_exogeneous_part2.ipynb
+https://raw.githubusercontent.com/sktime/pycaret/f0db37c5bedbe7354d4dfb32646e9d912070769f/tutorials/Tutorial - Regression.ipynb
+https://raw.githubusercontent.com/skycharon2/alma-duplication-tool/03304a1ae3ecd3580afebdcdbf186f15a3cdf1fd/notebooks/03_frequency_support_exploration.ipynb
+https://raw.githubusercontent.com/skycharon2/alma-duplication-tool/12c74a4ea8a262d7a8a27574d927c31f434ec18f/notebooks/05_queue_csv_exploration.ipynb
+https://raw.githubusercontent.com/skycharon2/alma-duplication-tool/78d206a7b7a4017d511dca5a083b864a3879e5a1/notebooks/01_archive_connection.ipynb
+https://raw.githubusercontent.com/skycharon2/alma-duplication-tool/89b680ebe29dafa31104fa406fe1a626c60d1c8a/notebooks/02_archive_data_relationships.ipynb
+https://raw.githubusercontent.com/skycharon2/alma-duplication-tool/9c7cce6f98b836514da58fe0aa381b8973681737/notebooks/04c_archive_semantic_closure.ipynb
+https://raw.githubusercontent.com/skycharon2/alma-duplication-tool/ac0176d278e8870b3952a4df18cbf3057bce891e/notebooks/04b_archive_robustness_closure.ipynb
+https://raw.githubusercontent.com/skycharon2/alma-duplication-tool/e68f52276d29d863120f9cea0d1b2761146b6053/notebooks/02b_archive_relationship_visualization.ipynb
+https://raw.githubusercontent.com/skycharon2/alma-duplication-tool/f2c7d6fa3889e2baa288336f638967803cbd062b/notebooks/04_observation_modes.ipynb
+https://raw.githubusercontent.com/soulashwin/climate-stress-databricks/0058706355ff1c9d406eb2e47fe22ef0d91a1e99/python notebooks/Gold Notebook.ipynb
+https://raw.githubusercontent.com/soulashwin/climate-stress-databricks/55fcb48f1273a408646095a8df536c607933e03d/python notebooks/ML.ipynb
+https://raw.githubusercontent.com/soulashwin/climate-stress-databricks/ce2eda9335355dcc116cd4d36430738cd73b0c7b/python notebooks/Bronze Notebook.ipynb
+https://raw.githubusercontent.com/soulashwin/climate-stress-databricks/fe9d46ab00e8dd8850a78f0e53db71a2fc62dba0/python notebooks/Silver Notebook.ipynb
+https://raw.githubusercontent.com/spacetelescope/roman-data-workshop/0bc9acf485419ffada84fa7d29bae13a80f0fe21/04-More_About_ASDF/04-Solutions.ipynb
+https://raw.githubusercontent.com/spacetelescope/roman-data-workshop/3f837b8a6825678f921b98e47e35ef75876b55d7/07-Roman_Data_Models/07-Roman_Data_Models.ipynb
+https://raw.githubusercontent.com/spacetelescope/roman-data-workshop/40a5b8ead1f43341ba6ba2d9fceafda5df5d1ce5/06-Roman-WCS/Roman_Imaging_WCS.ipynb
+https://raw.githubusercontent.com/spacetelescope/roman-data-workshop/4448a50ead7c2bad66ac85856cb70096be6e29da/08-Extensions/08-How_to_write_ASDF_extensions.ipynb
+https://raw.githubusercontent.com/spacetelescope/roman-data-workshop/4caad5c82ead7dc3ace6b6bccb085e51a84eed8a/deprecated/09-Slitless-JWST-NIRISS/Slitless_NIRISS.ipynb
+https://raw.githubusercontent.com/spacetelescope/roman-data-workshop/4e6777c01b1c0f675a96ccc5101648d0ec93cce8/07-Roman_Data_Models/07-Roman_Data_Models_Solutions.ipynb
+https://raw.githubusercontent.com/spacetelescope/roman-data-workshop/5cb7e695a877634bf0eadfb94b77dc5eaa4551ef/08-Extensions/Entry-Points.ipynb
+https://raw.githubusercontent.com/spacetelescope/roman-data-workshop/5ede79490baa42950660a3fcaaf108baf4df2027/03-CLI/CLI.ipynb
+https://raw.githubusercontent.com/spacetelescope/roman-data-workshop/725f15adbf8d2d60068210ea7e31dcc3ab95f024/02-Working_With_ASDF_Files/02-Solutions.ipynb
+https://raw.githubusercontent.com/spacetelescope/roman-data-workshop/7596e9418d79fdd85fc454ca39eaefba71ae4d26/03-CLI/03-Solutions.ipynb
+https://raw.githubusercontent.com/spacetelescope/roman-data-workshop/9d3ca175a5a51261439c6766501e03ae7c97ff57/04-More_About_ASDF/04-More_About_ASDF.ipynb
+https://raw.githubusercontent.com/spacetelescope/roman-data-workshop/df03236d0bbdbfa942c043c1b47a51cd00825078/01-Introduction/01-Introduction.ipynb
+https://raw.githubusercontent.com/spacetelescope/roman-data-workshop/ecfe36edc66905cf98cbeb5a456f44e2e1e52869/05-Intro_Roman_Pipeline/05-Intro_Roman_Pipeline.ipynb
+https://raw.githubusercontent.com/spacetelescope/roman-data-workshop/fb51ebfa648bf990a4753b6864dbc292e129fb32/10-Mosaic_Pipeline/10-Mosaic_Pipeline.ipynb
+https://raw.githubusercontent.com/spacetelescope/roman-data-workshop/ffce23b22fcd0404d960f83b71ee1b2addc166ab/02-Working_With_ASDF_Files/02-Working_With_ASDF_Files.ipynb
+https://raw.githubusercontent.com/stathis0074/Agentic-AI-Project-Find-Deal-Opportunities/158b17a149b59dc665ac9aea3f60c09af559c2f8/price_prediction_engine/build_vector_store.ipynb
+https://raw.githubusercontent.com/stathis0074/Agentic-AI-Project-Find-Deal-Opportunities/42b2b5e519132380bfad98533def17fffeaa195c/Data Curation/Data_Curation.ipynb
+https://raw.githubusercontent.com/stathis0074/Agentic-AI-Project-Find-Deal-Opportunities/4e8a6029ee4b828d11d9ad60e98492654c785279/price_prediction_engine/QLORA_TRAINING_ipynb.ipynb
+https://raw.githubusercontent.com/stathis0074/Agentic-AI-Project-Find-Deal-Opportunities/99c6c298e079a77ec32d02a89823f40d6a9bb0d7/price_prediction_engine/get_deals.ipynb
+https://raw.githubusercontent.com/stathis0074/Agentic-AI-Project-Find-Deal-Opportunities/9b0e15d5e145dad565c28bfcf89df8f2ea6ed552/price_prediction_engine/RAG.ipynb
+https://raw.githubusercontent.com/stathis0074/Agentic-AI-Project-Find-Deal-Opportunities/d72f4d45e09432172a9f8413472ceec99466c831/price_prediction_engine/deploy_app.ipynb
+https://raw.githubusercontent.com/stathis0074/Agentic-AI-Project-Find-Deal-Opportunities/ef354f9f8edde7608f4bb52b0f5add764da103d9/price_prediction_engine/RandomForest.ipynb
+https://raw.githubusercontent.com/sudarsun/DA3408/35540a6e7d26a34084353398c91eaa3cd1ba79c4/MLflow/Exercise2_Package_and_Run_MLflow_Project.ipynb
+https://raw.githubusercontent.com/sudarsun/DA3408/47033ba976e8950cf93497546909dee82c6f458b/Lecture 7 -- demo_spark.ipynb
+https://raw.githubusercontent.com/sudarsun/DA3408/4d22245bfcccd64a8109c4456a7e54fa3f781b43/MLflow/Exercise3_Log_Model_with_Signature.ipynb
+https://raw.githubusercontent.com/sudarsun/DA3408/6c41e08c63ebdd153931be6ca7534bec15d07df8/MLflow/Exercise1_Instrument_and_Compare_Runs.ipynb
+https://raw.githubusercontent.com/sudarsun/DA3408/b6aaec8ffd6206370c3cd4262e84ebf1931ec30c/Lecture 6 -- KServe_Scaling_Exercise.ipynb
+https://raw.githubusercontent.com/sudarsun/DA3408/bbfe5a59538c4ca80f5934ac770d402c15f977fa/Lecture 6 -- Kubernetes_Scaling_Exercise.ipynb
+https://raw.githubusercontent.com/sudarsun/DA3408/c5c3a09d2b31693f2cd8b8c640f4e4a9441e7df3/MLflow/Exercise4_Register_and_Promote_Model.ipynb
+https://raw.githubusercontent.com/sudarsun/DA3408/c7565aaa418e48ad0737e4bdad99d46e0e066ed1/Lecture 5 -- Docker_Exercise.ipynb
+https://raw.githubusercontent.com/sudarsun/DA3408/c7bf01ea40d4697b8b48b6f588cb12f1dd55c866/MLflow/Exercise5_Serve_Locally_and_Query.ipynb
+https://raw.githubusercontent.com/sudarsun/DA3408/d17231478e0b652ad5e4c843f815fdd471888466/Lecture 7 -- sparkml_tutorial.ipynb
+https://raw.githubusercontent.com/sudarsun/DA3408/d192811d5fcb28da834b74cf93c7b9b00e3debfb/Lecture 7 -- Spark_ETL_Exercise.ipynb
+https://raw.githubusercontent.com/sudheepelayidom/TrainingSessionsForStudents/122e0536616302945d6497a0027e4efab400e4d9/assignments/CNN_MNIST_Classification_(1).ipynb
+https://raw.githubusercontent.com/sudheepelayidom/TrainingSessionsForStudents/172bfa613fc30cb50511ab526b5a07bf58e224b2/DNN.ipynb
+https://raw.githubusercontent.com/sudheepelayidom/TrainingSessionsForStudents/17a0cb1e8825ae7e20098915d2a6195dcbbb7053/PerceptronCodeTF.ipynb
+https://raw.githubusercontent.com/sudheepelayidom/TrainingSessionsForStudents/3fe6db8c466e7e019107a4687bd3776dd5303f6d/assignments/ANN_ASSIGNMENT.ipynb
+https://raw.githubusercontent.com/sudheepelayidom/TrainingSessionsForStudents/52e9d6997db93bf5810761c7d6c69722dd382dc3/ReadFileTo_Array.ipynb
+https://raw.githubusercontent.com/sudheepelayidom/TrainingSessionsForStudents/58bfb1f8549154d3d8d8e68f2d8db6097b581c19/Multiple_linear_regression.ipynb
+https://raw.githubusercontent.com/sudheepelayidom/TrainingSessionsForStudents/5ccf31d446887c7f257248324271fded962a1c4d/assignments/Diabates_Dataset_Preproccessing (1).ipynb
+https://raw.githubusercontent.com/sudheepelayidom/TrainingSessionsForStudents/df6efd1e27925aad424b9f7832ce041a6609c5a3/MNIST_DisplayOnly.ipynb
+https://raw.githubusercontent.com/sudheepelayidom/TrainingSessionsForStudents/ec698e00a681eae9b20e3ede63050dddbbdc3415/Diabates_Dataset_Preproccessing.ipynb
+https://raw.githubusercontent.com/sudheepelayidom/TrainingSessionsForStudents/f0285807123b49127bd4596f1626bbcdf5ab1b7d/LinearRegressionAssignment.ipynb
+https://raw.githubusercontent.com/sudheepelayidom/TrainingSessionsForStudents/fb32f8dc4dbbb1ff5075e2129d474d61abd2cf14/assignments/Diabates_Dataset_Preproccessing.ipynb
+https://raw.githubusercontent.com/sudheepelayidom/TrainingSessionsForStudents/ff86a099dfc051681463cfa03220e92993337569/SimpleMNISTClassificationDisplayCode.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/0ae87855fec58438cb2a51b919f7d73a03a16f28/4 Visual Intelligence Data Visualization/Class 1/1_Questions/Matplotlib_class1.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/0bb43c000660534520430d99db22c1fb968c2bed/3 Pandas Playground/Class 3/2_Answers/Pandas_class3-solutions.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/0c4b694c7224ac1ce784b18d34a3bc80d0aa4f67/3 Pandas Playground/Class 8/2_Answers/Pandas_class8-solutions.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/11a790a26d8fdc2af3fd045bc7cdcda205218c12/4 Visual Intelligence Data Visualization/Class 2/2_Answers/Seaborn_class1-sollutions.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/1fa48fe552500e5656c143cc07b5c2a8eef9d9bb/2 Numpy Ninja/Class 3/3_Practice/class3_practice_file.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/28f9bc1b5c32f1ba70220808a74af72238ec206b/3 Pandas Playground/Class 4/1_Questions/pandas_class4.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/2adeb266c70d2908b6a7f6bdd593d60e1d8250f5/3 Pandas Playground/Class 5/2_Answers/Pandas_Class5-solutions.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/2cd197f7e9184644c5b7af8f443a81b731940fec/3 Pandas Playground/Class 2/3_Practice/Pandas_Class2_practice_file.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/36a66bffe14c43b9e2d716fb070cb089946ceecf/3 Pandas Playground/Class 5/1_Questions/Pandas_Class5.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/371ebb75b75a3321b6d12abe919c68c025bc4c16/3 Pandas Playground/Class 6/3_Practice/Pandas_class6_practice_file.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/396fe4efb9b864857f7e54ff96465b8b02195968/2 Numpy Ninja/Class 4/3_Practice/class4_practice_file.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/3da1c57108c059838fcf18f8fd413dabcf3dd283/3 Pandas Playground/Class 7/2_Answers/Pandas_class7-solutions.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/3dbad5ffcbf522a60cc11b9fe3fcf8d213a8148c/3 Pandas Playground/Class 4/3_Practice/pandas_class4_practice_file.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/4e18288e7d21a7e57863ed52f18a1e09ad41e096/2 Numpy Ninja/Class 3/2_Answers/class_3_solutions.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/4f5950a6ccebce692476c0efeeb9865fa4fe9695/3 Pandas Playground/Class 1/1_Questions/Pandas_Class1.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/4ffb38a92eba712fc6d6edc953c6eddb96a8ce3e/3 Pandas Playground/Class 9/2_Answers/Pandas_class9-solutions.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/5335f480451b7e950616cedea00f88fef5e127ab/3 Pandas Playground/Class 9/1_Questions/Pandas_class9.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/56f2cafda236956ec7d8ba544b23b1df89d0bf2f/4 Visual Intelligence Data Visualization/Class 1/2_Answers/Matplotlib_class1_solutions.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/593ada83150ffcc161810a0a4103e5f328cdcb71/3 Pandas Playground/Class 2/1_Questions/Pandas_Class2.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/5cce1683ffd05116640778457609557b64b01331/3 Pandas Playground/Class 4/2_Answers/pandas_class4-solutions.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/5de898439918fe839c8b40dcafadfb13c896f247/2 Numpy Ninja/Class 4/1_Questions/class4file.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/5f2b1778963aee78e793add2dde0d86813f5ba1d/3 Pandas Playground/Project/1/3_Practice/Stud_Que_practice_file.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/5f8bdda7c53ff1339933f1f7a132d3bc5d328c47/4 Visual Intelligence Data Visualization/Class 6/1_Questions/Seaborn_class5.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/6a4063b3078402af3f55a630b3fc1d64d825b22c/4 Visual Intelligence Data Visualization/Class 4/3_Practice/Seaborn_class3_practice file.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/6ab7d63cb098ce29a53e6a4aa55d012a607dafab/3 Pandas Playground/Project/2/practice_file(1).ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/6bd7a8a2c8d747933fe2f647f82185a1b3677625/2 Numpy Ninja/Class 3/1_Questions/class3file.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/6cfc1d4aa08472294b35bb9ccc5a009119ee19a6/2 Numpy Ninja/Class 2/1_Questions/class2file.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/70e77b83b9badaf968fb4bd6f3f3adacb84e14bc/3 Pandas Playground/Project/1/1_Questions/Stud Que.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/728b5a835c787a3d74cab95736431be4a564eca5/3 Pandas Playground/Class 3/3_Practice/Pandas_class3_practice_file.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/72dc82a1a3dfc456222e610e6fe814f9c502458f/2 Numpy Ninja/Class 2/3_Practice/class2_practice_file.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/732a7bfe8adc4ab9f3d1af71ecaec62071bd15d2/3 Pandas Playground/Class 7/3_Practice/Pandas_class7_practice_file.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/7a53420ed44d456f778f2774b68034ffcb495aa5/2 Numpy Ninja/Class 1/3_Practice/Class1_practice_file.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/7c4d132c2d97eaa2554ab8cd75f2655123327783/3 Pandas Playground/Class 8/1_Questions/Pandas_class8.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/7efa7fd0132788af7aad1c18b4bb26435449aa3a/3 Pandas Playground/Class 9/3_Practice/Pandas_class9_practice_file.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/81cfa0416b8c8efaa1b1786b4a070805b41a1fb7/3 Pandas Playground/Class 6/1_Questions/Pandas_class6.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/8be47e8c01274e054ed5be11b4951beee7e72d26/3 Pandas Playground/Class 1/3_Practice/Pandas_Class1_Practice_file.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/8fb113f8e67fde529a079d9c6c8bdef68732f87b/3 Pandas Playground/Class 3/1_Questions/Pandas_class3.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/9f601dd18943c0fdebfec351b69c5e0598db3e61/4 Visual Intelligence Data Visualization/Class 1/3_Practice/Matplotlib_class1_practice_file.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/a7085a43e0a2903ce7a2a4f54e1edb1f767e8c99/4 Visual Intelligence Data Visualization/Class 3/3_Practice/Seaborn_class2_practice_file.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/ace2914988b3e37649dfed1cab9c625eb83c4425/4 Visual Intelligence Data Visualization/Class 3/2_Answers/Seaborn_class2_solutions.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/b60bbb254d86a814b06e22fa2f45b307417e7119/4 Visual Intelligence Data Visualization/Class 4/1_Questions/Seaborn_class3.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/b6af644c88be87aa40bef7097803d771dfe32533/4 Visual Intelligence Data Visualization/Class 6/2_Answers/Seaborn_class5_solutions.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/b7ea3942d6d3aba1a61472804a36afed636cb6cf/3 Pandas Playground/Class 7/1_Questions/Pandas_class7.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/b8b8011f678d54c513ec98b1646b44c6b2863fc4/3 Pandas Playground/Project/1/2_Answers/Stud Sol.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/b9132ece74a966b54dc16c5f4f74847eee4303f8/2 Numpy Ninja/Class 2/2_Answers/Class_2_solutions.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/bc5afaec58ab48b0fc0c601c79b77b2444ab8eb5/4 Visual Intelligence Data Visualization/Class 5/3_Practice/Seaborn_class4_practice_file.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/bfb925628a869d0b55d1a8820f82a80083ec38de/2 Numpy Ninja/Class 1/1_Questions/Class1file.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/c4fdb8c3c617c16df68a435afe625424666c8138/2 Numpy Ninja/Class 4/2_Answers/class_4_solutions.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/c501c6e4f702fa02b8e971cf2ce8134d4efb6b16/4 Visual Intelligence Data Visualization/Class 3/1_Questions/Seaborn_class2.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/cc7fbfce1c873de98faeb07ff46d31af45ce6c1e/3 Pandas Playground/Class 6/2_Answers/Pandas_class6-solutions.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/cdc05070c9f71d3c04da4e3d4e973d812bb459c1/4 Visual Intelligence Data Visualization/Class 2/3_Practice/Seaborn_class1_practice_file.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/d717ed1ea75af1a18e74dd451430f3f6bc434973/3 Pandas Playground/Class 5/3_Practice/Pandas_Class5_Practice_file.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/d980b597563fbda290b705130ba04414a8762055/3 Pandas Playground/Class 1/2_Answers/Pandas_Class1-solutions.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/dca73a9e3f7b1f5d535f072002dcb75d4c4a5e48/2 Numpy Ninja/Class 1/2_Answers/Class_1_solutions.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/de131cc48c6168a4b880609736dc4108cd03e081/3 Pandas Playground/Class 2/2_Answers/Pandas_Class2-solutions.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/e01fece8b7c366c90b203e273cd726d34e673424/4 Visual Intelligence Data Visualization/Class 5/1_Questions/Seaborn_class4.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/e27a0f10b509e014a0e62f7813351cb5df095698/4 Visual Intelligence Data Visualization/Class 6/3_Practice/Seaborn_class5_practice_file.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/e335e87ad7a114ef664b797ef0420ca059973d18/4 Visual Intelligence Data Visualization/Class 4/2_Answers/Seaborn_class3_solutions.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/e4f20030d118e692fc825772556352f73b253537/3 Pandas Playground/Class 8/3_Practice/Pandas_class8_practice_file.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/e81c2a860154734c86598d6399f8f754949c343b/4 Visual Intelligence Data Visualization/Class 2/1_Questions/Seaborn_class1.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/e9bb32bcf8553973720bc9cda79eb4ea694cd49c/4 Visual Intelligence Data Visualization/Class 5/2_Answers/Seaborn_class4_solutions.ipynb
+https://raw.githubusercontent.com/sujalpanchal-25/zero-to-genai/ecfee5d8d82b53a69ac960c932abcd739932b518/4 Visual Intelligence Data Visualization/Project/Project_practice file.ipynb
+https://raw.githubusercontent.com/supervisely-ecosystem/train-mmdetection-v3/58c992f4b7f50796aefc16e944423c55debfd968/inference_outside_supervisely.ipynb
+https://raw.githubusercontent.com/sysbio-curie/HEDeST/02829c3cec3d64b636ebed20669487ea4e71c34d/external/CellViT/CellViT_Inference.ipynb
+https://raw.githubusercontent.com/sysbio-curie/HEDeST/29aa94de60c21cd85d1e66e9289c9055395127f2/external/HistoCell/tutorial/tutorial.ipynb
+https://raw.githubusercontent.com/sysbio-curie/HEDeST/2c14fc2b593281e23365bdfdbb35f7dd488cf0f4/simulations/full_simulations/dataset_construction/simulation.ipynb
+https://raw.githubusercontent.com/sysbio-curie/HEDeST/40ea5df80ad41ba3fcae4cea7d260b04d3574409/external/hovernet/examples/.ipynb_checkpoints/usage-checkpoint.ipynb
+https://raw.githubusercontent.com/sysbio-curie/HEDeST/40ea5df80ad41ba3fcae4cea7d260b04d3574409/external/hovernet/examples/usage.ipynb
+https://raw.githubusercontent.com/sysbio-curie/HEDeST/4f21e89bf5511505a4beb24e80adb3c894330bae/simulations/semi_simulations/dataset_construction/Xenium_FFPE_Human_Breast_Cancer_Rep1_semi-sim.ipynb
+https://raw.githubusercontent.com/sysbio-curie/HEDeST/56ec3fdba269698ff1925a2d4b93312bfacf34dd/benchmark/mhast_benchmark.ipynb
+https://raw.githubusercontent.com/sysbio-curie/HEDeST/683db66222013d70f5efecb13ec876c9785fb099/external/mhast/real_data.ipynb
+https://raw.githubusercontent.com/sysbio-curie/HEDeST/72cfa7c7ce5d5713a732958304e2f26550c3386a/simulations/full_simulations/hedest_analysis_sim.ipynb
+https://raw.githubusercontent.com/sysbio-curie/HEDeST/89ddbec44a2fa2b6559cf9ba9f6fa4cb862a935d/simulations/semi_simulations/dataset_construction/Xenium_V1_humanLung_Cancer_FFPE_semi-sim.ipynb
+https://raw.githubusercontent.com/sysbio-curie/HEDeST/978d3b198abc3a31eb5ed5ad01966fde347c8ebe/benchmark/hovernet_benchmark.ipynb
+https://raw.githubusercontent.com/sysbio-curie/HEDeST/ff25ef9cbbc5f89b8db38df88ea7bb5d410f5eb4/external/mhast/simulated_data.ipynb
+https://raw.githubusercontent.com/sysbio-curie/HEDeST/ffacf80f6fb278d7104e1cc8932e70ef4ce36ae4/external/mhast/synthetic_data.ipynb
+https://raw.githubusercontent.com/tatkoch/MOSiR_Lancut/5a54e653d6e0484288413ebb125f11bd507ad979/MOSiR_wykresy.ipynb
+https://raw.githubusercontent.com/themintlab/Zgraph/e23e24968e3df6497658751690b73a79987644d2/thermograph/examples/bayesian_si_training.ipynb
+https://raw.githubusercontent.com/theycallmeloki/MiladyOS/27fcda8bfb9307bc950c8e3a4293f5274d47391a/AutoDidact/autodidact.ipynb
+https://raw.githubusercontent.com/tracert244/trash_repo/46a4ba24205137a3c478076e2d4d8305328aaa46/notebook/pokemon_object_detection.ipynb
+https://raw.githubusercontent.com/trahnel/allsvenskan-fantasy-predictor/2e2263c8996df51fe2b69cfdfc53651661f3bae0/2023/01 - Collect Data.ipynb
+https://raw.githubusercontent.com/trahnel/allsvenskan-fantasy-predictor/2ecb09ee3a43c7f102cb645bb1637bd03f50a9de/2022/01 - Features.ipynb
+https://raw.githubusercontent.com/trahnel/allsvenskan-fantasy-predictor/3ebe406337f4f743ec762947977b798a0674e6fb/2021/get_data.ipynb
+https://raw.githubusercontent.com/trahnel/allsvenskan-fantasy-predictor/6debddca348162244422f4e37a070646e818eb08/2023/02 - Features.ipynb
+https://raw.githubusercontent.com/trahnel/allsvenskan-fantasy-predictor/a0316a27fdfdcff835eacb4bce79a021aaabceee/2022/02 - Regression.ipynb
+https://raw.githubusercontent.com/trahnel/allsvenskan-fantasy-predictor/de8bb3997b1ffde9f532406e580022df9e0d53c9/2022/00 - Get Data.ipynb
+https://raw.githubusercontent.com/trahnel/allsvenskan-fantasy-predictor/f0cceac5347b4815db8bf7ca371b55ae502a1645/2021/model.ipynb
+https://raw.githubusercontent.com/troboukis/2026_fire_protection/0f336f3bfc6a58982f78a7f769ea66f46d1acedf/src/kimdis.ipynb
+https://raw.githubusercontent.com/troboukis/2026_fire_protection/2547412abe90aecec53b4dba50c53f5c18c48c52/src/fetch_gemi.ipynb
+https://raw.githubusercontent.com/troboukis/2026_fire_protection/561e8b7918678eb58b12feadf9bf9a895d076771/src/copernicus.ipynb
+https://raw.githubusercontent.com/troboukis/2026_fire_protection/813ce4ede2428a798253fb7615ff2b1aaa2e30c4/src/get_kimdis.ipynb
+https://raw.githubusercontent.com/troboukis/2026_fire_protection/925d39b44560cf6465f3dc4b5a4d9cf0d64109b0/src/analysis.ipynb
+https://raw.githubusercontent.com/troboukis/2026_fire_protection/97a23ab1d8ec0f24e34dee59ee80653df9eccf6f/src/locate_works.ipynb
+https://raw.githubusercontent.com/troboukis/2026_fire_protection/f8ebc477e17f3b4f78d12d11f8200fd98ba4ab68/src/data_sanity.ipynb
+https://raw.githubusercontent.com/uibcdf/elastnetmt/10b3391c0571288f1848f2583b461741b888d17a/sandbox/Test_ANM_4PFK.ipynb
+https://raw.githubusercontent.com/uibcdf/elastnetmt/240040a65728a45194d13242ef2f256ab6afa1f7/docs/contents/user/intro/ENM.ipynb
+https://raw.githubusercontent.com/uibcdf/elastnetmt/26398b5b13f97599ca6cb18b31f85c5bafb0ddb1/sandbox/Test_ANM_1TCD.ipynb
+https://raw.githubusercontent.com/uibcdf/elastnetmt/2e64f1671b2723144011eafdad7408abd54648c0/sandbox/Test_GNM_1V4T.ipynb
+https://raw.githubusercontent.com/uibcdf/elastnetmt/34d5e958463e7ecc89a936898e5d509382621305/docs/contents/developer/documentation/web/myst.ipynb
+https://raw.githubusercontent.com/uibcdf/elastnetmt/4f9aedf205c33e742a4c3505d3f947e9f6ffcc61/sandbox/Test_GNM_1V4S.ipynb
+https://raw.githubusercontent.com/uibcdf/elastnetmt/5a5ee650c0585493d3d4b6c46b95f8d7e4112474/docs/contents/user/cookbook/Test1.ipynb
+https://raw.githubusercontent.com/uibcdf/elastnetmt/b018cbadee9fc4239f09e5a109c63ff335599d2b/docs/contents/showcase/GNM_Foundations.ipynb
+https://raw.githubusercontent.com/uibcdf/elastnetmt/bdcfcc44123274b41c42d5f190a40a9ae7681d40/docs/contents/showcase/Quickstart.ipynb
+https://raw.githubusercontent.com/uibcdf/elastnetmt/c250aea08696b96439227b0022393799ce59b481/docs/contents/user/models/gnm/Test_GNM.ipynb
+https://raw.githubusercontent.com/uibcdf/elastnetmt/d5cd55f0dbafb038e35186e6036e6c3b66432846/docs/index.ipynb
+https://raw.githubusercontent.com/uibcdf/elastnetmt/ee4dab6a399fa30bf759304ab53ec76338640121/docs/contents/user/models/anm/Test_ANM.ipynb
+https://raw.githubusercontent.com/uibcdf/lindelint/24b9571e7177d08fff57c800962b7effda18132e/sandbox/2d_3points-Delaunay.ipynb
+https://raw.githubusercontent.com/uibcdf/lindelint/57f5e9faaff723ab974ed47edf5bae7c79c99e33/docs/index.ipynb
+https://raw.githubusercontent.com/uibcdf/lindelint/72fdf546a08afa1f3510ad99d2226b3b712d6355/sandbox/2d_2points.ipynb
+https://raw.githubusercontent.com/uibcdf/lindelint/87a18159d14636b4c2f89787764210c65a4f1086/sandbox/2d_3points.ipynb
+https://raw.githubusercontent.com/uibcdf/lindelint/8bf9c9bcfa062c6db9a715186dbc6bdf50001024/docs/contents/user/interpolator/Test_GNM.ipynb
+https://raw.githubusercontent.com/uibcdf/lindelint/a1826190dcd219dd71f1bf5acf99efd8f3af88ae/sandbox/2d_Npoints.ipynb
+https://raw.githubusercontent.com/uibcdf/lindelint/bed36c1e2e7bf92cbedcb842ac2ef21b94c67cb1/sandbox/ldi_3D.ipynb
+https://raw.githubusercontent.com/uibcdf/lindelint/c27e262f702f00a66c9b8f689cf34092411d38df/docs/contents/about/showcase/Quickstart_guide.ipynb
+https://raw.githubusercontent.com/uibcdf/lindelint/d3a71f98b3fef17e4853b2ef70d740e664d2ad9a/sandbox/3d_4points-Delaunay.ipynb
+https://raw.githubusercontent.com/uibcdf/lindelint/ef1e38622fa4656b803a7661fe75b0bac763fefb/sandbox/2d_3points-Delaunay_ldi.ipynb
+https://raw.githubusercontent.com/uibcdf/lindelint/f0a86e901f43cdf32df8cae7658bfef7370c7f55/sandbox/ldi_2D.ipynb
+https://raw.githubusercontent.com/uselessskills/back-of-the-envelope/94c2b3e333181eacf9e53a71c1825e6c85f172b2/rating_uncertainty.ipynb
+https://raw.githubusercontent.com/victormaciase/EconometriaFinanciera_MagisterFinanzasWK/0d7578c718037f88cac7bcef663dddff02007fa1/Lab2/Lab2.ipynb
+https://raw.githubusercontent.com/victormaciase/EconometriaFinanciera_MagisterFinanzasWK/4422d8b049c18a821682364e54b5dd709b597b20/Lab5/Lab5.ipynb
+https://raw.githubusercontent.com/victormaciase/EconometriaFinanciera_MagisterFinanzasWK/485e9a6660886738d39ad1d149de8dcdc44f47de/Lab7/Lab7.ipynb
+https://raw.githubusercontent.com/victormaciase/EconometriaFinanciera_MagisterFinanzasWK/52a1c2af274b7ed83fb189382e5dbe4d46f0d208/Lab4/Lab4.ipynb
+https://raw.githubusercontent.com/victormaciase/EconometriaFinanciera_MagisterFinanzasWK/65f9d6d458256ba7294babfc7466e8ac734253c0/TrabajoPractico1/HW01MFWK.ipynb
+https://raw.githubusercontent.com/victormaciase/EconometriaFinanciera_MagisterFinanzasWK/7eefce122378de6009f34dd9890b38a34c4ebbf9/Lab6/Lab6.ipynb
+https://raw.githubusercontent.com/victormaciase/EconometriaFinanciera_MagisterFinanzasWK/920264d1168df38c906b620da8d83118b58f661e/TrabajoPractico2/HW02MFWK.ipynb
+https://raw.githubusercontent.com/victormaciase/EconometriaFinanciera_MagisterFinanzasWK/93fe5abaae168dc2be6502a677e5bf429637b642/Lab0/Lab0A.ipynb
+https://raw.githubusercontent.com/victormaciase/EconometriaFinanciera_MagisterFinanzasWK/c0b507d4d0430215efb50d0c3acac4008ef00a0c/Lab3/Lab3.ipynb
+https://raw.githubusercontent.com/victormaciase/EconometriaFinanciera_MagisterFinanzasWK/eed1b560d1242c633a64c8a64747aaf6a360cc84/Lab1/Lab1.ipynb
+https://raw.githubusercontent.com/victormaciase/EconometriaFinanciera_MagisterFinanzasWK/f287786f85bce0b62435f401599fb010677c43d5/Lab0/Lab0B.ipynb
+https://raw.githubusercontent.com/victoruccetina/inteligencia-artificial/00e7cea41b04732874a65940fc9ca6c66d28f72d/Visión computacional/Notebooks/12 ResNet50.ipynb
+https://raw.githubusercontent.com/victoruccetina/inteligencia-artificial/02af525469c1801237c75fe94e75e898b871e27c/LLMs/Notebooks/04 LLM Gemini API.ipynb
+https://raw.githubusercontent.com/victoruccetina/inteligencia-artificial/1a7407a5442087ea3ade3f06eef774e48b1a6ac1/Visión computacional/Notebooks/13 YOLO ultralytics.ipynb
+https://raw.githubusercontent.com/victoruccetina/inteligencia-artificial/1c4f139a941419c373f46ea32b17c697d66d18f3/Perceptrón multicapa/Notebooks/04 Multilayer perceptron.ipynb
+https://raw.githubusercontent.com/victoruccetina/inteligencia-artificial/1f1e19d05d323ad8c82622b05e28ade18f492040/Perceptrón multicapa/Notebooks/03 Regresión logística.ipynb
+https://raw.githubusercontent.com/victoruccetina/inteligencia-artificial/1fe3abc6d219a1d77a2deef2270df5b47649e359/LangGraph/Notebooks/01 langGraph.ipynb
+https://raw.githubusercontent.com/victoruccetina/inteligencia-artificial/228d04562cb607c81f979011b8d4f9941de416e2/RAG/Notebooks/03 embedding function.ipynb
+https://raw.githubusercontent.com/victoruccetina/inteligencia-artificial/29c2311b705ff083d2ac02f7e4b279e149b94390/Agentic programming/Notebooks/01_agente_basico.ipynb
+https://raw.githubusercontent.com/victoruccetina/inteligencia-artificial/4fa85001fc5d3db8190325cf46d4b8b0d72831ea/Visión computacional/Notebooks/07 Keras - clasificador de imágenes - cifar10.ipynb
+https://raw.githubusercontent.com/victoruccetina/inteligencia-artificial/57849bd027cd59f6ac8ad28307f78e819cd5a4ef/Perceptrón multicapa/Notebooks/07 funciones de activacion.ipynb
+https://raw.githubusercontent.com/victoruccetina/inteligencia-artificial/84d6a9e5b651bafe4c3da018d7393e3b22bab63e/Perceptrón multicapa/Notebooks/06 Keras - mnist.ipynb
+https://raw.githubusercontent.com/victoruccetina/inteligencia-artificial/84d6a9e5b651bafe4c3da018d7393e3b22bab63e/Visión computacional/Notebooks/06 Keras - mnist.ipynb
+https://raw.githubusercontent.com/victoruccetina/inteligencia-artificial/853774bec6279af34774f545f3073f0682366f7f/Perceptrón multicapa/Notebooks/05 Keras - multilayer perceptron - iris.ipynb
+https://raw.githubusercontent.com/victoruccetina/inteligencia-artificial/9504c521cb774595be9adab7e367d19c38130713/Visión computacional/Notebooks/11 LeNet-5.ipynb
+https://raw.githubusercontent.com/victoruccetina/inteligencia-artificial/977586dc45f417602c478be0fa10daa62f85dc08/Perceptrón multicapa/Notebooks/02 Descenso de gradiente estocástico.ipynb
+https://raw.githubusercontent.com/victoruccetina/inteligencia-artificial/a0307cb8224ac4a24f4811fe54ecd227df5d6990/LLMs/Notebooks/03 Create context and answer questions.ipynb
+https://raw.githubusercontent.com/victoruccetina/inteligencia-artificial/a0ba0a350deb60c6d54dd45c63185a6c83b55b12/Visión computacional/Notebooks/08 Image classifier - dense.ipynb
+https://raw.githubusercontent.com/victoruccetina/inteligencia-artificial/b9c3dc4f1be4db74015c7749e0b8f328636ed722/RAG/Notebooks/02 read_persistent_db.ipynb
+https://raw.githubusercontent.com/victoruccetina/inteligencia-artificial/bfc796531b6d9372b7fd71f9bc180d6ec793e835/RAG/Notebooks/01 create_persistent_db.ipynb
+https://raw.githubusercontent.com/victoruccetina/inteligencia-artificial/d068f4f078eaf7eb9578799a03b76cfeeac31b95/RAG/Notebooks/04 chromadb and custom embeddings.ipynb
+https://raw.githubusercontent.com/victoruccetina/inteligencia-artificial/d82ff0b25e931fd5c39063c59142502237544444/Perceptrón multicapa/Notebooks/01 Python básico.ipynb
+https://raw.githubusercontent.com/victoruccetina/inteligencia-artificial/dc79696be62eb79be36caa995bc4309a243367fa/LLMs/Notebooks/01 Question-answering.ipynb
+https://raw.githubusercontent.com/victoruccetina/inteligencia-artificial/dcfdc79870340fc9aae0c651cd010d7b99518fce/Clustering K-medias/Notebooks/01 K-medias.ipynb
+https://raw.githubusercontent.com/victoruccetina/inteligencia-artificial/ebc87be8c67dc36c31a3ff769f3d9ea44b50162c/LLMs/Notebooks/02 fastText.ipynb
+https://raw.githubusercontent.com/victoruccetina/inteligencia-artificial/ebd54059ada35b8aad86c8732b32a72ada0b9013/Visión computacional/Notebooks/10 Image classifier - cnn with Batch Normalization.ipynb
+https://raw.githubusercontent.com/victoruccetina/inteligencia-artificial/f5703f09fb0c3858d62d3d80d9b22456bc4ce010/Visión computacional/Notebooks/09 Image classifier - cnn.ipynb
+https://raw.githubusercontent.com/vorhersager/deep-learning-jax/01081fd1e3edbc97feb133e46c3119947ef82550/Tutorial_11_Model_Explainability.ipynb
+https://raw.githubusercontent.com/vorhersager/deep-learning-jax/068bd1d85431b5d675414dc8bb449fc21ed0472d/Tutorial_02_Linear_Models,_MLP,_Backprop_and_Optimization.ipynb
+https://raw.githubusercontent.com/vorhersager/deep-learning-jax/1b588d841eaee3b15ff8f3beb3813a9a1398206f/Tutorial_12_Intelligent_Diagnostics_and_Hybrid_AI.ipynb
+https://raw.githubusercontent.com/vorhersager/deep-learning-jax/218e8b8952400053db0d39ad8267cdb4518a3450/Tutorial_04_Convolutional_Neural_Networks_and_Transfer_Learning.ipynb
+https://raw.githubusercontent.com/vorhersager/deep-learning-jax/295e9f7594d99a1cdb5d421bc62d2844a1626517/Tutorial_05_RNNs_and_LSTMs_on_Time_Series_Prediction.ipynb
+https://raw.githubusercontent.com/vorhersager/deep-learning-jax/31f41548c5d63f31cf86d36ce0aad7c04d7b347d/Tutorial_01_Mathematical_Foundations_in_JAX_and_TensorFlow.ipynb
+https://raw.githubusercontent.com/vorhersager/deep-learning-jax/67e5434b1ca4114a8d7356068d7d36e2fcf4a714/Tutorial_06_Implementing_a_Toy_Transformer_from_Scratch.ipynb
+https://raw.githubusercontent.com/vorhersager/deep-learning-jax/845c35733e383806c83bc2b8b7da7b822416f1e7/Tutorial_03_Nonconvex_Optimization_in_Deep_Learning.ipynb
+https://raw.githubusercontent.com/vorhersager/deep-learning-jax/88d9a46547ff065046175981a791a82eb564fe61/Tutorial_07_Generating_Synthetic_Faces_using_VAEs_and_Wasserstein_GANs.ipynb
+https://raw.githubusercontent.com/vorhersager/deep-learning-jax/974c4a70cd8650893b2037b502d583fa311ae3bf/Tutorial_09_Training_a_Self_Driving_Racer_with_Reinforcement_Learning.ipynb
+https://raw.githubusercontent.com/vorhersager/deep-learning-jax/d8e30858766fd3425698ab47b28d8f6e205982e1/Tutorial_10_Large_Language_Models_with_GPT_2.ipynb
+https://raw.githubusercontent.com/vorhersager/deep-learning-jax/f03b261f2ef40d6204ed4b3ff87d51f266895e53/Tutorial_08_Investigating_Text_to_Image_Transformation_using_Diffusion.ipynb
+https://raw.githubusercontent.com/vpremier/SnowFLAKES_stac/04632de9fb3cfee6cc6aa30f33cb563103990feb/eotraining/.ipynb_checkpoints/cdse_sentinel2_stac_exercises-checkpoint.ipynb
+https://raw.githubusercontent.com/vpremier/SnowFLAKES_stac/617b5f617f74825004b9318745c67362d8b6a0d6/eotraining/.ipynb_checkpoints/cdse_sentinel2_l1c_access_comparison-checkpoint.ipynb
+https://raw.githubusercontent.com/vpremier/SnowFLAKES_stac/9746bf8eedb7154dac5b58d3101690921f0feee4/.virtual_documents/eotraining/exercise_01_snow_classification.ipynb
+https://raw.githubusercontent.com/vsidaarth/Transformer-Variants-for-Hour-Ahead-PV-Forecasting/0b0328599bdb3ee8bf43d21da2548500b387fd45/DLInear2.ipynb
+https://raw.githubusercontent.com/vsidaarth/Transformer-Variants-for-Hour-Ahead-PV-Forecasting/7af00525340d00eb7ddb797495bf481637c572e0/PatchTST.ipynb
+https://raw.githubusercontent.com/vsidaarth/Transformer-Variants-for-Hour-Ahead-PV-Forecasting/898b90d9657d222a1bb9562a40c8b8ca3764af94/FEDformer.ipynb
+https://raw.githubusercontent.com/vsidaarth/Transformer-Variants-for-Hour-Ahead-PV-Forecasting/b7e1c1039fd72108d37b552f9df3a40cb80f1c0b/Solar_Autoformer.ipynb
+https://raw.githubusercontent.com/vsidaarth/Transformer-Variants-for-Hour-Ahead-PV-Forecasting/cdca7dfc21a6cef56b3d03ace67037ad813b17b7/Informer.ipynb
+https://raw.githubusercontent.com/vtavakkoli/TinyCeNN-LM/29f89d55d2eece2feb71c5b82a9e3fea11723279/notebooks/Laya_Integrated_Memory_V23_Decision_Colab.ipynb
+https://raw.githubusercontent.com/wjpearson/vistula/013f7cf89368f74c2edafb5f961cc34ed6038f74/arazim/notebooks/03_backpropagation_solutions.ipynb
+https://raw.githubusercontent.com/wjpearson/vistula/029c4c806f07c230bc3811ff652df9565bddccfd/wjpearson/DBSCAN.ipynb
+https://raw.githubusercontent.com/wjpearson/vistula/02fa3aee8d7cc9307d83347ef2f3b44d0990211a/arazim/notebooks/04_Corrupt_wine_lecture_version.ipynb
+https://raw.githubusercontent.com/wjpearson/vistula/0a635d1176dcb5b6cc3a4a2af57c640d0dab2837/arazim/notebooks/01_gradient_descent_solutions.ipynb
+https://raw.githubusercontent.com/wjpearson/vistula/203bdc4543910b096997f333ba965b8f3eeda2c8/wjpearson/TSVD_example.ipynb
+https://raw.githubusercontent.com/wjpearson/vistula/23ea39c4cda7c31eb0e0a4581266a7eef2447c1d/wjpearson/FoF.ipynb
+https://raw.githubusercontent.com/wjpearson/vistula/348e0edad1a435722b7d88bc0fcaea59ebc81864/arazim/notebooks/02_perceptrons_solutions.ipynb
+https://raw.githubusercontent.com/wjpearson/vistula/3f5dc954a162f589acb982594b6fd5da6a0f56d5/alamarca/Galaxy_CNN_Tutorial_students.ipynb
+https://raw.githubusercontent.com/wjpearson/vistula/7859112034d406826ee0aad4040c5d3b6cef779f/wjpearson/SOM.ipynb
+https://raw.githubusercontent.com/wjpearson/vistula/7b604358ab24271e20152a24f8503f411c972226/tycheng/hands-on.ipynb
+https://raw.githubusercontent.com/wjpearson/vistula/91a9795ccb6ac2e3c7485b96dab9987f554f5af3/wjpearson/PCA.ipynb
+https://raw.githubusercontent.com/wjpearson/vistula/9cf6284900372126bb9eeb871c12421581b641ed/wjpearson/PCA_example.ipynb
+https://raw.githubusercontent.com/wjpearson/vistula/b362f087ec9f8b71b1fb754932972c54d1d6b2e2/wjpearson/TSVD.ipynb
+https://raw.githubusercontent.com/wjpearson/vistula/db1179c85bbfd9a72981d2f8448830e307e25bd7/alamarca/Classification_Tutorial_students.ipynb
+https://raw.githubusercontent.com/wjpearson/vistula/ff2dbbd880e9e18cbf9b0ae38926a7da66f3456c/wjpearson/SOM_example.ipynb
+https://raw.githubusercontent.com/wong-lanang/uber-drives-data-analysis/c68420da74ebf890320216a68f930d1be6cf5269/Uber_Data_Analysis.ipynb
+https://raw.githubusercontent.com/wragge/naa-recently-digitised/324a870f914cd3a9fa0e1e0a5b7d62de343a432d/digitisation_dashboard.ipynb
+https://raw.githubusercontent.com/wragge/slv-allmaps/b0159bcb25632f18d8e8dfa1ab72580f274cdbd5/harvest_allmaps_data.ipynb
+https://raw.githubusercontent.com/wragge/slv-allmaps/e6a464b28b6aa2aded7b03637c371415752dd66f/allmaps_dashboard.ipynb
+https://raw.githubusercontent.com/xSke/resim/0031566c99aa44a6bf50c3d79b73a39edb10a5f6/notebooks/ElectricSolved.ipynb
+https://raw.githubusercontent.com/xSke/resim/0394f6a8dea12d7aeb3dcfe1fe817a001c49af51/notebooks/hauntings.ipynb
+https://raw.githubusercontent.com/xSke/resim/044d8261a93041a8837ac2002bf493b5619a41fc/notebooks/KidsFlyBalls.ipynb
+https://raw.githubusercontent.com/xSke/resim/066f3115f2b124f69ee776bf80910aad95fd6f24/notebooks/groundout_advance.ipynb
+https://raw.githubusercontent.com/xSke/resim/0f6f9bf930c48c6e649d03439357b5f1b1dadeb7/notebooks/bird_message_roll.ipynb
+https://raw.githubusercontent.com/xSke/resim/13bd9668146131ed6b54f89cbd9095a9493b252a/notebooks/find_roll_advancement.ipynb
+https://raw.githubusercontent.com/xSke/resim/14fb02ab4915fafd2921ebe4a619229322f91be3/notebooks/groundout_sac.ipynb
+https://raw.githubusercontent.com/xSke/resim/152d21a8cf5e74041d83049d7d7a9a2fad1aeacd/notebooks/find_roll_formula_swing_on_strike.ipynb
+https://raw.githubusercontent.com/xSke/resim/1637429058b051b9a9cf4e273509cd5b2bcc93d8/notebooks/Coffee1Complete.ipynb
+https://raw.githubusercontent.com/xSke/resim/1906888a3579f6103c3d63222c682f9660d97d62/notebooks/find_roll_formula_doubles.ipynb
+https://raw.githubusercontent.com/xSke/resim/1972910c00cc0de1c1af275b0196bda93fa73798/notebooks/WeatherProcs.ipynb
+https://raw.githubusercontent.com/xSke/resim/1e378b35b3d0fff490dbc45b6d04dc80b231b9e4/notebooks/hit_advance.ipynb
+https://raw.githubusercontent.com/xSke/resim/26eba8625e7fe59ae47b89533057db0fe16234fc/notebooks/find_roll_formula_strikes-s19.ipynb
+https://raw.githubusercontent.com/xSke/resim/28c2fcf4bd4ad2d5744cf52d87b06a57deb466a4/notebooks/FlavorCompleted.ipynb
+https://raw.githubusercontent.com/xSke/resim/3120b555a7785afd0b8d7b75949a4787fe0abfbc/notebooks/find_roll_formula_fouls.ipynb
+https://raw.githubusercontent.com/xSke/resim/31b592fe59db00c432a33abf4370dc2aa4db1720/notebooks/find_roll_formula_triples_kidror.ipynb
+https://raw.githubusercontent.com/xSke/resim/34c1bee34b107a4306ea8901702af73d510a65db/notebooks/archived/find_roll_formula_swing_on_balls.ipynb
+https://raw.githubusercontent.com/xSke/resim/3d47f38db8bc476c451c441fd556373efb4398b0/notebooks/find_roll_formula_out.ipynb
+https://raw.githubusercontent.com/xSke/resim/3f27c29c65b19eee8f11fb7eb61612afb2821d45/notebooks/contact_on_strikes.ipynb
+https://raw.githubusercontent.com/xSke/resim/405fa7524297679511a6fbf246c3c55a14890d96/notebooks/COMPLETE - Fouls.ipynb
+https://raw.githubusercontent.com/xSke/resim/40f0cc41fd31027bd14240eec98037afa446a714/notebooks/check_roll_formula.ipynb
+https://raw.githubusercontent.com/xSke/resim/47dc2ac761181d6b8f8600bc23d014e23447c787/notebooks/find_roll_formula_steal_attempt_messy.ipynb
+https://raw.githubusercontent.com/xSke/resim/4a0a3c33d66cbb2aced391bf3b9560f4eb844f58/notebooks/Complete - Fly v Ground Balls.ipynb
+https://raw.githubusercontent.com/xSke/resim/4e5fd3c72570295172337d3d945bf63d9b1b307a/notebooks/MildSolved.ipynb
+https://raw.githubusercontent.com/xSke/resim/4f1145d3256a077199822a3826997c7cd517ba18/notebooks/item_creation.ipynb
+https://raw.githubusercontent.com/xSke/resim/59e3d356e2a75c99ab8937d01e72c38844e273fe/notebooks/find_roll_formula_strikes-s19-frozen.ipynb
+https://raw.githubusercontent.com/xSke/resim/60b5edd65a80b80c69ce4ad65b1d526ef9c9bf17/notebooks/KidsSwingonStrikes.ipynb
+https://raw.githubusercontent.com/xSke/resim/61dc03f61cd01c8ac3426f4f9807496e07712530/notebooks/swing_on_ball.ipynb
+https://raw.githubusercontent.com/xSke/resim/699789b0965105e155f33672bd7297c68d29afeb/notebooks/find_roll_formula_fly.ipynb
+https://raw.githubusercontent.com/xSke/resim/6a5cf81e022079ca4fd986fb01be7fb3a5feaee3/notebooks/find_roll_formula_hr.ipynb
+https://raw.githubusercontent.com/xSke/resim/7704cd12f94449cf332596198bc0ec9dc80cdae8/notebooks/groundouts_master.ipynb
+https://raw.githubusercontent.com/xSke/resim/7787d0cb1b685a3a05d8405f80f29c9830d377c8/notebooks/find_roll_advancehome.ipynb
+https://raw.githubusercontent.com/xSke/resim/78d606cc2d075fd41c12f3dc8a2be331d1d73c3b/notebooks/flyouts_master.ipynb
+https://raw.githubusercontent.com/xSke/resim/7a9fa7c729ad65996e968452504b39f9d1d7d7e9/notebooks/2025StealAttempt.ipynb
+https://raw.githubusercontent.com/xSke/resim/7da750363f7ef5e64b4ddf721371b6e00fd96c6b/notebooks/find_roll_formula_steal_attempt.ipynb
+https://raw.githubusercontent.com/xSke/resim/7e080385cb7990014c1b7e37aca01d5ca97a4488/notebooks/COMPLETE - Groundout Sacrifices.ipynb
+https://raw.githubusercontent.com/xSke/resim/7e3d44a01e8c43f2b42a6a8e96741f89b66931e3/notebooks/attractor.ipynb
+https://raw.githubusercontent.com/xSke/resim/8cfd7771f6fe77314ae4b6f9a1c53ba9a6ac6bf1/notebooks/archived/find_roll_formula_triples.ipynb
+https://raw.githubusercontent.com/xSke/resim/9c987fef7981b4859a5d20f9eeff7803219bcbfd/notebooks/find_roll_formula_steal_success.ipynb
+https://raw.githubusercontent.com/xSke/resim/a442938142ea42c703c42e76cb7d814ae05724b1/notebooks/groundout_dp.ipynb
+https://raw.githubusercontent.com/xSke/resim/a5931935fb008ef974047629d1c29bf4409d2f32/notebooks/contact_on_balls.ipynb
+https://raw.githubusercontent.com/xSke/resim/a8d3ae1ed048ecad74eae898aab18bdbcdc31f0a/notebooks/KidsGroundoutAdvance.ipynb
+https://raw.githubusercontent.com/xSke/resim/b2def4124beae7dd9e8ff5672a3d80057c264cfa/notebooks/ModificationProcs.ipynb
+https://raw.githubusercontent.com/xSke/resim/b4fed0a175b01c4ff1612f7971c5b69e42ba1336/notebooks/archived/find_roll_formula_hr_copy.ipynb
+https://raw.githubusercontent.com/xSke/resim/ba4d90ef979a1cf3d9777bae04e5cb32d6458334/notebooks/archived/find_roll_formula_triples2.ipynb
+https://raw.githubusercontent.com/xSke/resim/c28c89587149c76f0437e15e845e47f45e589492/notebooks/KidsGroundoutDP.ipynb
+https://raw.githubusercontent.com/xSke/resim/c32910d32c9104ac493c239120425af656e92b20/notebooks/Coffee2Complete.ipynb
+https://raw.githubusercontent.com/xSke/resim/c3e457bd4f5c52e416a72f5a3c29fbde17c162c8/notebooks/FeedbackComplete.ipynb
+https://raw.githubusercontent.com/xSke/resim/d20c71fd15c1a5f23d1ee897ac0e8cd3801db03a/notebooks/coverage.ipynb
+https://raw.githubusercontent.com/xSke/resim/d2ac975af09b7e6c98d2a545f0871ae50133dd06/notebooks/PeanutMisterSolved.ipynb
+https://raw.githubusercontent.com/xSke/resim/d58b79ed73b7ce549fd1ad607e865235d30b0b62/notebooks/weird_strike_stuff.ipynb
+https://raw.githubusercontent.com/xSke/resim/e16d6fab277b233d902b7b1b55b2a8267ec41393/notebooks/export-for-analysis.ipynb
+https://raw.githubusercontent.com/xSke/resim/e417c8b9674308951b7e6002d9259161190e774c/notebooks/KidsGroundoutSac.ipynb
+https://raw.githubusercontent.com/xSke/resim/ed395a7bd19b980c33628cacf110e6184a3bc7ab/notebooks/find_roll_formula_strikes.ipynb
+https://raw.githubusercontent.com/xSke/resim/f0073248b0232be6b7e0c825f58d86f5accfeeb0/notebooks/consumers_team_selection.ipynb
+https://raw.githubusercontent.com/xuhaoo0/V2M/a3825e72b4a1381c488fb6ece2b488543e25f07d/GVHMR/tools/demo/colab_demo.ipynb
+https://raw.githubusercontent.com/yaner-here/notebook/23211e45237d9324b7e8843d3d3b2da4393efd55/AI/HuggingFace_NLP_Course_Documentation/chapter_6_Tokenizer.ipynb
+https://raw.githubusercontent.com/yaner-here/notebook/767730042523eb35dcd5ded83492ccd9517a57ee/AI/HuggingFace_NLP_Course_Documentation/chapter_1_示例.ipynb
+https://raw.githubusercontent.com/yaner-here/notebook/8d2950f514e535ca4dcf2460c1cd706f37f0878c/AI/HuggingFace_NLP_Course_Documentation/chapter_2_Tokenizer.ipynb
+https://raw.githubusercontent.com/yaner-here/notebook/91f9a409b0744b31ac3eadc04763af5aaef5c731/AI/HuggingFace_NLP_Course_Documentation/chapter_4_HuggingFaceHub.ipynb
+https://raw.githubusercontent.com/yaner-here/notebook/b238879f7a33b8cd6e2a49cc804e0fbf296fe498/AI/HuggingFace_NLP_Course_Documentation/chapter_3_微调.ipynb
+https://raw.githubusercontent.com/yaner-here/notebook/e141a4cf15e2dcbaa8694ab3ec527305dc88d53e/AI/HuggingFace_NLP_Course_Documentation/chapter_7_实战练习.ipynb
+https://raw.githubusercontent.com/yaner-here/notebook/fc141d869186aa25c39c963583c670eb325e2e5a/AI/HuggingFace_NLP_Course_Documentation/chapter_5_datasets库.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/02f8785b86f7df713fed9dbd8a5873d539f80e9f/assignment/assignment-1/Ohnmar_Nyunt.assignment-1.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/04127c8022f3e72e357200fb7ef143574c1db46c/assignment/assignment-1/LaYaungPhyo.assignment-1.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/0984f8f19405a176a2acbcc097591f00d7be6498/notebooks/myMediWhisper_exp/augmentation_medical.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/1531dc4ebbfaa384ad0c221f6681ef6252eba666/notebooks/myMediWhisper_exp/peft_measureRobustness.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/20325944f8273b12c74ab5489bdbbece655aa7c9/assignment/assignment-1/Moe_Pyae_Hein.assignment-1.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/2b3e5006656f3236f52968c9a17641b6357d7d40/assignment/assignment-1/Phyu_Pyar_Chan_Myae_Kyaw_CRF_Assignment_1.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/2ea8aca9a9ad425d7967fa64a474ed441226470e/notebooks/SentencePiece_tutorial.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/2ee73385fbb043de7892b6b35febdd257ed1d3e7/assignment/assignment-1/Wai_Yan_Htet_Aung_assignment-1.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/322e482c48c412afcd9e43b3a2c60e64226fea88/assignment/assignment-1/Phyo_Myat_Oo_assignment.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/34f6080e24341d445a50c7e6a2f216b51d16a4bd/assignment/assignment-1/Htoo_Eaindra_Tin.assignment-1.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/35fb7ca5324cbe15cae0c4c1fc91e6c66465b8bf/assignment/assignment-1/Han_Zaw_Htet_Assigment_1.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/3937bf4fc471b04702536851615663cc323d4f0a/assignment/assignment-1/Thida_Aye_Asiignment1.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/3e24ab0f47ef9446e2a003eb3820067d2a5f672e/notebooks/demo_abstraction.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/46db34be1c9372d172dc8d05d09abc84ca3a0b98/assignment/assignment-1/Kyaw_Zaya_Naing.assignment-1.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/47fde8f84257f0bf00c462b2bcf6d1d0e338a662/assignment/assignment-1/phyohtetpwint-mypostagger-crf-nopipe.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/4992cd67bd769823ff1282cecea6051c71a8f2c5/assignment/assignment-1/Aung_Khant_Myat.Assignment-1.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/4d3aaecd5352d9fb93d604a5384ac3556e5f82e9/assignment/assignment-1/Thant Sin Tun.assignment-1(POS_tagger).ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/4d50dcd190dccf1ea309dffbba0895ded26ba31f/assignment/assignment-4/raw-corpus/Group-3/notebook/mini_asr_kaldi.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/4e256376516fe1652b80d5fd70f8acf7d7f955ab/notebooks/Essential-Linux-Commands-tutorial.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/51a74744986fb22274b4a0fc17a1d2139d03d5bd/assignment/assignment-1/nawsayrihtoo.assignment-1.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/574a1a764d7b1833e170e3db18f6caf64f523cb6/assignment/assignment-1/Pun_Khattgar_assignment-1.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/63b8e19d5e24bc69c32373fea678101318fb1807/notebooks/myMediWhisper_exp/whisper-full-fine-tuned.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/6842ca189e062255e8376ad119f76795d7103531/notebooks/Ngapi_tutorial.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/6a9475e631bc7618ca686e98e94cccc0fd796b16/assignment/assignment-1/honey_aye_assignment_1.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/73d7053b49c94a891ad57e92b13012159cb13203/notebooks/myMediWhisper_exp/whisper-peft-training.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/75301d403397b94b23ebe1598a226eeffb3fa430/assignment/assignment-1/Aung_Ko_Ko_Oo_assignment_1.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/75784f51e4f0fc024decaf71906df38c667cdc32/assignment/assignment-1/Aint_Kyi_Phyu_Shin.assignment-1.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/7a63fed88306ceedb27a5fb96c4055b37bf64252/notebooks/myMediWhisper_exp/peft_rtf.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/7c25e0b99c30196a3541cc83183a93bdaa48e710/assignment/assignment-1/Aung_Chan_Nyein.Assignment-1.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/7d9f36a87b6162c43d8691574ea05ef6879958da/assignment/assignment-1/thein_kyaw_lwin.assignment-1.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/8222a4e33732c271994651b00592becaea9859ab/notebooks/myMediWhisper_exp/whisper-inference-transcribe.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/854036633f38db4ad960c8217dc3bce5c7764c0e/assignment/assignment-1/MyoThet.assignment-1.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/85ece3d7c2e21ebf94f7dd1b45c5b6800a82d4ac/assignment/assignment-1/Ye_Lin_Tun-assignment-1.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/882589aa94ea25ff4c3ab6a0c118340d549f3eba/assignment/assignment-1/KhantPhoneNaing.assignment-1.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/8b68d861b8af43160b9352e1191ef46b9a26ea7a/assignment/assignment-4/raw-corpus/Group-4/notebook/MM_Digits_ASR_LSTM.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/9264ebe1183e76b8a64ceba49d62f08926d9f8c9/notebooks/ASR_Kaldi_FSDD_Tutorial.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/961227b5f02a50c6d825d0f1a985e397112ab351/notebooks/myMediWhisper_exp/MeasureRobustness.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/9966ed47363eb0dd42cc3bd60c1e3fd6a286676f/notebooks/SVM/SVM_tutorial2.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/9994a6288cc4c66d485f66f2d9347dfa5bd2e83a/notebooks/BBPE_tutorial.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/9d28749b01b9dab5853dab5968efdcb3b5c14a2c/notebooks/SVM/SVM_tutorial3.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/a1a0d856525401e61d2d3ac61c10b729e5a0c05c/assignment/assignment-1/MinKhantKyaw.assignment-1.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/a2276d5325cf2f2a0e0696ec0ed6a12576585b1b/assignment/assignment-1/YinMon_assignment-1.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/a693058cd04ace51e97944d3d8dfde669b32bbf4/assignment/assignment-1/KhineZarThwe_assignment1.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/a7c07e623f59f04b12ad024da92636ecd3a0bcae/notebooks/SVM/SVM_tutorial1.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/a80187815a2b2b959ca0d01f29afdb918fac6475/notebooks/myMediWhisper_exp/RTF_Inf.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/a88dea7b49d5213a282ec5b514317ed21524188d/assignment/assignment-1/SuYeHlaing_crf-pos-assignment-1.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/b6bc2e2016aceba74749777cabcb4436cfd19ba4/assignment/assignment-1/Khin Yadanar Aung_assignment_1.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/bdb6a789c2ec545c8d1aa337fedaa2caffe07349/assignment/assignment-1/Myint_Thu_Soe.assignment-1.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/c2f8fb024a4cfae66c00760814762579873401e9/notebooks/SMT-Tutorial/Rakhine-Myanmar-SMT-Tutorial.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/c67101d8ddb501598ff586aeeb132063d8f72c76/notebooks/CRF-tutorial.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/cc7f95ca5314a3e2a99103d35bb4a2420c5b9b4a/notebooks/ASR_Kaldi_an4_Tutorial.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/ce03c8285082fa63444e1704526136d530efc90a/notebooks/ASR_Kaldi_YesNo_Tutorial.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/dca66b884d567203b5ea066f0953cb23e4457ebf/assignment/assignment-1/Linn_Thant.assignment-1.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/dccc2687d66c2693ae89a5251b0a035942a6f9b5/assignment/assignment-4/raw-corpus/Group-4/notebook/ASR_Mini_Project_Gp4.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/deec82e38e21014b127edb7e5029dd9123efd3a5/assignment/assignment-1/htun_aung_kyaw.assignment-1.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/e42175704a49f0dabfd8bde32defcd192effe171/assignment/assignment-1/Myat_Min_Ko_Ko.assignment-1.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/ee5fb721bb8771b336e151ff1e3bb9a578724b89/assignment/assignment-1/Khant-Htay_Assignment1.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/ef61b630398020c8c28429202dc7dcfb7e9c25fa/notebooks/Word2Vec_FastText_tutorial.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/f6f506855a90ac7f5c078ca656e1f6943d24442c/assignment/assignment-3/phyohtetpwint-assignment3-myner-svm.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/AIE-F-B2/ffb62d55f9fbb7966b1f2bc306e7a56d19430c9a/assignment/assignment-1/soe_thandar_tint.assignment-1.ipynb
+https://raw.githubusercontent.com/ye-kyaw-thu/MTRSS/e52c535498a53e6fdb80262c0500c6fd9c6cae20/OpenNMT_eg/sg-my/sgmy_opennmt.ipynb
+https://raw.githubusercontent.com/yerkoescalona/structural-bioinformatics-exercises/885b2f230ef9a38bae936dcb1f654e6acd8a7b10/ex00/scientific_python_crash_course.ipynb
+https://raw.githubusercontent.com/yerkoescalona/structural-bioinformatics-exercises/97bc91d4074f344a52220ee994bc9799392adf30/candidate_proteins.ipynb
+https://raw.githubusercontent.com/yerkoescalona/structural-bioinformatics-exercises/b57e9cbe45dfad169750267b5ee9084cd2e30ab7/ex01/ex01_guide.ipynb
+https://raw.githubusercontent.com/yerkoescalona/structural-bioinformatics-exercises/ea10a28881c12339072545f66b798ec6d0db85e5/ex01/ex01_workbook.ipynb
+https://raw.githubusercontent.com/yesicamilagros/nuevo-repositorio/afacd75b753e02c21302463e634ab910cf13cc4e/powerbi_colab.ipynb
+https://raw.githubusercontent.com/yesicamilagros/nuevo-repositorio/bf698c94f485e8e028cd74578d3f7a9f34681a9d/output.ipynb
+https://raw.githubusercontent.com/yesicamilagros/nuevo-repositorio/dbf5a30296b57d42886ef4745030cf78ff468050/POWER_BI.ipynb
+https://raw.githubusercontent.com/yhilpisch/cpfbridge/55be963eb0b246c2c4ac6c34141109fea3eedb2b/yieldcurve/yieldcurve.ipynb
+https://raw.githubusercontent.com/yhilpisch/cpfbridge/85a4a185a051de7a87cc1485203399b447bf20c1/ftap/ftap.ipynb
+https://raw.githubusercontent.com/yhilpisch/cpfbridge/ed997e8d1ccd9009593ad4a61222715a72a0ee61/markets/markets.ipynb
+https://raw.githubusercontent.com/yhilpisch/cpfbridge/ef6adb4d59264dba8f35d4a6af3a14407252a121/covariance/covariance.ipynb
+https://raw.githubusercontent.com/yohanesnuwara/CoreImageDrivenML/a424a51adacf95c5a5a3d72ac13638d09e1fa907/notebooks/2_Thin_Section_Feature_Extraction.ipynb
+https://raw.githubusercontent.com/yunyiwu/PHOCI/438e094ccc58442ce782c248d23143cd66076c7c/PHOCI/.ipynb_checkpoints/run_data_process_for_prediction-checkpoint.ipynb
+https://raw.githubusercontent.com/yunyiwu/PHOCI/46184a3378f3d9ef7d5f84d30e47d2ac65979ca9/PHOCI/.ipynb_checkpoints/random_walk-checkpoint.ipynb
+https://raw.githubusercontent.com/yunyiwu/PHOCI/49995cef9c71a9af18ae33d904be17dbbd241880/paper_figures_notebook/Fig5.ipynb
+https://raw.githubusercontent.com/yunyiwu/PHOCI/560c0a63eeca1d31d37274fe9319f3c73fd1ee57/paper_figures_notebook/Fig4.ipynb
+https://raw.githubusercontent.com/yunyiwu/PHOCI/6f6cc136f71a3a8d34e61a1e04ef77acd1661aba/paper_figures_notebook/Fig2(j).ipynb
+https://raw.githubusercontent.com/yunyiwu/PHOCI/75b4fce2d33dbd5bcd78136c7568992e78dfbc6f/paper_figures_notebook/Fig2(g-i).ipynb
+https://raw.githubusercontent.com/yunyiwu/PHOCI/763ab5ef9f03482945c5f15e33490d9bb3677c95/paper_figures_notebook/Fig2(d-f).ipynb
+https://raw.githubusercontent.com/yunyiwu/PHOCI/83b6e674e07e459dc354899cf5047e3f91cb82e2/paper_figures_notebook/Fig1(c-f).ipynb
+https://raw.githubusercontent.com/yunyiwu/PHOCI/9a6bd7005244032fa8e08fdd45f00cbd61186892/paper_figures_notebook/Fig6(a).ipynb
+https://raw.githubusercontent.com/yunyiwu/PHOCI/a5474f36117e5e39edbaf5c80fb7feae6211f6b8/PHOCI/.ipynb_checkpoints/training-checkpoint.ipynb
+https://raw.githubusercontent.com/yunyiwu/PHOCI/a892f53f68e8300f98dbc4379c66accc51837454/paper_figures_notebook/Fig3.ipynb
+https://raw.githubusercontent.com/yunyiwu/PHOCI/b487af10500bb3883e885dd126cdc8959017af4b/paper_figures_notebook/Fig2(k).ipynb
+https://raw.githubusercontent.com/yunyiwu/PHOCI/c5970716838985c955c43153fa5d422b11563d40/PHOCI/PHOCI_prediction.ipynb
+https://raw.githubusercontent.com/yunyiwu/PHOCI/ca84cff9a8846b1fe89e7d340aa2cce0ecf2a551/PHOCI/.ipynb_checkpoints/plot_results-checkpoint.ipynb
+https://raw.githubusercontent.com/yunyiwu/PHOCI/d0704defddbe462b859f7689f7fd047002707d75/PHOCI/.ipynb_checkpoints/gene_position-checkpoint.ipynb
+https://raw.githubusercontent.com/yunyiwu/PHOCI/deb1a5e91b268682d8256cddf8e0ac13e199daac/PHOCI/.ipynb_checkpoints/PHOCI_prediction-checkpoint.ipynb
+https://raw.githubusercontent.com/zejingw1998/FYS-STK4155-Anvendt-dataanalyse-og-maskinl-ring/1948a970371307733a89d5e82a5b480bc787f4b2/Week_exercises/Week_36/exercisesweek36.ipynb
+https://raw.githubusercontent.com/zejingw1998/FYS-STK4155-Anvendt-dataanalyse-og-maskinl-ring/7ce73971855f163f2a2cd09ff08d77bda60344ee/Week_exercises/Week_37/exercisesweek37.ipynb
+https://raw.githubusercontent.com/zejingw1998/FYS-STK4155-Anvendt-dataanalyse-og-maskinl-ring/82bc6f09881bdd5e08a445e9e6b94caf842fd4aa/Week_exercises/Week_35/exercisesweek35.ipynb
+https://raw.githubusercontent.com/zejingw1998/FYS-STK4155-Anvendt-dataanalyse-og-maskinl-ring/d115e0e2c30d992b1783ca03151f4cc5ecb1ded5/Week_exercises/Week_38/exercisesweek38.ipynb
+https://raw.githubusercontent.com/zhangyuz/Miner/6fdd0e846b38a90e8fc91b4a84db6d81214e0b2d/MarketBreadth/dev.ipynb
+https://raw.githubusercontent.com/zhangyuz/Miner/ab6c80763a27f57500a132161b5c44de55918488/dev.ipynb
+https://raw.githubusercontent.com/zhangyuz/Miner/f1fd98674da70527dd1e9667352e8159e726ce53/reddit.ipynb
+https://raw.githubusercontent.com/zie225/Zie225/a7fbfe2b01d08a2e0dfcaa74784265319e2bdabb/YAHOO WEBSCRAPING.ipynb
+https://raw.githubusercontent.com/zie225/Zie225/ddf17d68bb79c3e64d1e723ec1df668d85f0eb90/data set numeric et array.ipynb
+https://raw.githubusercontent.com/zpskt/ML-learning/2e93c93a74f1f6058db45607a8e0878024bc8419/kaggle/cat_dog/cat_dog.ipynb
+https://raw.githubusercontent.com/zpskt/ML-learning/3de9d2fcb39923969e04ccf71a1fae89af5691ca/tianchi/ant_money_predict/ant_money_predict.ipynb
+https://raw.githubusercontent.com/zpskt/ML-learning/54f657bb0972cd4d4bf69ad88524d3055b9da03b/pytorch/物品匹配/物品目标检测及分类识别.ipynb
+https://raw.githubusercontent.com/zpskt/ML-learning/6a55e85d2bb93a548d3abe1607c011fc7484205f/kaggle/Digit_Recognizer/digit-recognizer-cnn-minist.ipynb
+https://raw.githubusercontent.com/zpskt/ML-learning/6a7ad191d31e8c94be79b682cd697eac1c20ddf4/kaggle/cifar-100-image-classification-challenge/cifar-100-image-classification-challenge.ipynb
+https://raw.githubusercontent.com/zpskt/ML-learning/7214c5e7580bb67aa961045c65fac7d0c13d8ae8/kaggle/Solar_Filament_Segmentation_Challenge_2026/datasets/cifar-100-image-classification-challenge.ipynb
+https://raw.githubusercontent.com/zpskt/ML-learning/880330a1f996166e031d9a7292e98c5d9e9b5614/pytorch/异常检测/缺陷检测-基于特征值距离.ipynb
+https://raw.githubusercontent.com/zpskt/ML-learning/b3ad8c91ef9cfd73dc53c828a83cf78dd91876c1/kaggle/Solar_Filament_Segmentation_Challenge_2026/solar.ipynb
