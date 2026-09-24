@@ -1,0 +1,8 @@
+https://gitlab.com/htw-ikt-noelle/scikit-comm/-/raw/master/docs/source/example_notebooks/experiment_heterodyne.ipynb
+https://gitlab.com/htw-ikt-noelle/scikit-comm/-/raw/master/docs/source/example_notebooks/experiment_homodyne.ipynb
+https://gitlab.com/htw-ikt-noelle/scikit-comm/-/raw/master/docs/source/example_notebooks/sim_baseband.ipynb
+https://gitlab.com/htw-ikt-noelle/scikit-comm/-/raw/master/docs/source/example_notebooks/sim_baseband_minimal.ipynb
+https://gitlab.com/htw-ikt-noelle/scikit-comm/-/raw/master/docs/source/example_notebooks/sim_blind_homodyne_PDM.ipynb
+https://gitlab.com/htw-ikt-noelle/scikit-comm/-/raw/master/docs/source/example_notebooks/sim_data_aided_homodyne_PDM.ipynb
+https://gitlab.com/htw-ikt-noelle/scikit-comm/-/raw/master/docs/source/example_notebooks/sim_homodyne.ipynb
+https://gitlab.com/htw-ikt-noelle/scikit-comm/-/raw/master/docs/source/example_notebooks/sim_if_transmission.ipynb
