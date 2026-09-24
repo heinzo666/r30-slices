@@ -1,0 +1,724 @@
+https://raw.githubusercontent.com/2025AC05004-PRATIKSHA/Bike-Rentals-Machine-Learning-program/5925d353177701a570930c41c3d605872058824f/2025ac05004.ipynb
+https://raw.githubusercontent.com/24wh1a0591/bvrith-de-c1-team15-propiq-real-estate-market-analytics/28e75db9e00a128c11ab20090dbe6fff1a379009/notebooks/06_powerbi_export.ipynb
+https://raw.githubusercontent.com/24wh1a0591/bvrith-de-c1-team15-propiq-real-estate-market-analytics/642ab7857c5e17112a7f3fb31882ad1ade1da6be/notebooks/07_streaming_simulation.ipynb
+https://raw.githubusercontent.com/24wh1a0591/bvrith-de-c1-team15-propiq-real-estate-market-analytics/6fb84ac5d08120ff6e6f7817b6c5cfc1b0c5c55c/notebooks/03_silver_transformations.ipynb
+https://raw.githubusercontent.com/24wh1a0591/bvrith-de-c1-team15-propiq-real-estate-market-analytics/762557efb28002272c0b02a402e78efe47e79b49/notebooks/01_data_exploration.ipynb
+https://raw.githubusercontent.com/24wh1a0591/bvrith-de-c1-team15-propiq-real-estate-market-analytics/9120f257f7996f84e04f6316c0c9cfdaaf26f51c/notebooks/05_gold_aggregations.ipynb
+https://raw.githubusercontent.com/24wh1a0591/bvrith-de-c1-team15-propiq-real-estate-market-analytics/d736bbcff4e7d8a996317d4a2461532b63bd3167/notebooks/04_data_quality_checks.ipynb
+https://raw.githubusercontent.com/24wh1a0591/bvrith-de-c1-team15-propiq-real-estate-market-analytics/f35ea58bbc2c56b81873886e0d328326c1408029/notebooks/02_bronze_ingestion.ipynb
+https://raw.githubusercontent.com/AtiwatL/COMP5339/4ed81671eaa9a257912915e2f61690dd81f15601/.ipynb_checkpoints/Assignment1-checkpoint.ipynb
+https://raw.githubusercontent.com/AtiwatL/COMP5339/4ed81671eaa9a257912915e2f61690dd81f15601/Assignment1.ipynb
+https://raw.githubusercontent.com/AtiwatL/COMP5339/bd4d88724b171d630e9b9ae8a06a76936054291d/Task_3.ipynb
+https://raw.githubusercontent.com/AtiwatL/COMP5339/ccbd1c937e1698b385957db0ece36a834330489b/01_data_acquisition.ipynb
+https://raw.githubusercontent.com/AtiwatL/COMP5339/f6b2b23a1b905a96f905123973c912605990a263/03_data_augmentation.ipynb
+https://raw.githubusercontent.com/AtiwatL/COMP5339/f8f3eacbb0d7d150dccbe699aa2ea3be96fdd973/02_data_cleaning.ipynb
+https://raw.githubusercontent.com/AtiwatL/COMP5339/fd79c08138cc0e73df142ed9a40f70233c58d5ac/04_data_storage.ipynb
+https://raw.githubusercontent.com/Babeyeonyi/CineSense-AI-Movie-Recommendation-Engine/ade836eb7f1cdfb93873384d5d5b3ff6682370d2/CineSense-AI-Recommendation-System.ipynb
+https://raw.githubusercontent.com/Bofnech/practice/784ee0c3c93e42d405d00faf76bb53529bbfd5bb/function testing and note.ipynb
+https://raw.githubusercontent.com/Bofnech/practice/9ee395b60c837cdc7f78d30f2f79860f423bd441/my_practice2 scarping.ipynb
+https://raw.githubusercontent.com/Bofnech/practice/e6f04685a79102b3707608789d05523a18305895/my_practice 1.ipynb
+https://raw.githubusercontent.com/CS7150/classdemos/06e8aef3d7475ab3af397e5aea53af4849458b46/TopelitzConvolutions.ipynb
+https://raw.githubusercontent.com/CS7150/classdemos/0f057bccc0b6af996cc2141b425a996c829fe713/optimization/anisotropy.ipynb
+https://raw.githubusercontent.com/CS7150/classdemos/0fdeb3f300f6a8736cf25992c4cefa643ef38fe4/2dOptimization.ipynb
+https://raw.githubusercontent.com/CS7150/classdemos/1817ec7a87670f1a096ba79f6b8e7dc363438b2b/Learning Xor.ipynb
+https://raw.githubusercontent.com/CS7150/classdemos/23c7a76b14beba8bf0dd5c5209bb74a1d93b34cd/CIFAR_classifier.ipynb
+https://raw.githubusercontent.com/CS7150/classdemos/31a1d5c07d958148805d8576292d17035b0fd953/RumelhartHintonWilliamsMirror.ipynb
+https://raw.githubusercontent.com/CS7150/classdemos/3864934fb5d574e420ed972f0ec770eda95965b5/DataSetMaker.ipynb
+https://raw.githubusercontent.com/CS7150/classdemos/4a716c7c25f23a3223f229a3dd64922136f4b178/TwoLayerTwoDNetWidget.ipynb
+https://raw.githubusercontent.com/CS7150/classdemos/4dc3ef8b87639913c6d977c9f14f10ecc138c586/initialization/depth-init.ipynb
+https://raw.githubusercontent.com/CS7150/classdemos/78c672ceb42dde2e90baddb78f1839bed37ab7fa/optimization/adam-invariance.ipynb
+https://raw.githubusercontent.com/CS7150/classdemos/7a8d30d8e573009ff3a29f168704ec42efbb0331/FractionLinearlySeparable.ipynb
+https://raw.githubusercontent.com/CS7150/classdemos/7cf62bc4e6ff075934d4e52feb02083b85ac5f9a/LogicNetworks.ipynb
+https://raw.githubusercontent.com/CS7150/classdemos/9a97cc77a97a80fdfadc261b6ac9c2b55ba487c1/GraphKLLoss.ipynb
+https://raw.githubusercontent.com/CS7150/classdemos/a5a701cc54f47b77d96ac639d22ad8d4b4179202/optimization/ema.ipynb
+https://raw.githubusercontent.com/CS7150/classdemos/a6542e4222e3da61290d324c0f0ebefeb8d3b814/optimization/momentum.ipynb
+https://raw.githubusercontent.com/CS7150/classdemos/ab32b407421f4c1482d24f98566c253351c5de95/LearningFourLayerXor.ipynb
+https://raw.githubusercontent.com/CS7150/classdemos/ca7f32b3966ed8d0a11bb146951282ebf214bc7b/Diffusion.ipynb
+https://raw.githubusercontent.com/CS7150/classdemos/d051f3767c0cf075ede8bf4a9fa4d341d058500c/SoftmaxChart.ipynb
+https://raw.githubusercontent.com/CS7150/classdemos/d0bfdf1ee5fc0d673045cc72123f5aaf93cbe13d/optimization/meanrms.ipynb
+https://raw.githubusercontent.com/CS7150/classdemos/d72b3f41187ffa5c86d852aaa37b36009c3633d1/PerceptronLearning.ipynb
+https://raw.githubusercontent.com/CS7150/classdemos/d9df95cc6b3b58925f225d003243affe6a3ce51b/ClipDoctor.ipynb
+https://raw.githubusercontent.com/CS7150/classdemos/dfadedefcff129656f3cc05388b6f080f9446f44/optimization/ema-geometric.ipynb
+https://raw.githubusercontent.com/CS7150/classdemos/e2e8b8df7bbddbaf8a9739a511a364148b98a3fd/ByHandBackpropagation.ipynb
+https://raw.githubusercontent.com/CS7150/classdemos/e8915773103d8981629f5bf32b90721f752f7b86/ExploreTwoLayerTwoDNet.ipynb
+https://raw.githubusercontent.com/CS7150/classdemos/ea43c1f0c6afc49866f3430cfebe257483b23358/LearningXor.ipynb
+https://raw.githubusercontent.com/Charlie-rong/RAG-R/021ffc352ba9c55fee8875eb81efa7feea3158f5/exercises/1_loading/01_document_loading.ipynb
+https://raw.githubusercontent.com/Charlie-rong/RAG-R/819a506f1e9147cd1b144408600b210938c9968e/exercises/1_loading/03_multiformat_mineru_remote.ipynb
+https://raw.githubusercontent.com/Charlie-rong/RAG-R/88bc0f1e3f388c1554fad7c81f12b2a2178b7096/exercises/3_chunking/01_document_chunking.ipynb
+https://raw.githubusercontent.com/Charlie-rong/RAG-R/97e6d51031a5fbb48e01462439977d8adb0d1534/exercises/3_chunking/02_structured_chunking.ipynb
+https://raw.githubusercontent.com/Charlie-rong/RAG-R/a9c2ad3bd4f224f97dbd783d49bcce1a71ca64fb/exercises/1_loading/02_document_minerU.ipynb
+https://raw.githubusercontent.com/Charlie-rong/RAG-R/b44b6238d6d335355649e7ec88e6d3ea130cadf8/exercises/cleaning/01_document_cleaning.ipynb
+https://raw.githubusercontent.com/Davacii24/weather_data_collector/dd72d4633f84bfa1052a72a806ec6b19c5032be9/weather_analysis.ipynb
+https://raw.githubusercontent.com/EliBtgnn/Credit_Card_Fraud_Detection/f8bd0d52a769f6d24e27a7a30f553697a4bda4ff/notebook.ipynb
+https://raw.githubusercontent.com/Enthus3d/options-pricing/04a6de8d88834a5b91c29536eb46142f7c60d561/notebooks/analytical_pricer.ipynb
+https://raw.githubusercontent.com/Enthus3d/options-pricing/3ba96b0edaa9f2825cb7028ba01d7f810e1a5633/notebooks/greeks_surface.ipynb
+https://raw.githubusercontent.com/Enthus3d/options-pricing/be03ec8f3d33aebb8d0b08b93cfd4c2e16334038/notebooks/monte_carlo_pricer.ipynb
+https://raw.githubusercontent.com/Ericakgn-24/gold-price-ltv-analysis/78cf3986fcea4ac62ddfd6949f11b0c4e8a07bb7/Notebooks/gold_price_ml.ipynb
+https://raw.githubusercontent.com/Ericakgn-24/gold-price-ltv-analysis/cdeab2ec497e43625bada08afab85e32ce9a551a/Notebooks/gold_ltv_analysis.ipynb
+https://raw.githubusercontent.com/Fadhil25-stack/2026_alpro_c_2611533012/c02c01246847ce26c5c72ccd280d17fb520dcf12/PEKAN1/LapPrak_ALpro1_2611533012.ipyb.ipynb
+https://raw.githubusercontent.com/Fadhil25-stack/2026_alpro_c_2611533012/d5ace266215ed9639ca4b569840578d9c60638c2/Pekan3/LapPrak_Alpro3 (1).ipynb
+https://raw.githubusercontent.com/Ferysanjaya04/ICM/245a3f775d78b6b24c4eddb6d47267f4e4022bb4/data/experiments/Feature2_AI_fixed_POC.ipynb
+https://raw.githubusercontent.com/Ferysanjaya04/ICM/84fcf963225f5144c54404b20541f86444b56fbe/data/experiments/Feature1_AI_POC.ipynb
+https://raw.githubusercontent.com/IT4063C-Fall2026/data-tech-analytics-final-project-sagebushstone/62d935a3712e2fc3b0643d294fbf4906e9d650d6/source.ipynb
+https://raw.githubusercontent.com/JallinskyLuca/ai-etl-anomaly-detection/0782073f82fb9049a0e374de823b7d8fe400cf00/notebooks/02-preprocessing.ipynb
+https://raw.githubusercontent.com/JallinskyLuca/ai-etl-anomaly-detection/0dd9c4e12da9e92f05caee01fa44de035df7391f/notebooks/01-data-exploration.ipynb
+https://raw.githubusercontent.com/JallinskyLuca/ai-etl-anomaly-detection/e0a486e92be8986aba3a291990500368693f4991/notebooks/03-ml-training.ipynb
+https://raw.githubusercontent.com/JallinskyLuca/ai-etl-anomaly-detection/ec8a6918ebd171cea929ccab3ce3e651166d8d34/notebooks/client_test.ipynb
+https://raw.githubusercontent.com/JuanAndresHS/pitchiq/2d19053fc325c213246e00b773759ed3402316bf/notebooks/01_exploratory_analysis.ipynb
+https://raw.githubusercontent.com/JuanAndresHS/pitchiq/f1087aad91d2606263210afbfe9c0b84fa3f7fc9/notebooks/02_outcome_model.ipynb
+https://raw.githubusercontent.com/KarthikeyanC95/mslearn-mlops/2df9d55497553a5fd50bddaa117441ce5c5cf476/experimentation/Train classification model.ipynb
+https://raw.githubusercontent.com/KarthikeyanC95/mslearn-mlops/323a669373a019bc4b2d8497537c3d1bcf688fd2/experimentation/Hyperparameter tuning.ipynb
+https://raw.githubusercontent.com/KarthikeyanC95/mslearn-mlops/463d9017d2082d66af35d0a2a7de05d89aaaa20d/experimentation/Run a pipeline job.ipynb
+https://raw.githubusercontent.com/KarthikeyanC95/mslearn-mlops/5c979b7bcb8d97a517ab13413af2db66de9526b2/experimentation/Run script as a command job.ipynb
+https://raw.githubusercontent.com/KarthikeyanC95/mslearn-mlops/6687732c06ac8937cdac49baf8068dbd67540cd5/experimentation/Track model training with MLflow.ipynb
+https://raw.githubusercontent.com/KarthikeyanC95/mslearn-mlops/98896ca6b9325a7692b97b274f2bdeda5a8bb617/experimentation/Create Responsible AI dashboard.ipynb
+https://raw.githubusercontent.com/KarthikeyanC95/mslearn-mlops/ae5e5acd6a77fbbebb13711f68861bfc9616b6a2/experimentation/Classification with Automated Machine Learning.ipynb
+https://raw.githubusercontent.com/KarthikeyanC95/mslearn-mlops/b092b9f617c513cf0f0f9953a012945be868be17/archive/train-classification-model.ipynb
+https://raw.githubusercontent.com/KarthikeyanC95/mslearn-mlops/ca707e4998bfb58181394c1551c5a189bea878d5/archive/Deploy to online endpoint.ipynb
+https://raw.githubusercontent.com/Kenzyken-gsm/book-sales-forecasting-timeseries/a19e57ebca165eb924ea252b7c057403b89f613f/notebooks/01_book_sales_forecasting.ipynb
+https://raw.githubusercontent.com/KzRaihan/Interview-Question-Creator/17f8b92e95f299caed8482ce860d677a7d865e02/Notebook/research.ipynb
+https://raw.githubusercontent.com/Lifewitdata/Advertising-Performance-Analytics/1b483f176934bf8efaadcf5a235b05bb4498a3c2/Advertising Performance Analytics.ipynb
+https://raw.githubusercontent.com/LinhVuHoang/Personal_projects/0052f8ff2a61432a25802272fbe51fe2ac01fbeb/Airbnb-Price-Prediction/Notebook_Experiments/Exploratory_Data_Analysis.ipynb
+https://raw.githubusercontent.com/LinhVuHoang/Personal_projects/044899d7b5f3b047dc47e4058831231cb694a353/Diamond-Price-Prediction/Model_training.ipynb
+https://raw.githubusercontent.com/LinhVuHoang/Personal_projects/72e2bfe5ce7d09ef02ad5a79bfed23aa7f6bbedc/Airbnb-Price-Prediction/Notebook_Experiments/Airbnb_Price_Prediction.ipynb
+https://raw.githubusercontent.com/LinhVuHoang/Personal_projects/7ce66be059cf16d139b936e28bd3c614c963c13b/House-Price_Prediction/California_House_Price_Prediction.ipynb
+https://raw.githubusercontent.com/LinhVuHoang/Personal_projects/93ab71dae8b96f7f0c0c89e587346a3cad9121cc/Flight-Fare-Prediction/Notebook_Experiments/Exploration.ipynb
+https://raw.githubusercontent.com/LinhVuHoang/Personal_projects/ca3651b3702a9dd1679cbf1baa881d295f8c9b0e/Gold-Price-Prediction/notebook/Gold_price_usdinr_prediction.ipynb
+https://raw.githubusercontent.com/LinhVuHoang/Personal_projects/de560ccf3351322d0a2c6216b80cd934a29dd053/Diamond-Price-Prediction/Exploratory_data_analysis.ipynb
+https://raw.githubusercontent.com/LinhVuHoang/Personal_projects/f88f24036316657dd1b70873c62f2bc0b944f8c9/Flight-Fare-Prediction/Notebook_Experiments/Model_training.ipynb
+https://raw.githubusercontent.com/Lougedo/cnn_samples_colab/34e32e938d7637a018a660875b04012aefbf9fee/notebooks/02_conteo_personas_cafeteria.ipynb
+https://raw.githubusercontent.com/Lougedo/cnn_samples_colab/9207e9e8bebdba99bb06361a681399aa5fdaa93b/notebooks/01_laboratorio_cnn_radiografias.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/01c727ac82b149651a9ef2618975eb2288920704/0008. String to Integer (atoi).ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/0480b288b11195e3537c99523818d9624cc216ea/LeetCode Quest (Maths).ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/048be9a2164be5c34c11a40b99a177fa8310af89/1002. Find Common Characters.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/05bd9ab78d182c7a862c0a91df3df9210ec10540/0089. Gray Code.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/067b764af1d0e13f1d4564e60a6bd122ebdd5266/3318. Find X-Sum of All K-Long Subarrays I.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/06dca22742707e63f79c591ab1be244f3e7fad79/0048. Rotate Image.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/07922e5e66d726efaeea52c3fb1e6d0d4b142474/3354. Make Array Elements Equal to Zero.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/0829bbc64246f95ca2e7ee9f4fb77a2368099ea1/0292. Nim Game.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/089b01ccc1766fbf68a48b2ac75c0620b40816f1/1331. Rank Transform of an Array.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/091c8907c418a50b77c77076198630c3479b260b/0004. Median of Two Sorted Arrays.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/09485b1ee3b9ef125aced613839c6fdb4785fac1/2211. Count Collisions on a Road.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/0a1f9ef2d5a254a35125931c259f567da78f1e54/0041. First Missing Positive.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/0a6a190822068fdbab91c4739b46c889b2b68331/3186. Maximum Total Damage With Spell Casting.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/0a78a2c99b6cdafb8c0e4aa52aaa997969eccc9d/0014. Longest Common Prefix.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/0b83e64dc4660d4539274eb0ecf1e91fcd4a31cd/3737. Count Subarrays With Majority Element I.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/0cc9c34c5f4113ab976bea28747e40af71e77009/3471. Find the Largest Almost Missing Integer.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/0cd6c425758d3fa9bbbfe04067bac3323267bc9a/0136. Single Number.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/0d324b08e5eb602d169f71fe4dee60a5391f513d/0233. Number of Digit One.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/0d5edff2c6b971f37a4dff77f5097faacef37b72/0030. Substring with Concatenation of All Words.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/0dd919eff1ef4cbed894970ba74244005ecf01f5/1030. Matrix Cells in Distance Order.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/0f1a669f63d66ae025a375c4e2b98f2e49e28d63/3513. Number of Unique XOR Triplets I.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/1010729f6cbb1b85525936040d27a147877a805e/1358. Number of Substrings Containing All Three Characters.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/110663b9579518722f0caca5b09cdd6841f54523/0374. Guess Number Higher or Lower.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/1136421d65daac3b80f1693e2b2346073461430c/1039. Minimum Score Triangulation of Polygon.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/11c307d8ec15a1f5ffdfb00b7abb641b4adfe1f1/0342. Power of Four.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/13afded720a60eb43cabf0b6a45c74a6946ade05/0120. Triangle.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/13d3f9c9df507a6fb696ea973168dbd75c5db2df/1518. Water Bottles.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/143f607880e14b00b526e0352260f0959db3035e/0028. Find the Index of the First Occurrence in a String.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/143fcf86146b576de0f203e874485d1d242e2fcd/2996. Smallest Missing Integer Greater Than Sequential Prefix Sum.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/18582724993740733a8d424ee780227ad576f743/0944. Delete Columns to Make Sorted.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/19395bc5976ae7e8b3d8697577a588efccb1f1a5/0778. Swim in Rising Water.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/1bc81bcb82612ee32629995e2d4208507c54fc01/0003. Longest Substring Without Repeating Characters.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/1bd64286417743f2c9eda4334d692f44e0773659/2515. Shortest Distance to Target String in a Circular Array.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/1d7d2b2966356df09f174cf4d283a63496794e4c/3345. Smallest Divisible Digit Product I.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/1db47b5acf99c79813300a9082b8b0fc1ecbf4fb/0636. Exclusive Time of Functions.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/1e8fd25363f8c6daa7cef274d90406acaf3e314e/0084. Largest Rectangle in Histogram.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/1f005363f9d58face7719f015d48d4d0c89b62b3/0001. Two Sum.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/207b68d8cf489ed8369f4a6741e4d5953828626b/3838. Weighted Word Mapping.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/22191663f6066d11801ef7d433023863f15b3a85/1502. Can Make Arithmetic Progression From Sequence.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/232cb87332227a0f3740f1f9e86e2a68ebcac6ba/1386. Cinema Seat Allocation.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/244fb79bd5a60a18b4e58d67ffca79e4e8dc3f64/1464. Maximum Product of Two Elements in an Array.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/24bc2d5f1468d5fc50e50ab0c591f4a29844751d/1288. Remove Covered Intervals.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/251019fb6fba44e6ecd1ba4435821edd53813bbd/2300. Successful Pairs of Spells and Potions.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/257af9f615cf722a2866c3470fd5fc3c29ecaba2/0757. Set Intersection Size At Least Two.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/25f69a5b9cc1f1835b80715ccf87707deaa5c200/3014. Minimum Number of Pushes to Type Word I.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/262cc82a5be40766e92090e669b7fc1faec0f1fd/0263. Ugly Number.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/268cc258d9634d5d69d1983399bb0340cbf7d7f9/2125. Number of Laser Beams in a Bank.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/2713373041c7ee775cad13a18040774c39b3e799/0231. Power of Two.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/28c43daa398fb7b459301d87209a9ccad2ce3280/1848. Minimum Distance to the Target Element.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/29421b04081f048c9bb303f1ae96a0a40311707f/0191. Number of 1 Bits.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/2a4a1f75c1956ad7318a5121aae48128fe42f271/2946. Matrix Similarity After Cyclic Shifts.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/2a617d97c36c1c56e06a008d9bdfb0e5fb6ec3cc/0137. Single Number II.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/2ac314be93bc59a8874c8258df28e49dc1290436/2011. Final Value of Variable After Performing Operations.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/2c90ee934d1577ac31ce75d071a3dc8f5c42e719/1018. Binary Prefix Divisible By 5.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/2d481605e8f81ef97f3b9fd8a8bffe0b471818f7/0219. Contains Duplicate II.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/2ed6d5b856899444a74d76d361dd8cec7e229036/3484. Design Spreadsheet.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/2f92de780d6185bbe135e478eecf04b63da53ce9/0125. Valid Palindrome.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/302755923a2be0c265cc9dac435bd04db5621bac/1025. Divisor Game.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/3096534a102aa2db6880661e7523e200d8e3c411/0686. Repeated String Match.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/30e0749ef82f0c8dced4fcabcd6f6ccaca9bc124/0242. Valid Anagram.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/317eff4a21a0701e92539a04c3f94c8f2abed0db/1689. Partitioning Into Minimum Number Of Deci-Binary Numbers.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/31a4204b1697a7c5c35f6893c605ff7ad727b69f/3718. Smallest Missing Multiple of K.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/31e56fc40a6ba69bac8a031e5545d4c1457cc0d4/0345. Reverse Vowels of a String.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/32b7b356f882124acc528b523bd933f578d77b20/0168. Excel Sheet Column Title.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/32ce1cef0d86dae6b2298ed9acb60613c1c44fd5/0232. Implement Queue using Stacks.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/334ffa6358672baca004b327263b4ca464be09bd/2839. Check if Strings Can be Made Equal With Operations I.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/34cda9ccf4759686d5d2ddfad504d657d7bb2ba3/3532. Path Existence Queries in a Graph I.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/355dcaf72c4117881e008172519ae0f3f8edc8c5/1441. Build an Array With Stack Operations.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/365f7acf575b631229978d357f758cc4711fbf84/3217. Delete Nodes From Linked List Present in Array.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/367c06252febb619a4c1c952ab14ffa3a7a2c59e/0190. Reverse Bits.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/36ac354b62244b0e74c3ef739ced063b45827a1b/0026. Remove Duplicates from Sorted Array.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/36eff31377c0a056d3cbb562940100bf174d7836/0812. Largest Triangle Area.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/376593950946355eec1ceb772912ec66223816aa/1536. Minimum Swaps to Arrange a Binary Grid.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/37d9d820ab772e22a00015548eca12762a3b8fe9/3660. Jump Game IX.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/37dfb8e799eef25d69662e1ac61d62d762e4516e/3300. Minimum Element After Replacement With Digit Sum.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/37f68fa446e664b084157c0e4cb88947383110d5/3875. Construct Uniform Parity Array I.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/380d24e3e6f061e6b2eb4f3bfd2840b89633f388/0976. Largest Perimeter Triangle.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/384fe069302ca8f207833ce61c0ab40aaa54c080/1625. Lexicographically Smallest String After Applying Operations.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/388d617a77e54d082774dd508b4a5481a9e9fced/0389. Find the Difference.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/393725ad688a06ab2bccde15d2d5cfb7b1aa0837/2483. Minimum Penalty for a Shop.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/3961211cd4e05c1311769c1f50db3f0d7d4de70f/0058. Length of Last Word.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/398ae03cd7e61aaac544a7ae7deed6ea458c0a79/1927. Sum Game.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/3a08be26d0a017b2c9548394cf4a03cae793dea3/1980. Find Unique Binary String.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/3cf447f7c99d8a6881a1592f5a52f70271c17cb6/0371. Sum of Two Integers.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/3e4601026c4f3c9e12468b44ef1502cc6c50c083/0034. Find First and Last Position of Element in Sorted Array.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/3ed986f710f541a33629769b9919c9a558d2d772/0010. Regular Expression Matching.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/3f5f436853be7985266cd094765ffc7733bc5953/2598. Smallest Missing Non-negative Integer After Operations.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/3fb066425350c99dc2fd1d30ec88cfd7e71ec85f/0033. Search in Rotated Sorted Array.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/404effd6b2950ec9bb8bdfc4537d2323bc18fefa/2048. Next Greater Numerically Balanced Number.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/452384686196c328c130c7ed06609f13d15ac971/0228. Summary Ranges.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/4547da07153707b9de847aa49537be25ad75ad34/2144. Minimum Cost of Buying Candies With Discount.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/468962739cafbf3900dac06b4b93b2625b077ac6/0002. Add Two Numbers.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/470a78ed925f2cb873c50c5d040c5c1f2a3c5eda/0338. Counting Bits.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/471b397cd08ed056ea6b36b56209b331a8d1d445/3517. Smallest Palindromic Rearrangement I.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/48d7245e74e79124f79345eea590ee4cb6e9cda7/1005. Maximize Sum Of Array After K Negations.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/49e3bfb3d5c865b78623f6761ac0f55836549986/3397. Maximum Number of Distinct Elements After Operations.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/4c8b5e57cd30d6e471be3de82213654d7c28da25/1513. Number of Substrings With Only 1s.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/4e1360a7361f6d6b907590305e62829ba57d920f/0387. First Unique Character in a String.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/4e2e8febc2cf3ce9d55d26c02ede41c9c05e3271/2833. Furthest Point From Origin.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/4e8a9eb38ff3e3bbaeda4b00027f72624f429593/2523. Closest Prime Numbers in Range.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/4ef7521756910f3549d38652d54a5ee966933bd0/2091. Removing Minimum and Maximum From Array.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/4f7b8fd5e6bc7b4a1c9da61395b13ae47b2dd29f/1406. Stone Game III.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/4fc7394c12dfc143a997f982494117ec8ac9d093/1758. Minimum Changes To Make Alternating Binary String.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/4fd822f3dc6cd426ddcd12ad2e6706795d96b96f/0055. Jump Game.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/502e3525cd3870a3c82df4af21e7c0b6aa70ee67/1356. Sort Integers by The Number of 1 Bits.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/5065a4abbd60166a7848200700080240ea56fe3b/3622. Check Divisibility by Digit Sum and Product.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/525cf2915cb17ee0065bbe2018af4542a5db5870/0474. Ones and Zeroes.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/5292384512f8c566e0f060bb545aa433839accd4/3516. Find Closest Person.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/52b8158c7405791ca0dfdfd2d86ef06f29d34751/3100. Water Bottles II.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/5310fe69a132fe5fb71d7edef28a1d689f2df53e/2221. Find Triangular Sum of an Array.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/53d7811908c1501d4d238304d0fc44e393bfc592/3016. Minimum Number of Pushes to Type Word II.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/5469609d850d487d547eb078fb1e3639a0057c37/1979. Find Greatest Common Divisor of Array.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/548a9b24f3f5f90da70c7c70ce0a773f1730ec5e/3658. GCD of Odd and Even Sums.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/554857b302fcf1b36358f9b5c2b790028e08ece9/1404. Number of Steps to Reduce a Number in Binary Representation to One.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/58ae21e0e3d74a284bbd115eb73051a90aaafe98/3090. Maximum Length Substring With Two Occurrences.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/59d80392f66349538749f931dde99959d95abeb6/0021. Merge Two Sorted Lists.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/5cba4b0a5f2402783ed3b838d217cfb3d8a9b441/0349. Intersection of Two Arrays.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/5fd84b63448e30da68b415409c57d3dcc3398dc6/0027. Remove Element.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/604014252722c0000d8c6a73510500a446d926ae/0015. 3Sum.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/61633aff199e8029edf88573eaacff6ec7c62169/1009. Complement of Base 10 Integer.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/61ba4d012a0073847a7773791376bc2106af77d0/2078. Two Furthest Houses With Different Colors.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/6279ba14b93d4030d9105b17b1f76c12f6787d17/0039. Combination Sum.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/628f82e4ceed8c67971f436ef4394186b534ab8a/3286. Find a Safe Walk Through a Grid.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/63e159a31d7256ff4aac01f5bb8fb231eb6b26d4/2257. Count Unguarded Cells in the Grid.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/647f64a8a7ff3833905d04d8400478a204e1ba4d/0119. Pascal's Triangle II.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/6495ecb9e7bbdd7eb48611467ee20c0ee19b3508/1967. Number of Strings That Appear as Substrings in Word.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/65990ac4b2c1315a7f027fbc4a23c0277bae4678/2169. Count Operations to Obtain Zero.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/67a735d3e84237e35288b8ae9a3eb2c079bc61fd/0024. Swap Nodes in Pairs.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/68448c906dd48b147b88896cb64da1cf6153037a/0344. Reverse String.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/69fcaab1f3d5a4bf1e7d2f452379b57aae9106f9/0796. Rotate String.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/6abf1abcee8deb6cb1a60e5e0cc9c48cf7824b93/3370. Smallest Number With All Set Bits.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/6b2aa94a2a4dd1a739d5947eebe06f76782ce45f/0009. Palindrome Number.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/6be378866da9909af13527de019b3701fb87b051/0022. Generate Parentheses.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/6cdea103c2b26f6c35e0a3a4d50569bf5b8f02b6/0202. Happy Number.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/6db7fb82aadbcc9d8cfea485f57a7d959443b1ed/1582. Special Positions in a Binary Matrix.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/6de79fb2ac8de01ee412309a9971c4f7cce0c44e/0482. License Key Formatting.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/70d9d1bdf7d2a7a2159af52a11dcd0a3af8ae6a1/1886. Determine Whether Matrix Can Be Obtained By Rotation.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/712a159253e750234efc094046ef7fd6b67217ca/3623. Count Number of Trapezoids I.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/713cbcf8af392f61376efe9134069ab5deae7d6b/2540. Minimum Common Value.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/722bb0816777d5721518fc781c9325bb29ddd405/0392. Is Subsequence.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/728bba9bc04f6a5c89469e28553c28da252c7ab4/3190. Find Minimum Operations to Make All Elements Divisible by Three.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/72b2d0a80903f3e7f0838921eb007697aa991646/1925. Count Square Sum Triples.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/732f883b56722bdd3ba6fe0025b421e26f032513/0290. Word Pattern.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/73dcbe87c9f013424b610a7a36497b77ae3e2d8a/0029. Divide Two Integers.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/756139d5fc1feb6a887098a5c1812137bbd736c0/2110. Number of Smooth Descent Periods of a Stock.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/76a1e2171039a4eda2bb4f44dac2aaa5829e7526/0172. Factorial Trailing Zeroes.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/7793a69a7ccde59f0f9be9ee70a53af53cc3ecd0/1846. Maximum Element After Decreasing and Rearranging.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/78111f68eb3f9dc36aab35ea1c6d3aff7f1ebdf6/0017. Letter Combinations of a Phone Number.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/78cb3e7145776aab8167b93927b76b138288e4d4/0831. Masking Personal Information.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/794fab0b8f17cbe3eee216aae9ac7ef396c794c0/1929. Concatenation of Array.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/7998d7b812fc362a2fed0ae7b89e7ade8026149d/3289. The Two Sneaky Numbers of Digitville.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/79a5bee7ff0698e25eba790a7ec6173281c6044d/1475. Final Prices With a Special Discount in a Shop.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/79c476bd6e64d85f4c224b238fd6d05cb229c0f5/0728. Self Dividing Numbers.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/7bd5ab22768cdb24a65e2be2c546619aa69c958f/3903. Smallest Stable Index I.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/7d5a64cf36c7a6206adb74dc34e9076db5af4d2a/3876. Construct Uniform Parity Array II.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/7d670e9412b425eafd7f458bb3b95bb94c991199/3069. Distribute Elements Into Two Arrays I.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/7dda0974e9d802ef5881ce187e8ec08da6fad21c/2654. Minimum Number of Operations to Make All Array Elements Equal to 1.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/7e57478d96e40f5a1381de90ac668c0dfea7f51b/0023. Merge k Sorted Lists.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/8006449557f93afbf7e1c62b7ff0194db0ad5508/2197. Replace Non-Coprime Numbers in Array.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/806a7ec4b61f040114e161cefce588baa7e23c46/0204. Count Primes.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/83249fdea40f94d443928140ca505ccd58eb029a/2840. Check if Strings Can be Made Equal With Operations II.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/83f7f883e55320fb1a4d5278296dee857c468d42/0326. Power of Three.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/84478ad28d63644ddc9bbcc9c5ee7a1f38a07b54/1365. How Many Numbers Are Smaller Than the Current Number.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/8651e46edfe85828a5bf6beedd99a8d0ade4fe8c/1866. Number of Ways to Rearrange Sticks With K Sticks Visible.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/87ee020cf6e4d0a0326f268605552391af5f472e/3228. Maximum Number of Operations to Move Ones to the End.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/8829b69ecef3c0c285b17a3deb598071cf41ad64/1935. Maximum Number of Words You Can Type.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/8a77a1d287b8ee0aa4b6dd6340e7a2c26a627880/1716. Calculate Money in Leetcode Bank.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/8ac827db98d8b71aa4b7bf94336209c0b091b494/0042. Trapping Rain Water.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/8d74e4dcf7a24c28a29f4c5bce1bfe2a0183a9c9/0020. Valid Parentheses.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/8e7689780527ea7e231082d278a4c10ee92b31a2/1732. Find the Highest Altitude.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/8f9493927ec725f8748b2fd6901fed19fdabb241/1354. Construct Target Array With Multiple Sums.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/90b42fae3bfa25c29d7f1fe5bc9ef48bcb51408b/3761. Minimum Absolute Distance Between Mirror Pairs.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/90fd1df1d7923d48f3d5244006d517e3c41c89d0/0050. Pow(x, n).ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/911a3817924153af885e7c8af611fe99e42de3bc/0019. Remove Nth Node From End of List.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/923138902f6b83e21d459203e949489f914502e7/1752. Check if Array Is Sorted and Rotated.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/93da09d580cb93993093f2b5d9f2afd6302b4f58/3536. Maximum Product of Two Digits.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/96e3b42a3d8dd63226e8a1e051696b86e3fcfa3c/3120. Count the Number of Special Characters I.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/9703037a652b1f06c0df73b1a65163b6e0d9d00f/0223. Rectangle Area.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/97ee36f22b8a083abec5196de3b8043dd51b445d/0877. Stone Game.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/9a0aaa4a6817cffc9ff2c80c24434fb4203fe012/3633. Earliest Finish Time for Land and Water Rides I.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/9d06322e3e616db368705ddfaf24c3747323afce/3005. Count Elements With Maximum Frequency.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/9d981ec0a80fd09aec916e61b657d18f8a6dac75/0070. Climbing Stairs.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/a06ad697e9291af1333f9a132ee1c02be586f0ba/0486. Predict the Winner.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/a28d60874b8891022109384c36401fd107745458/3870. Count Commas in Range.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/a2be11edeb470b50375ca76c54dcc433d559e8f9/2958. Length of Longest Subarray With at Most K Frequency.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/a31cd041c046bcc69705d5a4d9846b090296da2a/0171. Excel Sheet Column Number.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/a3fec7e7e22d9141ba3312863ab7b4d80b3f1c99/3783. Mirror Distance of an Integer.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/a42e300f1e52a118ad7f9bd972c3475c0615d9f4/0696. Count Binary Substrings.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/a4eb2dfaa7dcad507c548dbefc251826c86b6a96/3461. Check If Digits Are Equal in String After Operations I.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/a4fc9f12c8c7dc2ec6ce92ebbfeb069268109f9c/0121. Best Time to Buy and Sell Stock.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/a59f701e8e63e69d22adbe90d7e715a76ded4d22/0961. N-Repeated Element in Size 2N Array.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/a70de5f10a130d9ca4d36a787e31c0aec53ad63f/2073. Time Needed to Buy Tickets.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/a761d77b739c04570d91eb613f9eddbab607d38f/0094. Binary Tree Inorder Traversal.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/a839497962da1321b3d91be81f234de4a9cfdfda/2492. Minimum Score of a Path Between Two Cities.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/a8f5bed79ba1b06147272352a5c002c1131bcaaf/3756. Concatenate Non-Zero Digits and Multiply by Sum II.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/a91178c4bf0bf72774e638606f9bf3f38eeed3e9/0628. Maximum Product of Three Numbers.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/a94313a1d039ec540260be00d68b4327e9c033f3/2154. Keep Multiplying Found Values by Two.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/a9ad2effd3267a1592dfe3210c47b03fa361599e/0150. Evaluate Reverse Polish Notation.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/aa703990cc10e5e1446301d8bdd8aab9a78aeabe/0060. Permutation Sequence.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/acf9c58b493abcff6eee1b1322369cae2ea09ce8/0657. Robot Return to Origin.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/ad24fbb0a9177e0cf2afd78b1dd3bf10db5d0980/0383. Ransom Note.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/ae01543ed3d87923a8ae2c9ba1b7e9e24a6e7481/1578. Minimum Time to Make Rope Colorful.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/b14272caad7a2498a4838cd557d15e1f20c5c77a/2141. Maximum Running Time of N Computers.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/b364db24779a10742daa603e8d81e4705ac746dd/3346. Maximum Frequency of an Element After Performing Operations I.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/b38337f37d2be1a66042316bd78ecaffe736225f/0611. Valid Triangle Number.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/b394d65c8bcd6f3dd7cda57666a287d3c163b820/3350. Adjacent Increasing Subarrays Detection II.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/b3dbed9e95acc83ae37553c9f7002ad21577b278/2784. Check if Array is Good.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/b4b986916e882de37a48e58c4fd48fc312088d56/1401. Circle and Rectangle Overlapping.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/b56412fc6745f6229cbb021f23d24a0ca206fc43/0459. Repeated Substring Pattern.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/b56d1c8be9b7b0b47f977253a4c0fcf490937df5/0417. Pacific Atlantic Water Flow.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/b595f0ae0f46fb32f2bcd4d9e0271da54f369174/0407. Trapping Rain Water II.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/b788b76366a74368321c53159bfb87bdf5a03fcd/0149. Max Points on a Line.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/b8682fa79be366ecaf1af22a4792575fa79fc9cd/3349. Adjacent Increasing Subarrays Detection I.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/b8e6b864823efea930d2b68f02387c1c9f649168/1930. Unique Length-3 Palindromic Subsequences.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/b95df42fa6a3005bb9cc37b6487f844bcbab40ae/0035. Search Insert Position.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/ba83595d103b7aabb4d4fe3364d383dd08d02848/0322. Coin Change.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/baee4f0c793ce4f800a54af1ee0b0b328c129820/0007. Reverse Integer.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/bb0f2222ed14616ec91bf71a1810105ca997488f/0043. Multiply Strings.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/bb84d791608354038d7e65608cbbfdb98bc8d2fc/2553. Separate the Digits in an Array.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/bbe34bf69b54aa30771b5fd1eb178b3177dbf24f/0739. Daily Temperatures.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/bd0200fbea5320a207d4033631893f80cff0d426/0645. Set Mismatch.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/bd316986338e8a0e46d1875bf87bcfb1bba21267/0100. Same Tree.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/bdaa30ed6dd9d8a741480b3b39fc802495d92649/0283. Move Zeroes.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/bf4aca79a6900a169e8e0d8769e57c338de4218c/2904. Shortest and Lexicographically Smallest Beautiful String.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/bf5a8f0380c86de28c1804b4135215ab4d81f33b/0955. Delete Columns to Make Sorted II.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/bfac5cc3eda2e20507a3b4eaba79d8b325770fe7/0037. Sudoku Solver.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/bfcd9a1e5c945115e5253b7e745b0aac01142c20/0011. Container With Most Water.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/c16cedab7cf79e1d4787be700fa02cb0456bda84/1621. Number of Sets of K Non-Overlapping Line Segments.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/c17bcc15eb05737a52a97511182e3ddca844003a/0066. Plus One.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/c309c8f647e1f2e17c06e70ef3e1a5600b1fff0f/2043. Simple Bank System.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/c4ff3caf25bca29621c9712fd9d78362f37159af/0165. Compare Version Numbers.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/c5342cb4004ea9ad8217e72830adc0c2d2f3b63b/0836. Rectangle Overlap.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/c6715ddb903e5375470f1eb546856d4d0c3abe9c/0717. 1-bit and 2-bit Characters.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/c73f70df269220db716398fd8afc0f30cfcd3cc8/0258. Add Digits.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/c747def110905352039331b4e2bb6e853f7d1a65/3432. Count Partitions with Even Sum Difference.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/c7759f4b48d182a80bee01c874ac25d02c36c075/0135. Candy.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/c7eab90ad652097c6a4d6e3dff3432ba04446ffc/0485. Max Consecutive Ones.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/c7ff8e1380ab454e0a92e28a3dc555f1be28eb1d/3512. Minimum Operations to Make Array Sum Divisible by K.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/cb058fb5449f54f45eca238a24a6813e2d1b4e15/0118. Pascal's Triangle.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/cb37d770bc58d4ebd96ed6c049ab7ec6b3eadeb2/1015. Smallest Integer Divisible by K.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/cc08c5201e38c1d283e6227d3f44d559b2f1db93/1784. Check if Binary String Has at Most One Segment of Ones.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/cc1142989f12cb16d940df5f2f314a2d6616c0ac/0064. Minimum Path Sum.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/cc1312c20d3cf41aa7c1c7ec134e8dd28b483519/3652. Best Time to Buy and Sell Stock using Strategy.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/cd95f6c564b58ac22394edb8836298203ef2d4e0/0166. Fraction to Recurring Decimal.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/ce28062feee74469eddd95305fd28798dc783ddc/2574. Left and Right Sum Differences.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/ced88145e8dc2e43ca70820cd1a44928dcf37bb7/3731. Find Missing Elements.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/d188c6486c75dbe90ce81008b876663d2f299327/1470. Shuffle the Array.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/d248eb846aec4b127d1186f80404375442691230/0069. Sqrt(x).ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/d261cabdac928b85f47e03177eed70c104d8ab5e/3514. Number of Unique XOR Triplets II.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/d3dc0538e09ba8551a524c765a04ad6239665574/1437. Check If All 1's Are at Least Length K Places Away.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/d427bafe95a807e28bcd13a4650bc132143c947f/3074. Apple Redistribution into Boxes.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/d4c19b19a9e6aeb77db3b2fd7a95594c5ec4263d/3381. Maximum Subarray Sum With Length Divisible by K.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/d55b23ec2a7d81ac56604e4c481d608dca3b981c/0373. Find K Pairs with Smallest Sums.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/d5619fabd66ae53740c20a9cfbba10c3e48bfa9b/3494. Find the Minimum Amount of Time to Brew Potions.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/d5f28508ee2ded77905ecf7c0966a08eec367043/0018. 4Sum.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/d6351f88c5af8e2ca3b73ed636f6b97fb414b82c/0883. Projection Area of 3D Shapes.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/d669d33985993d55ae0dd23769dd7ae2f3d4b2ca/3541. Find Most Frequent Vowel and Consonant.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/d913be8f44a44cdb61af88014867e320966dc4f4/3483. Unique 3-Digit Even Numbers.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/d9937fc7874e1c749b684c4189e1d0898852c1be/0031. Next Permutation.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/da82330bf149cf8a47de23c47c5b86747dcef37a/1680. Concatenation of Consecutive Binary Numbers.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/db2d3d428e768e9586a316b1c18e8c0841e7639d/3740. Minimum Distance Between Three Equal Elements I.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/db77cacab7337d09d042ab7416dcf20ff7bd8251/0448. Find All Numbers Disappeared in an Array.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/dbb54174418c8e775acac0b21a7117f39f12bcc2/0088. Merge Sorted Array.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/dc77b9fb7cf5dc851c1d7511e55e970387866d97/3643. Flip Square Submatrix Vertically.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/dccb5b076eaa8d7df04057d423d913d5cfc067fe/1013. Partition Array Into Three Parts With Equal Sum.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/dd28f1bb2a0b3be2a00556b0e3f67582ec724b75/0049. Group Anagrams.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/dd4cf8453a0f33afa31c697499b2616404f4cee0/1526. Minimum Number of Increments on Subarrays to Form a Target Array.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/dd6362176bcbee5fb277e510e62f7ab88eb648cc/3347. Maximum Frequency of an Element After Performing Operations II.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/de0a82fcc388ce6e366b827765fbb282ee576627/0047. Permutations II.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/de6869bbce30a96f2e3fb18aab5c97f74c89ceed/2536. Increment Submatrices by One.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/de6ba8e10eb424ccf3726493aff0e9ea9fd680ad/1545. Find Kth Bit in Nth Binary String.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/de6cdb5bbd67244b1ae93d1faa06a6841b420587/3310. Remove Methods From Project.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/de8cfc09c367c44d4a6844b297077d8f15424d58/0520. Detect Capital.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/df385f4bd89aac43659b58d9d25052d0d2adf42d/1291. Sequential Digits.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/df7e34ce0c581583650e2946f52d3d3cb34d43fc/1021. Remove Outermost Parentheses.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/e08464d260e194586a8ca1eee9cf4e4b2fb38c9f/0044. Wildcard Matching.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/e1aa69fc277f9cd12b68e0be201284e66489c7fd/3296. Minimum Number of Seconds to Make Mountain Height Zero.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/e1ec4b034f42a6935d68465e1aa7a5b3eee6d711/3147. Taking Maximum Energy From the Mystic Dungeon.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/e24b3e254dfa92abbd6d4d1505c489758c24821d/0367. Valid Perfect Square.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/e309ef522770862efdd721ac3088390e3ee8a6b8/3754. Concatenate Non-Zero Digits and Multiply by Sum I.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/e48a2d8ef84c900b572513af5d4d84d2d90a1195/0169. Majority Element.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/e7155b017624d444ad8782a7f92dba10b834f98d/3871. Count Commas in Range II.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/e7c63957a15bcb254c7af3f4bdaf3f01331ff01b/1488. Avoid Flood in The City.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/e9b7dae776eb022f244fa734fe8bf772786a9205/1189. Maximum Number of Balloons.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/eab7fc78bf883cd49694163680d12bae236e462d/1700. Number of Students Unable to Eat Lunch.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/eaf290ee5da45f1a068cb6193756316a520a5db4/0217. Contains Duplicate.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/eb5813fcb17dba544388de4dbd64d76cd72a5ae0/1888. Minimum Number of Flips to Make the Binary String Alternating.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/ec1255b31bcbfc0279c01c36c7152b29bbb8953f/0045. Jump Game II.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/ec4342d93cbd198fb2665c0a74fac953c8aad998/0040. Combination Sum II.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/ecc9d0003541ca5d571858ae90e141f574698610/0122. Best Time to Buy and Sell Stock II.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/ed34609d082ae779106b2c1a68e8a0eee07f8c61/0016. 3Sum Closest.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/edf1f261be56ec4e87b6731c1c35fe8e908394ab/0046. Permutations.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/eec1ec24f6369326c5b5aed0eca9a7b94a9c8657/1260. Shift 2D Grid.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/ef88f5d1a53961b890c5ddefa1fbc4b345d7a96c/0005. Longest Palindromic Substring.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/f0aae633f2a6e38c7712da80206089e0fb048b1e/0012. Integer to Roman.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/f55fba9045765e0ee723740c7428bcb8c47a3ac6/0038. Count and Say.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/f636c9dc8cc57d02a258c88e6d95c4d996b54b93/0067. Add Binary.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/f6942bd8786b135d9d9ac0d45a0964d4b8a2fbac/0268. Missing Number.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/f73811f421f3ed07a7734f4b04dc040b5e7e6922/0083. Remove Duplicates from Sorted List.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/f795fefff07729ef21748674d32ab7e1154a401c/0032. Longest Valid Parentheses.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/f7e9a1fbc6e299c5ca162e397a94eec89ff8dd71/0013. Roman to Integer.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/f7ffe12fc9c7acea54639c93923139d72a2f0521/0350. Intersection of Two Arrays II.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/f829cc78d66034ec8253ebe4fda352761e65b9ce/0006. Zigzag Conversion.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/f93b7d9338dba8a9c7fc2510836108d757fdfbc5/2485. Find the Pivot Integer.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/faf29797ee4f79c291a05ea261b227630754cfc2/2273. Find Resultant Array After Removing Anagrams.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/fbe282ff12e5b5333c1a6a2fb4a004ddb3db74f0/1046. Last Stone Weight.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/fbf17a94009ab141a4a8562bd463f50c51bfe8a9/0036. Valid Sudoku.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/fe1605ad1709b275ad624b0735203223ee08c990/0025. Reverse Nodes in k-Group.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/fe1b82df631d2794af65b52a64e5f8eebd16ea35/0762. Prime Number of Set Bits in Binary Representation.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/fe3b3d06e7b32735e12b6aaf0b39c0d4daa34d73/3550. Smallest Index With Digit Sum Equal to Index.ipynb
+https://raw.githubusercontent.com/Mghadiri7/LeetCode/ff0c1feac5d9713c87d5209bd637699a9ba7b6df/1022. Sum of Root To Leaf Binary Numbers.ipynb
+https://raw.githubusercontent.com/Nilsexe/google-stock-price-forecasting-lstm/60283cb1d38fc586ed6d75e9b074a9b07584f664/google_stock_price_forecast_lstm.ipynb
+https://raw.githubusercontent.com/Pasiya990/FDM-AutoMobile_Loan_Default_Modelling/80689379118cc8c7805461c5bc37ac5ba5a35e5c/notebooks/01_data_understanding.ipynb
+https://raw.githubusercontent.com/RinaldiHamzah/arunika-sales-pepeline-end-to-end/12d141ec018a14191775d1424cfa32a440a4e654/analisis/shopee.ipynb
+https://raw.githubusercontent.com/RinaldiHamzah/arunika-sales-pepeline-end-to-end/388b8c96e6ef330551cb4b54456d257b0d00b300/analisis/product.ipynb
+https://raw.githubusercontent.com/RinaldiHamzah/arunika-sales-pepeline-end-to-end/65a38f295ff42cad7def4e5a1b8f5e984f7b74f4/analisis/tokopedia.ipynb
+https://raw.githubusercontent.com/RinaldiHamzah/arunika-sales-pepeline-end-to-end/bdfb932998e47e91983750b61d84bb93dc63bcf7/analisis/offline.ipynb
+https://raw.githubusercontent.com/RinaldiHamzah/arunika-sales-pepeline-end-to-end/c73cad19b28150219bed4469e08a13c750d43f56/analisis/analisa.ipynb
+https://raw.githubusercontent.com/RinaldiHamzah/arunika-sales-pepeline-end-to-end/fe1147a670875fc6dde19be617184c4f7928b6e2/analisis/website.ipynb
+https://raw.githubusercontent.com/Roni11402/Flight-Price-Prediction/3f03a5f22e4b0d3df55dab73640b60e882c4a2f5/OneDrive/מסמכים/Personal Projects/Flight-Price-Prediction/analysis.ipynb
+https://raw.githubusercontent.com/SahanaHalyal315/data-analytics-and-visualazation/7005dddc43697d9dab54d94bee74135bbfb7f434/Untitled16.ipynb
+https://raw.githubusercontent.com/SanguraKoded/data-engineering-75/a00dc28d0372095649f4b88c81a7099124f26505/day06/pandas_basics.ipynb
+https://raw.githubusercontent.com/SvitlanaFernandes/Data-Analytics-and-Data-Visualization-using-AI-Tools/0b44babb2c0a68e7f422d422214aa34b15f9f093/svitlana.ipynb
+https://raw.githubusercontent.com/TejasSarnaik24/Mutual-Fund-Recommendation-Model/90dfc632d7750123e40eab12075755aaeec6bf17/MutualFundModel.ipynb
+https://raw.githubusercontent.com/VyrRuss/data-analytics-and-visulaization/375d5f70a3cea8a69260c69b3fcf587b9d6a592b/data analytics and visulazation.ipynb
+https://raw.githubusercontent.com/West061806/nigeria-power-investment-brief/52811553861a95c75e5caecfcfb5025755eabcc7/nigeria-power-investment-brief.ipynb
+https://raw.githubusercontent.com/aadhavr/campus-point-waves/b967f8d03a872a3932b8a3c44287a202c574fad1/campus_point.ipynb
+https://raw.githubusercontent.com/aadhavr/campus-point-waves/d3a1aefb904c96e5c4aef7409852e2288c3941ed/validation_initial_scalefactors.ipynb
+https://raw.githubusercontent.com/aadhavr/campus-point-waves/d58292ed9ac4813d7559ab0cd7cb2680f1ead707/bias_correction.ipynb
+https://raw.githubusercontent.com/aadhavr/campus-point-waves/da2124a34447edbc0a68ed2abce2cfbedbe129ef/cdip_visualizer.ipynb
+https://raw.githubusercontent.com/ademsim/bike-sharing-demand/8bb8cd6fb345e7b4e5bfe4f97471d4ccc162f6e5/BikaSharingDemand.ipynb
+https://raw.githubusercontent.com/adrian1906/AIStockTrader2026/314039b4a025a81a6dcb41434f374b6c383237bc/2_lab2.ipynb
+https://raw.githubusercontent.com/adrian1906/AIStockTrader2026/a5a194be7f90e3503d678f9ae86d12eb44f1bd34/3_lab3.ipynb
+https://raw.githubusercontent.com/adrian1906/AIStockTrader2026/b930a4ea04eb8b200085c9f22ecf242b00290bbc/1_lab1.ipynb
+https://raw.githubusercontent.com/adrian1906/AIStockTrader2026/c31be014c1e6fe41b3b951d0f5b15a90e57361fa/4_lab4.ipynb
+https://raw.githubusercontent.com/adrian1906/AIStockTrader2026/f08c079a14867b48c6fe953e2f03275f99ed7bbb/5_lab5.ipynb
+https://raw.githubusercontent.com/ahsan520/crypto-ai-bot/fc0e55419b43bc2df8fec46b5183dcbf27b1f82c/crypto_ai_backtest_multi.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/03c29f86f35dcbe59473e11154378301a2608e05/1. Making sense of Big Data/Data_Fundamentals_Workshop.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/0746dd1c7eebbd425676a0e484ecf5f8aebfc729/0. Working with venvs/Working_with_Virtual_Environments.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/0bed3668cbe4a15ef4a73dac0e32461c9cf29baf/src/pandas-exercises.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/29b947262062e1b0189f0dc69c487e678c942cda/src/matplotlib-exercises-solutions.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/2c2af135f1fb4d5273d8bc37a2f86eeb524be4a7/1. Making sense of Big Data/Data_Fundamentals_Workshop_Alternative_Original.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/2f0cac40ddf789713dea91d06ff3ebe335c5d533/1. Making sense of Big Data/1.2 Pandas .ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/301d50faab06a38299cea95e24b043d38cfef000/2. machine learning/machine_learning.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/383567398c0238ce37f2babf4d3dbe60453b878e/src/scikit-learn-workflow-example.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/4a2370f812e491b0e341d444171608261e979eed/1. Making sense of Big Data/Data_Fundamentals_Workshop_Alternative_Housing_Exercise.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/4e1fdee5b62e47ed1426143f2c68b5fc2f6da177/src/introduction-to-scikit-learn-video.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/57e3ade08bf27db04fb945e33cdc3d7ec326d676/src/numpy-exercises.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/5bb814172c6c0a3227bd4bca9d199e1072b95677/4. Computer Vision/computer_vision.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/5be2d6bbbac662200bc2050cbce8507d617a9f05/src/scikit-learn-what-were-covering.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/72448bc452921c5924fb9870dd6877505e360fa9/src/introduction-to-scikit-learn.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/7584c6a48246e305b5bb8d59d239331e50f98f48/src/matplotlib-exercises.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/81ec97245b94bd9ba91ae6d7450c9d3091c30cf3/src/introduction-to-scikit-learn-video-OLD.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/8a979249d49b9205b7c2f89ea9e144aecc4c82f6/src/introduction-to-numpy-video.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/8b6199b061be142996feac2f4c0ba15d5e25f341/src/introduction-to-matplotlib-video.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/940a2c8f79671627eacbe21fa6566126d2c61d37/src/introduction-to-matplotlib.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/9e133cb09e31db14df7dbc760fe529295e3e6c3f/1. Making sense of Big Data/1.4 Final quiz.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/a7e049bc02c65b9b34c2296a99133d766ca3a113/src/introduction-to-pandas-video.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/afaaafcc232d8327f0b2c2f7ea7f4183a6c6dfb7/src/numpy-exercises-solutions.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/b270c8147cb33c511a0aff6e0bc12c37d6e4e047/1. Making sense of Big Data/1.1 NumPy.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/b49435717dd0e9264ed55a3f3098699b59b21303/src/example-notebook.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/b5f48f06f041921ebf78fa803982af880d7e415e/src/introduction-to-pandas.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/b67c19aba011c6f4b4efe766c42b442c4a3fa1fe/src/scikit-learn-metric-comparison.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/bcdf7cfa2b1d151eb0e0e8ef577f75ad39667358/src/scikit-learn-exercises.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/c69ee74e92a5d8a7d21fbcb1fd35eff8684b49e7/3. Deep Learning Fundementals/pytorch_tensors_and_numpy.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/c97e862911ca63bd7e04722c693eb467eca1d148/src/introduction-to-scikit-learn-OLD.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/cd0144fad39e581a9e15bd541511a6d0e7e3bff6/src/scikit-learn-exercises-solutions.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/cfcdaa82533f81d6232cef1efe581b64dc836117/1. Making sense of Big Data/Data_Fundamentals_Workshop_Alternative_Housing_Full.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/d88366b3fe76fe16d2d2b4700045497f5d13954e/5. Transformer/transformer.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/dc5f763cc50e3a01e33ad4fea58da75de28df8e9/src/car-sales-data-manufacture.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/e4d6fc72ec89f362ca6d979c133fcb35f45f85ff/src/pandas-exercises-solutions.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/e73c6069ca4cf4b6d0576627cedea4df9e2977b7/1. Making sense of Big Data/solutions.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/e87f1c16bd9aed3907f301f7ff7ec565aabec00c/src/introduction-to-numpy.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/f12d1bebb534f71906e19e93605065c283c56fdd/1. Making sense of Big Data/1.3 Data Visualization.ipynb
+https://raw.githubusercontent.com/ai-with-guy/Intro-to-practical-AI-course/ff3e4e6e32c74e42df05583b281568b74347177e/5. Transformer/vision_transformer.ipynb
+https://raw.githubusercontent.com/alicjakalwat/alicjakalwat-Projects/82a8583734f7538b39422b79af9553d1d9da9e83/Sieci neuronowe/NN_hate_speech.ipynb
+https://raw.githubusercontent.com/ananthchavancs24-prog/AI/f1e15b1607a8dbdbd932bf4ada3580a0e75ef720/Lab1.ipynb
+https://raw.githubusercontent.com/anoopkodaly/symbiotic-latent-memory/27c3261b7a4c00e200db28183f400c3c6e543867/symbiotic-latent-memory-full-pipeline-prototype-v1.ipynb
+https://raw.githubusercontent.com/arpit-nandanwar/Telco-Customer-Churn-prediction/5d1f70ea3766a8ebd263c4e743a6087105d3924d/telco_churn_prediction.ipynb
+https://raw.githubusercontent.com/atelierfutures/futures-edit-signals/132b892c9b285085d5602eab961bb4c9070aaa0b/signals_pipeline_colab_global_PLUS.ipynb
+https://raw.githubusercontent.com/babershahzad/Exoplanet-Detection-using-Deep-Learning/673d48ba9afaaea0a26471fbccb84ec1a6857ae8/Exoplanet_Detection_using_Deep_Learning.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/009773475e61fb95f2673770a0d96b24a9f50dfd/Markdown/.ipynb_checkpoints/04_Ejercicios_Markdown_II_Resuelto Beatriz Granda-checkpoint.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/009773475e61fb95f2673770a0d96b24a9f50dfd/Markdown/04_Ejercicios_Markdown_II_Resuelto Beatriz Granda.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/03c2c46354124fccc4825401588c9cf8e95a3e1f/Python/Parte_5_Ejercicio_práctico_DS_Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/11ee8484a07285ea3cf64a5e74a35761bde467ca/POO/.ipynb_checkpoints/P6_Píldora_4_Junyper_DS_Beatriz Granda_Resuelto-checkpoint.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/11ee8484a07285ea3cf64a5e74a35761bde467ca/POO/P6_Píldora_4_Junyper_DS_Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/171a1c18ce049a74ed15c2d09cf3ba53cb4c9e84/Python/P1_Píldora_5_Jupyter_Tipos_de_Datos_DS_Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/20947c95d464d05c5b3e5d963d1f0091e0b9bd5d/Python/Parte_4_10_Ejercicios_Python_Basisc_I_Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/264fe3fe4aac465dc79d67a3aef18686cca9ae21/Python/P5_Píldora_3_Jupyter_DS_Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/26c1fef6bb8d26012539f1382ed3ebccf441980b/Modulo-0/.ipynb_checkpoints/Ejercicios_Pyhton_Parte4_12-checkpoint.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/26c1fef6bb8d26012539f1382ed3ebccf441980b/Modulo-0/Ejercicios_Pyhton_Parte4_12.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/289f424f76a1dd6cfe7fa5685df2740f463eb66c/Python/P5_Píldora_1_Jupyter_DS__Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/37beeb0e94043c064ac54af54455c808974645c9/Python/P2_Píldora_4_Jupyter_Listas_DS_Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/3b7c677699ebd92abc10edd90e40e9cef57bb663/Python/P5_Píldora_9_Jupyter_DS_Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/3e4f0da1950aa55997dabb6feb5bbba71d702d93/Python/P2_Píldora_2_Junyper_DS_Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/42c4818c81ab02891fd7ec84583199a5a1419725/POO/.ipynb_checkpoints/Ejercicio 1 POO-checkpoint.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/42c4818c81ab02891fd7ec84583199a5a1419725/POO/Ejercicio 1 POO.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/47407fd3b97376a2718992be781fb412da28c54b/Markdown/.ipynb_checkpoints/Píldora_7_Beatriz_Granda_Markdown_Resuelto-checkpoint.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/47407fd3b97376a2718992be781fb412da28c54b/Markdown/Píldora_7_Beatriz_Granda_Markdown_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/474cbdc6e2e14925ff738f75ec79971d0ae0bb36/POO/.ipynb_checkpoints/P6_Píldora_5_DS_Beatriz Granda_Resuelto-checkpoint.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/55e3acd97f843f2be9754131c3eb8c296c951cbb/Python/P1_Píldora_9_Jupyter_DS_Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/5eb9a13e41c83e9f4e999534e98c37fa0ec3a2ca/POO/P6_Píldora_5_DS_Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/60a719ce075543720569019a25f54aebafab8b48/POO/.ipynb_checkpoints/P6_Píldora_6_Junyper_DS_Beatriz Granda_Resuelto-checkpoint.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/626464dae9d0f5e6e8bdd9346f139b8ab83fdaf9/Python/P5_Píldora_6_Junyper_DS_Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/63ae0a07483965c9a32866d1d9261c11e54c43ce/Python/P2_Píldora_1_Jupyter_DS_Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/63badb1016613873a48ac5d2cd0c2ed67f8832dc/Python/P2_Píldora_5_Jupyter_Flujos_Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/6681e8b3bf6e6e53f92e060f3da8646ec406a401/POO/P6_Píldora_3_Junyper_DS_Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/67afadb336790408b56199a6ad4e81f0f0eacac9/POO/Ejercicio 2 POO.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/7129e3a945b87417650eb85ae154855929c4093e/POO/Parte_6_Ejercicio_POO_DS_Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/72df67463bfb42e2d48e5a4daf91a1fde806d00a/Python/Parte_4_11_Ejercicios_Python_Basisc_I_Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/769b11293d680a7bec147faa2e17f04fb606191f/Python/P1_Píldora_7_Jupyter_DS_Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/7c60000fc3656be23edf34598248803df976a9a8/Modulo-0/Ejercicios_Python_Parte4_11.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/837da620cb4a7cf2df53cfb727f1182c161729b7/POO/P6_Píldora_6_Junyper_DS_Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/88093a483878529a5d13b6ff221ad6fe9882e8d9/Markdown/.ipynb_checkpoints/03_Ejercicios_Markdown_Ill_Beatriz Granda_Resuelto-checkpoint.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/88093a483878529a5d13b6ff221ad6fe9882e8d9/Markdown/03_Ejercicios_Markdown_Ill_Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/8fba2db4ab89ce7136c8de3974f26241b61f78d7/Python/Ejercicios Python_1.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/96dfd155f2e80f32a5a32e2716b3add768ae7fcd/Python/P1_Píldora_4_Jupyter_Notebook_DS_Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/991857883ea178593eea7f1b5979c3353e8a0a2e/Markdown/Parte_2_Píldora_8_Beatriz_Granda_Markdown_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/a3e732ef0427cd9556ca2fde19349548772b213f/Python/P5_Píldora_10_Junyper_DS_Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/b791b012cb0dcf3e9e494730a04b7e6f2c0b40b1/Python/P5_Píldora_7_Junyper_DS_Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/bf1fe12b6ef9d9d1182dfd018f4b69c7f0350b52/Python/Parte_4_12_Ejercicios_Python_Basisc_I_Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/bfbd7f13fadb4e9e347e376ca19bc02cdd446c43/Python/P1_Píldora_2_Jupyter_Variables_I_DS_Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/c74c14d7362ffd6d927fd50506cadc2f9efe276a/POO/P6_Píldora_2_Jupyter_DS_Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/c9c40639a0317d4af7238269e6d46bcc7f311f1b/POO/.ipynb_checkpoints/Ejercicio 2 POO-checkpoint.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/cea46e71484cda55efca3605065f2c5dd2589f3b/Python/P5_Píldora_8_Junyper_DS_Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/d0b262cc15a941e659bdb99b1a315ded89ef3c5a/Modulo-0/.ipynb_checkpoints/Ejercicios_Python_Parte4_10-checkpoint.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/d0b262cc15a941e659bdb99b1a315ded89ef3c5a/Modulo-0/Ejercicios_Python_Parte4_10.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/d1bb5f3848b9b73fc7b7c7e801ea658801357188/Python/P5_Píldora_5_Junyper_DS_Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/d63fe1999880150c5cc19ea642ef0efdd9eb2a35/Python/P5_Píldora_4_DS_Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/d820f213349a4f30c14d1ccc2a13fb96767ef09d/Python/Parte_4_13_Practica_Obligatoria_Python_Basics_I_Beatriz Granda_Resuelto.ipynb
+https://raw.githubusercontent.com/bgranda/ONLINE_DS_THEBRIDGE_Practica-1/f109491897a5d626144cda792a1f795f0faa5790/Modulo-0/Ejercicios_Python_Parte4_13.ipynb
+https://raw.githubusercontent.com/bigtom000/linear-regression-from-scratch-univariate/be352c3552454df088fe90c9660fa3bc1d51ac65/linear-regression-from-scratch-univariate.ipynb
+https://raw.githubusercontent.com/elyselow/Teiko_Technical_Project/8af5097852f22347d8447a594849a441fa6888ad/Teiko_Technical_Assessment.ipynb
+https://raw.githubusercontent.com/fahadiqbal1175/ml-learning/0668618df64b4fa5d0346cd2f55df642fe60bef5/C2_W2_ReLU_ShippingCost.ipynb
+https://raw.githubusercontent.com/fahadiqbal1175/ml-learning/1e88f57398c4f36f39f416154aafc94f46543523/C2W3_Lab_01_Model_Evaluation_and_Selection_CUSTOM.ipynb
+https://raw.githubusercontent.com/fahadiqbal1175/ml-learning/2524ca787c132c136a274613464035a9045be7a2/Salary_Linear_Regression.ipynb
+https://raw.githubusercontent.com/fahadiqbal1175/ml-learning/29b0686205b3f37dd0c24c29f6dcc075892a4a11/Logistic_Regression_New_Data.ipynb
+https://raw.githubusercontent.com/fahadiqbal1175/ml-learning/380ceb7130fb1914ef9e35dffedb2cfb94b2c1ef/C2_W1_Assignment_Digits3v8.ipynb
+https://raw.githubusercontent.com/fahadiqbal1175/ml-learning/42a5790cf5db780f2fbfed3de6c4b2ec74135a12/C2_W1_Lab01_Neurons_and_Layers_reworked.ipynb
+https://raw.githubusercontent.com/fahadiqbal1175/ml-learning/5aad61461754d69ebc897908e4707d0b9e32c70d/anomaly_detection_predictive_maintenance.ipynb
+https://raw.githubusercontent.com/fahadiqbal1175/ml-learning/5d33858a67bf770efcc2cb2e80bd871869d5e7c2/collaborative_filtering_recommender_book_edition.ipynb
+https://raw.githubusercontent.com/fahadiqbal1175/ml-learning/66e4803c2ff8139a8f3bddb6f924438d907ce0e3/Backprop_Computation_Graph.ipynb
+https://raw.githubusercontent.com/fahadiqbal1175/ml-learning/71ab2f9c5c4281cf0e1cac56b4e65ae3743f922e/Decision_Tree_Job_Applicant_Shortlisting.ipynb
+https://raw.githubusercontent.com/fahadiqbal1175/ml-learning/9af0adafba1d660ef8a589246978d5388ae28851/C2_W1_Lab02_CoffeeRoasting_reworked.ipynb
+https://raw.githubusercontent.com/fahadiqbal1175/ml-learning/c81d7a001841e0032a610ccb319ab398fcae8394/Multiclass_Classification_Fruit_TF.ipynb
+https://raw.githubusercontent.com/fahadiqbal1175/ml-learning/cbeabb1e2dfb2c2fc99d4a945fc402fc20769843/Decision_Trees_Mushroom_Practice_Lab.ipynb
+https://raw.githubusercontent.com/fahadiqbal1175/ml-learning/d28391df3fda9c5167d052aaacb0c0442e85d9f6/Exam_Prediction_NN_Numpy.ipynb
+https://raw.githubusercontent.com/fahadiqbal1175/ml-learning/e21db4cbc22f4d6b45fb312d798dcec6f23e389d/Derivatives_Practice_Lab.ipynb
+https://raw.githubusercontent.com/fahadiqbal1175/ml-learning/e6a19e4211afefc23aa1dd15e1065ee69fd6c4f4/KMeans_Clustering_CustomerSegmentation_ImageCompression.ipynb
+https://raw.githubusercontent.com/fahadiqbal1175/ml-learning/e74ecda11c82c5cbf58334a781e105c80e96531f/Tree_Ensemble_Employee_Attrition.ipynb
+https://raw.githubusercontent.com/fahadiqbal1175/ml-learning/eed8f9a01775441f363cf5dce9cd1e96528bd8b2/C2_W3_Assignment_CropYield_SoilType.ipynb
+https://raw.githubusercontent.com/fahadiqbal1175/ml-learning/f6125656c44b020232fc142c24ad5331f7279ed3/Softmax_Custom_Practice_Lab.ipynb
+https://raw.githubusercontent.com/gabriel-rodriguez-ruiz/Planck/73bbb9ac013526b26c43a6adf5ce099d03f91a95/Planck.ipynb
+https://raw.githubusercontent.com/gabriel-rodriguez-ruiz/Planck/ff998657e45dbcf81bb940bce96bfc54f4f3dd16/app.ipynb
+https://raw.githubusercontent.com/gittysb10/movie_recommend/2a85519b20faf4664dbb1d402c43c290accab9be/main.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/00d875f5b994c094dea91ee1c8d4c241af18be92/machine_learning/데이터_분리9.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/01e04d148cc0f6749fd55c5277f3a01e698d9e82/machine_learning/어간_추출_표제어_추출.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/0629b069e220a940474267e20055d8bb2b6a2d3a/deep_learning/matplotlib/ex1.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/0b9ebca400b0c847a8885ad250758e830d9d48fe/machine_learning/bag_of_words4.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/1741c8c05543912c9b5aabf537b491145e432457/machine_learning/불필요한_단어_제거.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/22feb3acc4092acdc2f06deefff15556db178b8b/tensorflow/Tensorflow 2로 해보는 간단한 Linear Regression 선형회귀 예측.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/256842a59b3707a5ed01f13a54824b648cced10d/deep_learning/matplotlib/73쪽꺼분석.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/2912bf52bed02dfc756cce653911c5319f5790b4/machine_learning/keras_패딩.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/2c2d511287847e1f98de70da4387accb8a39e52e/machine_learning/one_hot_encoding.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/31ffaf266389aefddeec87ef000711c5d39cd759/deep_learning/matplotlib/ex2.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/35bbdce36b3f12f6d8c60347198cd331aef0035e/deep_learning/numpy/ex1.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/366ad2e22a0badff730f89b8b6abbeb8078e09ae/machine_learning/enumerate.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/38495f82775b64a2c107dc059ee7c424a5104b49/deep_learning/NAND_OR_sample.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/38c7f81e352ae4c61bea55cc09092afbd8042a62/machine_learning/데이터_분리6.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/3c34c431ba05786b7659df081d814fd6441b687f/선택정렬/선택정렬.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/459032dd289593319d204884460f98a80e38b030/machine_learning/bag_of_words5.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/49276fd9c1a3e8d339e123e8efd262050eda9825/machine_learning/데이터_분리4.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/4d485df1da1ff3a9e7888f1901fbcb07e9b64c00/machine_learning/데이터_분리7.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/4f3dd94b20a08353a5f8d57a3ab3d3c6a080418b/machine_learning/데이터_분리1.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/50579d0a77cb9215b692ff87f64870ba582c18f9/deep_learning/89쪽꺼.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/61ac67982f4185199737d9a4509d5ecc553e3538/machine_learning/keras_텍스트_전처리.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/637f29681715d406f5bda4a386dabaef9d610b86/machine_learning/keras_텍스트_전처리2.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/67747afa7881cdd446cdbec1fb9ee13be72aab19/deep_learning/softmax_function/ex1.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/6c7eef164012e8f5b56e61a7b11d0e6dc5a94ed9/deep_learning/matplotlib/77쪽꺼분석.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/6dceaaa5caa3eef5211216fb802b87ec59b2adb5/deep_learning/matplotlib/1차함수_2차함수_3차함수.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/70796f1cfde6c85731502b29df84899e31246c8c/machine_learning/4-4TF-IDF.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/73f2aa80389f8bc06f2185fd7cc6f5bb163a3654/machine_learning/데이터_분리8.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/756809f8ebc5ee04bb0711fa90adb62bc969ebde/tensorflow/constant_variable.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/7c7efd02ba53c6387cc9d55cd3f7ee0980b141ef/machine_learning/4-4TF-IDF2.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/7d5f9cf0523e9b71b5e6b899d62b1a3c205fa849/machine_learning/불용어.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/8041d5521dab9ab80453275c2be263e75d8fb8c0/groomi_dataframe_project/groomi_dataframe.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/815a08bb266d4445277611b701e3ea63b9bc5a3f/machine_learning/bag_of_words.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/91040506afa10d1a85ab893d7a3f96c0ea089eeb/deep_learning/numpy/ex5.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/938fdb0973b60fa831ab2245d0ae786987187a18/deep_learning/numpy/ex2.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/99bc1ef25372f8813be8050a0783b43e877dab55/deep_learning/numpy/AND_gate_ex1.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/9d3d7d5d0c586e2efa5ec5561d31f18bd43e745c/groomi_dataframe_project/random_create.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/a68a30b6a8dbbc3501f963ad9ea7b2fdc857aeab/순차_탐색.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/b1f240cdfc593cb53e0f6ca3b0166c11de2fde23/machine_learning/video_경사하강.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/b2a000c86f5adcdcae5c180ce7ee13b252d60084/machine_learning/데이터_분리2.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/be3872e31104684576d6e682ad8ac3ab3ad7c19f/deep_learning/matplotlib/ex3.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/c0a02a4b9412c938878dc2c7ad4221100821bbbe/deep_learning/AND_sample.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/c4acb595cc08af83c86e117a8c5f3cea8f7a58f4/machine_learning/데이터_분리3.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/d618a1aeaa6517b1ba0dfd6e71c2029fe4e5b59e/machine_learning/토큰화.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/d86875c861aaad96cd1136e9b3e087bebdb0ab0b/machine_learning/keras_텍스트_전처리3.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/e0eb83e90785f4c5235b1fed9487c7ca57435827/deep_learning/numpy/ex7.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/e1833eff93b49b9da2a91a9325d612f8b354b180/machine_learning/데이터_분리5.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/e18ac2198cd0320a5ac8894f20d84220c5560d0e/machine_learning/numpy_패딩하기.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/e4186396e14e952cfce0970871d447b1eaf1d716/machine_learning/bag_of_words3.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/e4d61fac2ff195ad341a0a49c0db02015fddcf8a/machine_learning/bag_of_words2.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/e9a3d2c79f8e2e60f9e3c8b2ffab9783bd7fc249/deep_learning/numpy/ex4.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/edc1c915c9c7ab1b54adb828b306f0f517be4876/machine_learning/정규표현식.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/ee9d3256df0e09d52cbce6eb98c42205960cb189/tensorflow/tensorflow_starr.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/f006f774e8be242acea85dfc025b2051a904ea82/deep_learning/matplotlib/sigmoid_function.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/f52a21f34e8e531b555345d87b4956f198871178/deep_learning/numpy/ex6.ipynb
+https://raw.githubusercontent.com/groomigroom/python_files/f62d076cce2d4431da37bb752e53c79f01df8f34/machine_learning_2.ipynb
+https://raw.githubusercontent.com/harshitha12112006/AI_LAB/c718ab2cdee13a112da43b5d8b41b10301a0bdd6/WEEK1_1BM25CS453_TIC_TAC_TOE.ipynb
+https://raw.githubusercontent.com/harshitha12112006/AI_LAB/df46a919595a561bf156c9522dc4dd00fbbffe9d/WEEK1_1BM25CS453_VACCUM_CLEANER.ipynb
+https://raw.githubusercontent.com/hhammza/FYP1/383996e26e35273650dc2afcb8119a8734aab454/bacterial_mutation_timeline.ipynb
+https://raw.githubusercontent.com/hhammza/FYP1/6bc0cba721331d86d9710b8bc1632daab1493d6f/resistance_prediction_model.ipynb
+https://raw.githubusercontent.com/hhammza/FYP1/b5128b4f7b23347f77e84ceee895159f491dae47/LightGBM_Model_Improved.ipynb
+https://raw.githubusercontent.com/hmshdev/customer-shopping-behavior-analysis/8b37c4ac5bbdfd1d190e02d60f1f765541bb5a01/customer-shopping-behavior-analysis.ipynb
+https://raw.githubusercontent.com/ian-vazquez/border-wait-times/b0610ab9132818dbae8d17b1c38bd5118a548b1e/notebooks/exploratory_analysis.ipynb
+https://raw.githubusercontent.com/imabhinav0709/Natural-language-processing/7a0ae31fea76e0a2076caa325ebeea6e78d3f46b/GoT_Word2Vec_Analysis.ipynb
+https://raw.githubusercontent.com/ingo-stallknecht/volatility-nowcasting/3555d38c8c4eecfcb36b1787884062fa90af886e/notebooks/volatility_nowcasting.ipynb
+https://raw.githubusercontent.com/javieroon/Multi-Backend-Chatbot-with-Gradio/db4462c2d38f532d7e01e8960881668ed3d9da3a/Chatbot.ipynb
+https://raw.githubusercontent.com/kostasr500/airbnb-listing-optimization/61401312908da8723ec252e85b779819df65cf85/notebooks/01_data_exploration.ipynb
+https://raw.githubusercontent.com/kpsalida/Hospital-Discharges-Financial-Policies-PowerBI-Dashboards/d9ba4710131355c0de825d871b7203959caa16bb/visualization_eda.ipynb
+https://raw.githubusercontent.com/laxitajain/incremental-nids-advancedCIL-SHAP/31860a0b9a5f1629cf2d5a72c358480ebcd04537/src/xai/shap.ipynb
+https://raw.githubusercontent.com/laxitajain/incremental-nids-advancedCIL-SHAP/9169611567404d143424a5a0a8fdec1bd4572454/src/xai/umap_attacks.ipynb
+https://raw.githubusercontent.com/laxitajain/incremental-nids-advancedCIL-SHAP/a7cbe9d83f46b4defb32c593e82188fb92e95a1a/src/xai/sample_explanations.ipynb
+https://raw.githubusercontent.com/lyosticles/DSA2050A-week1-673396/f6fb38e8a1d907a7e2278a6b1255dfb54f535847/notebook/week1-analysis.ipynb
+https://raw.githubusercontent.com/mblijian/TTA-L3/1071b883fbf9d68a846700e2983d3c16a427b406/L4210T4_Wed_4pm.ipynb
+https://raw.githubusercontent.com/mblijian/TTA-L3/5dc6e7bb9cba7b7e6435efb486fcb105c7572e86/L0313T4_Sun_1pm.ipynb
+https://raw.githubusercontent.com/mblijian/TTA-L3/7bd1e72447c75f4cb36e237fb90add7538f27b9b/lucky_21.ipynb
+https://raw.githubusercontent.com/mblijian/TTA-L3/93f1e842a9672e26cb4815606ae054ba40476770/ L0313_final_presentation.ipynb
+https://raw.githubusercontent.com/mblijian/TTA-L3/a5570e4009123e84cba2ed11a9f044ed7500e620/L3213T4_Wed_6pm.ipynb
+https://raw.githubusercontent.com/mblijian/TTA-L3/baf84ba890bdcd421f335bd362f966a9d7a9b3af/Python_T3_T4.ipynb
+https://raw.githubusercontent.com/mblijian/TTA-L3/e3e99795bd1764637ea309d60b5808ff0e6010f1/L4215T1.ipynb
+https://raw.githubusercontent.com/meggieraaphorst/AI4G-Portfolio_Meggie/87c3d740a71314a1ddac90f8afef6c68f95cd436/Term 1/Week 1/homework/Week1_Workshop_Student_Copy.ipynb
+https://raw.githubusercontent.com/mirdbg/Entrega_RAG/26d7f53d298e31d17401c1262b22ec55987cd70a/notebooks_editados/S1_Herramientas_y_Bucle_Alumno.ipynb
+https://raw.githubusercontent.com/mirdbg/Entrega_RAG/3a697b5b82e65963d882bdb59f5e326873b84d35/notebooks_editados/Entrega_RAG_v5.ipynb
+https://raw.githubusercontent.com/mirdbg/Entrega_RAG/5dacbe343ccf80ca7e2a47e5898f525f56b7b6c0/notebooks_editados/Entrega_RAG_v6.ipynb
+https://raw.githubusercontent.com/mirdbg/Entrega_RAG/ab11dc4daeff8566ddc7667312f29f0ce88f1dee/notebooks_editados/Entrega_RAG_v1.ipynb
+https://raw.githubusercontent.com/mirdbg/Entrega_RAG/c68a71c707ac9f5ddcd57db5c2679c25d1970653/notebook_entrega/Entrega_RAG_final.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/0f6fd19f8f7560884d59a8eb159bd53fe0ea0867/CWs/week13/week12_classwork_attention3.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/203dfa1d650f33afe7131cd5683a4cf42bab90c6/CWs/week12/week12_classwork_transfer_learning .ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/244dd05a6706b02dc514cf1056ddddd033176899/CWs/week13/week-13-cw-02-tokenization-layernorm-encoder-decoder.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/25131927d8592d1d8ca0a9a7a3e26d94f46db1d6/HWs/week6/hw_w6.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/3f89b3d73ba005aeb578cfaf2752a8f2c5118534/CWs/week13/week13_classwork_transformer_block.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/486e78ae11d13a0959820c3240d8de1e081ec2cc/CWs/week7/more_classwork.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/53d052745df97c3260ec42f93fd22695ac087f13/CWs/week1/week1_2.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/57f3326f4a6662a22fe938c664d09399db786505/CWs/week4/week4_3.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/5ac3d0f7fd03be84cd6c460c0ff33d4a2ee71abf/CWs/week11/week11_classwork_extra (1).ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/6e0bfd462527649d1914935fd252492c565cec94/CWs/week4/week4_2.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/7444da85967da38a0139d729d8bde79deed78bb8/HWs/week7/hw_w7.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/746817bc90c206764c610635c052fc7fff1369ad/CWs/week13/cw13_normalization_tokenizer_encoder_decoder.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/7b8162042d46ed9ba20d3e235ed846c42ccdcf2e/CWs/week11/week11_classwork_resnet_pretrained.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/841a6b6bdd1e3d37ab71cd4c8cdafeb0ae01bf38/HWs/week13/week13_hw_projects.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/8487322f849212b69df9825af7571575a2adfee9/CWs/week5/week5_1.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/875a1b385a1c7278162574798723c546ff071d58/HWs/week11/week11_homework_finetuning_gradcam_mixup.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/87d3dcabc8a6144657e42f20a8f12f49da08a35f/CWs/week7/cw_w7.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/884b3754414fa3a6c866875b84ea6728d60a85ff/CWs/week7/cw_w7_2.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/8a01ad6cc749a6e8ba6f2552d23de83f45ef86a8/CWs/week3/week3.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/8d100fc8faccf173ddfdd01ad62a509ad2bb2b62/CWs/week11/week11_classwork_data_augmentation.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/9e9aa4be3b5564bfe8988b4c5b797749cef3f058/HWs/week12_2/week12_homework_attention.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/a314c4d537d4a98017cf3f5026d9dee2cecf93d3/CWs/week7/cw_w7_3.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/a47d0163a072d0a2367b7dfacafcd820d66a3f00/CWs/week9/cw_week9.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/a760cdf61640cb25a712820fc8d7f3d9531f4445/HWs/week3/hw_w3.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/a855f7863614a144692c3ad0831238b974fd9e8f/CWs/week12/week12_classwork_bow_to_attention.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/aaa5e0a96017a7710cf64892d8e536d9c3e74125/HWs/week1/HW_W1.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/af8b74b9f3065fbc1103c7fc0319bd95d70a0018/CWs/week4/week4.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/b32a0fde46b5afc6a16476365cee7ebc9d699da5/CWs/week3/week3_2.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/c62ecf887a8f522f3e0d1db69be49df10abe538f/CWs/week12/week12_overview/week11_cw.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/c77084782c5b704ab6147a507d5dc2c2c3d70fc2/CWs/week10/week_10_2.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/d4bc774cf8c87c83fb1cef71b9f1b28696843dde/CWs/week1/week1.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/da8546e7c8ffb99584919c618f7d07139021532b/CWs/week6/week6_1.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/db6cc44d3ea7e3712b6c507d6e39a61de340a9ff/CWs/week6/week6_2.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/e4841a66246a9e92156f9aa536f3a545a43da3ee/CWs/week8/cw_w8_session1.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/f50fd8c2891752f7fda329087773c4ca839d208a/CWs/week5/week5_2.ipynb
+https://raw.githubusercontent.com/mrpanigale/Maktab-AI-145/fd1ffce0fb6d8f4371d4ea64faf55f226598c376/CWs/week8/CW8_Day2_Classwork_Student.ipynb
+https://raw.githubusercontent.com/ncreshnc717/projects/af08870923d70d49b9bfae71bc4487ee1850281e/Untitled5.ipynb
+https://raw.githubusercontent.com/ncreshnc717/projects/eca55aabcb4b5cf849cd84058f7f3ccaf95162ec/24random.ipynb
+https://raw.githubusercontent.com/nmashokkumar/quick_commerce_last_mile_analysis/316216d95c7a172afd3ae5bc78426a7e00321fa1/notebook/Predictive_analyitcs.ipynb
+https://raw.githubusercontent.com/nmashokkumar/quick_commerce_last_mile_analysis/8f5241aed5a5ab6ad81edd651f231e53607ca990/notebook/Statistical_Analysis.ipynb
+https://raw.githubusercontent.com/nmashokkumar/quick_commerce_last_mile_analysis/9d0e7932cc26a68b328c9bbf793f3a1b5f74a871/notebook/EDA.ipynb
+https://raw.githubusercontent.com/noirdevv/fp-lbe-kcv/24b2d83a289f0adc8a46ea23f0149c5cabcd2743/FP_LBE_KCV.ipynb
+https://raw.githubusercontent.com/omosb1-sys/epl-data-pipeline/4f11c1625170d0b1779b67e606a374c7ebda683e/notebooks/리그데이터분석_update.ipynb
+https://raw.githubusercontent.com/omosb1-sys/epl-data-pipeline/6efff5a9c5087aba580d4bba9886c98fd1ed5d54/notebooks/리그데이터분석.ipynb
+https://raw.githubusercontent.com/omosb1-sys/epl-data-pipeline/76132f661cb551d2da13c05c5f61f7d8e02f072d/defense_analysis/hanwha/hanwha_defense_analysis.ipynb
+https://raw.githubusercontent.com/petra-rgb/news-dashboard1/9ae964ae9dba162445e68ee4d61d8de28dd4c76d/contentsourcing.ipynb
+https://raw.githubusercontent.com/physicsru/Composition_in_Transformer/1efb3f1090faad7bdd688f253d00611f863e74e7/pretrained_llm/notebooks/pca_visualization.ipynb
+https://raw.githubusercontent.com/physicsru/Composition_in_Transformer/ca223208713fbf6a4cd9f1b4078e26a7b40e417f/pretrained_llm/notebooks/analysis.ipynb
+https://raw.githubusercontent.com/physicsru/Composition_in_Transformer/e87df8782480411e69c68fe0b7c3e28c284e2d1a/toy_model/notebooks/dirichlet_energy_analysis.ipynb
+https://raw.githubusercontent.com/physicsru/Composition_in_Transformer/f619c88154bca92e10105987ad299846c66b93ff/toy_model/notebooks/training_dynamics.ipynb
+https://raw.githubusercontent.com/pr4t1kdas-cell/Krishi-Patra-Dynamic-Crop-Finance-Platform/168485d7963a8e8857cb9f792e3d0f7dbcb9b0cb/Krishi_Patra_Dynamic_Crop_Finance_Platform[1].ipynb
+https://raw.githubusercontent.com/pratyushadhikary2004-ship-it/LOAN_APPROVAL_MODEL/1b2e255640040c3ade61bdd29380dab33a871099/LOAN_PREDICTION_MODEL.ipynb
+https://raw.githubusercontent.com/rajabaleee18/pythonforai/06d8af4d5cb5479734b68d796023cea2f18f1768/introducationofpython1stlecture.ipynb
+https://raw.githubusercontent.com/ronam45/Kartik-AI-Job-Salary-Prediction/0feeeae27b8fb8cf0cf0d66f83057666908a059a/Kartik_AI_Job_Salary_Prediction.ipynb
+https://raw.githubusercontent.com/sairajyelumala1703-debug/aws-fulfillment-pipeline/47dbf7469bc8e24b36f8859bbced5c11941a90bc/Project2_AWS_Fulfillment_Pipeline.ipynb
+https://raw.githubusercontent.com/sauryaten-ai/solar-power-predictor/9ed73dcf7f7238caff6d70863cfc6ba613d92c8e/Untitled-1.ipynb
+https://raw.githubusercontent.com/sendaslimenss/Sales-Performance-Dashboard-/0eb3f51ac87f28f019480544ca77e68e2183eeac/week1/notebooks/sales.ipynb
+https://raw.githubusercontent.com/sendaslimenss/Sales-Performance-Dashboard-/b1ad250af61a6ffdcc7a0b27c9afa242cd714169/week4/notebooks/sales.ipynb
+https://raw.githubusercontent.com/sharmaRoushan-Official/python2043/1487d75900c3830df5707ee5c71a4b07ffc76050/2.Diksha/1.String/String Practice Questions.ipynb
+https://raw.githubusercontent.com/sharmaRoushan-Official/python2043/2dd95bf578de2cb9e7214e26d01cd808dbe3d930/9.Functions in Python.ipynb
+https://raw.githubusercontent.com/sharmaRoushan-Official/python2043/3f3c55c342125efbad06e16d29780dec4df9cf8b/4.Tuple in python.ipynb
+https://raw.githubusercontent.com/sharmaRoushan-Official/python2043/3f3ce703795d52a83c1f12963d0b4157717e1709/2.Diksha/Python Basic/Mixed practice questions.ipynb
+https://raw.githubusercontent.com/sharmaRoushan-Official/python2043/57436a86690911b9764297c5264ef64594e0413b/2.Python Strings.ipynb
+https://raw.githubusercontent.com/sharmaRoushan-Official/python2043/92eac96c9e47c453d4033e977623eaf2d4cc2c23/2.Diksha/Pattern/pattern practice questions(10).ipynb
+https://raw.githubusercontent.com/sharmaRoushan-Official/python2043/98bc98b77ab94e660d2a7bc566ecbb63ce5d8e26/6.Dictionary.ipynb
+https://raw.githubusercontent.com/sharmaRoushan-Official/python2043/9e6f7ff38e63b41f8c83e5b65219f27432861dd6/1.Pratiksha/Condition/Practice Conditions Questions.ipynb
+https://raw.githubusercontent.com/sharmaRoushan-Official/python2043/c0138deb4dec8c75262ac7a427a124897f79bc57/1.Pratiksha/Python Basic/Practice Mixed Questions.ipynb
+https://raw.githubusercontent.com/sharmaRoushan-Official/python2043/c12a0e80af101da4a29969d421499c0efb35c023/1.PythonBasic.ipynb
+https://raw.githubusercontent.com/sharmaRoushan-Official/python2043/ce07472f2f91cb813c8a6242b8e7c3a48f0cac65/8.Loops in Python.ipynb
+https://raw.githubusercontent.com/sharmaRoushan-Official/python2043/d9055196b40f8429c7350a73e7f9dd93b263dee0/2.Diksha/Loops/Basic loop questions(30).ipynb
+https://raw.githubusercontent.com/sharmaRoushan-Official/python2043/dfc4c4cc4756f7854c94e931210c5c2f419c5269/3.Lists in Python.ipynb
+https://raw.githubusercontent.com/sharmaRoushan-Official/python2043/e6124d83c31e77841d98d8d429781db71b66c32b/1.Pratiksha/Loops/Loop Practice Questions.ipynb
+https://raw.githubusercontent.com/sharmaRoushan-Official/python2043/e9df4ff29a36ecf8bfc4836b9448f35302f81e0e/1.Pratiksha/1.String/String Practice.ipynb
+https://raw.githubusercontent.com/sharmaRoushan-Official/python2043/ee8d0deb9c42589865e912234e4782c9628202a6/7.Conditions in Python.ipynb
+https://raw.githubusercontent.com/sharmaRoushan-Official/python2043/f3cc2d9d68ad6cd3faaec85150ac10d1358eed18/5. Sets in Python.ipynb
+https://raw.githubusercontent.com/sharmaRoushan-Official/python2043/f461cad56a8f5b8b0c5b9f037c5e2124bcdec290/1.Python Basic.ipynb
+https://raw.githubusercontent.com/shenal00/network-intrusion-detection-ml/356c033862e5122258330da960e34f3e4ca3a993/notebooks/exploration_intrusion_ids.ipynb
+https://raw.githubusercontent.com/sonu-2027/Medical-Deepfake-Detector/48c9420d5f0183feba9a4c00c8400ab43b875ff6/cnn_training.ipynb
+https://raw.githubusercontent.com/sonu-2027/Medical-Deepfake-Detector/64ae0ac5a10c2c46de6b4ed784b5578183bdfcbe/y1.ipynb
+https://raw.githubusercontent.com/sugam-bhattarai/drug-response-prediction/f5d29b49e472861a04e5bde8f81619505ed633be/notebooks/01_Drug_Response_Visualization.ipynb
+https://raw.githubusercontent.com/sulemanyou64ab/credit-card-fraud-detection/275f210be50b1c5d2961a78939855e1eb0f17730/fraud_detection_analysis.ipynb
+https://raw.githubusercontent.com/swapnasaina274/malicious-mobile-app-detection/b6d41ca8c7efad0858dcd748ee95423079206bdf/Malicious_Mobile_Application_Detection.ipynb
+https://raw.githubusercontent.com/toolboxlap-ve/TOOLBOXLAP-Colab-Ollama/680c55080fdcfbeaea8787ec741923eb4619491d/colab/TOOLBOXLAP-Colab-Ollama-Network.ipynb
+https://raw.githubusercontent.com/toolboxlap-ve/TOOLBOXLAP-Colab-Ollama/b8b1206c4c1c2be0e13fb19cfcb84b02f0eb18ed/colab/TOOLBOXLAP-Colab-Ollama.ipynb
+https://raw.githubusercontent.com/vdcmhaodl/Telco-customer-churn-prediction/3cdfa1fb90a32bd4e7a993d717f0ab91afe6e279/notebooks/02_business_eda.ipynb
+https://raw.githubusercontent.com/vdcmhaodl/Telco-customer-churn-prediction/4f6c88d1923fceca8cb89b223ce0c0e89f48751b/notebooks/01_data_audit.ipynb
+https://raw.githubusercontent.com/vgonzf04/pontia-machine-learning-evaluacion/23807030fc573e76f647ac28b3f386641801597e/notebooks/exploracion/neuronal_network.ipynb
+https://raw.githubusercontent.com/vgonzf04/pontia-machine-learning-evaluacion/8f760fffa8271f9b4cb8f2d79f62c82b9514f669/notebooks/exploracion/eda_inicial.ipynb
+15NfaXoCW8PVU_HEfkXeqGkqGbnRgL4Pa
+1EbPZ_o69Gzn-2a-GvBmwqSJDQYTq2y3H
+1Gtrr7zFJtvn0Is1syKzkroWaglvrcTdU
+1csRP5qQogdlcn8zf_TZ8KFAORJjn8sjs
+1dzVgXmzdZLNV3O9QVqyqI-AIXBaim5dX
+1gI4jJlfpNTPrk7Nh9Kd6iSYYJWx7pxH5
+1rfsN_JvYnRYqqZMJF-r025tSyiHDjfOi
