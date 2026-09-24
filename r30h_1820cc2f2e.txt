@@ -1,0 +1,13 @@
+https://gitlab.com/mauricemolli/petitRADTRANS/-/raw/master/docs/content/notebooks/analysis_tools.ipynb
+https://gitlab.com/mauricemolli/petitRADTRANS/-/raw/master/docs/content/notebooks/getting_started.ipynb
+https://gitlab.com/mauricemolli/petitRADTRANS/-/raw/master/docs/content/notebooks/high_resolution_spectra.ipynb
+https://gitlab.com/mauricemolli/petitRADTRANS/-/raw/master/docs/content/notebooks/including_clouds.ipynb
+https://gitlab.com/mauricemolli/petitRADTRANS/-/raw/master/docs/content/notebooks/interpolating_chemical_equilibrium_abundances.ipynb
+https://gitlab.com/mauricemolli/petitRADTRANS/-/raw/master/docs/content/notebooks/planet.ipynb
+https://gitlab.com/mauricemolli/petitRADTRANS/-/raw/master/docs/content/notebooks/rebinning_opacities.ipynb
+https://gitlab.com/mauricemolli/petitRADTRANS/-/raw/master/docs/content/notebooks/retrieval_basic.ipynb
+https://gitlab.com/mauricemolli/petitRADTRANS/-/raw/master/docs/content/notebooks/retrieval_emission.ipynb
+https://gitlab.com/mauricemolli/petitRADTRANS/-/raw/master/docs/content/notebooks/retrieval_models.ipynb
+https://gitlab.com/mauricemolli/petitRADTRANS/-/raw/master/docs/content/notebooks/retrieval_multiple_data.ipynb
+https://gitlab.com/mauricemolli/petitRADTRANS/-/raw/master/docs/content/notebooks/retrieval_spectral_model.ipynb
+https://gitlab.com/mauricemolli/petitRADTRANS/-/raw/master/docs/content/notebooks/retrieval_spectral_model_jwst.ipynb
