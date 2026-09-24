@@ -1,0 +1,305 @@
+https://raw.githubusercontent.com/santimcs/A4/f674c15ac435d70b09a4a3862c6a7525a066ee1c/Quarterly/.ipynb_checkpoints/340-Create Profits Q3-checkpoint.ipynb
+https://raw.githubusercontent.com/santimcs/A4/f6c46f19ebb6dd1a762aa650100e1bb7ca1ab3ae/Daily/Untitled.ipynb
+https://raw.githubusercontent.com/santimcs/A4/f6d1ca05d5e04ecfcf249362cef803d880a9ef5d/YouTube/bridgemindai.ipynb
+https://raw.githubusercontent.com/santimcs/A4/f6f9fdcc54a70252c25f6fc61ecdd43d597db304/Music/Tian Mi Mi (CN).ipynb
+https://raw.githubusercontent.com/santimcs/A4/f7177e89dfef4c197ea94cce88e6a35c0e428862/Daily/110 - Update Buy and Dividend from Buy Transactions.ipynb
+https://raw.githubusercontent.com/santimcs/A4/f71dbc014cf38f9926157436241450484d18350e/YouTube/jamesnocode.ipynb
+https://raw.githubusercontent.com/santimcs/A4/f7ea4fa67e382b2685bf854a9a713018a28b5a0d/Daily/.ipynb_checkpoints/201 - Delete all excel files in folder Datasets-checkpoint.ipynb
+https://raw.githubusercontent.com/santimcs/A4/f8c3c035a70dfe708cc2a3529eddc3dd1b286ea7/Ad hoc/.ipynb_checkpoints/920-Dividend Q2-checkpoint.ipynb
+https://raw.githubusercontent.com/santimcs/A4/f8ca0ffdd278caf7aff3fe1c0511b820c03c1649/Music - May/S - Senorita.ipynb
+https://raw.githubusercontent.com/santimcs/A4/fa72a6d69eb57ee9fedd73a64f4100a0b8ce9912/Music - Apr/03 - Create songs with ids.ipynb
+https://raw.githubusercontent.com/santimcs/A4/fb55a0018fde2b7d3f13e8e981484e50943c2f38/Data Cleansing/Tickers consistency check.ipynb
+https://raw.githubusercontent.com/santimcs/A4/fb868548c16d3e7a9f99c3d79fa2ed8b89ada51a/Music/.ipynb_checkpoints/Viva La Vida-checkpoint.ipynb
+https://raw.githubusercontent.com/santimcs/A4/fb868548c16d3e7a9f99c3d79fa2ed8b89ada51a/Music/I Can’t Make You Love Me.ipynb
+https://raw.githubusercontent.com/santimcs/A4/fbf2b894d44b769994d7bd055f4e293a15e54917/Weekly/.ipynb_checkpoints/020 - Price Comparison-checkpoint.ipynb
+https://raw.githubusercontent.com/santimcs/A4/fc29ccbecf7c12f2ca92dce4f52eec3f3e8e7c0d/Data Cleansing/.ipynb_checkpoints/Copy tickers and stocks to PostgreSQL-checkpoint.ipynb
+https://raw.githubusercontent.com/santimcs/A4/fc7117ed0af3396117b952f51a49d88c2a4c7fec/Music - Apr/Because Of You.ipynb
+https://raw.githubusercontent.com/santimcs/A4/fcb2c086a5ac79e28b67281f903810a23dcd7a97/YouTube/.ipynb_checkpoints/AICodeKing-checkpoint.ipynb
+https://raw.githubusercontent.com/santimcs/A4/fcb2c086a5ac79e28b67281f903810a23dcd7a97/YouTube/.ipynb_checkpoints/PaulJLipsky-checkpoint.ipynb
+https://raw.githubusercontent.com/santimcs/A4/fd87fa0fd60e1cc0b12a20e2f22738e8d221434f/Music/When I Was Your Man.ipynb
+https://raw.githubusercontent.com/santimcs/A4/fd91ea6ca7eb927effb0cea7f0e332d0816ee4cf/Music - May/C - You Are The Reason.ipynb
+https://raw.githubusercontent.com/santimcs/A4/fd94d737ab752e44b185dbf500c8ba07c3253f11/Music - Feb/Love Is All Around.ipynb
+https://raw.githubusercontent.com/santimcs/A4/fe4e7f5d3dc9c7c9eb83e9b1f6357e3dedc4d4ea/Music - Apr/Restore MySQL database.ipynb
+https://raw.githubusercontent.com/santimcs/A4/fea4f1d829f00cadf0b02e1ceb229dd7ac545611/Music - Feb/Wichita Lineman.ipynb
+https://raw.githubusercontent.com/santimcs/A4/feb12acac2fa265d79b16867f67fd251510423da/Daily/206 - Create Price Data from Excel Files.ipynb
+https://raw.githubusercontent.com/santimcs/A4/ff8d6d0e233feee912240daa6feceb55bd912ca4/Daily/.ipynb_checkpoints/406 - Create Price Data from Excel Files-Copy1-checkpoint.ipynb
+https://raw.githubusercontent.com/santimcs/A4/ffab01902cff1ce300d7120e445c9212d5c0a098/Music - Feb/Owner Of A Lonely Heart.ipynb
+https://raw.githubusercontent.com/saraalwadia/airshift/08d03bab7620ecea1c187e445c792c5de4e77f11/notebooks/05_labeling.ipynb
+https://raw.githubusercontent.com/saraalwadia/airshift/14e50015800917996c05f66184f105850ad6f285/notebooks/11_early_warning_prediction.ipynb
+https://raw.githubusercontent.com/saraalwadia/airshift/1f3611b57200516d081bfd0ab34b857d468efc04/notebooks/04_deterioration_event_definition.ipynb
+https://raw.githubusercontent.com/saraalwadia/airshift/5f01f55ebb5cdcbdc18c5ebe4d70b3cba3e1d046/notebooks/10_SHAP_Interpretation.ipynb
+https://raw.githubusercontent.com/saraalwadia/airshift/6bb189d60f6bf79ed7c00f770fa4871504983d7e/notebooks/03_feature_engineering.ipynb
+https://raw.githubusercontent.com/saraalwadia/airshift/814052fb3c80f4238d2a143bfc6b4df973d2d651/notebooks/06_model_development.ipynb
+https://raw.githubusercontent.com/saraalwadia/airshift/a126a41b6fed677512918e3fd0322db6465d49cc/notebooks/09_feature_importance.ipynb
+https://raw.githubusercontent.com/saraalwadia/airshift/bdba782bb2dd0dfd5522b9f151451a772e7d9bf7/notebooks/01_data_understanding.ipynb
+https://raw.githubusercontent.com/saraalwadia/airshift/c1bc6475d943617aa26c09e6b0443f2c91f2764e/notebooks/08_final_test_evaluation.ipynb
+https://raw.githubusercontent.com/saraalwadia/airshift/d7fc935373ae829a4029a87df83284effd21c3df/notebooks/07_XGBoost.ipynb
+https://raw.githubusercontent.com/saraalwadia/airshift/e93f90441816db3ab799abd7ef042fc959890f3e/notebooks/02_data_cleaning.ipynb
+https://raw.githubusercontent.com/sear-labs/water-energy-coopt-scs-2021/06941cfbc5b693d69728cf2e17ada3e9ecf6a3ca/notebooks/01_example.ipynb
+https://raw.githubusercontent.com/sear-labs/water-energy-coopt-scs-2021/45d5c73098dddad4898c9e3a7cc2016f31da695b/notebooks/00_verification.ipynb
+https://raw.githubusercontent.com/shanib123/pythonlearning/02092a13e3cbcc14b17e0d5381537cbf860f0a5f/Downloads/python/operators_in_python_practical.ipynb
+https://raw.githubusercontent.com/shanib123/pythonlearning/365c04931449a381f81998a108fae68044bf9d46/Downloads/python/new.ipynb
+https://raw.githubusercontent.com/shanib123/pythonlearning/3b8a0176786a08196919e4264da8f593243dccec/Downloads/python/strings.ipynb
+https://raw.githubusercontent.com/shanib123/pythonlearning/5f7d7947dfc7d85fc3e6a2b1c081ce40bbc4b83e/Downloads/python/dictionaries_in_python_practical.ipynb
+https://raw.githubusercontent.com/shanib123/pythonlearning/700cfd8a2c7476ccdd6ad861ae7a38e0d55944df/Downloads/python/sets.ipynb
+https://raw.githubusercontent.com/shanib123/pythonlearning/98fe8a51843842515f28f0d579dbcfb80e7e4cb6/Downloads/python/4_tuples.ipynb
+https://raw.githubusercontent.com/shanib123/pythonlearning/a4722f9fa2b8833d60e00a7fc45a6dbc90c1bd23/Downloads/python/sets_in_python_practical.ipynb
+https://raw.githubusercontent.com/shanib123/pythonlearning/bca3a678ab69a052d00953fc7b00d8155c1552f9/Downloads/python/Tuples.ipynb
+https://raw.githubusercontent.com/shanib123/pythonlearning/c058e64d5f745bb3a81ba69fcbcf789b62c5f37c/Downloads/python/lists_in_python_practical.ipynb
+https://raw.githubusercontent.com/snehakuralkar/EDA-Case-study/252f8e85ea09c09cb401fb1036f5301786822365/custemer_churm.ipynb
+https://raw.githubusercontent.com/snehakuralkar/EDA-Case-study/6924d8cefc5d3ebc949120bc30920b37437ffb9d/casestudy_on_autompg (2).ipynb
+https://raw.githubusercontent.com/snehakuralkar/EDA-Case-study/86c699d715f800257498ecb887ced124828d2328/Case_study income adult.ipynb
+https://raw.githubusercontent.com/snehakuralkar/EDA-Case-study/bc34c4df09b697417f83dce11415a01e5a9b2209/EDA complete Case Study-flight data (1).ipynb
+https://raw.githubusercontent.com/snehakuralkar/EDA-Case-study/d2d84a1264f6c457416a90601e8afcdd39b208bf/Airbnb_casestudy.ipynb
+https://raw.githubusercontent.com/snehakuralkar/EDA-Case-study/d7356c023e69cf58b5e47bc2bd81dc1f3b3f2022/casestudy_flightdata.ipynb
+https://raw.githubusercontent.com/snehakuralkar/EDA-Case-study/dce6291b05e0b65fd8ca2a4b5479c659426e3064/covid19_casestudy.ipynb
+https://raw.githubusercontent.com/srinithiarulprakash/smart-logistics-optimizer-/56f2cf510545ee2381d2c456cfb8651a81d47259/Smart_Logistics_&_Weather_Impact_E_Commerce_Optimizer.ipynb
+https://raw.githubusercontent.com/subham518/Python/066d0ece165b7b5267e65091f2e9c230cee93d05/Python-for-DataScience/08.Merging and Concatenating DataFrames/Joins.ipynb
+https://raw.githubusercontent.com/subham518/Python/072cabe8f9679b04d7451f319003f356f147152e/Python-for-DataScience/07.GroupBy and Aggregate Function/GroupBy and Aggregate Function.ipynb
+https://raw.githubusercontent.com/subham518/Python/11bc691ce1f54e43752cb573329a03107db797de/Python-for-DataScience/08.Merging and Concatenating DataFrames/Concatenate.ipynb
+https://raw.githubusercontent.com/subham518/Python/18c60610561433af9eea6b90bff48f7eb37fd1e3/Python-for-DataScience/04.Data Extraction/9.Lamda function + apply().ipynb
+https://raw.githubusercontent.com/subham518/Python/2307a475ff8a2fd219e6f103a8a069fbcc6aa9c5/Python-for-DataScience/13.Project 5 - Music Model/genre classification.ipynb
+https://raw.githubusercontent.com/subham518/Python/23f59e11b0827397a0a5f6835a412428578d4f5f/Python-for-DataScience/04.Data Extraction/7.Filter A Dataframe with query().ipynb
+https://raw.githubusercontent.com/subham518/Python/26f19c138327df6164db226f7bbd3d8fdef0c4f9/Python-for-DataScience/09.Regular Expressions/Exercise.ipynb
+https://raw.githubusercontent.com/subham518/Python/28bacf7e14ddeeb82eb23f1356ec328dc4696b1e/Python-for-DataScience/06.Project 2 - Data Visualization/Interactive Visualization with pandas.ipynb
+https://raw.githubusercontent.com/subham518/Python/2a83024a766194ba6ebace8108cf66ac355f37e0/Python-for-DataScience/04.Data Extraction/5.Drop Rows Or Columns from a Dataframe.ipynb
+https://raw.githubusercontent.com/subham518/Python/2d1df8a568feaf5e4d836807bb07d9fd24b3fbf7/Python-for-DataScience/04.Data Extraction/8.The apply().ipynb
+https://raw.githubusercontent.com/subham518/Python/32eb8d17e340c09c231acd4003e6c6c9db9394d4/Machine-Learning/Lesson 6/Unsupervised_Learning_and_Recommendations_with_Scikit_Learn.ipynb
+https://raw.githubusercontent.com/subham518/Python/3733cee89c41a041ed084f01a150f14cc7948108/Python-for-DataScience/05.Pivot Table/pivot() and pivot_table().ipynb
+https://raw.githubusercontent.com/subham518/Python/3ba33cc8159f18b27f4024376df54869de8d6e87/Python-for-DataScience/13.Project 5 - Music Model/Visualizing Decision Tree.ipynb
+https://raw.githubusercontent.com/subham518/Python/3e8bcb7d7e28a7722f11c756b3ecab9a24df14fe/Python-for-DataScience/02.Project 1 - Web Scraping with Pandas/1.Web Scraping with Pandas.ipynb
+https://raw.githubusercontent.com/subham518/Python/5743f76fba67f4f860e65e772c2962ad444b4d44/Python-for-DataScience/11.Machine Learning/2.Linear Regression with Statsmodels (Multiple Linear Regression).ipynb
+https://raw.githubusercontent.com/subham518/Python/6f05b4d940a3a0993eaea28bafff8b750af76578/Python-for-DataScience/01.Intro To Pandas/Example.ipynb
+https://raw.githubusercontent.com/subham518/Python/75b4a76315e867ba544c3bf630dbea2e6515e218/Python-for-DataScience/11.Machine Learning/1.Linear Regression with Statsmodels (Simple Linear Regression).ipynb
+https://raw.githubusercontent.com/subham518/Python/8cce4db2e330d8ac6a0603ff7e1f93ef85bceaf8/Python-for-DataScience/03.Filtering Data/3.Filter a Dataframe Based on 2 or More Conditions.ipynb
+https://raw.githubusercontent.com/subham518/Python/8dca1bbd57c00a459601538abb940073821b0c86/Python-for-DataScience/06.Project 2 - Data Visualization/1.Dataset Overview and Making Pivot Table.ipynb
+https://raw.githubusercontent.com/subham518/Python/957809597e70e61e1a851ea05ffe4df94229c67f/Python-for-DataScience/04.Data Extraction/3.Selecting elements by index position with .iloc().ipynb
+https://raw.githubusercontent.com/subham518/Python/a3d7b318133c86188b79380a5ef0503688b08e6a/Python-for-DataScience/04.Data Extraction/6.Create Random Sample with sample().ipynb
+https://raw.githubusercontent.com/subham518/Python/aa7da68eae79e56cf53a63e9c98731db30d4566f/Python-for-DataScience/03.Filtering Data/1.Filter a Dataframe Based on 1 Condition.ipynb
+https://raw.githubusercontent.com/subham518/Python/b05626a51b385bc29b80865fcd5e2f0fc283f186/Machine-Learning/Lesson 1/Linear Regression.ipynb
+https://raw.githubusercontent.com/subham518/Python/bd2fdb573ff00e15c9c62663ec624455206d5a00/Python-for-DataScience/03.Filtering Data/7.Drop Duplicate Elements .drop_duplicates().ipynb
+https://raw.githubusercontent.com/subham518/Python/c05efd57a5237ec74342b66f94d163898ac3b11f/Python-for-DataScience/03.Filtering Data/2.Create a column based on 1 condition np.where().ipynb
+https://raw.githubusercontent.com/subham518/Python/c965685c6e0ce372d439b7be3f9f73a663512fce/Python-for-DataScience/09.Regular Expressions/1.search() and findall().ipynb
+https://raw.githubusercontent.com/subham518/Python/cb390a9a0e5189ce4558c6bc6829ac5495ca2d44/Python-for-DataScience/10.Project 3 - Data Cleaning/Data Cleaning with Pandas.ipynb
+https://raw.githubusercontent.com/subham518/Python/cc0bdae177bea3d79684d717df1f4b5f2211c9f4/Python-for-DataScience/04.Data Extraction/2.Selecting elements by index label with .loc().ipynb
+https://raw.githubusercontent.com/subham518/Python/d2cc3d3aa8880355cd3f9ae9dba4d2a7c3b3696b/Python-for-DataScience/12.Project 4 - Text Classification/Project 4 - Binary Text Classification.ipynb
+https://raw.githubusercontent.com/subham518/Python/d581852e2055a78b034789668c0ec4525fc79f2d/Python-for-DataScience/03.Filtering Data/8.Get and Count Unique Values unique() and nunique().ipynb
+https://raw.githubusercontent.com/subham518/Python/da5b262414a5d5f523fe3f15a24dbb29d1ed3561/Machine-Learning/Lesson 3/Decision Trees and Random Forests.ipynb
+https://raw.githubusercontent.com/subham518/Python/df2a47501a5c9d2ee369ec3069f370bb4614dc4c/Python-for-DataScience/06.Project 2 - Data Visualization/3.Adding Matplotib to Pandas.ipynb
+https://raw.githubusercontent.com/subham518/Python/dff597f6725d056278a1a63d9c0f324acfcfed89/Python-for-DataScience/03.Filtering Data/6.Find Duplicate Rows with the .duplicated().ipynb
+https://raw.githubusercontent.com/subham518/Python/e18b8b880bc1f3de33d1d9346af0df62f7bb01b1/Python-for-DataScience/03.Filtering Data/4.Creating a Conditional Column np.select().ipynb
+https://raw.githubusercontent.com/subham518/Python/e275b1f4928690b2a8fd498e47331dc193437034/Python-for-DataScience/03.Filtering Data/5.The .isin() Method.ipynb
+https://raw.githubusercontent.com/subham518/Python/e716be7a6b3412d3c33e001f05ea6bc16201179a/Python-for-DataScience/04.Data Extraction/1.First Look at The Dataset Setting Index and Selecting Columns.ipynb
+https://raw.githubusercontent.com/subham518/Python/e79ac505f06909adc272e8ba439935b8785ed3d1/Machine-Learning/Lesson 4/How to Approach Machine Learning Projects.ipynb
+https://raw.githubusercontent.com/subham518/Python/e9aced983e9ded20d58c5943e481f9781b02b0a6/Python-for-DataScience/04.Data Extraction/4.Set New Value for a Cell in a Dataframe.ipynb
+https://raw.githubusercontent.com/subham518/Python/ea35ba91099d11103e6b90391779a1310faf9ca2/Machine-Learning/Lesson 5/Gradient Boosting Machines (GBMs) with XGBoost.ipynb
+https://raw.githubusercontent.com/subham518/Python/ee26478bb056b730fc76e4318ae9b2a2328eb831/Python-for-DataScience/11.Machine Learning/3.Linear Regression with sklearn.ipynb
+https://raw.githubusercontent.com/subham518/Python/ee5e586d576a2b925965d078e971def838316f51/Python-for-DataScience/04.Data Extraction/10.Make copy copy().ipynb
+https://raw.githubusercontent.com/subham518/Python/fefcb89331897cad25efac303e37937375b31551/Python-for-DataScience/06.Project 2 - Data Visualization/2.Data Visualization with Pandas.ipynb
+https://raw.githubusercontent.com/suvrazastrovision/Drug_Assist/075e10a904f558dea92898cb6382e86100d38314/notebooks/01_data_ingestion.ipynb
+https://raw.githubusercontent.com/suvrazastrovision/Drug_Assist/156eacc7f34224ff3b9d79ac2e5892a0d4e940b9/notebooks/archive/03_retrieval_11_steps_reference.ipynb
+https://raw.githubusercontent.com/suvrazastrovision/Drug_Assist/16da1147b6fe32a37573daa5145587262f771bbe/notebooks/02_eda.ipynb
+https://raw.githubusercontent.com/suvrazastrovision/Drug_Assist/5aaa507399629ed852e37a63a9846433891c1d6b/notebooks/archive/03_retrieval_before_11_steps_20260921_195333.ipynb
+https://raw.githubusercontent.com/suvrazastrovision/Drug_Assist/6820b65602ef6a0c12150bde0b35ce9c9e86f3d9/notebooks/03_retrieval.ipynb
+https://raw.githubusercontent.com/suvrazastrovision/Drug_Assist/af3c2e2e352064cf3c0ad3160fc6d2c8d8c23d1e/notebooks/archive/drug_01.ipynb
+https://raw.githubusercontent.com/suvrazastrovision/Drug_Assist/bd533e3cd750977d78943f500dffdb9e422fd234/notebooks/archive/03_retrieval_before_restore_20260922_101213.ipynb
+https://raw.githubusercontent.com/syafikhakim25-pixel/DasarPPLG-X-2627/6d169e9acb41d8be012fb206b505e9b9a5c3bfab/X_PPLG_SYAFIQHAKIM_TUGAS2.ipynb
+https://raw.githubusercontent.com/syafikhakim25-pixel/DasarPPLG-X-2627/7b1f0e0543e6cf282091d5343fe2010ed65b29d6/X_PPLG_SyafiqHakim_Tugas1.ipynb
+https://raw.githubusercontent.com/syafikhakim25-pixel/DasarPPLG-X-2627/ec63b4ebb88670ac6a29c49d41416c44842bcdf0/Dasar_pemrograman_c++.ipynb
+https://raw.githubusercontent.com/tmschnell/misuka-room-acoustics-comparison/09d34b4a409b03b97ac310a0b19d665127ba4c50/pyroomacoustics_comparison.ipynb
+https://raw.githubusercontent.com/tmschnell/misuka-room-acoustics-comparison/33c6be485fec51f9d7c33de0a279a226aa8b0d6a/export_scenario_geometries_obj.ipynb
+https://raw.githubusercontent.com/tmschnell/misuka-room-acoustics-comparison/5574cc4966ee11401d37d675e2bbb32b31a56d16/atmospheric_evaluation.ipynb
+https://raw.githubusercontent.com/tmschnell/misuka-room-acoustics-comparison/bb7cac8bcbc532d4b96629576e79b070d16b9140/test.ipynb
+https://raw.githubusercontent.com/vani11athunder/lab2/1c4ffb553a88117c58dcf45ac46f426df05e0c43/lab_work_fuzzy_variant3.ipynb
+https://raw.githubusercontent.com/vani11athunder/lab2/ebb8d366d644dafb07cb227006eb7579121928cd/lab_work_fuzzy_variant3(2).ipynb
+https://raw.githubusercontent.com/wevisdemo/wevis-openbudget-validation-tools/6ad3ebe8d6834c03da033f089e730a0982959cfc/notebooks/1_build_final_budget_items.ipynb
+https://raw.githubusercontent.com/wevisdemo/wevis-openbudget-validation-tools/c3a3546f6446e5acc691c3d7c1cb9216ec1ff264/notebooks/1_budget_tree_validator.ipynb
+https://raw.githubusercontent.com/wevisdemo/wevis-openbudget-validation-tools/de03bef66f4f13ffd0500a9a46c1f8cea3d34366/notebooks/[OpenBudget]_setup_validation_sheet.ipynb
+https://raw.githubusercontent.com/zakiyyah-ai/student_cohort_retention/a4447d21657791e776276d74025fce1f7084aa2e/Student_Cohort_Retention.ipynb
+12B8fXydokUTM0Kb2KGWIP1YZBpcFhJ-2
+19bCe-f0MZ_N0kN6pcdpmFdFWOukPmIdG
+1AkLpL6IQoMDt6-aJwhTGfXZOCQbshryN
+1aUXHtDJALbITwRvsHqFDsW57noBWxr
+1e7oRBjN0YeYcFHBIf0Yi2mbqBtY0iEYl
+1fJfbD892MI2bLBSJxnyBrLYQ4UHuTfEW
+1fsJA9KsMQfP0-YqwKSO4u2P_XDmRC_qX
+1hWyZP_QRpOL5bEB_vlDbj0INFIcAyy1p
+1-5pc-98zYsSROdMnwUy3iaj9YofdyVV3
+1-ALnrmWE2wPcuoO4jO3sZ3_NqkasHrwL
+1-BiDe620MqM43NIHXKdbzCqYRHLvenVO
+1-I5BXjNFTdV0KgGF0kuvsX0GmSaWTzjQ
+1-KRtyUNAfBJBZTZwAkOO3GjaIPVJexg2
+1-bgMlWCQM0sKLa82ra7rR07qgfjpnb6k
+1-d8Y8oEaYeFLj5FhSsLJzTiAPn06y057
+1-ejl5czMx054IK0FCN4bvWmbaP5Sl15C
+1-gquECVaSZkbpzSXPPqVnnJiyOrQKrjF
+1-pzJcXu_oayy1naocDyFkLmG9mXSEjtn
+1-yYg_8q_V_BcPbGCqPzAuokNkzwGc8U2
+10-PiaA2E8UAjJ3HZ2VGaNtI84Srkkt1c
+10SghiQH9oVCcrwfTVn3BYbhdMxOUzsIl
+10biu2AuMTPBMnhf2FjD-4b_IpbyF9eLR
+10qVewQjj9AfMeH5S4OFxxDHCNvuWqtRU
+12WFw-mJYzBQzyxDhpg5jCbjAAhFdgRNd
+13SH1A6ARB4h3CIjVE73W1GnBpgw8_Sw0
+13iFn_grIgTz6dIV--fjfGkH0663B2fdu
+14RAE2NLU38GUiQ_9JMpYfLG4Z2D46xVr
+14T6EDf6a1AElEbxBpjDn8hvpIoLAB9CL
+14VI-F1v7k3ljeXo-MmHYH0BNAphay-4o
+14ryxT1bbXW7NGpntLUEU9qlNU599jAEx
+152RB0zIOSvJhljQJ-5d3NBIVIPF8GacO
+15heo0KHZzRyyskoL0PdI8g0d2dmtFxuO
+168fl-d9ll2B7lYBsSvoL_w3u37PdA_1_
+16SFsuZrXvTQcvEbfprbriMBRifaQPXtB
+17EhBOgIDZaUOr86VADHPn_rFF77IG2k5
+17_MbAWqzzpd7jBGGRY1QMOmKwrQpckz6
+18FqBtxtKJFa4flvDP0j70Ik8pt0lCdCz
+18ZT9hxG6BUBvRfY912Qefo1D16bdiYd2
+191Oc48seE44DusfCjXdXLEaQdCPJ7JO9
+199wJYy8YmIEozxzv6H71VYQgrJj5NqaG
+19dU022dkR0_hiFAOrIY2YOGU6vQtdBcI
+1AHUoZ7r-NI8mV-WIW_jlAXWL3mHd3vRf
+1AlzERs0RrA7OQLu2nMjtyXP1I4G6PAt-
+1Aq9mhVHakXahQ3uNVHoJXhkQdnFqQ4OE
+1BOmaElr9iDsiKpmMLrMM-K3G7VTPdG24
+1BPe37k1j6PsQ_EXDbTxf1qJDtG6joyQN
+1BsJ0WEw3Hf7eptiXDO0q7vlx7yzSf6Do
+1ByA5OzPEfBZgdO5a_z-ZfJ8ZVFbK-IMt
+1C5R05Zb2EDPJfY00jXUdB5r-24U1keK4
+1CGzTEgeQjEPsXqEbtJJE5mzaKOZX-SqM
+1CIVQe2mDvs72pxtdxB33M4AtzTB3bz6E
+1CWkucwdpgI9DWyY8g_3vmMBQ3ml7p1sm
+1CfAFIASpBX1i0nkNIZ3rWuEo2KcIZ4_X
+1D1iDyb3B1xd_zy5rwXDwsNCWPkqpduMa
+1DKcJznaWY0M3wkxm5S5CfYHpY4RIfgC8
+1DQAgL-IF4eBJFa-pXXqGVZUmbUgHYfHK
+1DoSpyLN37D7kMbAN8QmEP2AxPExDCIuq
+1DpHdljh0rbHJqlc77t1YnQy6MeQysQmG
+1DraIbVuMh1DFXRcSSBUoikcu7u-H19a3
+1DtXWgwW1kWZgZzKsL9stVMyZFq4eAZ2J
+1DtzNfeafWfSR00Lr0-an7LVCeGpKi7Mq
+1DzYWXP-hGjv4VrYL4EX4-HXmV90BonEi
+1E7HOLBAzFBXDEf-_kMHeAe4afQXEFdrF
+1EBpN46LvlHxwvImI7VK9KR-7Bh10i8um
+1EMFgAhy5exbY6l03C9UNqEF04mGInPFf
+1EYS_BLFX-a7PcOd1xkw_9vZCrb1eIyxS
+1ErkAkzqXl3-1DV8TASkbm8r9ScA-zGyd
+1Es6qcCe4eNEeq15ksfhLjrH3Ixw3lrvr
+1EuhrKM371yKNqFKPSpUuehUuupPqJFRi
+1EwLkHgyo0-3ADKkr8dh8jXX2lypQJQl5
+1F8VPMsy8ZEAzM111w7G7jOgRbFDgdK_j
+1Fcba-i1AXWZZaVHhI8psKaRWtRSY3g6Y
+1Fg5BApipawSXzExQ_F5edZToZkR8BXUq
+1G4evinEjG_-o4Eirh5bb8F8DamCMY8Vc
+1GL0Zt75qlUOR1CW1L6yC-enZMLf7c0cY
+1GZQi4OyESJrYt6uuv7gRMm8e_RSgKGPn
+1GpzHmImLfKqMeX2pcpJCXtT5zAbhT08L
+1Gv5wI2Jb6jNEBa2WqSHOqZ1y75WDMRwW
+1H29QS0BurExVdDgzwnr4HBiVA-roIjXo
+1H3WCY9sZNYicoLHGJUIZ-teU7GQNi7o7
+1HukP3PGw7WGF_hlOsQIj3Xj4sOr2qW7P
+1IWfOdCKH7USddF9E2qpWPmlovlWA9hJz
+1IWjrMI3RwiIIrq1Uy7B1NCjnoI4Yzzxf
+1JABA-Q9gxK3kp01IbIukVE8hZ3pkdSF5
+1JQBoZg4H8HjP7WpgRdUPsoKkIYHCJHS_
+1JvWgIZ44Cct8kwU-_qXfGIiIr3T-Jj0B
+1Jxx54AXUKZqn18drQGXOZDI9LCP0qxD-
+1K1EHcO7c8fm2FPoVM9dMYS5X6sH6zOcs
+1KCyGNcodbqVQJ2ve0H8sSR1Nvs36LwYQ
+1L478OGuIdPMvG48DD-wk-1GKNnNzDsyN
+1LEwrNbKr_VLVFzhkPE_1H76qB3r_QHo3
+1LuoTHKNyVcCNJN2twH3dHc0hCYwA9KHQ
+1M4-cFaJc8Rt8xw1UyfUwWXKbo0ls9g8N
+1MBq9Cg3QniKT-85j30zSw99qQVqA4CFG
+1MGjB0WLM3kNQ6HWC3T_Hsz9Mqn5mx--O
+1Mv6yNLFIwTSiQUhPjNjPhAyH3nCYs8PG
+1OGvKnQWDSll1e_5lmdjUnQhD9bihT6Wn
+1OPQmawpraSZnWAfu_32EshjHR0De8JdL
+1OWly2wYos4dBd0gj0v9vLAkhzrMPCyfB
+1OvjT4D9PSPey8qknPLbhkvfWvcIEa4y9
+1Q3Q8xKgZpYQlIpspXAlQAHZRe0fYckB1
+1QI5_UY0aEB8_4YUjlKN4KNIGIi5FvVVy
+1QbknBToSM9uU1VByYbtYcEQ9Rcwl53Ti
+1QlZDPQerA8O2DkKP5IM_hkvly39QSQD-
+1Qvdc1mkxO1ZqZl1Vi1YFbSSpKp-uH6dO
+1R_ijezdlGeOFyf9U4-Isi9Djae72E1B5
+1SDAsYRN9Xbyn-z1W0Pm1x6sZTXCzq9tz
+1SZoPtWNXe2IY8UppOHXG97WySoAHBkLJ
+1SaauhRz3Z9RVhfvIW_vgfWfoD1XZ614u
+1SwGh54jUDIWKExvBOw_jtTmro-n2CH7f
+1T9eDXeR0i9nC-6fZp1P3f1SEOYT6UoRt
+1TDlViqZaePAP0ZPVMp5rPPctwzmwzyXK
+1TLJDrn8l4pLtIgoVDCRWL9kOpc-_OVd-
+1UgxeCHTSc-idz8FLTOploU84d_lf00iU
+1VBrAW-QoTkJbqe6Eck00fdvF8Wbg9GkI
+1VEoRQZuPDIcCqv9WNRb_3oZ4cdl5oHlE
+1VI0aJvbR7uFM84_VQljxdLDWC3zuwwcv
+1VW1RcIq9OswJPxfLmMVLr350Y-AYbHdo
+1X3dnDtyAY4NqjVpzWFFpbpeE02zdomoJ
+1X5uAo9wXZSE3cOuxIcWoaao32Cyplv4e
+1Ya_wwELrgAdI57rsHrOeEzidDrApTJ-p
+1YrLiKt7qLlitS16CHmlGwRSd753tEg7n
+1Z32-fn8CkLfjf11kpBGw8iTuEe_RRkKV
+1Z_7rrmcQ6pqeOCwY3cRJC3qtFRVrQp79
+1Zosszf2vHw2VphbeGloVIJptnzo93T95
+1ZxsJ18uSQH0OvcoA-3i-EXevbC3RxPh8
+1_LG-OMRByOru3Md2dUJvkxlSxA8otm_y
+1a2uN-FixwWTYGEWfkTyLaeAktv2_EpUf
+1am5tLB4byCh6ZdienwLbJ-vD8PpSPghx
+1bhA2gl1ROaQBdv3_gao9dpkOqa7QA89g
+1brgLnIAQ2y-zHs30p2OWIj5WkL-9au_C
+1dCd-TWQnxjT3t6wO3rCEl7B11mt2rP4x
+1dOftyOVCCPHEDyM1CPunC22o3xiI8U7L
+1dZEZ_rPaTg6CSdTbrDlJqJT6wzvptKb3
+1dh1ntxxbYzh5Z48NBhAisxYcFwzXtpHj
+1dsxqHNfeCSFTxnpuHpE6Yg8q0dQ_jP6m
+1dxbWcbXxfP-9Ocwoo0qccljAG_UFQQUz
+1dxqNbQ7vpJTXpeyVp1cdyLpAB1BJwngG
+1e4Mla7_V5J9C23A5S0U_bWrW-ssA4Do-
+1f3wjniRi_4fXKFzopQKURnwgnmrAR2LO
+1fThOgjqmF0OB6g6CpRUasMBi4AcS_KqA
+1fWOQZ58f6-oLGb1T3nnhPcHTwjRBNWpT
+1fqd8WcbCnm1CUlLiY5YmUxLCCd6OorPd
+1fwrM0Ci-oJB-qfw37Jd3pucf-DkHq0H_
+1g2I3lT-7b1m4ct6f-q07yj5bMF7Mh2c7
+1gDcM80TPH0NPF0BNUN4r6QHy7jBb-JID
+1gJJNICCO1vJGcPTaYK0ceJHPRb2mXvHo
+1gRw-co9z53DEb5dgcXAPC6FZ_tlzgQrt
+1gWwNsIYfxOYldI29kuEdIR-I_AGrAjqo
+1gdi6v8hw-wJtowHJbq2DxNXUoiKuoaXj
+1ggEjBnaefEapFrTGSh-Dixy1w3C1yj0I
+1ggdBePnCrE0gCKov8DW2p_qW39dHOOtp
+1hEMwPPsZ9fa40KdSnse5GCJdzc8nTF7V
+1hLUjDvVS1bn2nSbUMTMstPVmv9mmg_WP
+1haQ36xvv5r5NQ5rhmZXG9TAWcc7GKg5C
+1iGokbK6ePVxZmT66y0UJ-Yx0dioGoyTJ
+1iJ-aaH8CksOSBAMrU80eOsV4B42cZK9G
+1mH2MD7rmGPIzAgW2CzFtg5QKFz2k_V8-
+1mSPpKB8c_GqQFrEEqUJe4C9AjLBj-x4j
+1nPKpME4K1qzr16CMMlL7oaDgNyMBQqrI
+1oIy6q3WxmsYrlzDwwBD1ZTRNo4oSMpRJ
+1oXX0BJasVr5vMcrvCelEPYY9tMyzlgmL
+1p0mdQY-xSo7E8xB1eE2yqwwzkOhhJwMA
+1pd7qRmDfFuTL2fzZD7zjgtdp6Jbqb8H4
+1pfesyRCnrCD8SuyLG_YWwezJg2L2P4tc
+1qMZPwWNDpl7kkw60fS2-NGauWOo7XFBE
+1qseMNaYmf57eB3RAF0sMiDPXFWDbD6EM
+1r93FTNqblN0yJZbJ_sXZJlZ7HxmdOhOy
+1r9job2V2db31uF2IEa6KMBQuXDHcxMAy
+1rvhVIYXiWPvY0V_zJtsUJ_d_yuuuV5yd
+1srhoxhlpeFfBA7m2MGwEUdZel77uUYl4
+1swDXFQUxeSh-PtX5nu3LBeyJBC62ZQZt
+1t94oIYaHGUG8qLgtAk5nmdvGT_qH0bGO
+1tSrB4hv3JLE-fie2ADHO3Z83a8mRHtrF
+1tTFMEbwWZMgP8JTeSPe4X6JQ30xnLQeu
+1uhUIA8M1U8j231kw7iQIi287Sc5seKqT
+1us6cGQEg9yg2R9DEQxrpYkY0qIn22P-0
+1uwFuJR2IRZMrb0JQW7mwuFoERn3KtUEz
+1vBQq4tn4uDZ_s-YY0GweSkEoUAk7ojJF
+1vFVfTDObAS1KIdFkagF4P1ocIaJi-7mr
+1vYoXLNDKAHgIuAutoFaW0ek2pANRWRXo
+1vpgKXQzw6ttr3WofY7twKp5j3W06dMdY
+1y81qFHFpDzbeUt9fvvTY25dPwW9Zf0Ou
+1y8sUz4NGmVntl9Gz45mX5oPS_7D0coGQ
+1ySWmhajHLGlE_FG7bL1XNOTsJqWz9pE_
+1yYL4yTexEK4ScYvgsawpxjQGQ0ig9bFE
+1zYM7XhaJBZuqGZ1kV7sBES2WqG4Xch5S
