@@ -1,0 +1,13 @@
+https://gitlab.com/ska-telescope/src/sd/utilities/ska-src-workflow-templates/-/raw/main/notebooks/example_catalogue_overlay.ipynb
+https://gitlab.com/ska-telescope/src/sd/utilities/ska-src-workflow-templates/-/raw/main/notebooks/example_completeness.ipynb
+https://gitlab.com/ska-telescope/src/sd/utilities/ska-src-workflow-templates/-/raw/main/notebooks/example_cross_match.ipynb
+https://gitlab.com/ska-telescope/src/sd/utilities/ska-src-workflow-templates/-/raw/main/notebooks/example_source_counts.ipynb
+https://gitlab.com/ska-telescope/src/sd/utilities/ska-src-workflow-templates/-/raw/main/notebooks/example_source_finding.ipynb
+https://gitlab.com/ska-telescope/src/sd/utilities/ska-src-workflow-templates/-/raw/main/notebooks/example_source_injections.ipynb
+https://gitlab.com/ska-telescope/src/sd/utilities/ska-src-workflow-templates/-/raw/main/notebooks/example_source_subtraction.ipynb
+https://gitlab.com/ska-telescope/src/sd/utilities/ska-src-workflow-templates/-/raw/main/notebooks/example_wsclean.ipynb
+https://gitlab.com/ska-telescope/src/sd/utilities/ska-src-workflow-templates/-/raw/main/notebooks/example_wsclean_dsc008.ipynb
+https://gitlab.com/ska-telescope/src/sd/utilities/ska-src-workflow-templates/-/raw/main/notebooks/example_wsclean_dsc008_subtracted_vis.ipynb
+https://gitlab.com/ska-telescope/src/sd/utilities/ska-src-workflow-templates/-/raw/main/notebooks/example_wsclean_dsc065.ipynb
+https://gitlab.com/ska-telescope/src/sd/utilities/ska-src-workflow-templates/-/raw/main/notebooks/example_wsclean_from_config.ipynb
+https://gitlab.com/ska-telescope/src/sd/utilities/ska-src-workflow-templates/-/raw/main/notebooks/example_wsclean_node.ipynb
