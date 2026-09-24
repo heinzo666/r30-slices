@@ -1,0 +1,209 @@
+https://raw.githubusercontent.com/vickyfriss/Football-analytics/87e1675debddbdc66db5db02f9facc04833bf912/202603 - 1 - Champions League Round of 16 Analysis.ipynb
+https://raw.githubusercontent.com/vickyfriss/Football-analytics/92318ce662e8e031ee955fd812ac1d5d5a687e31/202601 - 1 - Analysing Expected Goals xG Womens Euros25 Worlds23.ipynb
+https://raw.githubusercontent.com/vickyfriss/Football-analytics/9bc3f35edbf2f689baa0da07054b221cfc9c0fcf/202601 - 3 - Capology Team Salary Web Scraping.ipynb
+https://raw.githubusercontent.com/vickyfriss/Football-analytics/a13c9c074082adca247548222a3e20e68ea6433a/202604 - 2 - Building Pass Clustering Visualisations.ipynb
+https://raw.githubusercontent.com/vickyfriss/Football-analytics/aab16eaa5f363ef002f35ce8762751a9307d4114/202602 - 7 - Scraping Hyrox results.ipynb
+https://raw.githubusercontent.com/vickyfriss/Football-analytics/b1b1ccfb388f9d5e22e9712009d93aee20cca3cc/202604 - 4 - Manchester City vs Arsenal How This Match Could Shift Premier League 2025-26 Title Odds.ipynb
+https://raw.githubusercontent.com/vickyfriss/Football-analytics/cef6326ae1be7cc4631c7b45c84ef2feaa8eea95/202608 - 1 - Priors for Promoted and Relegated Teams.ipynb
+https://raw.githubusercontent.com/vickyfriss/Football-analytics/d67a79cb53eccc9efaa80157e5702ba192bbb7a4/202604 - 6 - StatsBomb Lineups & Formation Visualisation.ipynb
+https://raw.githubusercontent.com/vickyfriss/Football-analytics/da5e0478fbfad944b13c87fcf59c1d9d09f5edff/202605 - 2 - How to build Passing Networks.ipynb
+https://raw.githubusercontent.com/vickyfriss/Football-analytics/df6fa64355e2d7366ca028a86769173773182456/202601 - 5 - Wage-Performance Model Optimisation and Application.ipynb
+https://raw.githubusercontent.com/vickyfriss/Football-analytics/fa29c7c1d688dabe09db3500fa6dd0f5cd0f717d/202602 - 1 - Penalty conversion analysis.ipynb
+https://raw.githubusercontent.com/vickyfriss/Football-analytics/fbc26e45cdc4970a36655f95865b29aeeaeed0c7/202601 - 7 - Predicting Premier League Final Positions Using Betting Odds, Probabilistic Modelling & Simulation.ipynb
+https://raw.githubusercontent.com/vipulchaturvedi/treesense-imaging-legacy/c57d5928bfe3c559995b7a6d77f725e37bcf5ec5/PythonScripts/ModelTraining.ipynb
+https://raw.githubusercontent.com/vipulchaturvedi/treesense-imaging-legacy/ff58642752522055527d2551716db115d8b61d7d/PythonScripts/StructuredOptimalPathing (1).ipynb
+https://raw.githubusercontent.com/visual-xai-for-time-series/counterfactual-explanations-for-time-series/191902e76860594b3a83f3e263eeb4799377fd8d/cfts/cf_imfact/experiments/faultdetectiona/imfact_vs_native_guide_wachter_keane_projection.ipynb
+https://raw.githubusercontent.com/visual-xai-for-time-series/counterfactual-explanations-for-time-series/1f445e102af3a21262f8d83ee46e370a80b21871/cfts/cf_comte/comte_forda_comparison.ipynb
+https://raw.githubusercontent.com/visual-xai-for-time-series/counterfactual-explanations-for-time-series/20ac4145680ff7890fabcb4983506255cb1efcde/cfts/cf_subspace/subspace_forda_comparison.ipynb
+https://raw.githubusercontent.com/visual-xai-for-time-series/counterfactual-explanations-for-time-series/3c7339e1e914f949bb5f2c6af17133d98dc92ebf/cfts/cf_imfact/experiments/fruitflies/imfact_projection_walkthrough.ipynb
+https://raw.githubusercontent.com/visual-xai-for-time-series/counterfactual-explanations-for-time-series/486787c52450f40bf003ecc40c4bfde789ba8a0c/cfts/cf_multispace/multispace_comparison.ipynb
+https://raw.githubusercontent.com/visual-xai-for-time-series/counterfactual-explanations-for-time-series/48b9cb2b9b03a0d90600cf349fc8b71cc33ff593/examples/performance_tests/bakeoff_comparison_forda.ipynb
+https://raw.githubusercontent.com/visual-xai-for-time-series/counterfactual-explanations-for-time-series/68e4bee7d79c164f9f17a334a5a013fe2964552c/cfts/cf_mascots/mascots_earthquakes_comparison.ipynb
+https://raw.githubusercontent.com/visual-xai-for-time-series/counterfactual-explanations-for-time-series/69259c599e2e72241b924171f15d974361a6dfd9/cfts/cf_imfact/experiments/fruitflies/imfact_vs_native_guide_wachter_keane_projection.ipynb
+https://raw.githubusercontent.com/visual-xai-for-time-series/counterfactual-explanations-for-time-series/6a0a36a9ee8bfabb09dedf8ba216811a5ebd59a9/cfts/cf_imfact/experiments/tests/sift_imfs_vs_emd_comparison.ipynb
+https://raw.githubusercontent.com/visual-xai-for-time-series/counterfactual-explanations-for-time-series/7b58bb978e7a3e58e657c82d0422ebb39a69891e/cfts/cf_diffcf/diffcf_forda_comparison.ipynb
+https://raw.githubusercontent.com/visual-xai-for-time-series/counterfactual-explanations-for-time-series/824f1746b9f922bab0e4b5f842cac0ced540b8fb/cfts/cf_topgrad/topgrad_coffee_comparison.ipynb
+https://raw.githubusercontent.com/visual-xai-for-time-series/counterfactual-explanations-for-time-series/b3b344976c2092b86d2cf88ffbe78ae8d59ad791/examples/performance_tests/slow_algorithms_fast_comparison_forda.ipynb
+https://raw.githubusercontent.com/visual-xai-for-time-series/counterfactual-explanations-for-time-series/c8907e34eca55610dd1f299856c0aa53dfabfed2/cfts/cf_glacier/glacier_forda_comparison.ipynb
+https://raw.githubusercontent.com/visual-xai-for-time-series/counterfactual-explanations-for-time-series/e2042ff7e089a30d15760a968dd96d51e0ebe12b/cfts/cf_confetti/confetti_forda_comparison.ipynb
+https://raw.githubusercontent.com/visual-xai-for-time-series/counterfactual-explanations-for-time-series/ec97d06566d58ac778f50cfe2fee55b4700686de/cfts/cf_fastpace/fastpace_forda_comparison.ipynb
+https://raw.githubusercontent.com/visual-xai-for-time-series/counterfactual-explanations-for-time-series/f0956b92f3471e9683a87369b958dcfc173f94a1/cfts/cf_cels/cels_forda_comparison.ipynb
+https://raw.githubusercontent.com/visual-xai-for-time-series/counterfactual-explanations-for-time-series/f5409a2b8736b04372daff7b90a363ec9b1a131f/cfts/cf_mascots/mascots_forda_comparison.ipynb
+https://raw.githubusercontent.com/visual-xai-for-time-series/counterfactual-explanations-for-time-series/f67a1e0412132eaaf9f84077c73d2ac416225349/cfts/cf_cfe4mts/cfe4mts_forda_comparison.ipynb
+https://raw.githubusercontent.com/vulncheck-oss/vulnerability-research/149504cd2e82f4696822d17f0bf1e56b4a54f15c/nist-nvd/nist-nvd.ipynb
+https://raw.githubusercontent.com/vulncheck-oss/vulnerability-research/1596dd04b7982a6e4ca579f25400460ec06a3bf8/known-exploited-vulnerabilities/2026-dashboard.ipynb
+https://raw.githubusercontent.com/vulncheck-oss/vulnerability-research/1e659e3019efdaf25bf0085d902364b72c6319c4/target-intelligence/kev-vendor-treemap.ipynb
+https://raw.githubusercontent.com/vulncheck-oss/vulnerability-research/1ee03446e74ff955efe1e4131517622632e9fcc6/known-exploited-vulnerabilities/.ipynb_checkpoints/2025-dashboard-checkpoint.ipynb
+https://raw.githubusercontent.com/vulncheck-oss/vulnerability-research/4279ce3337ea7dda9b90db764fc7ceaa65c4dfd1/canary-intelligence/canary-kev.ipynb
+https://raw.githubusercontent.com/vulncheck-oss/vulnerability-research/4e718f515dddf7dbca8b0f85bd3b508130527e82/target-intelligence/honeypot.ipynb
+https://raw.githubusercontent.com/vulncheck-oss/vulnerability-research/510b1223ea7861ce4d79d660f1a0d3ff46a31a86/known-exploited-vulnerabilities/2024-dashboard.ipynb
+https://raw.githubusercontent.com/vulncheck-oss/vulnerability-research/529b8ec46fb2dc430baf67fff3883a7d0335936e/ransomware/ransomware.ipynb
+https://raw.githubusercontent.com/vulncheck-oss/vulnerability-research/5a65ca3440abfbef5b94a9a98c0153cc09a3451f/reserved-cves/reserved-but-exploited.ipynb
+https://raw.githubusercontent.com/vulncheck-oss/vulnerability-research/5b32b413ff75308dcdef39f3cedcefac3392d213/target-intelligence/proxy.ipynb
+https://raw.githubusercontent.com/vulncheck-oss/vulnerability-research/6268c076dd7eada54bd8f458982eb382880a54e5/ip-intelligence/ip-intel-10d.ipynb
+https://raw.githubusercontent.com/vulncheck-oss/vulnerability-research/658132ff12e4d6fa78c1473975b6e36d5aff0df8/reserved-cves/reserved-by-reference-count.ipynb
+https://raw.githubusercontent.com/vulncheck-oss/vulnerability-research/8dad1d178bf5592661055b87482a8716a299cc7f/canary-intelligence/canary-3d-trends.ipynb
+https://raw.githubusercontent.com/vulncheck-oss/vulnerability-research/93e9694b234e2827f43c7c9a596c2d11976590e1/initial-access/initial-access.ipynb
+https://raw.githubusercontent.com/vulncheck-oss/vulnerability-research/97a2e44c96c4665f1ec0fa4ada5e210a6d9397eb/known-exploited-vulnerabilities/2025-dashboard.ipynb
+https://raw.githubusercontent.com/vulncheck-oss/vulnerability-research/a37a1d44b4e90e76e92049cea09f31974a56ad93/target-intelligence/canary-attacker.ipynb
+https://raw.githubusercontent.com/vulncheck-oss/vulnerability-research/bb2510c94d10e3a0db2ade311332c71b7f547183/trending/trending.ipynb
+https://raw.githubusercontent.com/vulncheck-oss/vulnerability-research/bdc788234b7968afe3df89bf004ab4ab627edd9a/target-intelligence/c2.ipynb
+https://raw.githubusercontent.com/vulncheck-oss/vulnerability-research/c1c732743a708d305d06455a861521f7f19a443d/home.ipynb
+https://raw.githubusercontent.com/vulncheck-oss/vulnerability-research/cb5ce49cc955a77fcc367a99089b0845703edf0f/exploitation-timelines/exploitation-timeline.ipynb
+https://raw.githubusercontent.com/vulncheck-oss/vulnerability-research/e5c5a122b99a875f1be96325b3b41bb38e9560fa/target-intelligence/attack-infrastructure.ipynb
+https://raw.githubusercontent.com/w2sv/AutoCrop/2f65f4eaebf98c49de4b565e428378359a74e02c/jupyter/.ipynb_checkpoints/Crop Algoritm-Copy1-checkpoint.ipynb
+https://raw.githubusercontent.com/w2sv/AutoCrop/2f65f4eaebf98c49de4b565e428378359a74e02c/jupyter/Crop Algoritm.ipynb
+https://raw.githubusercontent.com/w2sv/AutoCrop/4b31c5b549c1f6544553860696ac1ae43d29ff8a/jupyter/Crop Algoritm-Copy1.ipynb
+https://raw.githubusercontent.com/w2sv/AutoCrop/88790d727e3cfe045bfb169ed81b73046d37b3aa/jupyter/.ipynb_checkpoints/Crop Algoritm-checkpoint.ipynb
+https://raw.githubusercontent.com/walkinglabs/self-improving-agent-notebook/00f3284ff6e579fed74d262fdfc1f2eb9b4202df/notebooks/part4-frontiers/15-autonomy-agents.ipynb
+https://raw.githubusercontent.com/walkinglabs/self-improving-agent-notebook/038b340431e95a33b46066b5ecaf3500ceaa2914/notebooks-en/part1-foundation/02-test-time-compute.ipynb
+https://raw.githubusercontent.com/walkinglabs/self-improving-agent-notebook/05aac5c77ec2ae847c09d5d01fbb56442803587d/notebooks-en/part1-foundation/03-robust-verification.ipynb
+https://raw.githubusercontent.com/walkinglabs/self-improving-agent-notebook/05f62d302230bd52351047911984e7c9c0e73799/notebooks/part3-engineering/11-agent-memory.ipynb
+https://raw.githubusercontent.com/walkinglabs/self-improving-agent-notebook/0b540f3e2ee921757cb26e6273359ce2eb6b4cbc/notebooks-en/part4-frontiers/17-future-research.ipynb
+https://raw.githubusercontent.com/walkinglabs/self-improving-agent-notebook/0fb06c4add5ef767b41e2cbb909d163a2d6b80ca/notebooks/part1-foundation/03-robust-verification.ipynb
+https://raw.githubusercontent.com/walkinglabs/self-improving-agent-notebook/167fb2d85aa4be7b41940923c25dbcabe9efc3a2/notebooks-en/part2-training/07-open-ended-evolution.ipynb
+https://raw.githubusercontent.com/walkinglabs/self-improving-agent-notebook/19747ef70d2d917b40e0af199832f76e86745938/notebooks-en/part4-frontiers/13-alphaproof-math.ipynb
+https://raw.githubusercontent.com/walkinglabs/self-improving-agent-notebook/250f649526a263a33fc82773558c18c8e5cd8ee5/notebooks/part4-frontiers/13-alphaproof-math.ipynb
+https://raw.githubusercontent.com/walkinglabs/self-improving-agent-notebook/2e7bf37b105c599cc971f5322060eb589bd245cb/notebooks-en/part1-foundation/04-tool-code-feedback.ipynb
+https://raw.githubusercontent.com/walkinglabs/self-improving-agent-notebook/34e5160a598ce883f3470accc236f9e88c7c9143/notebooks/part1-foundation/01-course-overview.ipynb
+https://raw.githubusercontent.com/walkinglabs/self-improving-agent-notebook/38553d1ed35e9013b25fbec14f6fe49533684ee3/notebooks/part2-training/08-search-deep-research.ipynb
+https://raw.githubusercontent.com/walkinglabs/self-improving-agent-notebook/38e3eb8f77d225b939b4de2d5ce1b29663326063/notebooks-en/part2-training/09-post-training-evolution.ipynb
+https://raw.githubusercontent.com/walkinglabs/self-improving-agent-notebook/3af610adc9bf1ca5e901ce946b377fc30dc47037/notebooks/part4-frontiers/16-multimodal-robotics.ipynb
+https://raw.githubusercontent.com/walkinglabs/self-improving-agent-notebook/3c49abe95c7ea0604a41955a302587e9a8b5cac6/notebooks/part1-foundation/05-multi-step-planning.ipynb
+https://raw.githubusercontent.com/walkinglabs/self-improving-agent-notebook/582a6185b2772a76b6346a0a767436d0ef4b0a1a/notebooks-en/part4-frontiers/16-multimodal-robotics.ipynb
+https://raw.githubusercontent.com/walkinglabs/self-improving-agent-notebook/5946ff0b090fe53b50e2c81a84868bafad3e58ea/notebooks/part2-training/09-post-training-evolution.ipynb
+https://raw.githubusercontent.com/walkinglabs/self-improving-agent-notebook/68d355c20c0cd610d1d4d70cc375bf22c8806f93/notebooks/part1-foundation/04-tool-code-feedback.ipynb
+https://raw.githubusercontent.com/walkinglabs/self-improving-agent-notebook/6d1b11426e29af2d71662a350e853f24e7c27bab/notebooks-en/part1-foundation/05-multi-step-planning.ipynb
+https://raw.githubusercontent.com/walkinglabs/self-improving-agent-notebook/750eb3da09f9b364e1c2e147626ea27c66e97f80/notebooks-en/part3-engineering/11-agent-memory.ipynb
+https://raw.githubusercontent.com/walkinglabs/self-improving-agent-notebook/84dda1c5999b566f7d1e53e6430a881a7f37475c/notebooks-en/part1-foundation/01-course-overview.ipynb
+https://raw.githubusercontent.com/walkinglabs/self-improving-agent-notebook/96f438d84a6ab4b3681797facf333c56d73d048f/notebooks/part2-training/06-train-time-scaling-rl.ipynb
+https://raw.githubusercontent.com/walkinglabs/self-improving-agent-notebook/a5082f0391ebac98dc8b2f264d59d790386bc067/notebooks-en/part3-engineering/14-agent-evaluation.ipynb
+https://raw.githubusercontent.com/walkinglabs/self-improving-agent-notebook/a7c8c9b35001db22b0c57af438d997e4f14bc856/notebooks-en/part4-frontiers/12-llm-reasoning.ipynb
+https://raw.githubusercontent.com/walkinglabs/self-improving-agent-notebook/b5d1836b9ee01b7cd24c107cee3f350ff02a9bb9/notebooks/part1-foundation/02-test-time-compute.ipynb
+https://raw.githubusercontent.com/walkinglabs/self-improving-agent-notebook/c2b0964251b373d958e453696802b93210abc32f/notebooks/part2-training/07-open-ended-evolution.ipynb
+https://raw.githubusercontent.com/walkinglabs/self-improving-agent-notebook/c3f6db8aa932cf34d0640b4938b66cdac779acfe/notebooks-en/part4-frontiers/15-autonomy-agents.ipynb
+https://raw.githubusercontent.com/walkinglabs/self-improving-agent-notebook/c6d2a045a2b6f8268682f0ef5fea4825a52efe1b/notebooks-en/part2-training/08-search-deep-research.ipynb
+https://raw.githubusercontent.com/walkinglabs/self-improving-agent-notebook/cb52ffa9d4cd255a0e86b0715cfe9793ec4caf0c/notebooks-en/part2-training/06-train-time-scaling-rl.ipynb
+https://raw.githubusercontent.com/walkinglabs/self-improving-agent-notebook/d1f217e5717664553e79e419c34e49830c5c18e4/notebooks-en/part3-engineering/10-swe-agents.ipynb
+https://raw.githubusercontent.com/walkinglabs/self-improving-agent-notebook/dc6c20546aac980164212fb86397686d102faefa/notebooks/part4-frontiers/12-llm-reasoning.ipynb
+https://raw.githubusercontent.com/walkinglabs/self-improving-agent-notebook/dc861783d183f86f3551c44e97e7889329154aa8/notebooks/part3-engineering/14-agent-evaluation.ipynb
+https://raw.githubusercontent.com/walkinglabs/self-improving-agent-notebook/f16d067103a9ae2b1b68465dc6651f3d96bd8a95/notebooks/part3-engineering/10-swe-agents.ipynb
+https://raw.githubusercontent.com/walkinglabs/self-improving-agent-notebook/f58550769af82c23567bc32405358c81f74d6395/notebooks/part4-frontiers/17-future-research.ipynb
+https://raw.githubusercontent.com/wekeo/learn-olci/14cd53379d73f6636371f32995bdf7ab0cc1975e/1_OLCI_introductory/1_6b_OLCI_CHL_comparison_BC004.ipynb
+https://raw.githubusercontent.com/wekeo/learn-olci/213b11a904aa41991ffeb7ca9d5d55b4d6b91783/2_OLCI_advanced/2_2a_acquire_OLCI_time_series.ipynb
+https://raw.githubusercontent.com/wekeo/learn-olci/2357beac57cc61782c96b05914a0a026cd7f20f8/1_OLCI_introductory/1_6a_OLCI_CHL_comparison_BC003.ipynb
+https://raw.githubusercontent.com/wekeo/learn-olci/31dae6798b8e03e9f41d7545e7fdc65d10a072a4/1_OLCI_introductory/1_2_OLCI_file_structure.ipynb
+https://raw.githubusercontent.com/wekeo/learn-olci/373e8b99027f4589162a92c3befab49a7ceb2c39/1_OLCI_introductory/1_10_OLCI_light_environment.ipynb
+https://raw.githubusercontent.com/wekeo/learn-olci/39094c397eab78d9f84b22a7a1d55c6b3a78c68d/1_OLCI_introductory/1_3_OLCI_coverage.ipynb
+https://raw.githubusercontent.com/wekeo/learn-olci/446f8f04bcff1af4dfacd9bbf7416eba6add01e2/1_OLCI_introductory/1_1c_OLCI_data_access_DEDL_HDA.ipynb
+https://raw.githubusercontent.com/wekeo/learn-olci/4c24332fda7c6ce6d1b0be152e399373fa631cf6/1_OLCI_introductory/1_1a_OLCI_data_access_Data_Store.ipynb
+https://raw.githubusercontent.com/wekeo/learn-olci/5dfaf22402571aeabd13900145b7af52f7b8b727/2_OLCI_advanced/2_4_OLCI_matchup_validation.ipynb
+https://raw.githubusercontent.com/wekeo/learn-olci/60270a3a7c36fed6864ef5f133a86be324a16247/Index.ipynb
+https://raw.githubusercontent.com/wekeo/learn-olci/8050e2d108da2d6be9515e1c8ca8508a257657ed/1_OLCI_introductory/1_8_OLCI_fluor.ipynb
+https://raw.githubusercontent.com/wekeo/learn-olci/88461d8a75dcc6c4978f2e0aa919de11fdfe3428/1_OLCI_introductory/1_7_OLCI_optical_constituents.ipynb
+https://raw.githubusercontent.com/wekeo/learn-olci/887c7c8212b318d604e0440bd8fc413ea4f7e910/2_OLCI_advanced/2_2b_OLCI_ope_rep_time_series.ipynb
+https://raw.githubusercontent.com/wekeo/learn-olci/b0fa5a8e584d10ff50e19976bbc0ea64026ade9f/1_OLCI_introductory/1_11_OLCI_BRDF.ipynb
+https://raw.githubusercontent.com/wekeo/learn-olci/b541b232624efd6f5c56b981e1f73d55a9088779/1_OLCI_introductory/1_1b_OLCI_data_access_WEkEO_HDA.ipynb
+https://raw.githubusercontent.com/wekeo/learn-olci/e15bdae00dd7e91553ef972c26eae17a54d72fa3/2_OLCI_advanced/2_5_multisensor_matchup_validation.ipynb
+https://raw.githubusercontent.com/wekeo/learn-olci/e275c1410509fdbab0a2cd8a8a5f5d61620661f0/2_OLCI_advanced/2_2c_OLCI_OPE_time_series.ipynb
+https://raw.githubusercontent.com/wekeo/learn-olci/e3fe25f788ddbf9bfe2c49160d98feeae72505d4/2_OLCI_advanced/2_3b_OLCI_SNAP_batch_processing_C2RCC.ipynb
+https://raw.githubusercontent.com/wekeo/learn-olci/e49e3e147bdd064852587acc651e691f19a7d836/2_OLCI_advanced/2_1_OLCI_advanced_data_access_eumdac.ipynb
+https://raw.githubusercontent.com/wekeo/learn-olci/f664cd00b6d5876965ead5a5baafed6b3dccb75a/2_OLCI_advanced/2_3a_OLCI_SNAP_batch_processing_subset_reproj_flag_CHL.ipynb
+https://raw.githubusercontent.com/wekeo/learn-olci/fa538b3c121067443b6af0ad0aa7ceb2b7c878c2/1_OLCI_introductory/1_5_OLCI_radiance_reflectance_spectra.ipynb
+https://raw.githubusercontent.com/wellcomecollection/catalogue-pipeline/0aa9abb2284d1a697062c005beebe951d9e721ca/scripts/es_index_comparison/notebooks/load_analysis.ipynb
+https://raw.githubusercontent.com/wellcomecollection/catalogue-pipeline/25ff650be0ad26ae63b386b6ce77faf4cd30d0dd/catalogue_graph/notebooks/adapter_source_tables.ipynb
+https://raw.githubusercontent.com/wellcomecollection/catalogue-pipeline/31d6282062c5293250b0a36e3ab0b69fac9719eb/catalogue_graph/notebooks/chatbot_custom_alerting.ipynb
+https://raw.githubusercontent.com/wellcomecollection/catalogue-pipeline/3e996221b876df505ba6e29caed9794884d153fc/catalogue_graph/notebooks/adapter_store_snapshot_sync.ipynb
+https://raw.githubusercontent.com/wellcomecollection/catalogue-pipeline/616c155aec6f803c99b8ef184ef4383a2b159b0c/catalogue_graph/notebooks/adapter_oai_pmh_formats.ipynb
+https://raw.githubusercontent.com/wellcomecollection/catalogue-pipeline/735d4971376952bfff6f41bcc0868dd0b6e4380e/catalogue_graph/notebooks/graph_s3_debug.ipynb
+https://raw.githubusercontent.com/wellcomecollection/catalogue-pipeline/8a5a51837ab5a1dee00c457d0e2e4b07d322db36/catalogue_graph/notebooks/id_minter_rerun_failures.ipynb
+https://raw.githubusercontent.com/wellcomecollection/catalogue-pipeline/b74e0df60186782486c334f4714f7b34e9fa281e/catalogue_graph/notebooks/adapter_table_maintenance.ipynb
+https://raw.githubusercontent.com/wellcomecollection/catalogue-pipeline/bbb833f74cb7a43fc59a0f8892b34f2bf36848d9/catalogue_graph/notebooks/adapter_window_notifier.ipynb
+https://raw.githubusercontent.com/wellcomecollection/catalogue-pipeline/c4a32d1d6a8b38333c23bc032cc6f65177af74d7/catalogue_graph/notebooks/adapter_store_incremental_update.ipynb
+https://raw.githubusercontent.com/wellcomecollection/catalogue-pipeline/e547cfc53a08d0ae8667bd04bd4f34783236e792/catalogue_graph/notebooks/graph_weco_authority.ipynb
+https://raw.githubusercontent.com/wellcomecollection/catalogue-pipeline/eb09cb66d24144145ad09ce474ba40aad47b79a4/catalogue_graph/notebooks/adapter_oai_pmh.ipynb
+https://raw.githubusercontent.com/wellcomecollection/catalogue-pipeline/eb9499fe99128204b32a2bd406fbbdbeaffa28c5/catalogue_graph/notebooks/copy_monthly_bulk_load_files.ipynb
+https://raw.githubusercontent.com/wellcomecollection/catalogue-pipeline/f2afc677cde6817d9f67ca6119f432fea3f5a9d2/catalogue_graph/notebooks/graph_query.ipynb
+https://raw.githubusercontent.com/wiseaidev/rust-web3-solana/254fbbebf6dfc7fe903568f041b6a548042e8223/chapter-3/chapter-3.ipynb
+https://raw.githubusercontent.com/wiseaidev/rust-web3-solana/43022ebe381461baaceafdf56c28e20014f3a67c/chapter-4/chapter-4.ipynb
+https://raw.githubusercontent.com/wiseaidev/rust-web3-solana/49a2909561bff1ce94467f756e006055f3e58f8c/chapter-2/chapter-2.ipynb
+https://raw.githubusercontent.com/wiseaidev/rust-web3-solana/be3bd38f4749b2c6de6079a7e9a34c925fdecc5b/chapter-5/chapter-5.ipynb
+https://raw.githubusercontent.com/wiseaidev/rust-web3-solana/cd52fd0eccd6bb5ab570e3a05c8283c8408b8297/chapter-1/chapter-1.ipynb
+https://raw.githubusercontent.com/wtclarke/fsl_mrs/1f435895839e5e200e528c30507fb836c2a17a45/example_usage/Example SVS processing - interactive notebook.ipynb
+https://raw.githubusercontent.com/wtclarke/fsl_mrs/315bad5b73bc429d7865fe69c77538232965e667/example_usage/Example MRSI fitting.ipynb
+https://raw.githubusercontent.com/wtclarke/fsl_mrs/5376ad2917aa5ef96fa909c16f68eb5190fa96a5/example_usage/Example basis spectra conversion.ipynb
+https://raw.githubusercontent.com/wtclarke/fsl_mrs/5395116328bde7ae39ba05809de45134f6adcfa6/fsl_mrs/tests/testdata/mrs_io/makeFSLMRSBasisForFittingChallengeData.ipynb
+https://raw.githubusercontent.com/wtclarke/fsl_mrs/6046093bcd35c6d216b2a1e8f00a4c46b86aa35e/example_usage/Example Dynamic Fitting.ipynb
+https://raw.githubusercontent.com/wtclarke/fsl_mrs/69b90be2a1aedeec1625f0475451dd371e906bab/fsl_mrs/tests/mc_validation/uncertainty_validation.ipynb
+https://raw.githubusercontent.com/wtclarke/fsl_mrs/c9b842ea2e7fc8f1c5cbb9ead5ce04f9937d6a30/fsl_mrs/tests/mc_validation/dynmrs_uncertainty_validation.ipynb
+https://raw.githubusercontent.com/wtclarke/fsl_mrs/cc315ae0c5c5f95580fa8d519489d9f43a79fb2a/example_usage/Example basis spectra creation.ipynb
+https://raw.githubusercontent.com/wtclarke/fsl_mrs/cf071dcd21e916f00b86ebe20c48a04c777aa636/example_usage/Example SVS processing - command-line.ipynb
+https://raw.githubusercontent.com/wtclarke/fsl_mrs/fd9ae25db83bef8ac1688a372e11943aec9376bf/fsl_mrs/mmbasis/MMBasisSetGeneration.ipynb
+https://raw.githubusercontent.com/wuys13/REVISE/03a74cd3a4ca291bcde045291dace4d339303ef0/reproduce/case/VisiumHD_sp_SVC.ipynb
+https://raw.githubusercontent.com/wuys13/REVISE/13435f83b46bf5dedcd0852e9e33f8202dc53176/reproduce/benchmark/crc_visium_xenium.ipynb
+https://raw.githubusercontent.com/wuys13/REVISE/19ac31382ba23326e90a406b8b2aa84f6ca556ff/reproduce/benchmark/spot.ipynb
+https://raw.githubusercontent.com/wuys13/REVISE/1e76848613fa1d11d63477ac5f0056a6b9d28316/reproduce/case/Xenium_sc_SVC_Monocyte.ipynb
+https://raw.githubusercontent.com/wuys13/REVISE/2d3835cba3d61e97f5efb001aeebad6872e9abf2/reproduce/benchmark/plot_imputation_case.ipynb
+https://raw.githubusercontent.com/wuys13/REVISE/3a41068932982be4d10ca9673b7079ae5c85434f/reproduce/benchmark/fad1_visium_xenium.ipynb
+https://raw.githubusercontent.com/wuys13/REVISE/4cb8168f5b0e797335193d9fc1327d463cac1470/reproduce/benchmark/segmentation.ipynb
+https://raw.githubusercontent.com/wuys13/REVISE/5b058b09ab27b787d615088d9e2551e87058cd4c/reproduce/case/Xenium_sc_SVC_T.ipynb
+https://raw.githubusercontent.com/wuys13/REVISE/6540f0dc9d27696570916f7fff4df7860b049acc/reproduce/benchmark/brca_visium_xenium.ipynb
+https://raw.githubusercontent.com/wuys13/REVISE/86390510230d77f4b7bf68befbc06138a3f4ec92/reproduce/benchmark/bin2cell.ipynb
+https://raw.githubusercontent.com/wuys13/REVISE/871ab6b3f9d5820eb9aa7b7e36b8a9e822bebead/reproduce/benchmark/imputation_and_dropout.ipynb
+https://raw.githubusercontent.com/wuys13/REVISE/87be6b491c1fb499e23d0ecc91ea82ceb0fafa16/reproduce/case/osmFISH_sc_SVC_cluster.ipynb
+https://raw.githubusercontent.com/wuys13/REVISE/984ad52913a42981593cf5c964522a76efd6f1f0/reproduce/case/SlideSeq_mouse_colon_sp_SVC.ipynb
+https://raw.githubusercontent.com/wuys13/REVISE/bb48b9720e6a0e8c6fdbb060df494c34655c1dbf/reproduce/case/MERFISH_Allen_VISp_sc_SVC_cluster.ipynb
+https://raw.githubusercontent.com/wuys13/REVISE/c0364904b3b8b5c87de73b4469a769fcb5ae419f/reproduce/case/Visium_sc_SVC_mouse_brain.ipynb
+https://raw.githubusercontent.com/wuys13/REVISE/c295ede6f443b2bc7ed92d299101eb9943ea0236/reproduce/case/CosMx_SMI_267T_not_sp_SVC.ipynb
+https://raw.githubusercontent.com/wuys13/REVISE/d91c4358c46b8881f4a486ec2d50bd7afc93026f/reproduce/case/StereoSeq_zebrafish_5hpf_sp_SVC.ipynb
+https://raw.githubusercontent.com/wuys13/REVISE/ef57b263193b96d83bc4e9a263f6300499a46379/reproduce/benchmark/spot_cross_patient.ipynb
+https://raw.githubusercontent.com/wuys13/REVISE/ef9dba20fca1c98457a7c6307f8318cacf35c2b0/reproduce/case/SlideSeq_mouse_olfactory_bulb_sp_SVC.ipynb
+https://raw.githubusercontent.com/wuys13/REVISE/f754f0cba93eeb2c8ca5a8acc0dbb1b9122c9216/reproduce/benchmark/batch.ipynb
+https://raw.githubusercontent.com/yepengliu/CtrlRegen/bb522b3e5c69462b8e1b5392db94d7e8f860d911/ctrlregen_plus_demo.ipynb
+https://raw.githubusercontent.com/yurakuratov/gradmem/062030cff0b20c3b5e0dc971339b875be3050f1e/notebooks/grad_mem_copy_cl.ipynb
+https://raw.githubusercontent.com/yurakuratov/gradmem/2dc8543eacb2b0d5063fb27c591813ff8c149670/notebooks/collect_results.ipynb
+https://raw.githubusercontent.com/yurakuratov/gradmem/38d5341adea1b95b2c9fc8687188f4c222390eab/notebooks/dump_dataset.ipynb
+https://raw.githubusercontent.com/yurakuratov/gradmem/512bf40e238688db963a4d1e631d109adda373ff/notebooks/tmp1.ipynb
+https://raw.githubusercontent.com/yurakuratov/gradmem/5b021395a46c81ef3a9960c32041349386e2bf31/notebooks/dump_babi_dataset.ipynb
+https://raw.githubusercontent.com/yurakuratov/gradmem/5c098c71bfb70011035e60e113aa255d33c7c390/notebooks/grad_mem_kv_infer.ipynb
+https://raw.githubusercontent.com/yurakuratov/gradmem/b8b671b8fad0aaf3edb13b1f6a898e6a936b78d8/notebooks/grad_mem_copy_dbg.ipynb
+https://raw.githubusercontent.com/yurakuratov/gradmem/cc6031084b11d0962f617cffab1fab8f2a62bf35/notebooks/grad_mem_dbg.ipynb
+https://raw.githubusercontent.com/yurakuratov/gradmem/ce920be0bb2f3d33bf7ca6ab8aefafb12d9880c7/notebooks/tmp.ipynb
+https://raw.githubusercontent.com/yuxiangh383/option-return-prediction/0549d2c6d1e037679e7a5149ba84001723ae702c/notebooks/research/re-high-frequency-factor-combined.ipynb
+https://raw.githubusercontent.com/yuxiangh383/option-return-prediction/0c9671052904b0d82eddae31c9530e1d56040088/notebooks/pipeline/5-ContractLevelFactor.ipynb
+https://raw.githubusercontent.com/yuxiangh383/option-return-prediction/2a46cd31af5d1eb3f6dd73a5a46d8f20a2a24a4e/notebooks/research/re-source_of_predictability-5(Single).ipynb
+https://raw.githubusercontent.com/yuxiangh383/option-return-prediction/2fb8d3eac60e764953ae050dac1e9e28a1f328ac/notebooks/research/re-source_of_predictability-5(N-En).ipynb
+https://raw.githubusercontent.com/yuxiangh383/option-return-prediction/38af6e0df506ad7afa671e267945daa45627914a/notebooks/pipeline/2-PrecalculateIV.ipynb
+https://raw.githubusercontent.com/yuxiangh383/option-return-prediction/5b72371aafda7260e83905a12dd5fdd49fbcd18e/notebooks/pipeline/6-FilterSummarySelect.ipynb
+https://raw.githubusercontent.com/yuxiangh383/option-return-prediction/629fd39550a3baa4db4ad2f77344ac8ec1052e49/notebooks/pipeline/1-DataPreprocess.ipynb
+https://raw.githubusercontent.com/yuxiangh383/option-return-prediction/6a9c9fc0cfcec17b5bbf690559969c68dc965c78/notebooks/pipeline/3c-StockLevelFactor.ipynb
+https://raw.githubusercontent.com/yuxiangh383/option-return-prediction/a1ebdd3f21950ecaac8a12ba96a6aac4fcdeae49/notebooks/pipeline/4-BucketLevelFactor.ipynb
+https://raw.githubusercontent.com/yuxiangh383/option-return-prediction/ada931fb87ec18aab7de7ac2f6ac1e476d9ae144/notebooks/research/re-high-frequency-factor-1.ipynb
+https://raw.githubusercontent.com/yuxiangh383/option-return-prediction/c9a1f64500d1d635a9285bf4c68aaa981c4bb31d/notebooks/pipeline/3a-StockLevelFactor.ipynb
+https://raw.githubusercontent.com/yuxiangh383/option-return-prediction/d9ecd57f06126474cd4d8e0ee574debcab4df557/notebooks/pipeline/7-BackTest-daily-regression.ipynb
+https://raw.githubusercontent.com/yuxiangh383/option-return-prediction/dfc445abed3d22a681b68a56d650bb28c199d2a1/notebooks/pipeline/3b-StockLevelFactor.ipynb
+https://raw.githubusercontent.com/yuxiangh383/option-return-prediction/f978a939885c3d58fb95bf050a6e84e27617f967/notebooks/research/re-high-frequency-factor-2.ipynb
+https://raw.githubusercontent.com/yuxiangh383/option-return-prediction/fe6a18dbacd244f2a29600b9555462a866c06d52/notebooks/research/re-idiosyncratic-vol.ipynb
+https://raw.githubusercontent.com/yuxiangh383/rl-interval-estimation/9f5513f833f427cc0eb9913eaa6c308178b074fa/simulate.ipynb
+https://raw.githubusercontent.com/yuxiangh383/rl-interval-estimation/c41fa581306c79d764d4708ba760555b81ab8d57/main.ipynb
+https://raw.githubusercontent.com/yuxiangh383/rl-interval-estimation/e3d17d4de817330ee017cd1e2960454d83e69ac7/check_interval.ipynb
+https://raw.githubusercontent.com/yyveggie/Positive-and-Unlabeled-Learning/0cf2e137efb67332cf74f7f08a4d8ad2c39a5f0a/implementations/DEDPUL/experiments_synth.ipynb
+https://raw.githubusercontent.com/yyveggie/Positive-and-Unlabeled-Learning/33d04bcda403b5a4e5dc2a8b30f215d73bb246a6/implementations/SAR-PU/notebooks/data_preprocessing/Extended Data.ipynb
+https://raw.githubusercontent.com/yyveggie/Positive-and-Unlabeled-Learning/3d88facb81fbcabcf06088adbdd5a5739e73e70d/implementations/SAR-PU/notebooks/Experiments.ipynb
+https://raw.githubusercontent.com/yyveggie/Positive-and-Unlabeled-Learning/4b3817b88467b9b3440c66a167f84fa3ffde7312/implementations/SAR-PU/notebooks/data_preprocessing/Covtype.ipynb
+https://raw.githubusercontent.com/yyveggie/Positive-and-Unlabeled-Learning/62e550bd48a83d9bd41442bf8d60e0e25635edf2/implementations/SAR-PU/notebooks/data_preprocessing/Splice.ipynb
+https://raw.githubusercontent.com/yyveggie/Positive-and-Unlabeled-Learning/658deb76ffa847c9daf92887fd21f96f1ed4b190/implementations/SAR-PU/notebooks/data_preprocessing/BreastCancer.ipynb
+https://raw.githubusercontent.com/yyveggie/Positive-and-Unlabeled-Learning/6f566e115e728ae6bca2bbf953f46d34053bc0c8/implementations/SAR-PU/notebooks/data_preprocessing/20ng.ipynb
+https://raw.githubusercontent.com/yyveggie/Positive-and-Unlabeled-Learning/757ada8aa1be1594b1ecf78a905191260f82a367/implementations/Pumml/example_nb.ipynb
+https://raw.githubusercontent.com/yyveggie/Positive-and-Unlabeled-Learning/95e6b05b025eb2477642dedef3c8a72b30e89f62/implementations/SAR-PU/notebooks/data_preprocessing/ImageSegmentation.ipynb
+https://raw.githubusercontent.com/yyveggie/Positive-and-Unlabeled-Learning/a25639f2daa904d6a785566b7ecce017fd85e260/implementations/DEDPUL/experiments_UCI_MNIST.ipynb
+https://raw.githubusercontent.com/yyveggie/Positive-and-Unlabeled-Learning/a51dec92c4d22035782a6ed5db7edd9e909e19d6/implementations/SAR-PU/notebooks/data_preprocessing/Diabetes.ipynb
+https://raw.githubusercontent.com/yyveggie/Positive-and-Unlabeled-Learning/cd39fee07467ecc784b587ad02e86390543313d7/implementations/SAR-PU/notebooks/data_preprocessing/Mushroom.ipynb
+https://raw.githubusercontent.com/yyveggie/Positive-and-Unlabeled-Learning/d75547959fef23b1c499ea1a3ea71cbb53899fe8/implementations/DEDPUL/experiment_processing.ipynb
+https://raw.githubusercontent.com/yyveggie/Positive-and-Unlabeled-Learning/e9b52d29c12faaba8bca3407f24ff19f2d8c9b9d/implementations/SAR-PU/notebooks/data_preprocessing/Adult.ipynb
+https://raw.githubusercontent.com/zksainx/pipeweave/b369845f1613a2a96e76cf12e082eba3b77f1d16/pipetuning_test/demo/pred_perf_analysis.ipynb
+https://raw.githubusercontent.com/zpenoyre/astromet.py/19ab58975f2305747226a3dc84b52447ffcb5bb7/agis_emulator.ipynb
+https://raw.githubusercontent.com/zpenoyre/astromet.py/2fd051a2a8983df730a5767b556d6d1594b60c49/gaiaBinarySynth.ipynb
+https://raw.githubusercontent.com/zpenoyre/astromet.py/37174ffb6927a87e419b4190f31a8d612b646d0b/example.ipynb
+https://raw.githubusercontent.com/zpenoyre/astromet.py/82538e4d319d270298415043c5a11cabd8dbe14d/Gaia_fit_demo.ipynb
+https://raw.githubusercontent.com/zpenoyre/astromet.py/f930df058398505ba11f3e59f54301f488c02cb3/lensing_Gaia_demo.ipynb
