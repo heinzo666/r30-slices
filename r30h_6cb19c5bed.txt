@@ -1,0 +1,366 @@
+https://raw.githubusercontent.com/sfc-gh-perickson/demos-enablement/2c1539ab18aa9ba51f1aa4ada31d1631ff9e135e/cortex-agent-multi-tenancy/lab/cortex-agent-multi-tenancy-lab.ipynb
+https://raw.githubusercontent.com/sfc-gh-perickson/demos-enablement/30de657a344c8a3a4cd4b7e352a97d6ee7b53a60/many-model-training/lab/many-model-training-lab.ipynb
+https://raw.githubusercontent.com/sfc-gh-perickson/demos-enablement/3b37489525312d198d09b566d2d3a1eef87043ee/feature-store/lab/feature-store-lab.ipynb
+https://raw.githubusercontent.com/sfc-gh-perickson/demos-enablement/544a702c9000c614ea293061d1f9ab4b8edd53ec/oauth-token-passthrough/lab/oauth-token-passthrough-lab.ipynb
+https://raw.githubusercontent.com/sfc-gh-perickson/demos-enablement/5f348072f575c0cbd8ae6b080c7e36ed19dd26de/lookalike-modeling/lab/lookalike-modeling-lab.ipynb
+https://raw.githubusercontent.com/sfc-gh-perickson/demos-enablement/6c995dc498ac177e3894f7e650084dbddddd56ed/marketing_command_center/notebooks/01_feature_store_setup.ipynb
+https://raw.githubusercontent.com/sfc-gh-perickson/demos-enablement/7371ea97bc0c4c482e352038c89dabe60ed254b5/marketing_command_center/notebooks/03_customer_models.ipynb
+https://raw.githubusercontent.com/sfc-gh-perickson/demos-enablement/749e87e1f1cb489f3fefd8352233996c91fc5947/pii-redaction/lab/pii-redaction-lab.ipynb
+https://raw.githubusercontent.com/sfc-gh-perickson/demos-enablement/8ee87d1b11e09eb4985a7b4cd24a9e3b08176cac/cortex-agent-embedded-app-context/demo_notebook.ipynb
+https://raw.githubusercontent.com/sfc-gh-perickson/demos-enablement/9adce91b88d42749358336e7941cb596bed52401/cortex-agent-cost-observability/lab/cortex-agent-cost-observability-lab.ipynb
+https://raw.githubusercontent.com/sfc-gh-perickson/demos-enablement/b08ab9a557aae82cd9f6d4235dfdcb7cf2fc49ed/cortex-ai-observability/lab/cortex-ai-observability-lab.ipynb
+https://raw.githubusercontent.com/sfc-gh-perickson/demos-enablement/c1dede5e5b6344cb8b2529d5358844036c3c862b/agent_observability_analysis/observability-to-evals.ipynb
+https://raw.githubusercontent.com/sfc-gh-perickson/demos-enablement/cfab1b4dfddbd6a87b84892c9e868aebef2f7df7/marketing_command_center/notebooks/02_mmt_forecasting.ipynb
+https://raw.githubusercontent.com/sfc-gh-perickson/demos-enablement/d1c0a3bd9b1a0aabdd82624d95ca25dd6d3bc42a/dynamic-time-period-metrics/lab/dynamic-time-period-metrics-lab.ipynb
+https://raw.githubusercontent.com/sfc-gh-perickson/demos-enablement/d740b261b16de101afe71eda9956725cc70c8f96/cortex-ai-gateway/cortex-ai-gateway-langchain-mcp.ipynb
+https://raw.githubusercontent.com/sfc-gh-perickson/demos-enablement/e2363d83e4bd115c28e38b8443762256dd945655/lookalike-modeling/patient-lookalike/lab/patient-targeting-lab.ipynb
+https://raw.githubusercontent.com/sfc-gh-perickson/demos-enablement/e51f63399e4736fc211f8750a10c0288b65430f7/model-registry/register_model.ipynb
+https://raw.githubusercontent.com/sfc-gh-perickson/demos-enablement/e822180f220c6ff4c4ddde341279364f733e1b74/scoping-agentic-implementations/lab/scoping-agentic-implementations-lab.ipynb
+https://raw.githubusercontent.com/sfc-gh-perickson/demos-enablement/ec6720555801e71b57bd5387369896923235eed9/label-studio-spcs/lab/label-studio-spcs-lab.ipynb
+https://raw.githubusercontent.com/sfc-gh-perickson/demos-enablement/f05a0457c365052d8c32eeaf85c11a9434341d46/agent-routing/lab/server-side-agent-routing-lab.ipynb
+https://raw.githubusercontent.com/sfc-gh-perickson/demos-enablement/fae7a71353202243e34144e0aec4bd0ed3cfbcdd/cortex-agent-document-context/lab/cortex-agent-document-context-lab.ipynb
+https://raw.githubusercontent.com/silvaan/agentic-ai/0aaa2cdb3220005ec6b711141e77b6650cb74f64/05 - Memory and State.ipynb
+https://raw.githubusercontent.com/silvaan/agentic-ai/1bbd0a825210a5981061513e87eb0a1a17ae4beb/06 - Planning and Reflection.ipynb
+https://raw.githubusercontent.com/silvaan/agentic-ai/29b848692ad62d078ab9d80825e63d8064bfd9ea/03 - Structured Output.ipynb
+https://raw.githubusercontent.com/silvaan/agentic-ai/2b452cac3fd37cf6623c91230101cf00497ef47e/10 - Agents with LangGraph.ipynb
+https://raw.githubusercontent.com/silvaan/agentic-ai/327dd9c9812e8efb2a1f65e87c7a27b7cdb428cf/02 - Prompt and Context.ipynb
+https://raw.githubusercontent.com/silvaan/agentic-ai/5b93ef3ca6c9954d6c5316fb642e76629753b270/04 - Tools.ipynb
+https://raw.githubusercontent.com/silvaan/agentic-ai/7b22685ca11b72df6adfb212a5e00dfa384b51e8/01 - Language Models.ipynb
+https://raw.githubusercontent.com/silvaan/agentic-ai/a8f562f7751519957fdf4c1dff85b989babc42dc/09 - Workflows with LangGraph.ipynb
+https://raw.githubusercontent.com/silvaan/agentic-ai/c08a18a575845b49a8499433439c9ed2a1a4739e/11 - RAG.ipynb
+https://raw.githubusercontent.com/silvaan/agentic-ai/e81cd3cbf3515801f77ff0013a84ac7505c26959/08 - LangChain and LangGraph.ipynb
+https://raw.githubusercontent.com/silvaan/agentic-ai/f271046e1750055e29479bc35016c7dbfabda01c/07 - Harness and Loop Engineering.ipynb
+https://raw.githubusercontent.com/silvaan/unsupervised-learning/0507de7bf066b40ac620e3bbff44b0552af11f9f/09 - t-SNE.ipynb
+https://raw.githubusercontent.com/silvaan/unsupervised-learning/1770ea4f6aaf8f398ece389c5ec0c9dfc75ea54d/10 - UMAP.ipynb
+https://raw.githubusercontent.com/silvaan/unsupervised-learning/23692fa604ff24ed48ab6f778f8abdf42aba204d/06 - Clustering Metrics.ipynb
+https://raw.githubusercontent.com/silvaan/unsupervised-learning/28c8b6f147258f034f688e9c0a562356aefd9bda/08 - PCA.ipynb
+https://raw.githubusercontent.com/silvaan/unsupervised-learning/4c333e78cfd007f202a85cb8141835365333b0f4/01 - Fundamentals.ipynb
+https://raw.githubusercontent.com/silvaan/unsupervised-learning/740c4238ef9394c6721de68792058f0ae514f6a9/04 - DBSCAN.ipynb
+https://raw.githubusercontent.com/silvaan/unsupervised-learning/8175b1aabaa09dd4b9fe8f2b9bc0ccce7ff566b9/02 - K-Means.ipynb
+https://raw.githubusercontent.com/silvaan/unsupervised-learning/9b1a0d2987c6ac2d3a2f813586291b8685f7f7b9/05 - GMM.ipynb
+https://raw.githubusercontent.com/silvaan/unsupervised-learning/a070f118bb7da6c09729c8118211603a1afe95d1/13 - Embeddings Analysis.ipynb
+https://raw.githubusercontent.com/silvaan/unsupervised-learning/a5ecb28c93b8e42107909e372df6214d1b5348af/11 - Autoencoders.ipynb
+https://raw.githubusercontent.com/silvaan/unsupervised-learning/acd1e92bd7b0fd30136e19eb44ed817c95183585/12 - Embeddings.ipynb
+https://raw.githubusercontent.com/silvaan/unsupervised-learning/e2bb65437281a0c92b1fd3d3c41e032ea7f758d6/07 - Curse of Dimensionality.ipynb
+https://raw.githubusercontent.com/silvaan/unsupervised-learning/ef2b70e552a9aebf707fe36dff879eda5e38361f/03 - Hierarchical.ipynb
+https://raw.githubusercontent.com/singhsanket143/AiEngineeringConcepts/1a109ad37d28060f4d2696cfc2d394344f73ded4/6.MCPDemo/mcp_client.ipynb
+https://raw.githubusercontent.com/singhsanket143/AiEngineeringConcepts/3fcc26000f3d19062e62ed4e245c0761db8a9536/2.PromptingTechniques/5_structured_output.ipynb
+https://raw.githubusercontent.com/singhsanket143/AiEngineeringConcepts/46cc615ec63a4601028e4ef9e7dd0626d267b945/1.FundamentalsOfLLMs/1_chatbot.ipynb
+https://raw.githubusercontent.com/singhsanket143/AiEngineeringConcepts/4956b75eafe98b8ac6a05cb90b8b0b50364d72a3/2.PromptingTechniques/3_chain_of_thought.ipynb
+https://raw.githubusercontent.com/singhsanket143/AiEngineeringConcepts/57f6908093961c146b536313230a6efe799cc4e9/4.LangChainDemo/demo.ipynb
+https://raw.githubusercontent.com/singhsanket143/AiEngineeringConcepts/5ba4cf9af02109462d90a50d636706cda990d7f3/1.FundamentalsOfLLMs/2_provider.ipynb
+https://raw.githubusercontent.com/singhsanket143/AiEngineeringConcepts/5d9d5fad2af205bdbaf2965692b78133008815b1/2.PromptingTechniques/2_step_prompting.ipynb
+https://raw.githubusercontent.com/singhsanket143/AiEngineeringConcepts/6da5ffb44b72f2df080c6dc7704b42b4def1640d/2.PromptingTechniques/7_prompt_Styles.ipynb
+https://raw.githubusercontent.com/singhsanket143/AiEngineeringConcepts/76be4eb06e99b84dacfaf6f9b192f2cc6cabd30b/demonotesbook.ipynb
+https://raw.githubusercontent.com/singhsanket143/AiEngineeringConcepts/88390a4ff66dbd5c0abf6b9aded9a855d67485e8/2.PromptingTechniques/1_zero_shot.ipynb
+https://raw.githubusercontent.com/singhsanket143/AiEngineeringConcepts/919eca087530558c5d7d45581e88430abffd69e9/6.MCPDemo/demo.ipynb
+https://raw.githubusercontent.com/singhsanket143/AiEngineeringConcepts/91e914606cc142d75208b3219bc857d8bf610c33/3.AgentsIntro/1_intro_to_agents.ipynb
+https://raw.githubusercontent.com/singhsanket143/AiEngineeringConcepts/a7463963c24a769db39e5b571a61d3fa807b8bc9/2.PromptingTechniques/4_cot_example.ipynb
+https://raw.githubusercontent.com/singhsanket143/AiEngineeringConcepts/c743311acc61710054fb8418f60cbcfce023324f/2.PromptingTechniques/1_shot_prompting.ipynb
+https://raw.githubusercontent.com/singhsanket143/AiEngineeringConcepts/d0388250af63999cd167f99b356a04305d6d993a/4.LangChainDemo/structured.ipynb
+https://raw.githubusercontent.com/singhsanket143/AiEngineeringConcepts/e0e9de520659e39be7a6ff58afc08826a671f632/4.LangChainDemo/LangChain_Demo.ipynb
+https://raw.githubusercontent.com/singhsanket143/AiEngineeringConcepts/e10855e1610e0b799e67412f8dd8ccf6aceabefa/4.LangChainDemo/ai_agent.ipynb
+https://raw.githubusercontent.com/singhsanket143/AiEngineeringConcepts/ede725a4cf2295f6b0304ae711f4686079bdcb32/6.MCPDemo/clientdemo.ipynb
+https://raw.githubusercontent.com/slaclab/pysmurf/066e62ec4805837a83bd4965a0160fb47431478c/scratch/mdewart/iq_calibration.ipynb
+https://raw.githubusercontent.com/slaclab/pysmurf/104a37b545bbbe0510f9b8003d30ca8fb5c4d3aa/scratch/adroster/daq-rfsoc.ipynb
+https://raw.githubusercontent.com/slaclab/pysmurf/172695364d9b9584b433e1c55dc475ff1298e0c2/scratch/adroster/utils.ipynb
+https://raw.githubusercontent.com/slaclab/pysmurf/1dc04223b59830521abe3aabbb27923af0f8be6a/scratch/shawn/notebooks/rfsoc_adc_power_cal.ipynb
+https://raw.githubusercontent.com/slaclab/pysmurf/4a5a15daec49eb7c056d4124d06b94e595e83eae/scratch/shawn/notebooks/rfsoc_tutorial.ipynb
+https://raw.githubusercontent.com/slaclab/pysmurf/4b8f06f1b5bc7d8632815ae0e213fec8fd870cd3/scratch/adroster/channel_sweep_ex.ipynb
+https://raw.githubusercontent.com/slaclab/pysmurf/4b8f06f1b5bc7d8632815ae0e213fec8fd870cd3/scratch/adroster/channel_sweep_ex_from_Tristan.ipynb
+https://raw.githubusercontent.com/slaclab/pysmurf/4ee97c9bf070e4610bd6082b3de5a57f3a26096f/scratch/smithzj/Olaf18/RFsoc_testing.ipynb
+https://raw.githubusercontent.com/slaclab/pysmurf/5fd3c815288a116bdc3d1af4f09dd86964c2f8bd/scratch/adroster/daq-rfsoc-demo-playground.ipynb
+https://raw.githubusercontent.com/slaclab/pysmurf/6b5a62afefb4a35e4db460400becfcc089f3a9f6/scratch/adroster/multichannel.ipynb
+https://raw.githubusercontent.com/slaclab/pysmurf/767733537caa13728f6504cdb19c7bd2f123bc63/scratch/shawn/notebooks/Cooldown43/20240806_UFM_rfc2_rfsoc.ipynb
+https://raw.githubusercontent.com/slaclab/pysmurf/7a72b3ee703299ff01914e8d866449d02020473e/scratch/smithzj/Olaf12/Olaf12_pulseData.ipynb
+https://raw.githubusercontent.com/slaclab/pysmurf/7af48ddb3a406899949a470e8b3007bbb4df433b/scratch/adroster/daq-rfsoc-demo.ipynb
+https://raw.githubusercontent.com/slaclab/pysmurf/7b753d263f809199c01d738adcdc654887958505/scratch/adroster/utils2.ipynb
+https://raw.githubusercontent.com/slaclab/pysmurf/7c5ac45cf2b08d9bd14cfae49e64143c01962dc5/scratch/adroster/rfsoc_20251014_attempt1_alex.ipynb
+https://raw.githubusercontent.com/slaclab/pysmurf/846fc140f0c4870e1edece2f8d12d78edf8cc1e0/scratch/shawn/notebooks/rfsoc_20251014_attempt1.ipynb
+https://raw.githubusercontent.com/slaclab/pysmurf/a080398c93fec42c93092fb5f34064479054271c/scratch/shawn/notebooks/rfsoc_rogue6_example.ipynb
+https://raw.githubusercontent.com/slaclab/pysmurf/aa6eb64966a18dc78706018f0539084f9ccd455c/scratch/cliu/20240807_UFM_rfc2_rfsoc.ipynb
+https://raw.githubusercontent.com/slaclab/pysmurf/bcdda8071e79a1579304d8139ee50cd41241ae5e/scratch/adroster/rfsoc_iqstreaming_example.ipynb
+https://raw.githubusercontent.com/slaclab/pysmurf/c04acc7d70e41922d0890f620a273edf33575dcd/scratch/smithzj/instr_control/led_control.ipynb
+https://raw.githubusercontent.com/slaclab/pysmurf/cabf682527aee92b5f7b7451b67d4c6e9f9d6349/scratch/adroster/utilss/utils.ipynb
+https://raw.githubusercontent.com/slaclab/pysmurf/de64cb3c8c583eea60eda708e0e6f0d234661de4/scratch/smithzj/instr_control/awg_notebook.ipynb
+https://raw.githubusercontent.com/slaclab/pysmurf/eade5044d7f0638a99583e55b34ec244c9c5ae6a/scratch/mdewart/intro_to_smurf.ipynb
+https://raw.githubusercontent.com/sprasadhpy/Time-Series-Models-using-python/064adb91415bade63ea3678a056712e9473745de/Time_series_analysis_1.ipynb
+https://raw.githubusercontent.com/sprasadhpy/Time-Series-Models-using-python/59220702ba8fbb135559c11f326bdc91d6759244/Time_series_analysis_2.ipynb
+https://raw.githubusercontent.com/sprasadhpy/Time-Series-Models-using-python/89308a4bb48672060795ff6b29bfbe144fa22e5b/Time_series_analysis_3.ipynb
+https://raw.githubusercontent.com/suneman/socialdata2026/0bbd2a05acb01e8ecce5dfc698b4e28e6e10a4c7/lectures/Week2.ipynb
+https://raw.githubusercontent.com/suneman/socialdata2026/1a1e10e06b23ade6cb1466f85f154b1f466d68d1/lectures/Week5.ipynb
+https://raw.githubusercontent.com/suneman/socialdata2026/227bf8645ba6ee70140a39dad93422661368e5e2/assignments/Assignment2.ipynb
+https://raw.githubusercontent.com/suneman/socialdata2026/3199d254080855d565389e70ffb6a6a9bac2e4f0/lectures/Week6.ipynb
+https://raw.githubusercontent.com/suneman/socialdata2026/366f674ec08f2d6499a2daae807768d94f797cc0/lectures/Week1.ipynb
+https://raw.githubusercontent.com/suneman/socialdata2026/3ffd5eb137e62cab446c7d8f5b76f641375dac05/lectures/Week4.ipynb
+https://raw.githubusercontent.com/suneman/socialdata2026/59a808c5496b8e0be78b1df79ff781cff08c7a2b/lectures/Week8.ipynb
+https://raw.githubusercontent.com/suneman/socialdata2026/8cd6c76bea096804219f8da6eb9f961592d70b42/assignments/Assignment1.ipynb
+https://raw.githubusercontent.com/suneman/socialdata2026/a0b712e526b1d2161956d8d6286b61879ff94ff6/lectures/Week7.ipynb
+https://raw.githubusercontent.com/suneman/socialdata2026/b00d9eaae0afe8a22165c1abf31d623dda4169d0/lectures/Week3.ipynb
+https://raw.githubusercontent.com/suneman/socialdata2026/fa4adfd41603b8c089a50de21094c8f52cf03374/lectures/PythonBootcamp.ipynb
+https://raw.githubusercontent.com/suparklingmin/LDS2026/0294584761a6ab64e876dd8ea04763fe11569370/07-pandas.ipynb
+https://raw.githubusercontent.com/suparklingmin/LDS2026/7bfb983a39b43fc133b4ba21c1113529f9a0caec/06-numpy.ipynb
+https://raw.githubusercontent.com/supervisely-ecosystem/serve-segment-anything-2/28559a4cffef85069a138f27a748215a52022f84/train/outside_supervisely/inference_outside_supervisely.ipynb
+https://raw.githubusercontent.com/supervisely-ecosystem/serve-segment-anything-2/ea2cd385e8880e5016f2b1698c0c60a7d837020e/train/outside_supervisely/sam3_ft_inference.ipynb
+https://raw.githubusercontent.com/theo-lq/ML-IF-STIN/04fc280de292235d431792d2e4535ea18ca2d707/TP/TP1 -  Régression Logistique/TP1 - Régression Logistique.ipynb
+https://raw.githubusercontent.com/theo-lq/ML-IF-STIN/11a9b7af274c35ebffdaa67558aa33cc41a4953f/TP/TP1 - Régression Linéaire/TP1 - Starter.ipynb
+https://raw.githubusercontent.com/theo-lq/ML-IF-STIN/3e291c83faae6fff43e2f8d35c01f782ce387463/TP/TP1 - Régression Linéaire/TP1 - Régression Linéaire.ipynb
+https://raw.githubusercontent.com/theo-lq/ML-IF-STIN/3ef32907e675e30cecd691b1231388f9783e5f9b/TP/TP5 - Réduction de dimension/TP6 - Réduction de dimension.ipynb
+https://raw.githubusercontent.com/theo-lq/ML-IF-STIN/40dc1eab0c186e5c3de80fe1813d39d5f488d1a3/TP/TP1 -  Régression Logistique/TP1 - Starter.ipynb
+https://raw.githubusercontent.com/theo-lq/ML-IF-STIN/7a02fdca4e83682b6cdfeb46ae84213260e586fd/TP/TP4 - Clustering/TP4 - Starter.ipynb
+https://raw.githubusercontent.com/theo-lq/ML-IF-STIN/a4f165e0109fd406e574068b39080463fc1532fe/TP/TP2 - Arbres et Random Forest/TP2 - Starter.ipynb
+https://raw.githubusercontent.com/theo-lq/ML-IF-STIN/ace67c72c8559c68df4bd84ee7a7c10a940184a6/TP/TP5 - Réduction de dimension/TP6 - Starter.ipynb
+https://raw.githubusercontent.com/theo-lq/ML-IF-STIN/bfe05de5298ef88ef23a81f74eaf88a928f241b7/Bonus/Thresholds/TuneThresholds.ipynb
+https://raw.githubusercontent.com/theo-lq/ML-IF-STIN/e033b80c6a7afb8a90c090924e564e698ba93feb/TP/TP2 - Arbres et Random Forest/TP2 - Arbre et Random Forest.ipynb
+https://raw.githubusercontent.com/theo-lq/ML-IF-STIN/e5d05e29d412510255c24c428d2d14a673bd8834/TP/TP3 - Boosting/TP3 - Boosting Starter.ipynb
+https://raw.githubusercontent.com/theo-lq/ML-IF-STIN/fb4b9e52dc1307d73408c7361a4a900da0dd7e6b/Bonus/Outliers/HandlingOutliers.ipynb
+https://raw.githubusercontent.com/thinkcompute/thinkcompute.github.io/0c2459b7c394960d82b8b17a7e87fa16440ad637/think_and_compute/16-data-models.ipynb
+https://raw.githubusercontent.com/thinkcompute/thinkcompute.github.io/27a40f0d9a00fb0b40673fdc16d087bd21703350/think_and_compute/.ipynb_checkpoints/17-pandas-checkpoint.ipynb
+https://raw.githubusercontent.com/thinkcompute/thinkcompute.github.io/2c30b3be2e62a4f34bbf41cb2db0b668f1e91f4f/think_and_compute/18-statistics.ipynb
+https://raw.githubusercontent.com/thinkcompute/thinkcompute.github.io/2e84b03aa19835887eafa09170cb65132bc7347a/think_and_compute/material/.ipynb_checkpoints/ex-hon_3-2-checkpoint.ipynb
+https://raw.githubusercontent.com/thinkcompute/thinkcompute.github.io/2e84b03aa19835887eafa09170cb65132bc7347a/think_and_compute/material/ex-hon_3-2.ipynb
+https://raw.githubusercontent.com/thinkcompute/thinkcompute.github.io/33587206eecab5da0bc9360ce9b99c75f8e65f0a/think_and_compute/19-draft.ipynb
+https://raw.githubusercontent.com/thinkcompute/thinkcompute.github.io/37fa7c7867a04fc6463ab55168c0fc880937ccb2/think_and_compute/material/.ipynb_checkpoints/ex-hon_2-1-checkpoint.ipynb
+https://raw.githubusercontent.com/thinkcompute/thinkcompute.github.io/37fa7c7867a04fc6463ab55168c0fc880937ccb2/think_and_compute/material/ex-hon_2-1.ipynb
+https://raw.githubusercontent.com/thinkcompute/thinkcompute.github.io/3c30325c8721374f4d4a8cf13bcd4d1f29bad5d3/think_and_compute/19-relational-database.ipynb
+https://raw.githubusercontent.com/thinkcompute/thinkcompute.github.io/48b2bff501ed671ccdd8abe5fa81979553ec4197/think_and_compute/21-querying-databases.ipynb
+https://raw.githubusercontent.com/thinkcompute/thinkcompute.github.io/48c539f48918800cc36707ad014a4b777d85c75a/think_and_compute/material/.ipynb_checkpoints/ex-hon_4-2-checkpoint.ipynb
+https://raw.githubusercontent.com/thinkcompute/thinkcompute.github.io/48c539f48918800cc36707ad014a4b777d85c75a/think_and_compute/material/ex-hon_4-2.ipynb
+https://raw.githubusercontent.com/thinkcompute/thinkcompute.github.io/4cf49c8c4b7c3902bf14984d43d75c4afee2398f/think_and_compute/.ipynb_checkpoints/19-relational-database-checkpoint.ipynb
+https://raw.githubusercontent.com/thinkcompute/thinkcompute.github.io/56fc6899dbef70e5e751cb7aab661e9b8ba0434e/think_and_compute/material/.ipynb_checkpoints/ex-hon_1-2-checkpoint.ipynb
+https://raw.githubusercontent.com/thinkcompute/thinkcompute.github.io/589152bb6be9d935a7fecb61d3372354ab2dc3b2/think_and_compute/material/.ipynb_checkpoints/ex-hon_3-1-checkpoint.ipynb
+https://raw.githubusercontent.com/thinkcompute/thinkcompute.github.io/589152bb6be9d935a7fecb61d3372354ab2dc3b2/think_and_compute/material/ex-hon_3-1.ipynb
+https://raw.githubusercontent.com/thinkcompute/thinkcompute.github.io/5d7dad93fb270f9c774d5218b09974afc3605f11/think_and_compute/17-pandas.ipynb
+https://raw.githubusercontent.com/thinkcompute/thinkcompute.github.io/6415cc902bdb36edc724274688fac5df1a962c40/think_and_compute/material/.ipynb_checkpoints/ex-hon_7-2-checkpoint.ipynb
+https://raw.githubusercontent.com/thinkcompute/thinkcompute.github.io/6415cc902bdb36edc724274688fac5df1a962c40/think_and_compute/material/ex-hon_7-2.ipynb
+https://raw.githubusercontent.com/thinkcompute/thinkcompute.github.io/6b92c70ee65290e2a92d6d13d30ab5432bf7fc22/think_and_compute/material/.ipynb_checkpoints/ex-hon_2-2-checkpoint.ipynb
+https://raw.githubusercontent.com/thinkcompute/thinkcompute.github.io/6b92c70ee65290e2a92d6d13d30ab5432bf7fc22/think_and_compute/material/ex-hon_2-2.ipynb
+https://raw.githubusercontent.com/thinkcompute/thinkcompute.github.io/6dde042bd6c0a20e181a8c475d1c1f49c4d3e7af/think_and_compute/material/.ipynb_checkpoints/ex-hon_5-1-checkpoint.ipynb
+https://raw.githubusercontent.com/thinkcompute/thinkcompute.github.io/6dde042bd6c0a20e181a8c475d1c1f49c4d3e7af/think_and_compute/material/ex-hon_5-1.ipynb
+https://raw.githubusercontent.com/thinkcompute/thinkcompute.github.io/70f3e6aa225ab68699420439ebcfe1665dd002d1/think_and_compute/material/.ipynb_checkpoints/sandbox-hon_7-checkpoint.ipynb
+https://raw.githubusercontent.com/thinkcompute/thinkcompute.github.io/70f3e6aa225ab68699420439ebcfe1665dd002d1/think_and_compute/material/sandbox-hon_7.ipynb
+https://raw.githubusercontent.com/thinkcompute/thinkcompute.github.io/7518a20ce4dc54f3972080a758dad7ae38d0228c/think_and_compute/.ipynb_checkpoints/19-draft-checkpoint.ipynb
+https://raw.githubusercontent.com/thinkcompute/thinkcompute.github.io/a1e4842532e4e2b8198ba3e53522cc6db14f438b/think_and_compute/.ipynb_checkpoints/16-data-models-checkpoint.ipynb
+https://raw.githubusercontent.com/thinkcompute/thinkcompute.github.io/a4893d85aaf8ae3089bc17b0b0f292330ca7832f/think_and_compute/material/.ipynb_checkpoints/ex-hon_4-1-checkpoint.ipynb
+https://raw.githubusercontent.com/thinkcompute/thinkcompute.github.io/a4893d85aaf8ae3089bc17b0b0f292330ca7832f/think_and_compute/material/ex-hon_4-1.ipynb
+https://raw.githubusercontent.com/thinkcompute/thinkcompute.github.io/b0f8174f179fd26d133cc74785fb7570199c1fdc/think_and_compute/material/ex-hon_1-2.ipynb
+https://raw.githubusercontent.com/thinkcompute/thinkcompute.github.io/c717d8b46947b6eb593b9fba52749a41e4a51b17/think_and_compute/material/.ipynb_checkpoints/ex-hon_3-3-checkpoint.ipynb
+https://raw.githubusercontent.com/thinkcompute/thinkcompute.github.io/c717d8b46947b6eb593b9fba52749a41e4a51b17/think_and_compute/material/ex-hon_3-3.ipynb
+https://raw.githubusercontent.com/thinkcompute/thinkcompute.github.io/cc8921c91639d5f001ae47086bcab9b2a58fa25f/think_and_compute/material/.ipynb_checkpoints/ex-hon_1-1-checkpoint.ipynb
+https://raw.githubusercontent.com/thinkcompute/thinkcompute.github.io/cc8921c91639d5f001ae47086bcab9b2a58fa25f/think_and_compute/material/ex-hon_1-1.ipynb
+https://raw.githubusercontent.com/thinkcompute/thinkcompute.github.io/d0497557873fefc5c48c950beb0064ce051ee1e7/think_and_compute/20-graph-database.ipynb
+https://raw.githubusercontent.com/thinkcompute/thinkcompute.github.io/dd8d6840cbb7d78bf6bab235f31849e576c1e099/think_and_compute/15-what-is-a-datum.ipynb
+https://raw.githubusercontent.com/thinkcompute/thinkcompute.github.io/de9cb998711edef21960b7a3abc0d8387b93a84f/think_and_compute/.ipynb_checkpoints/20-graph-database-checkpoint.ipynb
+https://raw.githubusercontent.com/thinkcompute/thinkcompute.github.io/e5e4d6bee4c8f936a0ebe1509c7fe0fb7421393b/think_and_compute/material/.ipynb_checkpoints/ex-hon_5-2-checkpoint.ipynb
+https://raw.githubusercontent.com/thinkcompute/thinkcompute.github.io/e5e4d6bee4c8f936a0ebe1509c7fe0fb7421393b/think_and_compute/material/ex-hon_5-2.ipynb
+https://raw.githubusercontent.com/thinkcompute/thinkcompute.github.io/f147e6156a24a7e58ff356f7ea4bbcc96ae94be2/think_and_compute/.ipynb_checkpoints/18-statistics-checkpoint.ipynb
+https://raw.githubusercontent.com/thinkcompute/thinkcompute.github.io/f284cb27db23b488f76ef8212cb873df2012aa1f/think_and_compute/material/.ipynb_checkpoints/ex-hon_7-1-checkpoint.ipynb
+https://raw.githubusercontent.com/thinkcompute/thinkcompute.github.io/f284cb27db23b488f76ef8212cb873df2012aa1f/think_and_compute/material/ex-hon_7-1.ipynb
+https://raw.githubusercontent.com/thinkcompute/thinkcompute.github.io/f302e86715e3f991d3c6ae05d0ea6961ad3369fc/think_and_compute/material/.ipynb_checkpoints/ex-hon_6-1-checkpoint.ipynb
+https://raw.githubusercontent.com/thinkcompute/thinkcompute.github.io/f302e86715e3f991d3c6ae05d0ea6961ad3369fc/think_and_compute/material/ex-hon_6-1.ipynb
+https://raw.githubusercontent.com/thinkcompute/thinkcompute.github.io/f55fe10d4818c837669fd78e209b514cd06bbab0/think_and_compute/material/.ipynb_checkpoints/ex-hon_6-2-checkpoint.ipynb
+https://raw.githubusercontent.com/thinkcompute/thinkcompute.github.io/f55fe10d4818c837669fd78e209b514cd06bbab0/think_and_compute/material/ex-hon_6-2.ipynb
+https://raw.githubusercontent.com/tikhomirovd/python-for-ba-hse-2026/1833b82e10d5c3b044a057751beb97d3a5f61559/задания/дз-1-окружение-и-репозиторий/hw1.ipynb
+https://raw.githubusercontent.com/tikhomirovd/python-for-ba-hse-2026/8303227a0dd0077c571e2c4600e4e4faf4215fd7/справка/тренажёры/python-коллекции-и-функции.ipynb
+https://raw.githubusercontent.com/tikhomirovd/python-for-ba-hse-2026/8fd56432a683a8ffb33e29926415bddec7b3a6eb/01-профессия-и-ландшафт/семинар/С1-первое-подключение.ipynb
+https://raw.githubusercontent.com/tikhomirovd/python-for-ba-hse-2026/d22f2e61719c65db876bd7a7fd77aa68a2e8bd87/02-среда-git-python/семинар/С2-идиомы.ipynb
+https://raw.githubusercontent.com/tikhomirovd/python-for-ba-hse-2026/eabe2730abf46b49f18adc008776f0b10d945d83/04-соединения-и-агрегации/семинар/С4-витрина-клиента.ipynb
+https://raw.githubusercontent.com/tikhomirovd/python-for-ba-hse-2026/fffef768f991c22b4c5ae2b878b0f1818cedaf0a/03-pandas-модель-данных/семинар/С3-аудит-сырых-данных.ipynb
+https://raw.githubusercontent.com/tuankhoin/CO3133-Deep-Learning/6795ad59c93c2dfe209f4c0e5a238168e24869fa/Week_1_Introduction.ipynb
+https://raw.githubusercontent.com/tuankhoin/CO3133-Deep-Learning/720c49b328bcd455ecf5016567315434daafa756/Week_2_Foundation_Knowledges.ipynb
+https://raw.githubusercontent.com/tuankhoin/CO3133-Deep-Learning/a6a6a7fcb5e51d43ee6a629fcec634a632ff2e58/Week_3_Convolutional_Neural_Networks.ipynb
+https://raw.githubusercontent.com/tylerjarvis/RootFinding/4604f1bfeb52d9e8daf3ff24cebc9e9fc029b590/Applications/Equilibrium Points.ipynb
+https://raw.githubusercontent.com/tylerjarvis/RootFinding/4f8f481fb7776bc39e8f252a86e4bff15447c65d/CombinedNotebook.ipynb
+https://raw.githubusercontent.com/tylerjarvis/RootFinding/5bc66f636ac775ac202b70ed163e915724c1cc55/parallel_solve_time_data.ipynb
+https://raw.githubusercontent.com/umnilab/METS-R_HPC/39c67530e3ad2926d691a9cb6a8daca4e2ae89c9/tutorials/security_examples.ipynb
+https://raw.githubusercontent.com/umnilab/METS-R_HPC/53414a2f5e8c05a50bc83161c5464d041b6dab5c/tutorials/basic_tutorial.ipynb
+https://raw.githubusercontent.com/umnilab/METS-R_HPC/5aa0120dffd736d20a1ef7d80e91824cc245a57b/tutorials/advanced_commands.ipynb
+https://raw.githubusercontent.com/umnilab/METS-R_HPC/76c9da25ee413f4dc2dee53be626b469c2d1c04f/tutorials/dashboard_demos/demo2_analysis.ipynb
+https://raw.githubusercontent.com/umnilab/METS-R_HPC/9fdd0d6f8b67dc9ba8a7dd51e1e43bf38bf2075d/tutorials/security_sim5g_v2x_examples.ipynb
+https://raw.githubusercontent.com/umnilab/METS-R_HPC/dca45e10fc09babf9146d0236dee24f445eaf2e0/tutorials/dashboard_demos/demo1.ipynb
+https://raw.githubusercontent.com/unicef-drp/TC-ECMWF-Forecast-Pipeline/1321a7a91844c35e300c37b37a3513542a58d3d0/pipeline_demonstration.ipynb
+https://raw.githubusercontent.com/unicef-drp/TC-ECMWF-Forecast-Pipeline/3a9b5ca397ff164a22e1ad0e49d4e86c6c2b0cc0/pipeline_demonstration_precipitation.ipynb
+https://raw.githubusercontent.com/unicef-drp/TC-ECMWF-Forecast-Pipeline/8cbdb61ce2a77c8bf91a0f3f824ddd1660a5a474/pipeline_demonstration_glofas.ipynb
+https://raw.githubusercontent.com/unicef/giga-mlab-school-connectivity-cop/4f616a3533a041227e9944e006e8730326b18d88/materials/2026-05-IQB-Edu/notebooks/IQB_Edu_Policy_Linkage.ipynb
+https://raw.githubusercontent.com/unicef/giga-mlab-school-connectivity-cop/9c595ef6247493f18e9e3010e2210f204c21a032/materials/2026-05-IQB-Edu/notebooks/IQB-Edu_Moldova_schools.ipynb
+https://raw.githubusercontent.com/uoyekili/License-Plate-Recognition/a89f6e8a4357148723a6a40f1a271eeedadac23c/src/demo.ipynb
+https://raw.githubusercontent.com/user-jiyichen/user-jiyichen.github.io/0dce167bb515c03ba6743c01dfef97acad0737c5/markdown_generator/OrcidToBib.ipynb
+https://raw.githubusercontent.com/user-jiyichen/user-jiyichen.github.io/166d2010fc92dfd4e43b3e8f7fb7c5b97f4fe7ae/files/Bayesian_workflow_tutorial_STATSTRO.ipynb
+https://raw.githubusercontent.com/user-jiyichen/user-jiyichen.github.io/af8f0451880240de3b52f1d62316b2c298443265/markdown_generator/PubsFromBib.ipynb
+https://raw.githubusercontent.com/user-jiyichen/user-jiyichen.github.io/f3aa57cd3b133d79235473f9590d014bedabeb21/talkmap.ipynb
+https://raw.githubusercontent.com/user-jiyichen/user-jiyichen.github.io/f7e2347d34f2f3f226a681a4781d66c05160f104/markdown_generator/talks.ipynb
+https://raw.githubusercontent.com/user-jiyichen/user-jiyichen.github.io/fa9c89dec3a6cc9f2347690c04f3357dc13d8e67/markdown_generator/publications.ipynb
+https://raw.githubusercontent.com/vaibhavhariramani/Breast_Cancer_Detection_ML-with-Web-End-Deployment/d3ab0f63d554ca755f1d55732181cb49a7d2d414/Breast_Cancer_Detection_Using_Machine_Learning_Classifier.ipynb
+https://raw.githubusercontent.com/vizsim/mapillary_trafficsigns/08f7a8f672e668d7431b7648a92faa5b8a5f09a1/2_get_mapillary_traffic_signs.ipynb
+https://raw.githubusercontent.com/vizsim/mapillary_trafficsigns/1a3c8d4ae1c10ee56461db2f85fca1c0afef0069/use_cases/pedestrian_crossing_campaign/0_prepare_pbf_get_pedcrossings.ipynb
+https://raw.githubusercontent.com/vizsim/mapillary_trafficsigns/20123d76910a1b856fad8990b6f0e80971f94841/use_cases/rad_frei_campaign/1_merge_mapillary-trafficsigns_osm_vz239.ipynb
+https://raw.githubusercontent.com/vizsim/mapillary_trafficsigns/22c4be10eeb6bf712133f1a00e7f0a29d1245c3c/use_cases/cycleway_complete_marking_campaign/x_mapillary-markings_generateOutput_2radinfra.ipynb
+https://raw.githubusercontent.com/vizsim/mapillary_trafficsigns/276d8e49740efbbd6648dd928ce23e11a87839e8/use_cases/cycleway_complete_marking_campaign/maproulette_tasks.ipynb
+https://raw.githubusercontent.com/vizsim/mapillary_trafficsigns/323b44c6f7aa22b5367c4e933d926b2d91436efe/use_cases/schools_tempo30_campaign/1_merge_mapillary-trafficsigns_osm-highways.ipynb
+https://raw.githubusercontent.com/vizsim/mapillary_trafficsigns/3e2f9e20ea7220a457383865fdc8ffdca3d69a4b/use_cases/cycleway_complete_campaign/radinfra_2_pmtiles.ipynb
+https://raw.githubusercontent.com/vizsim/mapillary_trafficsigns/3e87d9a77ee10c12a1ba3e7dcbadee0bda8bc8b4/use_cases/cycleway_complete_campaign/maproulette_tasks.ipynb
+https://raw.githubusercontent.com/vizsim/mapillary_trafficsigns/46d1a6c424a6e81a03ab1eecebdbb245fee6c194/use_cases/cycleway_complete_marking_campaign/radinfra_1_export.ipynb
+https://raw.githubusercontent.com/vizsim/mapillary_trafficsigns/57f3e69912e80d8f040c6591782175fe2f585aeb/use_cases/pedestrian_crossing_campaign/1_merge_mapillary-trafficsigns_osm-pedcrossings.ipynb
+https://raw.githubusercontent.com/vizsim/mapillary_trafficsigns/5cd5a1907e4e24b59ae30cec8450a02160de560c/use_cases/cycleway_complete_marking_campaign/radinfra_2_pmtiles.ipynb
+https://raw.githubusercontent.com/vizsim/mapillary_trafficsigns/60a2109163c2ae7fcf57b0549a1b51aed77f8c6b/use_cases/cycleway_complete_campaign/radinfra_1_export.ipynb
+https://raw.githubusercontent.com/vizsim/mapillary_trafficsigns/733e0c8f5132fa4b808259385694212c50b03f72/use_cases/0_prepare_osm_network.ipynb
+https://raw.githubusercontent.com/vizsim/mapillary_trafficsigns/a1548b1dbb24413a8ecc8830f8c7490b27c36328/use_cases/cycleway_complete_campaign/x_mapillary-trafficsigns_generateOutput_2radinfra.ipynb
+https://raw.githubusercontent.com/vizsim/mapillary_trafficsigns/a8e9a4fdb957b61a4a95739b12920a58628e19fd/use_cases/access_restrictions_campaign/0_prepare_network_pbf_get_access_restrictions.ipynb
+https://raw.githubusercontent.com/vizsim/mapillary_trafficsigns/abf4c0b867cc67ae9cf45af9e885b504a549d582/use_cases/rad_frei_campaign/0_prepare_network_pbf_get_bicycle-yes.ipynb
+https://raw.githubusercontent.com/vizsim/mapillary_trafficsigns/af081538420a8eea2dbdea57cdf729eb9e52ada6/use_cases/access_restrictions_campaign/1_merge_mapillary-trafficsigns_osm-access-restrictions.ipynb
+https://raw.githubusercontent.com/vizsim/mapillary_trafficsigns/b70fd50d1b53f62d49012b8a03c39d1c006d11b5/use_cases/pedestrian_crossing_marking_campaign/1_merge_mapillary-markings_osm-pedcrossings.ipynb
+https://raw.githubusercontent.com/vizsim/mapillary_trafficsigns/be5d865893d51c32ad06c4d1c730b51e27abd238/use_cases/cycleway_complete_campaign/1_merge_mapillary-trafficsigns_osm-cycleways.ipynb
+https://raw.githubusercontent.com/vizsim/mapillary_trafficsigns/c4690e5ee6687b2169f39716d2ffb24439ef3e06/use_cases/access_restrictions_campaign/0b_prepare_network_pbf_get_access_restrictions_cosmo.ipynb
+https://raw.githubusercontent.com/vizsim/mapillary_trafficsigns/c7e31b8acbf4032634ed6df166398b63c6ce6bab/use_cases/schools_tempo30_campaign/0_prepare_network_pbf_get_highways_schools.ipynb
+https://raw.githubusercontent.com/vizsim/mapillary_trafficsigns/dcb43769f1f0130324145641b8da251a5cf4e690/analysis/analize_osm_ts.ipynb
+https://raw.githubusercontent.com/vizsim/mapillary_trafficsigns/e0bed6e6d865a106b8a5b178b5f3b34fbf83a76a/use_cases/cycleway_complete_marking_campaign/1_merge_mapillary-markings_osm-cycleways.ipynb
+https://raw.githubusercontent.com/vizsim/mapillary_trafficsigns/ec574d518d1dab4a27aecdd978abaa81618d5254/2b_get_mapillary_map_feature_points.ipynb
+https://raw.githubusercontent.com/vizsim/mapillary_trafficsigns/ef677ce0e0ad278cd9eea7c8045dcd97584196a9/0_prepare_tiles.ipynb
+https://raw.githubusercontent.com/vizsim/mapillary_trafficsigns/fe2593828e95f3534c5cca0bbd3e7b6b598fe43d/use_cases/access_restrictions_campaign/2_create_pmtiles_from_geojson_access-restrictions.ipynb
+https://raw.githubusercontent.com/voxmastery/FluctlightDB/3925543afec324e06258c88fce795de2edb1542a/benchmarks/longmemeval_colab_v2.ipynb
+https://raw.githubusercontent.com/voxmastery/FluctlightDB/dbd2d3ef2ad4819f25c60e31ef132c296517064f/benchmarks/longmemeval_colab.ipynb
+https://raw.githubusercontent.com/whyhardt/SPICE/0af3dccaa796da48b496241e8f51eefc68f7141a/weinhardt2026/studies/archive/augustat2025/augustat2025.ipynb
+https://raw.githubusercontent.com/whyhardt/SPICE/1034a4232ab8e8a898001e52d6f98c2b3bdee592/tutorials/lecture_tutorial_spice_solution.ipynb
+https://raw.githubusercontent.com/whyhardt/SPICE/1db468e0655c34beb413b837d791fce23c8f378f/tutorials/0_data_preparation.ipynb
+https://raw.githubusercontent.com/whyhardt/SPICE/382681042cb3e67a504cc71191a14737dc12920a/weinhardt2026/studies/kolff2025/archive/kolff2025_scratch.ipynb
+https://raw.githubusercontent.com/whyhardt/SPICE/4103be770342ddab80697f1beca47ca568727d08/tutorials/1_rescorla_wagner.ipynb
+https://raw.githubusercontent.com/whyhardt/SPICE/5f1b97958f4763009861174e1a0edb6d8d2998e5/weinhardt2026/studies/kolff2025/archive/kolff2025_scratch_analysis.ipynb
+https://raw.githubusercontent.com/whyhardt/SPICE/64f3e459d07be7716bfb243fd4885cb2e5f43996/tutorials/3_hardcoded_equations.ipynb
+https://raw.githubusercontent.com/whyhardt/SPICE/756ad10e02954912f35aab95033d35ab607261cf/tutorials/5_choice_perseverance.ipynb
+https://raw.githubusercontent.com/whyhardt/SPICE/7f2deb56255c99c334fabdfa599ef2fa356acd97/tutorials/2_rescorla_wagner_forgetting.ipynb
+https://raw.githubusercontent.com/whyhardt/SPICE/9c936b9ae9fe1cc0beeee08bb75728c08356c2da/weinhardt2026/studies/archive/ting2023/ting2023.ipynb
+https://raw.githubusercontent.com/whyhardt/SPICE/aa5bbc40fc35a77dc4596f8fe33aa108220839c0/weinhardt2026/studies/ganesh2024a/archive/ganesh2024a_slider.ipynb
+https://raw.githubusercontent.com/whyhardt/SPICE/bcc85092cd4e3d53bc440a17cd8eb72a828b52fc/tutorials/4_individual_differences.ipynb
+https://raw.githubusercontent.com/whyhardt/SPICE/dd00f17adb06e07eb81bb4013630a07ea49f02ad/weinhardt2026/studies/huang2026/huang2026.ipynb
+https://raw.githubusercontent.com/whyhardt/SPICE/dd17c8cf050b2fcc37e28101121b7023c8a9c0d7/tutorials/ASDMB_SPICE_tutorial_2025.ipynb
+https://raw.githubusercontent.com/whyhardt/SPICE/e83cbb22c759aa96883e024aed5ea743245027cb/tutorials/lecture_tutorial_spice.ipynb
+https://raw.githubusercontent.com/whyhardt/SPICE/fe99be11d415ad1e0c70e39ffef4e35bcc1d0d8e/weinhardt2026/studies/kolff2025/archive/kolff2025.ipynb
+https://raw.githubusercontent.com/wmadisonf/WESAD_Sensor_Classification_XGBoost/4fb42a6edfae969e02c1c9286b22688a5d123a28/WESAD_S4_XGBoost.ipynb
+https://raw.githubusercontent.com/wmadisonf/WESAD_Sensor_Classification_XGBoost/5a82500a07b0111f044b8a8f8a15468676314006/WESAD_S13_XGBoost.ipynb
+https://raw.githubusercontent.com/wmadisonf/WESAD_Sensor_Classification_XGBoost/5dcc8474fc4ba243e051a272062a4106f12972f6/WESAD_S11_XGBoost.ipynb
+https://raw.githubusercontent.com/wmadisonf/WESAD_Sensor_Classification_XGBoost/b942d2ef8035f766ca318e4f3416a5cc744e1c47/WESAD_S8_XGBoost.ipynb
+https://raw.githubusercontent.com/wmadisonf/WESAD_Sensor_Classification_XGBoost/c6e979732bca020d2398ff2eaa448bb5c3c8eab7/WESAD_S16_XGBoost_Base_toc.ipynb
+https://raw.githubusercontent.com/wmadisonf/WESAD_Sensor_Classification_XGBoost/dc1cfbdcacd1a3ad4a1f0b363893f6b261697fad/WESAD_metrics_scores_analysis.ipynb
+https://raw.githubusercontent.com/wmadisonf/WESAD_Sensor_Classification_XGBoost/ea4c9e135821e77239cde86c7f77d3bd4c5aa30a/WESAD_S17_XGBoost.ipynb
+https://raw.githubusercontent.com/wrightedu/Programmers-Guide-to-the-Galaxy/919e4f91772e5b3c008cd2f4e94e2a56eb4af52e/Getting-Started/Python.ipynb
+https://raw.githubusercontent.com/xd00099/CS285-DeepReinforcementLearning-Berkeley/0ee72261278dee63ac1df069a35351462f542154/hw3/Visualization.ipynb
+https://raw.githubusercontent.com/xd00099/CS285-DeepReinforcementLearning-Berkeley/40b711246f6339dc0517fc44596b5291c84686ba/hw4/cs285/scripts/run_hw4_mbpo.ipynb
+https://raw.githubusercontent.com/xd00099/CS285-DeepReinforcementLearning-Berkeley/50a619db89aeb5a95972b71848ddaf8ffafd4a66/hw1/Viz.ipynb
+https://raw.githubusercontent.com/xd00099/CS285-DeepReinforcementLearning-Berkeley/60e13259a5986379ef48fea37dc0c83286bc17bc/hw5/run_hw5_expl.ipynb
+https://raw.githubusercontent.com/xd00099/CS285-DeepReinforcementLearning-Berkeley/6a02ff82e5d287814d293c4ffb38ec7e461ab9ac/hw3/cs285/scripts/run_hw3_soft_actor_critic.ipynb
+https://raw.githubusercontent.com/xd00099/CS285-DeepReinforcementLearning-Berkeley/6b9b901ff1791183946680df26ee4876de8a5dbb/hw4/cs285/scripts/run_hw4_mb.ipynb
+https://raw.githubusercontent.com/xd00099/CS285-DeepReinforcementLearning-Berkeley/71b8d4586b09774e689268d79af36fd4469c2f98/hw5/run_hw5_iql.ipynb
+https://raw.githubusercontent.com/xd00099/CS285-DeepReinforcementLearning-Berkeley/77d2cf88d4165d498de7155aba4346f365703fe1/hw2/cs285/scripts/run_hw2.ipynb
+https://raw.githubusercontent.com/xd00099/CS285-DeepReinforcementLearning-Berkeley/951ccb6e3b8d485f1c8e564d0cb6a2505e8ea890/hw3/cs285/scripts/run_hw3_dqn.ipynb
+https://raw.githubusercontent.com/xd00099/CS285-DeepReinforcementLearning-Berkeley/9ae2141c65b07e871cc9d7b795a52f14078abe33/hw1/cs285/scripts/run_hw1.ipynb
+https://raw.githubusercontent.com/xd00099/CS285-DeepReinforcementLearning-Berkeley/aa4fa07a4a89464c2f81fc7a7bf777fd8f8c4923/hw5/run_hw5_awac.ipynb
+https://raw.githubusercontent.com/xd00099/CS285-DeepReinforcementLearning-Berkeley/db28282bad82bb0eb087483c821058c4640f6866/hw3/cs285/scripts/run_hw3_actor_critic.ipynb
+https://raw.githubusercontent.com/xiaojianggis/ai-urban-sustainability/05863b3b7a8c94ae8ec9c3a79c562b6785ecf50d/lab3-raster-data-manipulation/.ipynb_checkpoints/3.clip-mosaic-zonal-analysis-checkpoint.ipynb
+https://raw.githubusercontent.com/xiaojianggis/ai-urban-sustainability/05863b3b7a8c94ae8ec9c3a79c562b6785ecf50d/lab3-raster-data-manipulation/3.clip-mosaic-zonal-analysis.ipynb
+https://raw.githubusercontent.com/xiaojianggis/ai-urban-sustainability/06f5e6c2d3ca5255a000e5e30622c5f80eeda3c1/lab2-vector-data-manipulation/.ipynb_checkpoints/Raster-data-manipulation-checkpoint.ipynb
+https://raw.githubusercontent.com/xiaojianggis/ai-urban-sustainability/22b6f49015031d909cc2d23d6a5543f1f1cbf296/lab3-raster-data-manipulation/.ipynb_checkpoints/lab2-raster-naip-checkpoint.ipynb
+https://raw.githubusercontent.com/xiaojianggis/ai-urban-sustainability/265ad1e51226243771699eeb2d6d17f07576eda9/lab8-unet/2.model-trainning-prediction.ipynb
+https://raw.githubusercontent.com/xiaojianggis/ai-urban-sustainability/40daac30815231de033d3875d2f4cd66cc5df9d1/lab2-vector-data-manipulation/.ipynb_checkpoints/2.1Read_Shapefile_gdal-checkpoint.ipynb
+https://raw.githubusercontent.com/xiaojianggis/ai-urban-sustainability/4890395f2db8f6141ef88f73e0100c14203713a7/lab3-raster-data-manipulation/1. naip-downloader.ipynb
+https://raw.githubusercontent.com/xiaojianggis/ai-urban-sustainability/53f2f6fcefb4a7764cc7eddc8bcb2c75a28e34a9/.ipynb_checkpoints/lab1-python-checkpoint.ipynb
+https://raw.githubusercontent.com/xiaojianggis/ai-urban-sustainability/53f2f6fcefb4a7764cc7eddc8bcb2c75a28e34a9/lab1-python.ipynb
+https://raw.githubusercontent.com/xiaojianggis/ai-urban-sustainability/53ff09ed20792c895cac534ea97cc57a47a4fba8/lab4-urban-flood-mapping/.ipynb_checkpoints/urban-flood-vulnerability-biometeors-checkpoint.ipynb
+https://raw.githubusercontent.com/xiaojianggis/ai-urban-sustainability/59bed544c31c34449ab6b5cec766f9617b8358d8/lab11-llms/openai-llm.ipynb
+https://raw.githubusercontent.com/xiaojianggis/ai-urban-sustainability/5db378f5db378d38cb9a027db66ef4dab0ba06b0/lab4-urban-flood-mapping/.ipynb_checkpoints/Untitled-checkpoint.ipynb
+https://raw.githubusercontent.com/xiaojianggis/ai-urban-sustainability/6ba21655cb3c1381e7973d430043fab309b2c71b/lab6-machine-learning/.ipynb_checkpoints/machine-learning-land-cover-mapping-penn-checkpoint.ipynb
+https://raw.githubusercontent.com/xiaojianggis/ai-urban-sustainability/6f629ca0c01599fd1b848b3afdad9bb9024028da/lab1-basics-python-spatial-programing/.ipynb_checkpoints/Basics-python-spatial-data-checkpoint.ipynb
+https://raw.githubusercontent.com/xiaojianggis/ai-urban-sustainability/712823fc62be6b41932548ad95a812777226019b/lab2-vector-data-manipulation/2. fiona-shapefile.ipynb
+https://raw.githubusercontent.com/xiaojianggis/ai-urban-sustainability/71d1096fad58cba0cd965c7817b92e6ebe7ff9c3/lab11-llms/.ipynb_checkpoints/openai-llm-checkpoint.ipynb
+https://raw.githubusercontent.com/xiaojianggis/ai-urban-sustainability/7c7be6e22f54aa3a60ae3297468eb5eab38abbd8/lab2-vector-data-manipulation/1. geopandas-spatial-analysis.ipynb
+https://raw.githubusercontent.com/xiaojianggis/ai-urban-sustainability/7e6da21cb186191bcd3d85ea65dd6c29269fea6e/.ipynb_checkpoints/python-basic-checkpoint.ipynb
+https://raw.githubusercontent.com/xiaojianggis/ai-urban-sustainability/81304fe0100e675e10847753bd4e692d16687a96/lab2-vector-data-manipulation/.ipynb_checkpoints/geopandas-spatial-analysis-checkpoint.ipynb
+https://raw.githubusercontent.com/xiaojianggis/ai-urban-sustainability/88338cefa0add7173a632f17c89091d9d1540189/lab8-unet/.ipynb_checkpoints/1.data-preparation-checkpoint.ipynb
+https://raw.githubusercontent.com/xiaojianggis/ai-urban-sustainability/88338cefa0add7173a632f17c89091d9d1540189/lab8-unet/1.data-preparation.ipynb
+https://raw.githubusercontent.com/xiaojianggis/ai-urban-sustainability/8d35cf1e555c982faad9dbe7f4c34b3e42ba3bcc/lab4-urban-flood-mapping/.ipynb_checkpoints/urban-flood-vulnerability-backup-checkpoint.ipynb
+https://raw.githubusercontent.com/xiaojianggis/ai-urban-sustainability/8f92fa926cfb26656d977c228314f3a8f118553d/lab8-unet/.ipynb_checkpoints/2.model-trainning-prediction-checkpoint.ipynb
+https://raw.githubusercontent.com/xiaojianggis/ai-urban-sustainability/942a5ad0525fb0510f2a20c5801ba299ae7f4eb0/python-basics.ipynb
+https://raw.githubusercontent.com/xiaojianggis/ai-urban-sustainability/96f0f9ec7450da6abacdbdd2fe61a90d4c618072/lab4-urban-flood-mapping/.ipynb_checkpoints/urban-flood-vulnerability-checkpoint.ipynb
+https://raw.githubusercontent.com/xiaojianggis/ai-urban-sustainability/96f0f9ec7450da6abacdbdd2fe61a90d4c618072/lab4-urban-flood-mapping/urban-flood-vulnerability.ipynb
+https://raw.githubusercontent.com/xiaojianggis/ai-urban-sustainability/9a789e2649b88a083cc52dfff6fcec3ae570d45d/lab4-urban-flood-mapping/.ipynb_checkpoints/download-dem-checkpoint.ipynb
+https://raw.githubusercontent.com/xiaojianggis/ai-urban-sustainability/9d9c58e839f95bd03be146c02c752974e8e678d9/lab2-vector-data-manipulation/.ipynb_checkpoints/naip-azure-download-checkpoint.ipynb
+https://raw.githubusercontent.com/xiaojianggis/ai-urban-sustainability/9da3fb9604eb893d695c95ce95516e0bb514d95b/lab2-vector-data-manipulation/.ipynb_checkpoints/3. advanced_analysis_fiona_shapely-checkpoint.ipynb
+https://raw.githubusercontent.com/xiaojianggis/ai-urban-sustainability/9da3fb9604eb893d695c95ce95516e0bb514d95b/lab2-vector-data-manipulation/3. advanced_analysis_fiona_shapely.ipynb
+https://raw.githubusercontent.com/xiaojianggis/ai-urban-sustainability/b3e1071345352aa4d812b5419bab4ad95ff96981/lab6-machine-learning/machine-learning-land-cover-mapping-penn.ipynb
+https://raw.githubusercontent.com/xiaojianggis/ai-urban-sustainability/b548900694b254e1c2617a9d20c61e416e5b8201/lab2-vector-data-manipulation/.ipynb_checkpoints/Advanced_SpatialAnalysis_Fiona_Shapely-checkpoint.ipynb
+https://raw.githubusercontent.com/xiaojianggis/ai-urban-sustainability/b6d9226586cb8204764f5f7d46ce72f3955c7e5b/lab6-machine-learning/MachineLearning_GettingStarted.ipynb
+https://raw.githubusercontent.com/xiaojianggis/ai-urban-sustainability/bec14aa927474df306f5e88ed20c1a8f8f414867/lab1-basics-python-spatial-programing/.ipynb_checkpoints/Python-basics-checkpoint.ipynb
+https://raw.githubusercontent.com/xiaojianggis/ai-urban-sustainability/bec14aa927474df306f5e88ed20c1a8f8f414867/lab1-basics-python-spatial-programing/Python-basics.ipynb
+https://raw.githubusercontent.com/xiaojianggis/ai-urban-sustainability/d150cb463981b42b0bc8b131d80f69d3faadebd9/lab2-vector-data-manipulation/.ipynb_checkpoints/Python-onelinedata-pro-checkpoint.ipynb
+https://raw.githubusercontent.com/xiaojianggis/ai-urban-sustainability/d42e8d618568c7b3da9fb1c16525abfa02021fd7/lab2-vector-data-manipulation/.ipynb_checkpoints/2. fiona-shapefile-checkpoint.ipynb
+https://raw.githubusercontent.com/xiaojianggis/ai-urban-sustainability/dcc6dad424351a5dd2fb71dcea2148852996f57b/lab2-vector-data-manipulation/.ipynb_checkpoints/Read_Shapefile_gdal-checkpoint.ipynb
+https://raw.githubusercontent.com/xiaojianggis/ai-urban-sustainability/ea940c9db654ed7fa6e5bd43b441527d364ce588/lab3-raster-data-manipulation/.ipynb_checkpoints/1. naip-downloader-checkpoint.ipynb
+https://raw.githubusercontent.com/xiaojianggis/ai-urban-sustainability/eb2626002a26f06199ae0d2e0fc29a01d1ee0975/lab6-machine-learning/.ipynb_checkpoints/MachineLearning_GettingStarted-checkpoint.ipynb
+https://raw.githubusercontent.com/xiaojianggis/ai-urban-sustainability/f1184c1f1c18ddb8496055d24453c029c2312e7a/lab2-vector-data-manipulation/.ipynb_checkpoints/1. geopandas-spatial-analysis-checkpoint.ipynb
+https://raw.githubusercontent.com/xiaojianggis/ai-urban-sustainability/f1784bc58e18ce1197bc5d4f2032f7eeeede8664/lab4-urban-flood-mapping/download-dem.ipynb
+https://raw.githubusercontent.com/yang-jiayi/furusato-fabric-workshop/0f1e81db7e543d2590827cb916c7b53b7200c51c/workshop/v2.7.0/notebooks/Notebook_04_Furusato_Provision_Complete_Workshop.ipynb
+https://raw.githubusercontent.com/yang-jiayi/furusato-fabric-workshop/3065551c092fac8ace1eb5508fae971ca2c13229/workshop/v2.7.0/notebooks/Notebook_03_Furusato_Create_Complete_Ontology.ipynb
+https://raw.githubusercontent.com/yang-jiayi/furusato-fabric-workshop/39b36d4313d10e1a3358813f58021826583a583f/workshop/v2.7.0/notebooks/Notebook_01_Furusato_Prepare_Ontology_Data.ipynb
+https://raw.githubusercontent.com/yang-jiayi/furusato-fabric-workshop/d61f128afa1a10f12eda167f54e1d8fd9d09c98b/workshop/v2.7.0/notebooks/Notebook_02_Furusato_Apply_Ontology_Metadata.ipynb
+https://raw.githubusercontent.com/yang-jiayi/furusato-fabric-workshop/de1c71a40b0b226274509076208a79ece30aa61f/workshop/v2.7.0/notebooks/Notebook_05_Furusato_Analytics_Quality_and_BI.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/025694f49fa6dad91f3a1dab1324733cb7dfd2a8/book/_build/.jupyter_cache/executed/e50b620bebb5618c13abe3ba5c79a4b5/base.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/071facfe8e0b87ac4a9da876f9a3c1b48c08e552/book/_build/.jupyter_cache/executed/a720e28f868808cc4d153f4c1b9d16c2/base.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/0bf49e91059b7716225c332ff9055642065663e1/book/_build/.jupyter_cache/executed/e011695870fafeee13058de2d721f419/base.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/0d4c383297ccf4f78e45bc33e833853885ad5c0d/book/_build/.jupyter_cache/executed/d717795e0c98cc18b376aac823a81fbe/base.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/0ed0b649a8edc584e9bc077e9a0be16115cadfbe/book/_build/html/_sources/lecture-24.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/0ed0b649a8edc584e9bc077e9a0be16115cadfbe/book/lecture-24.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/133d49e460cfdb6c0e6c58e0c5b40b4dcd215ec4/book/_build/.jupyter_cache/executed/8043ebe921263b9cdcdd4017f7d8f646/base.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/144c65f4021197e0b92f3a0d01879ccef4e75507/book/_build/jupyter_execute/lecture-23.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/16c549fa397a06abb8e09a89f7f45885750f4239/book/_build/.jupyter_cache/executed/8798bfa143f6782bec5babd003741584/base.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/173c3f05a813eb1af3ced40846c9e0309cf84426/book/_build/jupyter_execute/lecture-01.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/194ba2f27f79a9f778c463147885a1825727a23a/book/_build/jupyter_execute/lecture-03.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/21f7229b38af03c39e74a1d44436d1f1e58a0141/book/_build/.jupyter_cache/executed/19978230d6213019f674ba2bc8eafba8/base.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/24cb95211b1779770fc90c3600c130622af0268e/book/_build/html/_sources/lecture-13.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/24cb95211b1779770fc90c3600c130622af0268e/book/lecture-13.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/2e1aa094fa7da244bb41a85cb53db627d29bd09e/book/_build/.jupyter_cache/executed/a4d6f2f1ef8de76410045fc63c1eaf0c/base.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/314f0db2f8e320afa7a3e703d6b3fa8b57c8b779/book/_build/.jupyter_cache/executed/672f513f40a7c0e1338adfcfc64ccd53/base.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/321c13df2c85efdea306c762560a2711b2c37805/book/_build/jupyter_execute/lecture-20.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/327c04b9ebc3d3d1eeb2bdf0a345c1d487349ccc/book/_build/.jupyter_cache/executed/5c875a01c9f3fcc205513ea3d2d00310/base.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/3539d57d888ab9cd8667c663d8f4992ad20c78f1/book/_build/jupyter_execute/lecture-09.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/38141f40056df6c3934d1a075f141d12766eea57/book/_build/.jupyter_cache/executed/1070e85f5ee116d021fdef0d3777946e/base.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/3cdcfe8933ca646cbaeb6ffdec13c8ca9245cf8a/book/_build/jupyter_execute/lecture-06.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/41c5f44fa937a29ceb34b9129a83a937bf5edc69/book/_build/html/_sources/lecture-20.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/41c5f44fa937a29ceb34b9129a83a937bf5edc69/book/lecture-20.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/43b420a3812b2e2944e7384924f94140cb424a5a/book/_build/jupyter_execute/lecture-12.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/44e8694b6a31376f93cb7c019c73ce2f4d18ea47/book/_build/jupyter_execute/lecture-04.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/4b4dba3da34e4e71ca6ba6c2897f9f7988418995/book/_build/.jupyter_cache/executed/10e870109bacdd8b143561ac28c58249/base.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/4d760c33ddf80c61446a08e76efa11010ab056fc/book/_build/jupyter_execute/lecture-17.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/4f78339749c218228e1e5d810e4d2771aade4993/book/_build/.jupyter_cache/executed/b318fadeeb564067f2c8061fbc22b346/base.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/51d1400d67c4a5b2412c5ceaaa152037d44d4b75/book/_build/jupyter_execute/lecture-05.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/56684366727ec6073ae3fe6e0d7e527752666dcd/book/_build/jupyter_execute/lecture-25.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/6705de59ced75b8c74eee927588448560991be76/book/_build/.jupyter_cache/executed/dd70b0f61c0c5896d8b72b5bc64e56db/base.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/67c8ab4951b451f3bae9d2c9208d3dae4f034e79/book/_build/html/_sources/lecture-10.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/67c8ab4951b451f3bae9d2c9208d3dae4f034e79/book/lecture-10.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/707bd45e1801c31ae4add688ef01e0189ccaf279/book/_build/.jupyter_cache/executed/2da079008295264dd65a566c56e088b4/base.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/70dffc3b5b352dd86f6fd8d98e6ef4b4ec0f4f23/book/_build/html/_sources/lecture-25.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/70dffc3b5b352dd86f6fd8d98e6ef4b4ec0f4f23/book/lecture-25.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/7631778c77c72d2511a22c93eaad6614f5c4593d/book/_build/jupyter_execute/lecture-07.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/77ebca3aa8d4d019addb961b430626a93ad83aa8/book/_build/.jupyter_cache/executed/58f011ac83597e7da76e462423cafa85/base.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/8297a96d1b913b7edac7daa01d38713a61034c1c/book/_build/jupyter_execute/lecture-22.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/8afed234ae7fb7d43464a66a4e2e14ce1eaec55f/book/_build/jupyter_execute/lecture-10.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/8ef5e762a1116311c69e78a770b43d00d0ae5578/book/_build/.jupyter_cache/executed/23504802928bec9ae46254010f7fbf49/base.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/959fbe9f4fcc82a4f28f177b7104b92d2272e8cf/book/_build/jupyter_execute/lecture-18.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/95d95487da8dfec9108331a76e59bbd500678ee0/book/_build/.jupyter_cache/executed/fdb12afba96b8b1088cc2f75006f28b6/base.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/98e187173b3459201625df0e6d75f4f6fa1406d9/book/_build/.jupyter_cache/executed/5c1ab3518b582a89665ca8c88609ddf1/base.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/9a20da2085a87dbb42d167aee7ce0cf882f900a2/book/_build/jupyter_execute/lecture-16.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/9c4bc97abb7732d00a77efc1030953b31de19202/book/_build/jupyter_execute/lecture-08.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/a183e34039e7a6138066a6801c96d4162443836c/book/_build/.jupyter_cache/executed/8f8b941214703d521bd9b813801dd553/base.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/a385e95e751401588af88cb385e7bbf102418691/book/_build/.jupyter_cache/executed/905d8e5156a166e378109b0be3b1f77a/base.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/adecaa2e0c598e761e96361e9b4b090610566ea1/book/_build/jupyter_execute/lecture-11.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/bb4ab0c38337e4e66055459604689d04609d63b9/book/_build/jupyter_execute/lecture-24.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/c94efd9a52dd209bb32345d3e3627971c3086296/book/_build/jupyter_execute/lecture-15.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/ceb6d8f1d3b65f12ef744132676223f3e90c08e7/book/_build/.jupyter_cache/executed/cab7b4b2ef6c71740ba145cf36f72dc8/base.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/d0e2f42584ef70a2ca306c781f8faa28325c9e26/book/_build/jupyter_execute/lecture-14.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/d621469765acf4abfb42ef9668e17edde7639c1a/book/_build/jupyter_execute/lecture-02.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/df35ea2315d5425266011dd694db792032879fd1/book/_build/jupyter_execute/lecture-13.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/e8ee2fa6ca73ea145f08dd77cb4aed427b2e13c2/book/_build/.jupyter_cache/executed/314a6c015480b06908a921657bcd69ad/base.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/e96cd720fc2ff13de6bafb65472a228ba94d5d0d/book/_build/html/_sources/lecture-23.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/e96cd720fc2ff13de6bafb65472a228ba94d5d0d/book/lecture-23.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/ec1b4a28c15a574aae7c4f2e844bb6bd83ab7f0a/book/_build/jupyter_execute/lecture-09-Zach.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/f0caf8928b163188ec47580d2b24af9ad4aa8d71/book/_build/jupyter_execute/lecture-21.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/f2b2c581ac460ec1904af3e31f3b8c9bf5154059/book/_build/.jupyter_cache/executed/ea54fb05b385fc2d8d9e2e5bbc9f2327/base.ipynb
+https://raw.githubusercontent.com/zzhenglab/ai4chem/ffc793c938d38019e14cd9dbbaaf03d2111721f0/book/_build/jupyter_execute/lecture-19.ipynb
